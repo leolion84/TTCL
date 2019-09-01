@@ -1,0 +1,99 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Esoterica_SYS_LOST">
+<DisplayName>Không tìm thấy mod</DisplayName>
+<Desc>Vật thất lạc, Không ai biết là gì.\n(Không tìm thấy mod)</Desc>
+<EffectDesc>Không</EffectDesc>
+</Text>
+<Text Name="Esoterica_LunHui1">
+<DisplayName>Dã Cẩu Quyền</DisplayName>
+<Desc>Đến từ hiện đại thần bí bí tịch, có thay đổi thể chất diệu dụng.</Desc>
+<EffectDesc>Đề cao thần thức 0. 5 điểm\nđề cao ngộ tính 0. 5 điểm\nĐề cao cơ duyên 0. 5 điểm</EffectDesc>
+</Text>
+<Text Name="Esoterica_LunHui2">
+<DisplayName>Xuân Hồi Đại Địa</DisplayName>
+<Desc>Đến từ hiện đại thần kỳ bí tịch, có thể hội tụ linh khí, khiến cho tư duy linh động, đề cao ngộ tính. Tiện thể...</Desc>
+<EffectDesc>Đề cao thần thức 0. 5 điểm\nđề cao ngộ tính 0. 5 điểm</EffectDesc>
+</Text>
+<Text Name="Esoterica_LunHui3">
+<DisplayName>Bạo Phát Chi Lực</DisplayName>
+<Desc>Độc Cô Tinh độc môn tuyệt kỹ, có thể đột nhiên bộc phát ra lực lượng cường đại.</Desc>
+<EffectDesc>[size=10][color=#D06508]Học được thần thông: Bạo Phát Chi Lực\nĐộc Cô Tinh độc môn tuyệt kỹ, có thể đột nhiên bộc phát ra lực lượng cường đại.[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Esoterica_LunHui4">
+<DisplayName>Côn Luân Tiên Pháp</DisplayName>
+<Desc>Côn Lôn  Không nổi tiếng Tiên nhân chỗ truyền thụ cho Bí Pháp, có thể đề cao ngộ tính cùng Căn cốt</Desc>
+<EffectDesc>đề cao ngộ tính 0. 5 điểm\nĐề cao căn cốt 0. 5 điểm</EffectDesc>
+</Text>
+<Text Name="Esoterica_LunHui5">
+<DisplayName>Thân thân phù</DisplayName>
+<Desc>Phù chú làm người cảm thấy bình an vui vẻ.</Desc>
+<EffectDesc>Mở khóa phù đồ:\nThân thân phù</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_DanXia1">
+<DisplayName>Tùng Ảnh Thiên Hà</DisplayName>
+<Desc>Từ Đan Hà Sơn tuyệt bích đan hà chi cảnh sắc bên trong lĩnh ngộ ra kỳ thuật, có thể Đề cao sát thương pháp thuật.</Desc>
+<EffectDesc>Đề cao sát thương pháp thuật</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_DanXia2">
+<DisplayName>Tử Hà Đan Tiêu</DisplayName>
+<Desc>Từ Đan Hà Sơn tuyệt bích đan hà chi cảnh sắc bên trong lĩnh ngộ ra tâm pháp, trường kỳ tu trì có thể điều tiết tâm cảnh, vững chắc nguyên khí.</Desc>
+<EffectDesc>Đề cao tâm cảnh\nTăng tuổi thọ</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_DengXian1">
+<DisplayName>Đông Hoa Bí Điển - Tử Vi Kiếm</DisplayName>
+<Desc>Đông Hoa đế quân sáng tạo tuyệt thế kiếm pháp, lấy Nguyên Thần thu thập Tử Vi Đế Tinh Hoàng Cực chi ý dung nhập kiếm khí, tồi khô lạp hủ không gì không phá.</Desc>
+<EffectDesc>Đề cao uy lực của pháp bảo</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_JiuHua">
+<DisplayName>Long Phượng Bảo Điển</DisplayName>
+<Desc>thượng cổ đại năng phân tích Long trong phượng thể khí mạch Vận hành  đường đi và lĩnh ngộ Bí Pháp. Học thành phương pháp này có thể đem phàm nhân nhục thân chuyển hóa thành long phượng chi thể, toàn diện đề cao tố chất thân thể.</Desc>
+<EffectDesc>Đề cao thần thức 0. 5 điểm\nĐề cao căn cốt 0. 5 điểm\nĐề cao mị lực 0. 5 điểm\nđề cao ngộ tính 0. 5 điểm\nTăng tuổi thọ</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_LongHu1">
+<DisplayName>Bôn Lưu Kiếm Ý</DisplayName>
+<Desc>Xem Long Hổ sơn phi lưu bộc bạch hồng liệt thạch chi cảnh lĩnh ngộ kiếm ý, dung nhập vào trong kiếm pháp có thể khiến pháp bảo lực trùng kích tăng nhiều.</Desc>
+<EffectDesc>Tăng cường lực trùng kích của pháp bảo</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_LongHu2">
+<DisplayName>Phi Lưu Tâm Pháp</DisplayName>
+<Desc>xem Long Hổ Sơn Phi Lưu Bộc Phi lưu kéo dài không dứt và lĩnh ngộ thuật thổ nạp, có thể Đề cao tốc độ khôi phục linh khí.</Desc>
+<EffectDesc>Đề cao tốc độ khôi phục linh khí</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_ChiLianYuan">
+<DisplayName>Khôn Ly Luyện Pháp Bảo</DisplayName>
+<Desc>Cổ tiên Nam Cung Hồng thuật luyện khí bí truyền, dùng cái này thuật luyện bảo, có thể cực lớn  đề cao Xác suất luyện chế thành công.\n[color=#D06508]dùng cái này Cám ơn Bản Trò chơi vị thứ nhất Độ kiếp thành công Người chơi : Quỳnh Lâu[/color]</Desc>
+<EffectDesc>Đề cao lượng lớn xác xuất luyện pháp bảo thành công</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_ChiLianYuan1">
+<DisplayName>Bí Truyền Nam Cung Độ Ách Bảo Lục</DisplayName>
+<Desc>Cổ tiên Nam Cung Hồng trước khi phi thăng tổng kết ra một bộ căn nguyên bí pháp, tu luyện về sau có thể thâu thiên hoán nhật, đề cao căn cơ của tu hành giả.\n[color=#D06508]dùng cái này Cám ơn Bản Trò chơi vị thứ nhất Độ kiếp thành công Người chơi : Quỳnh Lâu[/color]</Desc>
+<EffectDesc>Đề cao thần thức 0. 5 điểm\nđề cao ngộ tính 0. 5 điểm</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_XuanKong">
+<DisplayName>Thiên Cơ Hóa Vận Pháp</DisplayName>
+<Desc>Cổ tiên Viên Nhược Tuyết Vu Thiên kiếp Trung lĩnh ngộ ra Thâu Thiên chuyển vận nghịch thiên Bí Pháp, có thể lượng lớn Đề cao cơ duyên.\n[color=#D06508]Dùng cái này kỷ niệm bản trò chơi vị thứ nhất lấy hạ phẩm tư chất nghịch thiên cải mệnh, Kết Đan nhất phẩm cuối cùng Phi Thăng Người chơi : Thật Ra Không Phải Ta[/color]</Desc>
+<EffectDesc>Đề cao cơ duyên 1 điểm</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_ShanHeJue">
+<DisplayName>Sơn Hà Quyết</DisplayName>
+<Desc>Thiên Cực lão tổ lĩnh ngộ được bí pháp từ long mạch vận chuyển, trong đó ghi chép các loại diệu pháp mượn Hạt ngọc tạo hóa tái tạo lại sơn hà.</Desc>
+<EffectDesc>[size=10][color=#D06508]Học được thần thông:\nKhai Hồ Thuật\nTạo Lục Thuật\nTạo hóa linh thổ\nTạo hóa linh trì\nTạo hóa ốc thổ\nHọc được đan phương:\nLinh nguyên chủng\nTạo hóa ngọc sa\nMở khóa công trình:\nTạo hóa ngọc trì[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_LongDan">
+<DisplayName>Long hồn chân linh pháp </DisplayName>
+<Desc>Bí pháp lĩnh ngộ ra từ mảnh vỡ ký ức của Giao Long.</Desc>
+<EffectDesc>[size=10][color=#D06508]Học được đan phương:\nLong hồn chân linh đan \nĐề cao lượng lớn uy lực pháp bảo từ căn bản [/color][/size]</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_FengDan">
+<DisplayName>Phượng hồn chân linh pháp </DisplayName>
+<Desc>Bí pháp lĩnh ngộ ra từ mảnh vỡ ký ức của Hung Phượng.</Desc>
+<EffectDesc>[size=10][color=#D06508]Học được đan phương:\nPhượng hồn chân linh đan \nĐề cao lượng lớn uy lực thuật pháp từ căn bản[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Other_Esoterica_ZhuLongDan">
+<DisplayName>Âm dương chân linh pháp </DisplayName>
+<Desc>Bí pháp lĩnh ngộ ra từ mảnh vỡ ký ức của Chúc Long.</Desc>
+<EffectDesc>[size=10][color=#D06508]Học được đan phương:\nÂm dương chân linh đan \nĐề cao lượng lớn uy lực hộ thuẫn từ căn bản[/color][/size]</EffectDesc>
+</Text>
+</List>
+</Texts>

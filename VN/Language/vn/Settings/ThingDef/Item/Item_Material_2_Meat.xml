@@ -1,0 +1,72 @@
+<Texts Type="Thing">
+<List>
+<Text Name="MeatBase" sParam="Item">
+<Item.FabaoSuffix>Cháo, màn, đà</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BoarMeat" sParam="Item">
+<ThingName>Thịt heo rừng</ThingName>
+<Desc>Thịt heo rừng.</Desc>
+</Text>
+<Text Name="Item_FrogMeat" sParam="Item">
+<ThingName>Thịt ếch</ThingName>
+<Desc>Thịt ếch.</Desc>
+</Text>
+<Text Name="Item_TurtleMeat" sParam="Item">
+<ThingName>Thịt rùa</ThingName>
+<Desc>Thịt rùa.</Desc>
+</Text>
+<Text Name="Item_BearMeat" sParam="Item">
+<ThingName>Thịt gấu</ThingName>
+<Desc>Thịt gấu.</Desc>
+</Text>
+<Text Name="Item_Beef" sParam="Item">
+<ThingName>Thịt đùi bò</ThingName>
+<Desc>đùi bò bộ thịt.</Desc>
+</Text>
+<Text Name="Item_RabbitMeat" sParam="Item">
+<ThingName>Thịt thỏ</ThingName>
+<Desc>Thịt thỏ.</Desc>
+</Text>
+<Text Name="Item_ChickenMeat" sParam="Item">
+<ThingName>Thịt gà</ThingName>
+<Desc>Thịt gà.</Desc>
+</Text>
+<Text Name="Item_WolfMeat" sParam="Item">
+<ThingName>Thịt sói</ThingName>
+<Desc>Thịt sói.</Desc>
+</Text>
+<Text Name="Item_FishMeat" sParam="Item">
+<ThingName>Thịt cá</ThingName>
+<Desc>Thịt cá.</Desc>
+</Text>
+<Text Name="Item_SnakeMeat" sParam="Item">
+<ThingName>Thịt rắn</ThingName>
+<Desc>Thịt rắn.</Desc>
+</Text>
+<Text Name="Item_ChickenEgg" sParam="Item">
+<ThingName>Trứng gà </ThingName>
+<Desc>Một quả trứng gà.</Desc>
+<Item.FabaoSuffix>trứng, Châu, cầu, trứng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SnakeEgg" sParam="Item">
+<ThingName>Trứng rắn </ThingName>
+<Desc>Một quả trứng rắn.</Desc>
+<Item.FabaoSuffix>trứng, Châu, cầu, trứng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_TurtleEgg" sParam="Item">
+<ThingName>Trứng rùa </ThingName>
+<Desc>Một quả trứng rùa.</Desc>
+<Item.FabaoSuffix>trứng, Châu, cầu, trứng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LongEgg" sParam="Item">
+<ThingName>Trứng của Giao Long </ThingName>
+<Desc>Trứng Giao Long còn chưa được ấp , dấu hiệu có một sinh mệnh đang dựng dục được hiện rõ trong đó.Muốn ấp trứng phải ở nơi nhiệt độ -200 Độ, linh khí cực kỳ nồng, vô cùng có lợi cho nơi hệ Thủy .</Desc>
+<Item.FabaoSuffix>trứng, Châu, cầu, trứng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_FengEgg" sParam="Item">
+<ThingName>Trứng của Phượng Hoàng </ThingName>
+<Desc>Trứng Phượng Hoàng còn chưa được ấp , dấu hiệu có một sinh mệnh đang dựng dục được hiện rõ trong đó.Muốn ấp phải ở khoảng cao hơn 300 Độ, linh khí cực kỳ nồng, vô cùng có lợi cho nơi hệ Hỏa.</Desc>
+<Item.FabaoSuffix>trứng, Châu, cầu, trứng</Item.FabaoSuffix>
+</Text>
+</List>
+</Texts>

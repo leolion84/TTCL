@@ -1,0 +1,34 @@
+﻿<Texts Type="Other">
+<List>
+	<Text Name="SpellEsoterica_1">
+		<DisplayName>Tam Động Ngọc Hàm</DisplayName>
+		<Desc>Đạo môn bí truyền, ghi chép ba loại phù lục đối với tu hành vô cùng hữu ích.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nĐộng Thần Phù\nĐộng Huyền Phù\nĐộng Chân Phù</EffectDesc>
+	</Text>
+	<Text Name="SpellEsoterica_2">
+		<DisplayName>Ngũ Khí Thần Phù Kinh</DisplayName>
+		<Desc>Ghi chép năm loại nội môn phù lục bí sách.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nPhân Ảnh Độn Không Phù\nNgũ Phương Linh Bảo Phù\nVạn Hóa Thừa Đan Phù\nThiên Tâm Phù\nNinh Tâm Phù</EffectDesc>
+	</Text>
+	<Text Name="SpellEsoterica_3">
+		<DisplayName>Lục Sắc Ngũ Phương Thần Phù Kim Thư</DisplayName>
+		<Desc>Ghi chép sáu loại phù lục đã phổ biến còn thực dụng, đối phàm nhân có tác dụng lớn.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nThần Hành Phù\nDược Sư Khu Bệnh Phù\nThiên Lý Thần Thị Phù\nChu Công Địch Thần Phù\nÍch Cốc Phù\nẨm khí phù \nTrường Nhạc Phù</EffectDesc>
+	</Text>
+		<Text Name="SpellEsoterica_4">
+		<DisplayName>Dữ Đế Phù Văn Thư</DisplayName>
+		<Desc>Hoàng thất bí truyền phù lục điển tịch, thu thập từ các đời thụ phong Tiên gia.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nThái Dương Phù\nThái Âm Phù\nVăn Xương Phù\nVũ Xương Phù\nThần Cần Phù\nThiên Công Phù\nPhong Nhiêu Phù\nDược Vương Phù</EffectDesc>
+	</Text>
+	<Text Name="SpellEsoterica_5">
+		<DisplayName>Thái Bình Phù Lục Yếu Sách</DisplayName>
+		<Desc>tương đối đầy đủ hết phù lục tập hợp, đã bao hàm đại đa số thường gặp Phù chú.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nChu Công Địch Thần Phù\nÍch Cốc Phù\nTrường Nhạc Phù\nThái Dương Phù\nThái Âm Phù\nThần Cần Phù\nThiên Công Phù\nPhong Nhiêu Phù\nDược Vương Phù</EffectDesc>
+	</Text>
+	<Text Name="SpellEsoterica_6">
+		<DisplayName>Đồ sách nghênh xuân</DisplayName>
+		<Desc>Quyển sách thần bí đến từ dị giới, ghi chép rất nhiều phong tục văn hóa đến từ một quốc gia vĩ đại.</Desc>
+		<EffectDesc>Mở khóa phù đồ:\nVạn phúc đồ\nVạn lộc đồ\nVạn Thọ Đồ \n\n Mở khóa Công trình:\nĐèn lồng - Vạn hóa an\nĐèn lồng - Tứ hải đồng\nNóc nhà - Nghênh Xuân\nNóc nhà - Hưởng phúc\nPháo hoa - Long ca</EffectDesc>
+	</Text>
+</List>
+</Texts>

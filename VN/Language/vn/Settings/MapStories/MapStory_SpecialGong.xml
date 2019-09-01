@@ -1,0 +1,172 @@
+﻿<Texts Type="Story">
+<List>
+	<Text Name="Secrets_Gong2">
+		<DisplayName>Đạo thống hiện thế</DisplayName>
+		<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《Kỷ Dần Cửu Trùng Đa Bảo Chân Giải》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+		<Selections.0.Display>Cường đoạt</Selections.0.Display>
+		<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+		<Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_2_Mu");
+		]]></Selections.0.OKResult>
+		<Selections.0.NOResult><![CDATA[
+				if me:GetGLevel() >= 10 then
+					me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+				end;
+		]]></Selections.0.NOResult>
+		<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+		<Selections.1.OKResult><![CDATA[
+			if me:GetMatchingWithGong("Gong_2_Mu") >= 1 then
+				me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_2_Mu");story:FinishSecret();
+			else
+				me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+			end
+		]]></Selections.1.OKResult>
+		<Selections.2.Display>Rời đi</Selections.2.Display>
+		<Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+		]]></Selections.2.OKResult>
+	</Text>
+	<Text Name="Secrets_Gong3">
+		<DisplayName>Đạo thống hiện thế</DisplayName>
+		<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《 Thất Sát Kiếm Quyết 》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+		<Selections.0.Display>Cường đoạt</Selections.0.Display>
+		<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+		<Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_3_Jin");
+		]]></Selections.0.OKResult>
+		<Selections.0.NOResult><![CDATA[
+				if me:GetGLevel() >= 10 then
+					me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+				end;
+		]]></Selections.0.NOResult>
+		<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+		<Selections.1.OKResult><![CDATA[
+				if me:GetMatchingWithGong("Gong_3_Jin") >= 1 then
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_3_Jin");story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+				end
+		]]></Selections.1.OKResult>
+		<Selections.2.Display>Rời đi</Selections.2.Display>
+		<Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+		]]></Selections.2.OKResult>
+	</Text>
+	<Text Name="Secrets_Gong4">
+		<DisplayName>Đạo thống hiện thế</DisplayName>
+		<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《 Ngọc Thanh Tiên Pháp 》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+		<Selections.0.Display>Cường đoạt</Selections.0.Display>
+		<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+		<Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_4_None");
+		]]></Selections.0.OKResult>
+		<Selections.0.NOResult><![CDATA[
+				if me:GetGLevel() >= 10 then
+					me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+				end;
+		]]></Selections.0.NOResult>
+		<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+		<Selections.1.OKResult><![CDATA[
+				if me:GetMatchingWithGong("Gong_4_None") >= 1 then
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_4_None");story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+				end
+		]]></Selections.1.OKResult>
+		<Selections.2.Display>Rời đi</Selections.2.Display>
+		<Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+		]]></Selections.2.OKResult>
+	</Text>
+	<Text Name="Secrets_Gong5">
+		<DisplayName>Đạo thống hiện thế</DisplayName>
+		<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《 Thâu Thiên Quyết》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+		<Selections.0.Display>Cường đoạt</Selections.0.Display>
+		<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+		<Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_5_Tu");
+		]]></Selections.0.OKResult>
+		<Selections.0.NOResult><![CDATA[
+				if me:GetGLevel() >= 10 then
+					me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+				end;
+		]]></Selections.0.NOResult>
+		<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+		<Selections.1.OKResult><![CDATA[
+				if me:GetMatchingWithGong("Gong_5_Tu") >= 1 then
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_5_Tu");story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+				end
+		]]></Selections.1.OKResult>
+		<Selections.2.Display>Rời đi</Selections.2.Display>
+		<Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+		]]></Selections.2.OKResult>
+	</Text>
+	<Text Name="Secrets_Gong6">
+		<DisplayName>Đạo thống hiện thế</DisplayName>
+		<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《 Cửu Chuyển Kim Đan Trực Chỉ 》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+		<Selections.0.Display>Cường đoạt</Selections.0.Display>
+		<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+		<Selections.0.OKResult><![CDATA[
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_6_Huo");
+		]]></Selections.0.OKResult>
+		<Selections.0.NOResult><![CDATA[
+				if me:GetGLevel() >= 10 then
+					me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+				end;
+		]]></Selections.0.NOResult>
+		<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+		<Selections.1.OKResult><![CDATA[
+				if me:GetMatchingWithGong("Gong_6_Huo") >= 1 then
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_6_Huo");story:FinishSecret();
+				else
+					me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+				end
+		]]></Selections.1.OKResult>
+		<Selections.2.Display>Rời đi</Selections.2.Display>
+		<Selections.2.OKResult><![CDATA[
+				me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+		]]></Selections.2.OKResult>
+	</Text>
+	<Text Name="Secrets_Gong7">
+	<DisplayName>Đạo thống hiện thế</DisplayName>
+	<Desc>[NAME] Đi đến [PLACE], phát hiện nơi đây lại là 《 Thái Thượng Vong Tình Đạo 》 đạo thống truyền thừa, truyền thừa bị một tòa tiên trận cổ xưa quay quanh, tựa hồ là cổ đại Tiên nhân vì chọn lựa vừa Hợp Đạo thống người thừa kế và thiết trí phong ấn.Trong trận pháp điện quang lưu chuyển, tựa hồ ẩn chứa pháp lực thần thông hết sức to lớn.</Desc>
+	<Selections.0.Display>Cường đoạt</Selections.0.Display>
+	<Selections.0.Tip>Nguyên Thần Kỳ và Cơ duyên</Selections.0.Tip>
+	<Selections.0.OKResult><![CDATA[
+			me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, lấy được đạo thống truyền thừa ở trong.");me:AddSchoolScore(1,200);story:FinishSecret();me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_7_Huo");
+	]]></Selections.0.OKResult>
+	<Selections.0.NOResult><![CDATA[
+			if me:GetGLevel() >= 10 then
+				me:AddMsg("[NAME] vận chuyển nguyên thần, lấy tu vi mạnh mẽ cưỡng ép phá giải trận pháp, nhưng tựa hồ cơ duyên hơi kém: Pháp trận Phá Diệt lực lượng vậy mà lan đến gần Truyền thừa  bản thân cùng nhau hủy diệt, [NAME] Thầm than một tiếng, đành phải rời đi.");me:AddSchoolScore(1,100);story:FinishSecret();
+			else
+				me:AddMsg("[NAME] Ý đồ dùng bạo lực phá giải trận pháp, nhưng lại quá mức không biết tự lượng sức, bị trận pháp phản kích thân chịu trọng thương, biến thành trò cười cho tu hành giới.");me:AddSchoolScore(1,-300);me:AddDamgeFromCache(story.DamageCache,4);story:FinishSecret();
+			end;
+	]]></Selections.0.NOResult>
+	<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+	<Selections.1.OKResult><![CDATA[
+			if me:GetMatchingWithGong("Gong_7_Huo") >= 1 then
+				me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, vậy mà lại phi thường thích hợp môn đạo thống này, thuận lợi tiếp nhận đạo thống truyền thừa.");me:DropAwardItem("Item_Dan_TreeEXP", 1);me:UnLockGong("Gong_7_Huo");story:FinishSecret();
+			else
+				me:AddMsg("[NAME] Tiến lên tiếp nhận sự kiểm tra của trận pháp, nhưng đáng tiếc cuối cùng cũng không vượt được kiểm tra, chỉ có thể bất đắc dĩ rời đi");
+			end
+	]]></Selections.1.OKResult>
+	<Selections.2.Display>Rời đi</Selections.2.Display>
+	<Selections.2.OKResult><![CDATA[
+			me:AddMsg("[NAME] Nghĩ rồi nghĩ, vẫn là quyết định không đi mạo hiểm, xoay người trở về.");
+	]]></Selections.2.OKResult>
+	</Text>
+</List>
+</Texts>

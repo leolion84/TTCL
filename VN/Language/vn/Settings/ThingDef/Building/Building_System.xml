@@ -1,0 +1,23 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="SYS_LOASBUILDING" sParam="Building">
+<ThingName>Công trình thất lạc</ThingName>
+<Desc>Vật thất lạc, Không ai biết là gì . \n(Không tìm thấy mod)</Desc>
+</Text>
+<Text Name="FillSoil" sParam="Building">
+<ThingName>Cải tạo đất đai</ThingName>
+<Desc>Cải tạo một khu vực thành đất, công việc cần tiêu tốn một lượng lớn thời gian.</Desc>
+</Text>
+<Text Name="FillFertileSoil" sParam="Building">
+<ThingName>Cải tạo đất màu mỡ</ThingName>
+<Desc>Cải tạo một ô đất thành đất màu mỡ, công việc cần tiêu tốn một lượng lớn thời gian.</Desc>
+</Text>
+<Text Name="FillShallowWater" sParam="Building">
+<ThingName>Cải tạo nước cạn</ThingName>
+<Desc>Cải tạo một ô đất thành nước cạn, công việc cần tiêu tốn một lượng lớn thời gian.</Desc>
+</Text>
+<Text Name="FillBuild_Hide" sParam="Building">
+<Desc>Ẩn công trình, dùng để quét bề mặt</Desc>
+</Text>
+</List>
+</Texts>

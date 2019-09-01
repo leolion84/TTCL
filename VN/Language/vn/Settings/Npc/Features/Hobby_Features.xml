@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Reader">
+<DisplayName>Người đọc sách</DisplayName>
+<Desc>Người này được giáo dục đàng hoàng, rất giỏi lý giải những nội dung tối nghĩa.</Desc>
+</Text>
+<Text Name="Craftsman">
+<DisplayName>Thủ nghệ nhân</DisplayName>
+<Desc>Tay người này linh hoạt, [IT] làm này nọ vừa nhanh vừa tốt.</Desc>
+</Text>
+<Text Name="CraftsmanEX">
+<DisplayName>Người yêu thích Gundam</DisplayName>
+<Desc>Người này trầm mê mô hình Gundam, cũng vì vậy mà có được một đôi tay khéo léo, [IT] làm này nọ vừa nhanh vừa tốt.</Desc>
+</Text>
+<Text Name="Artist">
+<DisplayName>Nghệ Thuật Gia</DisplayName>
+<Desc>Người này giàu tình cảm và nội tâm nhạy cảm, [IT] trời sinh có trí tưởng tượng vượt quá người thường.</Desc>
+</Text>
+<Text Name="Warrior">
+<DisplayName>Chiến sĩ</DisplayName>
+<Desc>Là chiến sĩ trời sinh, [IT] có thể nhẫn nại thống khổ, cũng thời khắc bảo trì sự bình tĩnh.</Desc>
+</Text>
+<Text Name="DeepPotential">
+<DisplayName>Tuệ căn</DisplayName>
+<Desc>Người này trời sinh tuệ căn, dễ dàng tu luyện hơn người khác.</Desc>
+</Text>
+</List>
+</Texts>

@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+<List>
+<Text Name="LeftoverMaterialBase" sParam="Item">
+<Desc>Dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.FabaoSuffix>đinh, tiêu, Toái </Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WoodLeftover" sParam="Item">
+<ThingName>Mộc mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với gỗ vụn, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_HardWoodLeftover" sParam="Item">
+<ThingName>Kim Ti Mộc mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Kim Ti Mộc, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Tơ vàng Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+<ThingName>Ngô Đồng Mộc mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Ngô Đồng Mộc, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>ngô đồng Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingWoodLeftover" sParam="Item">
+<ThingName>Linh mộc mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Linh mộc, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_BrownRockLeftover" sParam="Item">
+<ThingName>Tông thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Tông thạch, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Tông thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_GrayRockLeftover" sParam="Item">
+<ThingName>Hôi thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Hôi thạch, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Hôi thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_MarbleLeftover" sParam="Item">
+<ThingName>Đại Lý thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Đại Lý thạch, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Cẩm thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_JadeLeftover" sParam="Item">
+<ThingName>Ngọc thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh ngọc vỡ, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Ngọc thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SkyStoneLeftover" sParam="Item">
+<ThingName>Thiên Trụ Thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ thiên trụ, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Đá thiên trụ</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingStoneLeftover" sParam="Item">
+<ThingName>Linh thạch mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Linh thạch, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingCrystalLeftover" sParam="Item">
+<ThingName>Linh Tinh mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với mảnh vỡ Linh Tinh, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Linh Tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_IronRockLeftover" sParam="Item">
+<ThingName>Thiết khoáng mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với vụn sắc, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>làm bằng sắt</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_CopperRockLeftover" sParam="Item">
+<ThingName>Hoả đồng mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với vụn Hỏa Đồng, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Hỏa đồng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SilverRockLeftover" sParam="Item">
+<ThingName>Hàn tinh mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với vụn Hàn tinh khoáng, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+<ThingName>Huyền thiết mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với Huyền Thiết khoáng, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>huyền thiết</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_StarEssenceLeftover" sParam="Item">
+<ThingName>Tinh tủy mảnh</ThingName>
+<Desc>Vật liệu kiến trúc dư thừa trộn với vụn Tinh Tủy, có thể dùng để trải sàn nhà hoặc xây mái nhà.</Desc>
+<Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

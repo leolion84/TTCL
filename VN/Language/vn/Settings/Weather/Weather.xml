@@ -1,0 +1,148 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="SunnyDay">
+<DisplayName>Trời trong</DisplayName>
+<StoryDesc>Tinh không vạn lý, Vạn dặm không mây, Thiên lãng khí thanh</StoryDesc>
+</Text>
+<Text Name="Overcast">
+<DisplayName>Trời mây</DisplayName>
+<StoryDesc>Mây đen khắp trời, Mây đen cuồn cuộn, Sương mù dày đặc</StoryDesc>
+</Text>
+<Text Name="LightRain">
+<DisplayName>Mưa nhỏ</DisplayName>
+<StoryDesc>Mưa nhỏ lất phất, Mưa lát đát, Mưa lâm râm</StoryDesc>
+</Text>
+<Text Name="HeavyRain">
+<DisplayName>Mưa to</DisplayName>
+<StoryDesc>Mưa đầy một gáo, Mưa ngã cả bồn, Mưa như trút nước</StoryDesc>
+</Text>
+<Text Name="LightSnow">
+<DisplayName>Tuyết nhỏ</DisplayName>
+<StoryDesc>Tuyết rơi lất phất, Chỉ bạc khắp trời, Tuyết mỏng bay lượn</StoryDesc>
+</Text>
+<Text Name="HeavySnow">
+<DisplayName>Tuyết to</DisplayName>
+<StoryDesc>Tuyết rơi dày, Tuyết đống băng bầu trời, Tuyết lạnh ngược nhân</StoryDesc>
+</Text>
+<Text Name="DenseFog">
+<DisplayName>Sương mù</DisplayName>
+<StoryDesc>Vân phiên vụ tráo, Sương mù đầy trời, Sương mù che trời</StoryDesc>
+</Text>
+<Text Name="Melancholy">
+<DisplayName>Khắp nơi âm u</DisplayName>
+<StoryDesc>Khắp nơi âm u Trung</StoryDesc>
+</Text>
+<Text Name="SpringAir">
+<DisplayName>Không khí mùa xuân </DisplayName>
+<StoryDesc>Đang trong không khí mùa xuân </StoryDesc>
+</Text>
+<Text Name="HarvestAir">
+<DisplayName>Mùa thu hoạch</DisplayName>
+<StoryDesc>Trong mùa thu hoạch</StoryDesc>
+</Text>
+<Text Name="Ambiguous">
+<DisplayName>Không khí mù mờ</DisplayName>
+<StoryDesc>Trong bầu không khí mù mờ</StoryDesc>
+</Text>
+<Text Name="Impetuous">
+<DisplayName>Gió mạnh</DisplayName>
+<StoryDesc>Trong gió mạnh</StoryDesc>
+</Text>
+<Text Name="MouldRains">
+<DisplayName>Mưa dầm</DisplayName>
+<StoryDesc>Mưa dầm triền miên, Mưa dầm tầm tã</StoryDesc>
+</Text>
+<Text Name="Drought">
+<DisplayName>Khô hạn</DisplayName>
+<StoryDesc>Nắng nóng như thiêu</StoryDesc>
+</Text>
+<Text Name="Rainstorm">
+<DisplayName>Mưa như trút nước</DisplayName>
+<StoryDesc>Mưa đổ như thác</StoryDesc>
+</Text>
+<Text Name="Fohn">
+<DisplayName>Gió nồm</DisplayName>
+<StoryDesc>Gió khô nóng</StoryDesc>
+</Text>
+<Text Name="DustStorm">
+<DisplayName>Gió cát</DisplayName>
+<StoryDesc>Cát vàng đầy trời</StoryDesc>
+</Text>
+<Text Name="LingRarefiedWave">
+<DisplayName>Linh khí khô khan</DisplayName>
+<StoryDesc>Đang trong linh khí khô cạn</StoryDesc>
+</Text>
+<Text Name="LingUpWave">
+<DisplayName>Linh khí bạo phát</DisplayName>
+<StoryDesc>Đang trong linh khí bạo phát</StoryDesc>
+</Text>
+<Text Name="LingUpWave_Little">
+<DisplayName>Linh khí dày đặc </DisplayName>
+<StoryDesc>Đang linh khí dày đặc</StoryDesc>
+</Text>
+<Text Name="HeatWave">
+<DisplayName>Hạ nóng</DisplayName>
+<StoryDesc>Nhiệt độ đang nóng chảy cả đá vàng, Nóng như thiêu đốt</StoryDesc>
+</Text>
+<Text Name="ColdWave">
+<DisplayName>Đông lạnh</DisplayName>
+<StoryDesc>Đang trong gió rét, Đang trong trời rét</StoryDesc>
+</Text>
+<Text Name="HeatWaveInWinter">
+<DisplayName>Luồng khí nóng</DisplayName>
+<StoryDesc>Trời ấm áp lòng người, Dưới ánh nắng ấm áp ngày đông</StoryDesc>
+</Text>
+<Text Name="ColdWaveInSummer">
+<DisplayName>Gió mát</DisplayName>
+<StoryDesc>Gió mát ngày hè, Gió mát thấm ruột gan</StoryDesc>
+</Text>
+<Text Name="PermanentNight">
+<DisplayName>Vĩnh Dạ</DisplayName>
+<StoryDesc>Vĩnh dạ</StoryDesc>
+</Text>
+<Text Name="Miasma">
+<DisplayName>Chướng khí</DisplayName>
+<StoryDesc>Chướng khí ngập tràn</StoryDesc>
+</Text>
+<Text Name="LightningStorm">
+<DisplayName>Sấm chớp</DisplayName>
+<StoryDesc>Sấm chớp ỳ đùng, Sấm đánh như điệu múa của rắn</StoryDesc>
+</Text>
+<Text Name="LightningStormNoLong">
+<DisplayName>Sấm chớp</DisplayName>
+<StoryDesc>Sấm chớp ỳ đùng, Sấm đánh như điệu múa của rắn</StoryDesc>
+</Text>
+<Text Name="FohnNoFeng">
+<DisplayName>Gió nồm</DisplayName>
+<StoryDesc>Gió khô nóng</StoryDesc>
+</Text>
+<Text Name="Rainstorm_Long">
+<DisplayName>Mưa như trút nước</DisplayName>
+<StoryDesc>Mưa đổ như thác</StoryDesc>
+</Text>
+<Text Name="LuShu_SunnyDay">
+<DisplayName>Trời trong (Lộc Thục)</DisplayName>
+<StoryDesc>Tinh không vạn lý, Vạn dặm không mây, Thiên lãng khí thanh</StoryDesc>
+</Text>
+<Text Name="Fei_HeavyRain">
+<DisplayName>Mưa to (phỉ)</DisplayName>
+<StoryDesc>Mưa đầy một gáo, Mưa ngã cả bồn, Mưa như trút nước</StoryDesc>
+</Text>
+<Text Name="Fei_Overcast">
+<DisplayName>Trời mây (phỉ)</DisplayName>
+<StoryDesc>Mây đen khắp trời, Mây đen cuồn cuộn, Sương mù dày đặc</StoryDesc>
+</Text>
+<Text Name="MuYu_LightRain">
+<DisplayName>Mưa nhỏ (Mộc vũ kiếm)</DisplayName>
+<StoryDesc>Mưa nhỏ lất phất, Mưa lát đát, Mưa lâm râm</StoryDesc>
+</Text>
+<Text Name="SpringFestival">
+<DisplayName>Tiết Xuân</DisplayName>
+<StoryDesc>Bầu không khí tết đến, Tân xuân vui vẻ</StoryDesc>
+</Text>
+<Text Name="ZuShiBiHu">
+<DisplayName>Khí tức tiên giới</DisplayName>
+<StoryDesc>Khí tức tiên giới</StoryDesc>
+</Text>
+</List>
+</Texts>

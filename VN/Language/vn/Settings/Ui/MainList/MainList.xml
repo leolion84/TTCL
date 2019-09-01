@@ -1,0 +1,478 @@
+<Texts Type="Other">
+<List>
+<Text Name="Wall">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="Barrier">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="Door">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="WoodRoof">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="StoneRoof">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="WoodRoof_SpringFestival">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="StoneRoof_SpringFestival">
+<Type>Kết cấu</Type>
+</Text>
+<Text Name="Bed">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="Table">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="SmallTable">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="DoubleBed">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="WaterTank">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="Building_Tomb">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="Building_BigTomb">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="Building_ItemShelf">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="Building_ShuZhuangTai">
+<Type>Sinh hoạt</Type>
+</Text>
+<Text Name="MaterialWorkPlace">
+<Type>Công việc</Type>
+</Text>
+<Text Name="WorkPlace">
+<Type>Công việc</Type>
+</Text>
+<Text Name="PuppetPlace">
+<Type>Công việc</Type>
+</Text>
+<Text Name="Bonfire">
+<Type>Công việc</Type>
+</Text>
+<Text Name="Well">
+<Type>Công việc</Type>
+</Text>
+<Text Name="Kitchen">
+<Type>Công việc</Type>
+</Text>
+<Text Name="HandWorkTable">
+<Type>Công việc</Type>
+</Text>
+<Text Name="WoodShed">
+<Type>Công việc</Type>
+</Text>
+<Text Name="StoneMaker">
+<Type>Công việc</Type>
+</Text>
+<Text Name="MedicineTable">
+<Type>Công việc</Type>
+</Text>
+<Text Name="WeaponMaker">
+<Type>Công việc</Type>
+</Text>
+<Text Name="Furnace">
+<Type>Công việc</Type>
+</Text>
+<Text Name="MillStone">
+<Type>Công việc</Type>
+</Text>
+<Text Name="TailorTable">
+<Type>Công việc</Type>
+</Text>
+<Text Name="TextileTable">
+<Type>Công việc</Type>
+</Text>
+<Text Name="CalligraphyTable">
+<Type>Công việc</Type>
+</Text>
+<Text Name="BasePracticePlace">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="ExploreBackPlace">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="TrainingDummy">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="FengShui">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="RefiningCushion">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="DanStove">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Cushion">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Building_MagicCushion">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="TheGate">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Building_SacrificialTable">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Building_Zhong">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Build_TheBigGate">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Building_BigSwordPillar">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="SmallPool">
+<Type>Môn phái</Type>
+</Text>
+<Text Name="Candlestick">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern3">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern4">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern5">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern6">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="StreetLight">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="StreetLight1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="StreetLight2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Lantern_S1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Flag1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Flag2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Flag3">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_JiaShan1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_JiaShan2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_PenZai1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_PenZai2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Gu">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_ShiBei">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Tower2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Tower">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_StoneMan">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_StoneLion">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_StoneLion2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_StoneLion3">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_BigTripod">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_SmallTripod">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_BigCenser">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_SmallCenser">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_BigVase">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_SmallVase">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Screen1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_BookShelf">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Statue1">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Statue2">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="Building_Statue3">
+<Type>Trang trí</Type>
+</Text>
+<Text Name="TicTacToe">
+<Type>Tiêu khiển</Type>
+</Text>
+<Text Name="CageShelf">
+<Type>Tiêu khiển</Type>
+</Text>
+<Text Name="GoTable">
+<Type>Tiêu khiển</Type>
+</Text>
+<Text Name="GuzhengTable">
+<Type>Tiêu khiển</Type>
+</Text>
+<Text Name="Firecracker">
+<Type>Tiêu khiển</Type>
+</Text>
+<Text Name="RemoveFloor">
+<Type>Sàn nhà</Type>
+<Display>Dỡ bỏ sàn nhà</Display>
+<Desc>[color=#0000FF]Dỡ bỏ sàn nhà [/color]([keycode]RemoveFloor[/keycode])\nDỡ bỏ sàn nhà bằng tay.\nLoại hình công tác: Trúc công</Desc>
+</Text>
+<Text Name="Carpet1">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor1">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor2">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor3">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor4">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor5">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor6">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor7">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor8">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor9">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor10">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor11">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor12">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor13">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor14">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor15">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor16">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor17">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor18">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor19">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor20">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor21">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor22">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor23">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor24">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor25">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor26">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor27">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor28">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="Floor29">
+<Type>Sàn nhà</Type>
+</Text>
+<Text Name="AreaStorage">
+<Type>Khu vực</Type>
+<Display>Nhà kho</Display>
+<Desc>Kéo thành một khu vực nhà kho, Nhân vật sẽ vận chuyển vật phẩm vào trong.\nLoại hình công tác: Khổ công</Desc>
+</Text>
+<Text Name="AreaPlant">
+<Type>Khu vực</Type>
+<Display>Nông điền</Display>
+<Desc>Kéo thành một khu nông điền, Nhân vật sẽ trồng thực vật tương ứng ở đây.\nLoại hình công tác: Nông dân</Desc>
+</Text>
+<Text Name="DiscipleAreaPlant">
+<Type>Khu vực</Type>
+<Display>Dược điền</Display>
+<Desc>Kéo thả để phân chia một dược điền, Nhân vật sẽ trồng tiên thảo linh dược tương ứng ở đây.\nLoại hình công tác: Nông dân</Desc>
+</Text>
+<Text Name="AreaBreeding">
+<Type>Khu vực</Type>
+<Display>Khu chăn nuôi </Display>
+<Desc>Kéo thả để vạch ra một khu chăn nuôi , đã thuần dưỡng động vật hoạt động Phạm vi  có thể an bài đến tận đây</Desc>
+</Text>
+<Text Name="RemoveStorageArea">
+<Type>Khu vực</Type>
+<Display>Dỡ bỏ nhà kho</Display>
+<Desc>Dỡ bỏ nhà kho.</Desc>
+</Text>
+<Text Name="RemovePlantArea">
+<Type>Khu vực</Type>
+<Display>Dỡ bỏ nông điền</Display>
+<Desc>Dỡ bỏ nông điền.</Desc>
+</Text>
+<Text Name="RemoveDiscipleAreaPlant">
+<Type>Khu vực</Type>
+<Display>Dỡ bỏ dược điền</Display>
+<Desc>Dỡ bỏ Dược điền.</Desc>
+</Text>
+<Text Name="RemoveAreaBreeding">
+<Type>Khu vực</Type>
+<Display>Di dời khu chăn nuôi </Display>
+<Desc>Dỡ bỏ khu chăn nuôi.</Desc>
+</Text>
+<Text Name="AreaTang">
+<Type>Khu vực</Type>
+<Display>Phân đường</Display>
+<Desc>Kéo thả để phân chia một khu vực phân đường, Nhân vật thuộc Khu vực phân đường sẽ có ngoài định mức gia tăng hiệu quả.</Desc>
+</Text>
+<Text Name="RemoveTangArea">
+<Type>Khu vực</Type>
+<Display>Dỡ bỏ phân đường</Display>
+<Desc>Dỡ bỏ khu vực phân đường</Desc>
+</Text>
+<Text Name="FillSoil">
+<Type>Khu vực</Type>
+</Text>
+<Text Name="FillShallowWater">
+<Type>Khu vực</Type>
+</Text>
+<Text Name="FillFertileSoil">
+<Type>Khu vực</Type>
+</Text>
+<Text Name="Harvest">
+<Display>Thu hoạch</Display>
+<Desc>[color=#0000FF] Thu hoạch thực vật [/color]([keycode]Harvest[/keycode])\nThu hoạch thực vật, để thu được trái cây của nó.\nLoại hình công tác: Nông dân</Desc>
+</Text>
+<Text Name="Log">
+<Display>Chặt cây</Display>
+<Desc>[color=#0000FF] Chặt cây [/color]([keycode]Log[/keycode])\nChặt cây, Thu hoạch được nguyên mộc.\nLoại hình công tác: Mộc khách</Desc>
+</Text>
+<Text Name="Mine">
+<Display>Khai thác</Display>
+<Desc>[color=#0000FF] Khai thác khoáng sản [/color]([keycode]Mine[/keycode])\nKhai thác khoáng mạch, để thu được đá hoặc kim chúc.\nLoại hình công tác: Thạch công</Desc>
+</Text>
+<Text Name="Cutoff">
+<Display>Dọn dẹp</Display>
+<Desc>[color=#0000FF] Dọn dẹp khu vực [/color]([keycode]Cutoff[/keycode])\nDọn dẹp tất cả thảm thực vật bên trong.\nLoại hình công tác: Mộc khách</Desc>
+</Text>
+<Text Name="Dismantle">
+<Display>Dỡ bỏ</Display>
+<Desc>[color=#0000FF] Dỡ bỏ công trình [/color]([keycode]Dismantle[/keycode])\nDỡ bỏ tất cả công trình bên trong.\nLoại hình công tác: Trúc công</Desc>
+</Text>
+<Text Name="Explore">
+<Display>Thăm dò</Display>
+<Desc>[color=#0000FF] Thăm dò khu vực [/color]([keycode]Explore[/keycode])\nThăm dò một khu vực bị mê vụ bao phủ. Trong quá trình thăm dò nhân vật sẽ tiêu hao càng nhiều tinh lực.\nLoại hình công tác: Thợ săn</Desc>
+</Text>
+<Text Name="Hunting">
+<Display>Săn bắt</Display>
+<Desc>[color=#0000FF] Đi săn động vật [/color]([keycode]Hunting[/keycode])\nĐánh giết và mổ xẻ động vật hoang dã.\nLoại hình công tác: Thợ săn</Desc>
+</Text>
+<Text Name="Melting">
+<Display>Dung luyện</Display>
+<Desc>[color=#0000FF] Dung luyện vật phẩm [/color]([keycode]Melting[/keycode])\nĐệ tử nội môn đem Hội thử đem Vật phẩm Dung luyện vì Linh thạch.\nmỗi 500 linh khí có thể dung luyện ra một cái Linh thạch. Nếu như là pháp bảo, pháp bảo phẩm giai càng cao, dung luyện ra càng nhiều Linh thạch.</Desc>
+</Text>
+<Text Name="CancelCMD">
+<Display>Hủy bỏ</Display>
+<Desc>[color=#0000FF] Hủy bỏ mệnh lệnh [/color]([keycode]CancelCMD[/keycode])\nHủy bỏ mệnh lệnh đã ban bố ở vị trí chỉ điểm.\nẤn Ctrl Hậu có thể dùng Vu Hủy bỏ vật phẩm Cấm dùng trạng thái</Desc>
+</Text>
+<Text Name="ClearPlant">
+<Display>Thực vật</Display>
+<Desc>[color=#0000FF] Xóa sạch thực vật [/color]\nXóa sạch toàn bộ thực vật bên trong.</Desc>
+</Text>
+<Text Name="ClearMine">
+<Display>Khoáng thạch</Display>
+<Desc>[color=#0000FF] Xóa sạch khoáng thạch [/color]\nXóa sạch toàn bộ khoáng thạch bên trong.</Desc>
+</Text>
+<Text Name="ClearBuilding">
+<Display>Công trình</Display>
+<Desc>[color=#0000FF] Xóa sạch công trình [/color]\nXóa sạch toàn bộ công trình bên trong.</Desc>
+</Text>
+<Text Name="ClearFloor">
+<Display>Sàn nhà</Display>
+<Desc>[color=#0000FF] Xóa sạch sàn nhà [/color]\nXóa sạch toàn bộ sàn nhà nhân tạo.</Desc>
+</Text>
+<Text Name="ClearItem">
+<Display>Vật phẩm</Display>
+<Desc>[color=#0000FF] Xóa sạch vật phẩm [/color]\nXóa sạch toàn bộ vật phẩm bên trong.</Desc>
+</Text>
+</List>
+</Texts>

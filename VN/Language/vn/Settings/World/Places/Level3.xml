@@ -1,0 +1,43 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Place_Level3Base">
+<Desc>3 Cấp Địa điểm cơ bản</Desc>
+</Text>
+<Text Name="Place_QingLianShan">
+<DisplayName>Thanh Liên Sơn</DisplayName>
+<Desc>Nơi đây chính là nơi ẩn cư trước khi phi thăng của Thanh Liên tiên nhân, giấu ở Nam Hải một giọt nhâm quý chân thủy. Nếu như không có bí pháp chỉ dẫn, không cách nào tìm được tòa tiên sơn này.</Desc>
+</Text>
+<Text Name="Place_ChiLianYuan">
+<DisplayName>Quỳnh Lâu</DisplayName>
+<Desc>Nơi này chính là Bản đệ nhất thế giới vị Phi Thăng Tiên nhân Nam Cung Hồng lưu lại biệt phủ, nấp trong một tiên gia động thiên giữa biển trời, nếu như không có bí pháp truyền thừa, không có khả năng tìm được.</Desc>
+</Text>
+<Text Name="Place_YuLun">
+<DisplayName>Ngọc Luân Tiên Phủ (Đang update)</DisplayName>
+</Text>
+<Text Name="Place_LongTai">
+<DisplayName>Long Đài</DisplayName>
+<Desc>Nghe đồn ngày xưa Long tộc cất giấu vạn ngàn bảo tàng ở Long Đài, cũng thực hiện vô số cấm chế phong ấn. Bây giờ Năm tháng trôi qua, hơn nữa thủy triều linh khí trùng kích ngàn năm , những cấm chề này đa phần đã mất đi hiệu lực , không thiếu người mạo hiểm đi vào Long Đài cầu lấy cơ duyên.</Desc>
+</Text>
+<Text Name="Place_XuanKongDong">
+<DisplayName>Huyền Không Động</DisplayName>
+<Desc>Nơi quy ẩn của cổ tiên Viên Nhược Tuyết, truyền thuyết Viên Nhược Tuyết để lại tất cả trân tàng cả đời trong tòa biệt phủ này, lưu lại người hậu thế hữu duyên. Tu hành giả chính đạo mới tới có thể đến đây thử cơ duyên.</Desc>
+</Text>
+<Text Name="Place_JiangYuanMiJing">
+<DisplayName>Giang Nguyên Bí Cảnh (Đang update)</DisplayName>
+</Text>
+<Text Name="Place_TianKeng">
+<DisplayName>Thiên Khanh (Đang update)</DisplayName>
+</Text>
+<Text Name="Place_GuZhanChang">
+<DisplayName>Chiến Trường Tiên Ma</DisplayName>
+<Desc>Thời kỳ cuối thời đại thượng cổ Đầu tiên Tiên Ma đại chiến chiến trường di tích, trong đó trân tàng vô số, nhưng vậy dày đặc thời không mảnh vỡ, hung hiểm dị thường. Lúc đó tu hành giới dần sinh ra phân chia chính tà, Cổ giữa các tu sĩ tranh chấp càng diễn Việt Liệt , cuối cùng Vu nam Lục bộc phát quyết chiến. Trận chiến này duy trì liên tục một tháng , sinh linh đồ thán . Âm dương chi đạo trong thiên địa vì thế mà nổ tung , biến đổi tại nhân gian hiện ra chân hình của Chúc Long. Chúc Long nhất nộ, chìm trong biển nước , nam Lục băng liệt, kết cuộc lần đầu tiên tiên ma đại chiến . Đây cũng là nguồn gốc ngày hôm nay Nam Hoang tồn tại .</Desc>
+</Text>
+<Text Name="Place_YiJieLieFeng">
+<DisplayName>Dị giới rung chuyển</DisplayName>
+<Desc>Nghe đồn vùng phá toái không gian này có thể thông qua các thời không dị thường, chính là thượng cổ lần thứ hai Tiên Ma đại chiến sản phẩm, mấy ngàn năm qua tiêu thất vô tung, ai ngờ lại hiện thế một lần nữa vào lúc này. Nhưng mà lần này vô cùng hung hiểm, nếu không có duyên số đặc biệt, cho dù đại la thần tiên cũng sẽ thất bại trong đó.</Desc>
+</Text>
+<Text Name="Place_ShengDianYiJi">
+<DisplayName>Di Tích Thánh Điện (Đang update)</DisplayName>
+</Text>
+</List>
+</Texts>

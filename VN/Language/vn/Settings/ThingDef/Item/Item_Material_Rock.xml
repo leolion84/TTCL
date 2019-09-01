@@ -1,0 +1,57 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="RockBase" sParam="Item">
+<Item.FabaoSuffix>Thạch, Ấn, bia, giác, khuê, Khuyết, Trấn</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BrownRock" sParam="Item">
+<ThingName>Tông thạch</ThingName>
+<Desc>Nham thạch màu nâu, mười phần phổ biến.</Desc>
+<Item.BeMaterial.NamePrefix>Tông thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_GrayRock" sParam="Item">
+<ThingName>Hôi thạch</ThingName>
+<Desc>Nham thạch màu xám, mười phần phổ biến.</Desc>
+<Item.BeMaterial.NamePrefix>Hôi thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Marble" sParam="Item">
+<ThingName>Cẩm thạch</ThingName>
+<Desc>Cẩm thạch, thạch liệu thường gặp, hoa văn khá đẹp.</Desc>
+<Item.BeMaterial.NamePrefix>Cẩm thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Jade" sParam="Item">
+<ThingName>Ngọc thạch</ThingName>
+<Desc>Tảng đá chất mảnh và cứng, sáng bóng, hơi trong suốt, mười phần mỹ quan và giàu linh tính.</Desc>
+<Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_JadeEssence" sParam="Item">
+<ThingName>Ngọc tủy</ThingName>
+<Desc>Tinh hoa Ngọc thạch, chất nhẹ và nhẵn bóng, phi thường mỹ lệ, thường dùng để làm trang sức phẩm cao cấp, cũng có thể làm thuốc.</Desc>
+<Item.BeMaterial.NamePrefix>Ngọc tủy</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_StoneEssence" sParam="Item">
+<ThingName>Thạch tủy</ThingName>
+<Desc>Tinh hoa tảng đá, nhẹ và cứng, có thể dùng để làm thuốc.</Desc>
+<Item.BeMaterial.NamePrefix>Thạch tủy</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SkyStone" sParam="Item">
+<ThingName>Đá thiên trụ</ThingName>
+<Desc>Nham thạch hiếm thấy, truyền thuyết là hòn đá móc ra từ trên Thiên Trụ, ẩn chứa dồi dào linh khí hệ Thổ.</Desc>
+<Item.BeMaterial.NamePrefix>Đá thiên trụ</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_ExtremeJade" sParam="Item">
+<ThingName>Thiên lăng thần ngọc</ThingName>
+<Desc>Trân bảo tu hành giới đổ xô tranh nhau, thiên nhiên kết tinh ra dạng trụ, linh khí có khả năng thích ứng siêu quần.</Desc>
+<Item.BeMaterial.NamePrefix>Nghìn lăng Ngọc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingStone" sParam="Item">
+<ThingName>Linh thạch</ThingName>
+<Desc>Linh khí ngưng tụ cao độ thành thể rắn, có thể sử dụng khôi phục 500 Điểm linh khí, đồng thời trong một khoảng thời gian tăng cường tính hòa hợp với linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingCrystal" sParam="Item">
+<ThingName>Linh Tinh</ThingName>
+<Desc>Linh khí ngưng tụ cao độ kết tinh thành, có thể sử dụng khôi phục 20000 Điểm linh khí, đồng thời trong một khoảng thời gian tăng cường phần lớn tính hòa hợp với linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>Linh Tinh</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

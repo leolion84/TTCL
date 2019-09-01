@@ -1,0 +1,9 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="Item_Cotton" sParam="Item">
+<ThingName>Miên hoa</ThingName>
+<Desc>Một giỏ bông vải, là vật liệu chủ yếu để dệt vải.Ngoại trừ thu được thông qua gieo trồng bông vải, còn có thể đến Tiểu Lương Sơn lịch luyện để thu thập.</Desc>
+<Item.FabaoSuffix>tia, dây thừng, Tác, lăng, tuyến</Item.FabaoSuffix>
+</Text>
+</List>
+</Texts>

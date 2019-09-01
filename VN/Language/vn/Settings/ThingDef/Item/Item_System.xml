@@ -1,0 +1,208 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="SYS_LOASITEM" sParam="Item">
+<ThingName>Vật thất lạc</ThingName>
+<Desc>Vật thất lạc , Không ai biết là gì .\n(Không tìm thấy mod)</Desc>
+</Text>
+<Text Name="Item_HorribleMeal" sParam="Item">
+<ThingName>Làm hư đồ ăn</ThingName>
+<Desc>Một món đồ ăn thất bại, mùi vị mười phần miễn cưỡng, chỉ có thể lấp bụng.</Desc>
+</Text>
+<Text Name="Item_HomeFood" sParam="Item">
+<ThingName>Phần ăn thường ngày</ThingName>
+<Desc>Một món đơn giản thường ngày, mùi vị mộc mạc nhưng là rất chân thật.</Desc>
+</Text>
+<Text Name="Item_DeliciousFood" sParam="Item">
+<ThingName>Món ngon</ThingName>
+<Desc>Một món cao lương, vô luận là nguyên liệu hay thủ pháp đều rất cầu kỳ.Mùi vị coi như không tệ.</Desc>
+</Text>
+<Text Name="Item_DelicacyFood" sParam="Item">
+<ThingName>Trân tu mỹ thực</ThingName>
+<Desc>Một món sơn hào hải vị, nhất định phải dùng cao siêu trù nghệ cùng tinh xảo nguyên liệu nấu ăn mới có thể hoàn thành, Mỹ vị tuyệt luân.</Desc>
+</Text>
+<Text Name="Item_GuanyinMud" sParam="Item">
+<ThingName>Đất sét trắng</ThingName>
+<Desc>Đất sét trắng.</Desc>
+</Text>
+<Text Name="Item_Water" sParam="Item">
+<ThingName>Thủy</ThingName>
+<Desc>một phần nước sạch.</Desc>
+<Item.FabaoSuffix>Thủy</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_DirtyWater" sParam="Item">
+<ThingName>Nước dã ngoại</ThingName>
+<Desc>Nước không sạch, bên trong có thứ gì đó đang di động.</Desc>
+<Item.FabaoSuffix>Thủy</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Garbage" sParam="Item">
+<ThingName>Cặn bã</ThingName>
+<Desc>Rác rưởi không dùng được.</Desc>
+<Item.FabaoSuffix>tán, Độc , cặn bã</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Shit" sParam="Item">
+<ThingName>Chất thải</ThingName>
+<Desc>Vi trùng</Desc>
+<Item.FabaoSuffix>phân, cát, phân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_DragonShit" sParam="Item">
+<ThingName>Thiên long sa</ThingName>
+<Desc>Chất thải của rồng.</Desc>
+<Item.FabaoSuffix>phân, cát, phân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_FunPainting" sParam="Item">
+<ThingName>họa</ThingName>
+<Desc>Một bức tranh.</Desc>
+<Item.FabaoSuffix>Quyển, Đồ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_FunPoem" sParam="Item">
+<ThingName>Thư</ThingName>
+<Desc>một bản văn tự lấy làm.</Desc>
+<Item.FabaoSuffix>Sách, Thư, Giản, Quyển</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_FunMusic" sParam="Item">
+<ThingName>Cầm phổ</ThingName>
+<Desc>Một bản nhạc cầm khúc.</Desc>
+<Item.FabaoSuffix>phổ, Quyển</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_FunChess" sParam="Item">
+<ThingName>Thế cuộc</ThingName>
+<Desc>Một bàn cờ vây, ghi chép một trận tỷ thí.</Desc>
+<Item.FabaoSuffix>phổ, Quyển, cục</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SysAxe" sParam="Item">
+<ThingName>Rìu đốn củi</ThingName>
+<Desc>Một thanh búa, có thể gia tăng cực nhiều hiệu suất chặt cây.Đương nhiên cũng có thể sử dụng như vũ khí.</Desc>
+<Item.FabaoSuffix>búa</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SysPickaxe" sParam="Item">
+<ThingName>Cuốc chim</ThingName>
+<Desc>Một cái cuốc, có thể gia tăng cực nhiều tốc độ khai thác.Đương nhiên cũng có thể sử dụng như vũ khí.</Desc>
+<Item.FabaoSuffix>hạo</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SysSickle" sParam="Item">
+<ThingName>Nông cụ</ThingName>
+<Desc>Một bộ nông cụ, có thể gia tăng cực nhiều tốc độ gieo trồng và tốc độ thu hoạch..</Desc>
+<Item.FabaoSuffix>cuốc</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SysAcupuncture" sParam="Item">
+<ThingName>Châm cứu</ThingName>
+<Desc>Một bộ châm cứu, có thể đề cao chất lượng chữa bệnh cùng xác xuất thành công.</Desc>
+<Item.FabaoSuffix>châm, đâm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Umbrella" sParam="Item">
+<ThingName>Dù</ThingName>
+<Desc>Một cây dù.</Desc>
+<Item.FabaoSuffix>Dù</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Esoterica" sParam="Item">
+<ThingName>Bí tịch</ThingName>
+<Desc>Một bản bí tịch.</Desc>
+<Item.FabaoSuffix>Thư, Sách, Quyển</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_StoneBox" sParam="Item">
+<ThingName>Hộp đá</ThingName>
+<Desc>Hộp đá thần bí, ước chừng một thước vuông.Vỏ ngoài nguyên vẹn một thể, không giống phàm vật.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử mở cái hộp này xem</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_StoneBox1" sParam="Item">
+<ThingName>Hộp đá</ThingName>
+<Desc>Nam Bình Thôn Thợ săn Trương Nhị Oa Tòng nào đó cỗ trên thi thể lấy được Hộp đá, thủy hỏa bất xâm, mười phần linh dị.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử mở cái hộp này xem</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_E_FaBaoBox" sParam="Item">
+<ThingName>Thái nhất bảo hạp</ThingName>
+<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của khí đã bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, đem mấy món pháp bảo trân quý bỏ vào hộp mang đi.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_E_DanBox" sParam="Item">
+<ThingName>Thái nhất bảo hạp</ThingName>
+<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Dược Lư bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, đem mấy bình đan dược trân quý bỏ vào hộp mang đi.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_E_MiJiBox" sParam="Item">
+<ThingName>Thái nhất bảo hạp</ThingName>
+<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Tàng Kinh Lâu bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, đem mấy quyển bí tịch trân phú bỏ vào hộp mang đi.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_E_FuBox" sParam="Item">
+<ThingName>Thái nhất bảo hạp</ThingName>
+<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Vân Lục phòng bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, đem mấy tấm phù lục trân quý bỏ vào hộp mang đi.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_StoneBox2" sParam="Item">
+<ThingName>Hộp đá cũ nát</ThingName>
+<Desc>Một hộp đá chôn sâu giữa núi đá, nhìn qua đã có chút niên đại, không biết bên trong có đồ vật gì.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử mở cái hộp này xem</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BuildingBox" sParam="Item">
+<ThingName>Gói công trình</ThingName>
+<Desc>Vẻ ngoài của một tòa kiến trúc, có thể một lần nữa đặt ở nơi nào đó.</Desc>
+</Text>
+<Text Name="Item_Baobeier" sParam="Item">
+<ThingName>Bảo bối nhi</ThingName>
+<Desc>Đáng để kỷ niệm.</Desc>
+<Item.FabaoSuffix>rễ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LunHui_Box1" sParam="Item">
+<ThingName>Hộp phù chú thần kỳ</ThingName>
+<Desc>hộp phù chú thần kỳ Lục phu nhân mang bên người, trong đó chứa có ba tấm phù chú thần kỳ.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_LunHui_Box2" sParam="Item">
+<ThingName>Hộp thần phù</ThingName>
+<Desc>hộp thần phù Dương Thụ mang bên người, trong đó chứa có một tấm phù chú tuyệt phẩm.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở Thái Nhất bảo hạp.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_ZuShiZhiCi" sParam="Item">
+<ThingName>Ban thưởng của tổ sư</ThingName>
+<Desc>Ban thưởng của tổ sư, trong đó ẩn giấu bảo vật trân quý.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở ban thưởng của tổ sư.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_SuoYingZhiJuan" sParam="Item">
+<ThingName>Vạn tượng súc ảnh đồ</ThingName>
+<Desc>Ghi lại toàn bộ ảnh thu nhỏ các triều đại của toàn bộ sinh linh ở đất trời từ trước đến nay .Như có thể biết được tên thật của sinh linh tương ứng , có thể triệu hoán nó ra từ trong quyển ảnh .Một trong 12 món linh bảo hỗn mang sinh ra từ lúc khai thiên lập địa.</Desc>
+<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+<StoryBnts.0.Name>Mở ra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Mở súc ảnh chi quyển.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_XiangHuo1" sParam="Item">
+<ThingName>Tam tài tế</ThingName>
+<Desc>Tế tự cơ bản, quy trình khá là ngắn gọn.Sinh ra 1 Thắp nhang đèn.Nếu như dùng đồ ăn cao cấp đến thờ cúng, sẽ sinh thêm hương hỏa .</Desc>
+</Text>
+<Text Name="Item_XiangHuo2" sParam="Item">
+<ThingName>Cúng ngũ hành</ThingName>
+<Desc>Tế tự trung cấp, cần một vài dụng cụ đến hỗ trợ.Sinh ra 4 Thắp nhang đèn.Nếu như dùng đồ ăn cao cấp đến thờ cúng, sẽ sinh thêm hương hỏa .</Desc>
+</Text>
+<Text Name="Item_XiangHuo3" sParam="Item">
+<ThingName>Cúng thất tinh</ThingName>
+<Desc>Tế tự tối cao, cần dụng cụ phức tạp và khấn vái thời gian dài.Sinh ra 9 Thắp nhang đèn.Nếu như dùng đồ ăn cao cấp đến thờ cúng, sẽ sinh thêm hương hỏa .</Desc>
+</Text>
+<Text Name="Item_OldSchool_Letter" sParam="Item">
+<ThingName>Bức thư thần bí</ThingName>
+<Desc>Trên đường đào vong , bức thư được tu sĩ thần bí để lại khi cứu các ngươi khỏi hiểm cảnh.</Desc>
+<Item.FabaoSuffix>tiên</Item.FabaoSuffix>
+<StoryBnts.0.Name>Xem</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Xem thư .</StoryBnts.0.Desc>
+</Text>
+</List>
+</Texts>

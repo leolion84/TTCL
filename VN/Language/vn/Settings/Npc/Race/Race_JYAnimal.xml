@@ -1,0 +1,51 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="JYRabbit">
+<DisplayName>Thỏ</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="JYWolf">
+<DisplayName>Lang</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="JYSnake">
+<DisplayName>Xà</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="JYBoar">
+<DisplayName>lợn rừng</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="JYBear">
+<DisplayName>Hùng</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="JYFrog">
+<DisplayName>ếch xanh</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="JYTurtle">
+<DisplayName>Rùa</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="JYLongpuNight">
+<DisplayName>Tôi tớ của rồng (Đêm)</DisplayName>
+</Text>
+<Text Name="JYLongpuDay">
+<DisplayName>Tôi tớ của rồng (Ngày)</DisplayName>
+</Text>
+<Text Name="JYZhuLongENian">
+<DisplayName>Long Ác niệm</DisplayName>
+</Text>
+<Text Name="JYZhuLongShanNian">
+<DisplayName>Long Thiện niệm</DisplayName>
+</Text>
+</List>
+</Texts>

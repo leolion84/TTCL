@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+<List>
+<Text Name="MetalBlockBase" sParam="Item">
+<Item.FabaoSuffix>Kim, Ấn, bia, giác, khuê, Khuyết, Trấn</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_IronBlock" sParam="Item">
+<ThingName>Thiết đĩnh</ThingName>
+<Desc>Thỏi kim loại dung kuyện từ Thiết khoáng, có thể dùng để tiến hành thêm một bước chế tác.</Desc>
+<Item.BeMaterial.NamePrefix>Thiết</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_CopperBlock" sParam="Item">
+<ThingName>Hoả đồng đĩnh</ThingName>
+<Desc>Thỏi kim loại dung luyện từ Hỏa đồng khoáng, có thể dùng để tiến hành thêm một bước chế tác.</Desc>
+<Item.BeMaterial.NamePrefix>Hỏa đồng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SilverBlock" sParam="Item">
+<ThingName>Hàn tinh đĩnh</ThingName>
+<Desc>Thỏi kim loại dung luyện từ Hàn tinh khoáng, có thể dùng để tiến hành thêm một bước chế tác.</Desc>
+<Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_CopperBlock1" sParam="Item">
+<ThingName>Hoả tinh đĩnh</ThingName>
+<Desc>Lượng lớn Hỏa đồng khoáng với Yêu Linh Huyết dung luyện thành, mỗi một khối đều cần tiêu tốn lượng lớn thời gian luyện chế.</Desc>
+<Item.BeMaterial.NamePrefix>Hỏa tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SilverBlock1" sParam="Item">
+<ThingName>Hàn tinh đĩnh</ThingName>
+<Desc>Lượng lớn Hàn tinh khoáng với Yêu Linh Huyết dung luyện thành, mỗi một khối đều cần tiêu tốn lượng lớn thời gian luyện chế.</Desc>
+<Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_DarksteelBlock" sParam="Item">
+<ThingName>Huyền thiết đĩnh</ThingName>
+<Desc>Thỏi kim loại dung luyện từ Huyền Thiết khoáng, có thể dùng để tiến hành thêm một bước chế tác.</Desc>
+<Item.BeMaterial.NamePrefix>huyền thiết</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_StarEssenceBlock" sParam="Item">
+<ThingName>Tinh tủy đĩnh</ThingName>
+<Desc>Thỏi kim loại dung luyện từ Tinh Tủy, có thể dùng để tiến hành thêm một bước chế tác.</Desc>
+<Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

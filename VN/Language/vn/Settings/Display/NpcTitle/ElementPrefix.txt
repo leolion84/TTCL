@@ -1,0 +1,7 @@
+﻿Không thuộc tính, Thái hư, Quy nguyên, Diễn đạo, Chân vô, Vạn huyễn, Vô trần, Tàng đạo, Ngũ Phương, Ngũ Sắc, Thái sơ, Hỗn Độn, Hỗn Nguyên, Càn Khôn
+Kim Hệ, Canh Kim, Tân Kim, Phích Lịch, Chấn Lôi, Huyền Kim, Thiên Kim, Trảm Thiên, Đoạn thủy, Phi điện, Oanh lôi, Tử điện, Vạn kiếm, Vạn nhận, Bôn lôi
+Mộc Hệ, Giáp Mộc, Ất Mộc, Bích Quang, Trường Sinh, thương thúy, Thương Mãng, Hồi Xuân, Trường Thanh, Lâm trung, Phi hoa, Kinh lâm, Lạc mộc, Ngự mộc
+Thủy Hệ, Nhâm Thủy, Quý Thủy, Ngưng Quang, Kinh Ba, Nghịch Lãng, Náo hải, Kinh đào, Phiên giang, Đạo hải, Lạc vũ, Quán hải, Giá lãng, Ngự thủy, Băng tuyết, Hàn băng
+Hỏa Hệ, Bính Hỏa, Đinh Hỏa, Xích Viêm, Thiên Hỏa, Bôn Liệt, Phần Nhật, Nhiên Hồn, Tử Hỏa, Ích hỏa, Bích hỏa, Phi hỏa, Thôn hỏa, Liệt diễm
+Thổ Hệ, Mậu Thổ, Kỷ Thổ, Khôn Nguyên, Đằng Nhạc, Trấn Nhạc, Hành Cương, Vạn Lý, Thiên Lĩnh, Thiết bích, Giá sơn, Bàn sơn, Ngũ nhạc, Tam Sơn
+Hỗn Nguyên, Hỗn Độn

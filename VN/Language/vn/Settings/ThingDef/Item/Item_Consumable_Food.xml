@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+<List>
+<Text Name="SimpleFoodBase" sParam="Item">
+<Item.FabaoSuffix>Linh bảo</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Cake" sParam="Item">
+<ThingName>Bánh mì</ThingName>
+<Desc>Lương khô đơn giản, ăn cho đỡ đói.</Desc>
+<Item.FabaoSuffix>bánh</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Jerky" sParam="Item">
+<ThingName>Thịt khô</ThingName>
+<Desc>Lương khô đơn giản, ăn cho đỡ đói.</Desc>
+<Item.FabaoSuffix>Cán</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_PreservedFruit" sParam="Item">
+<ThingName>Mứt lý thị long tiên quả</ThingName>
+<Desc>Cố hữu quả hề, kỳ vị như mật.Lượng chi thềm thượng, dĩ đãi giai kỳ.Kim hữu nhân hề, mỹ mục như mật.Hà cố phán hề, giai kỳ dĩ thệ? \n Long Tiên quả khó giữ lâu, chỉ có Kim Lăng Lý thị độc môn bí phương có thể đem nó chế thành Mứt quả và dược tính không mất.</Desc>
+<Item.FabaoSuffix>quả</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Yao_BoarMeat" sParam="Item">
+<ThingName>Thịt tươi Trư Yêu </ThingName>
+<Desc>Thịt tinh hoa Trư Yêu, không có cách nào dùng lửa phàm để nấu .Trực tiếp sử dụng có thể đại bổ tinh nguyên.</Desc>
+<Item.FabaoSuffix>Cán</Item.FabaoSuffix>
+</Text>
+</List>
+</Texts>

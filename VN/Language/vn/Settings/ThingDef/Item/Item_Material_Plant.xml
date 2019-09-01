@@ -1,0 +1,10 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="Item_Grass" sParam="Item">
+<ThingName>cỏ</ThingName>
+<Desc>một bó cỏ khô.</Desc>
+<Item.FabaoSuffix>dây thừng, Tác, cỏ</Item.FabaoSuffix>
+<Item.BeMaterial.NamePrefix>cỏ</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

@@ -1,0 +1,24 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Optimistic">
+<DisplayName>Lạc quan</DisplayName>
+<Desc>Sự việc mà, luôn phát triển về hướng tốt hơn, không phải sao?</Desc>
+<StoryDesc>Đang lạc quan như trước giờ</StoryDesc>
+</Text>
+<Text Name="Pessimism">
+<DisplayName>Bi quan</DisplayName>
+<Desc>Thế giới này còn gì nữa đâu, sao chúng ta phải kéo dài hơi tàn để sống chứ.</Desc>
+<StoryDesc>Đang bi quan như trước</StoryDesc>
+</Text>
+<Text Name="Depressed">
+<DisplayName>Tinh thần sa sút</DisplayName>
+<Desc>Vô nghĩa, thật sự vô nghĩa...</Desc>
+<StoryDesc>Đang tinh thần sa sút như trước</StoryDesc>
+</Text>
+<Text Name="Regret">
+<DisplayName>Hối hận</DisplayName>
+<Desc>Ta thật hối hận... Sao lúc đó không làm như vậy. Để quãng đời còn lại của ta chìm đắm trong đau khổ, vì để chuộc tội</Desc>
+<StoryDesc>Đang chìm trong hối hận như trước</StoryDesc>
+</Text>
+</List>
+</Texts>

@@ -1,0 +1,10 @@
+﻿Tổn thương loại đạn 1, Lưu Quang, Thiên Tinh, Vẫn Tinh, Phi Tinh, Lạc Hoa
+Tổn thương trực tiếp 2, Trấn Thần, Chấn Địa, Khai Thiên, bị tiêu diệt, Tuyệt Sát, Thập Nhị Đô Thiên, Cửu Cực, Bát Cực
+Đơn thể phi kiếm tăng cường 3, Thông Thiên, Hóa Ảnh, Vô Hình, Thất Tinh, Tâm Quang, Ngũ Phương, Tứ Tượng
+Quần thể phi kiếm tăng cường 4, Chu Thiên, Tinh Đấu, Vạn Tượng, Tam Thập Tam Trọng, Phân Hình, Phân Quang
+Đơn thể thuật pháp tăng cường 5, Nhiên Linh, Thông Thiên, Tiếp Thiên, Tiên Thiên Nhất Khí
+Quần thể thuật pháp tăng cường 6, Đại Diễn, Hóa Hồn, Ngũ Bí, Cửu Thiên, Thập Địa
+Đơn thể khôi phục sinh lực 7, Hóa Thương, Cam Lâm, Hồi Xuân, Hồi Hồn, Ngũ Khí, Thanh Tâm, Tam Hoa
+Quần thể khôi phục sinh lực 8, Hóa Thương, Cam Lâm, Hồi Xuân, Hồi Hồn, Ngũ Khí, Thanh Tâm, Tam Hoa
+Đơn thể đề cao hộ thuẫn 9, Kim Cương, Bất Phôi, Bất Hủ, Kim Chung, Phúc Thiên
+Quần thể đề cao hộ thuẫn 10, Kim Cương, Bất Phôi, Bất Hủ, Kim Chung, Phúc Thiên

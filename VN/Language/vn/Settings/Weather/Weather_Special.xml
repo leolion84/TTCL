@@ -1,0 +1,91 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="LingUpWave_Sp">
+<DisplayName>Linh khí dâng trào</DisplayName>
+<StoryDesc>Đang trong linh khí bạo phát</StoryDesc>
+</Text>
+<Text Name="FireRain">
+<DisplayName>Mưa vừa</DisplayName>
+</Text>
+<Text Name="Rainstorm_Teach">
+<DisplayName>Mưa như trút nước</DisplayName>
+<StoryDesc>Mưa đổ như thác</StoryDesc>
+</Text>
+<Text Name="Rainstorm_Teach2">
+<DisplayName>Mưa như trút nước</DisplayName>
+<StoryDesc>Mưa đổ như thác</StoryDesc>
+</Text>
+<Text Name="LightningStorm_Hack">
+<DisplayName>Sấm chớp</DisplayName>
+<StoryDesc>Nghịch chuyển nhân quả, có kiền thiên hòa.</StoryDesc>
+</Text>
+<Text Name="Rainstorm_AllSeason">
+<DisplayName>Mưa như trút nước</DisplayName>
+<StoryDesc>Mưa đổ như thác</StoryDesc>
+</Text>
+<Text Name="Fohn_AllSeason">
+<DisplayName>Gió nồm</DisplayName>
+<StoryDesc>Gió khô nóng</StoryDesc>
+</Text>
+<Text Name="DustStorm_AllSeason">
+<DisplayName>Gió cát</DisplayName>
+<StoryDesc>Cát vàng đầy trời</StoryDesc>
+</Text>
+<Text Name="Miasma_AllSeason">
+<DisplayName>Chướng khí</DisplayName>
+<StoryDesc>Chướng khí ngập tràn</StoryDesc>
+</Text>
+<Text Name="LightningStorm_AllSeason">
+<DisplayName>Sấm chớp</DisplayName>
+<StoryDesc>Sấm chớp ỳ đùng, Sấm đánh như điệu múa của rắn</StoryDesc>
+</Text>
+<Text Name="JinLingMiMan">
+<DisplayName>Kim linh dày đặc</DisplayName>
+<StoryDesc>Đang trong linh khí hệ Kim tràn đầy</StoryDesc>
+</Text>
+<Text Name="MuLingMiMan">
+<DisplayName>Mộc linh dày đặc</DisplayName>
+<StoryDesc>Đang trong linh khí hệ Mộc tràn đầy</StoryDesc>
+</Text>
+<Text Name="ShuiLingMiMan">
+<DisplayName>Thủy linh dày đặc</DisplayName>
+<StoryDesc>Đang trong linh khí hệ Thủy tràn đầy</StoryDesc>
+</Text>
+<Text Name="HuoLingMiMan">
+<DisplayName>Hỏa linh dày đặc</DisplayName>
+<StoryDesc>Đang trong linh khí hệ Hỏa tràn đầy</StoryDesc>
+</Text>
+<Text Name="TuLingMiMan">
+<DisplayName>Thổ linh dày đặc</DisplayName>
+<StoryDesc>Đang trong linh khí hệ Thổ tràn đầy</StoryDesc>
+</Text>
+<Text Name="LingUpWave_Big">
+<DisplayName>Linh khí cuồn cuộn</DisplayName>
+<StoryDesc>Đang trong linh khí cuồn cuộn</StoryDesc>
+</Text>
+<Text Name="LingRarefiedWave_Big">
+<DisplayName>Linh khí cạn kiệt</DisplayName>
+<StoryDesc>Đang trong linh khí cạn kiệt</StoryDesc>
+</Text>
+<Text Name="Weather_Boss_Drought">
+<DisplayName>Nhiệt độ cao dị thường</DisplayName>
+<StoryDesc>Đang trong nhiệt độ cao dị thường</StoryDesc>
+</Text>
+<Text Name="Weather_Boss_HighTemp">
+<DisplayName>Khô hạn trầm trọng</DisplayName>
+<StoryDesc>Dường như đang càng ngày càng khô hạn nghiêm trọng</StoryDesc>
+</Text>
+<Text Name="Weather_Magic_ZhenShuiJieJie">
+<DisplayName>cửu âm chân thủy giới</DisplayName>
+<StoryDesc>cửu âm chân thủy giới Trung</StoryDesc>
+</Text>
+<Text Name="Weather_Magic_BeiDouJianJie">
+<DisplayName>Bắc Đấu Kiếm giới</DisplayName>
+<StoryDesc>Bắc Đấu Kiếm giới Trung</StoryDesc>
+</Text>
+<Text Name="Weather_Magic_ZhenHuoJieJie">
+<DisplayName>Cửu Dương thần hỏa giới</DisplayName>
+<StoryDesc>Cửu Dương thần hỏa giới Trung</StoryDesc>
+</Text>
+</List>
+</Texts>

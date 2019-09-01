@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Weather_Sunny">
+<DisplayName>Trời trong</DisplayName>
+<Desc>Khí trời hôm nay rất tốt.</Desc>
+<StoryDesc>Vì khí trời sáng sủa mà mặt mày toe toét</StoryDesc>
+</Text>
+<Text Name="Weather_Overcast">
+<DisplayName>Trời mây</DisplayName>
+<Desc>Sắc trời hôm nay âm u.</Desc>
+<StoryDesc>Vì bầu trời âm u mà vẻ mặt nặng nề</StoryDesc>
+</Text>
+<Text Name="Weather_LightRain">
+<DisplayName>Mưa nhỏ</DisplayName>
+<Desc>Đổ một trận mưa nhỏ!</Desc>
+<StoryDesc>Vì mưa nhỏ tí tách mà sắc mặt yên tĩnh</StoryDesc>
+</Text>
+<Text Name="Weather_HeavyRain">
+<DisplayName>Mưa to</DisplayName>
+<Desc>Đổ mưa to rồi.</Desc>
+<StoryDesc>Vì mưa to mà sắc mặt phiền não</StoryDesc>
+</Text>
+<Text Name="Weather_LightSnow">
+<DisplayName>Tuyết nhỏ</DisplayName>
+<Desc>Đổ một trận tuyết nhỏ!</Desc>
+<StoryDesc>Vì tuyết bay phất phới mà cảm thấy vui vẻ</StoryDesc>
+</Text>
+<Text Name="Weather_HeavySnow">
+<DisplayName>Tuyết to</DisplayName>
+<Desc>Tuyết to rồi.</Desc>
+<StoryDesc>Vì tuyết bay tán loạn mà cảm thấy vui sướng</StoryDesc>
+</Text>
+<Text Name="Weather_DenseFog">
+<DisplayName>Sương mù</DisplayName>
+<Desc>Sương mù dày đặc hiếm thấy, Giơ tay không thấy năm ngón.</Desc>
+<StoryDesc>Vì sương mù dày đặc mà lộ rõ phiền não</StoryDesc>
+</Text>
+<Text Name="Weather_SpringAir">
+<DisplayName>Không khí mùa xuân</DisplayName>
+<Desc>Mùa xuân đến rồi , tràn ngập chờ mong .</Desc>
+<StoryDesc>Vì nghĩ về đầu năm mà tràn đầy nhiệt tình</StoryDesc>
+</Text>
+<Text Name="Weather_Melancholy">
+<DisplayName>Khắp nơi âm u</DisplayName>
+<Desc>Không hiểu tại sao, gần đây mọi người đều ưu sầu, khiến tâm trạng ta cũng hậm hực.</Desc>
+<StoryDesc>Vì tràn đầy vẻ ưu sầu mà sầu mi khổ kiểm</StoryDesc>
+</Text>
+<Text Name="Weather_HarvestAir">
+<DisplayName>Mùa thu hoạch</DisplayName>
+<Desc>Mùa thu hoạch, rất vui vẻ.</Desc>
+<StoryDesc>Vì mùa thu hoạch mình chờ mong đã đến mà mặt mày tươi tắn</StoryDesc>
+</Text>
+<Text Name="Weather_Impetuous">
+<DisplayName>Gió mạnh</DisplayName>
+<Desc>Tâm tư gần đây rất nóng nảy, rất khó tĩnh tâm.</Desc>
+<StoryDesc>Vì bầu không khí nóng nảy mà vẻ mặt khó chịu</StoryDesc>
+</Text>
+<Text Name="Weather_Hail">
+<DisplayName>Mưa đá</DisplayName>
+<Desc>Mưa đá rồi.</Desc>
+<StoryDesc>Vì trời đổ mưa đá mà mặt ưu tư</StoryDesc>
+</Text>
+<Text Name="Weather_MouldRains">
+<DisplayName>Mưa dầm</DisplayName>
+<Desc>Mùa mưa dầm đến rồi.</Desc>
+<StoryDesc>Vì mưa dầm liên tục mà tràn đầy phiền não</StoryDesc>
+</Text>
+<Text Name="Weather_Drought">
+<DisplayName>Khô hạn</DisplayName>
+<Desc>Mùa khô hạn đến rồi.</Desc>
+<StoryDesc>Vì khô hạn liên tục mà mặt mày ưu tư</StoryDesc>
+</Text>
+<Text Name="Weather_Rainstorm">
+<DisplayName>Mưa như trút nước</DisplayName>
+<Desc>Mưa rơi xối xả.</Desc>
+<StoryDesc>Vì mưa rơi xối xả mà cảm thấy lo lắng</StoryDesc>
+</Text>
+<Text Name="Weather_Fohn">
+<DisplayName>Gió nồm</DisplayName>
+<Desc>Một cơn gió nồm đến.</Desc>
+<StoryDesc>Vì gió nồm đột kích mà xoa xoa gương mặt khô khan</StoryDesc>
+</Text>
+<Text Name="Weather_DustStorm">
+<DisplayName>Gió cát</DisplayName>
+<Desc>Một trận gió cát thổi đến.</Desc>
+<StoryDesc>Vì gió cát bay tứ tung mà họng đầy cát</StoryDesc>
+</Text>
+<Text Name="Weather_LingRarefiedWave">
+<DisplayName>Linh khí khô khan</DisplayName>
+<Desc>Một trận linh khí khô cạn tiến đến.</Desc>
+<StoryDesc>Vì linh khí khô cạn mà cảm thấy bất an</StoryDesc>
+</Text>
+<Text Name="Weather_LingUpWave">
+<DisplayName>Linh khí bạo phát</DisplayName>
+<Desc>Một trận linh khí bạo phát tiến đến.</Desc>
+<StoryDesc>Vì linh khí bạo phát mà cảm thấy vui sướng</StoryDesc>
+</Text>
+<Text Name="Weather_HeatWave">
+<DisplayName>Hạ nóng</DisplayName>
+<Desc>Hè nóng đến rồi, Nóng quá trời...</Desc>
+<StoryDesc>Vì hè nóng bức đột kích mà cảm thấy nóng lòng</StoryDesc>
+</Text>
+<Text Name="Weather_ColdWave">
+<DisplayName>Đông lạnh</DisplayName>
+<Desc>Đông lạnh đến rồi, lạnh quá...</Desc>
+<StoryDesc>Vì đông lạnh buông xuống mà cảm thấy bất an</StoryDesc>
+</Text>
+<Text Name="Weather_HeatWaveInWinter">
+<DisplayName>Luồng khí nóng</DisplayName>
+<Desc>Giữa trời đông, một dòng hơi ấm tiến đến, quá thoải mái...</Desc>
+<StoryDesc>Đang lười biếng duỗi eo trong dòng hơi ấm</StoryDesc>
+</Text>
+<Text Name="Weather_ColdWaveInSummer">
+<DisplayName>Gió mát</DisplayName>
+<Desc>Lúc giữa hè, một luồng gió mát thổi đến, quá thoải mái...</Desc>
+<StoryDesc>phát ra một tiếng thở dài thoải mái trong gió mát</StoryDesc>
+</Text>
+<Text Name="Weather_PermanentNight">
+<DisplayName>Vĩnh Dạ</DisplayName>
+<Desc>Vĩnh dạ phủ xuống.</Desc>
+<StoryDesc>Vì vĩnh dạ phủ xuống mà cảm thấy sợ hãi</StoryDesc>
+</Text>
+<Text Name="Weather_Miasma">
+<DisplayName>Chướng khí</DisplayName>
+<Desc>Một cổ chướng khí lan tràn ở gần đó.</Desc>
+<StoryDesc>Vì chướng khí lan tràn mà che miệng mũi</StoryDesc>
+</Text>
+<Text Name="Weather_LightningStorm">
+<DisplayName>Sấm chớp</DisplayName>
+<Desc>Một trận mưa bão đang hoành hành.</Desc>
+<StoryDesc>Vì mưa bão hoành hành mà khẩn trương vô cùng</StoryDesc>
+</Text>
+<Text Name="Weather_LuShu_SunnyDay">
+<DisplayName>Tiếng ca kỳ diệu</DisplayName>
+<Desc>Nghe được tiếng kêu của linh thú Lộc Thục, như một ca khúc dễ nghe, thật sự rất êm tai ~</Desc>
+<StoryDesc>Đang say mê trong tiếng kêu của linh thú Lộc Thục mà mặt mày toe toét</StoryDesc>
+</Text>
+<Text Name="Weather_SpringFestival">
+<DisplayName>Mừng xuân</DisplayName>
+<Desc>Không khí ngày lễ, làm người say mê.</Desc>
+<StoryDesc>Đang chìm đắm trong vui vẻ của ngày lễ</StoryDesc>
+</Text>
+<Text Name="Weather_ZuShiBiHu">
+<DisplayName>Tổ sư che chở</DisplayName>
+<Desc>Tổ sư hàng lâm bảo vệ, trong môn phái tiên khí ngập tràn.</Desc>
+<StoryDesc>Đang đắm chìm trong bầu không khí tiên giới hàng lâm</StoryDesc>
+</Text>
+</List>
+</Texts>

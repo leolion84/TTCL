@@ -1,0 +1,35 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="Item_Other_BingCanSi" sParam="Item">
+<ThingName>Băng tằm ti</ThingName>
+<Item.BeMaterial.NamePrefix>Băng tằm ti</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_BuZhiMing" sParam="Item">
+<ThingName>Vật liệu thần bí</ThingName>
+</Text>
+<Text Name="Item_Other_JinJing" sParam="Item">
+<ThingName>Tiên thiên canh tân kim tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên kim tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_MuJing" sParam="Item">
+<ThingName>Tiên thiên giáp ất mộc tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên mộc tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_ShuiJing" sParam="Item">
+<ThingName>Tiên thiên nhâm quý thủy tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên thủy tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_HuoJing" sParam="Item">
+<ThingName>Tiên thiên bính đinh hỏa tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên hỏa tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_TuJing" sParam="Item">
+<ThingName>Tiên thiên mậu kỷ thổ tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên thổ tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_Other_NoneJing" sParam="Item">
+<ThingName>Tiên thiên nguyên tinh</ThingName>
+<Item.BeMaterial.NamePrefix>Tiên thiên nguyên tinh</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

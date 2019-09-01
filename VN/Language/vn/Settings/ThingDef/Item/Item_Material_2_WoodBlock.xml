@@ -1,0 +1,27 @@
+﻿	<Texts Type="Thing">
+	<List>
+	<Text Name="WoodBlockBase" sParam="Item">
+	<Item.FabaoSuffix>Mộc, trụ, cái cọc</Item.FabaoSuffix>
+	</Text>
+	<Text Name="Item_RoughWoodBlock" sParam="Item">
+	<ThingName>Mộc liệu</ThingName>
+	<Desc>Mộc liệu chế từ Nguyên mộc, rất có hiệu quả khi dùng cho chế tạo.</Desc>
+	<Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
+	</Text>
+	<Text Name="Item_HardWoodBlock" sParam="Item">
+	<ThingName>Kim ti mộc liệu</ThingName>
+	<Desc>Mộc liệu chế từ Kim Ti Linh mộc, rất có hiệu quả khi dùng cho chế tạo.</Desc>
+	<Item.BeMaterial.NamePrefix>Tơ vàng Mộc</Item.BeMaterial.NamePrefix>
+	</Text>
+	<Text Name="Item_ParasolWoodBlock" sParam="Item">
+	<ThingName>Ngô đồng mộc liệu</ThingName>
+	<Desc>Mộc liệu chế từ Ngô Đồng Mộc, rất có hiệu quả khi dùng cho chế tạo.</Desc>
+	<Item.BeMaterial.NamePrefix>ngô đồng Mộc</Item.BeMaterial.NamePrefix>
+	</Text>
+	<Text Name="Item_LingWoodBlock" sParam="Item">
+	<ThingName>Linh mộc liệu</ThingName>
+	<Desc>Mộc liệu chế từ Linh mộc, rất có hiệu quả khi dùng cho chế tạo.</Desc>
+	<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+	</Text>
+	</List>
+	</Texts>

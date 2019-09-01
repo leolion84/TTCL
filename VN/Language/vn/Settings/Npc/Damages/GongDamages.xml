@@ -1,0 +1,121 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="SwordBallDamage">
+<DisplayName>Kiếm khí xé thể</DisplayName>
+</Text>
+<Text Name="XueGuLianXing">
+<DisplayName>Luyện tâm chú</DisplayName>
+</Text>
+<Text Name="Dan_Soul3_Damage">
+<DisplayName>Thần trí tổn hại</DisplayName>
+</Text>
+<Text Name="ZaoHuaYuLu_YuanShenJiMie">
+<DisplayName>Mất đi nguyên thần</DisplayName>
+</Text>
+<Text Name="SoulOutOfBrain">
+<DisplayName>Hồn phách không hợp</DisplayName>
+</Text>
+<Text Name="LostSoul">
+<DisplayName>Phong bế</DisplayName>
+</Text>
+<Text Name="Damage_GongXinYin_Damage">
+<DisplayName>Thần hồn trọng thương</DisplayName>
+</Text>
+<Text Name="Damage_TianDaoBenYuan1">
+<DisplayName>Thần hồn bị thương</DisplayName>
+</Text>
+<Text Name="Damage_Kidnap_MiHun">
+<DisplayName>Mê hồn thuật</DisplayName>
+</Text>
+<Text Name="Damage_TianDaoBenYuan2">
+<DisplayName>Mai một thần thức</DisplayName>
+</Text>
+<Text Name="DiffEnergyInvade">
+<DisplayName>Dị chủng chân khí</DisplayName>
+</Text>
+<Text Name="MeridianRupture">
+<DisplayName>Gãy</DisplayName>
+</Text>
+<Text Name="MeridianIncomplete">
+<DisplayName>Không trọn vẹn</DisplayName>
+</Text>
+<Text Name="ElixirFieldShock">
+<DisplayName>Đan điền chấn động</DisplayName>
+</Text>
+<Text Name="Damage_Boss_LingBoom">
+<DisplayName>Chân khí bạo tẩu</DisplayName>
+</Text>
+<Text Name="JieNanHuangu">
+<DisplayName>Nỗi đau hoán cốt</DisplayName>
+</Text>
+<Text Name="LingSpillsInjury_Sp">
+<DisplayName>Kinh mạch trọng thương</DisplayName>
+</Text>
+<Text Name="LingSpillsInjury">
+<DisplayName>Chân khí đại thương</DisplayName>
+</Text>
+<Text Name="SevereInjury">
+<DisplayName>Nguyên khí đại thương</DisplayName>
+</Text>
+<Text Name="Jin_ThunderDamage">
+<DisplayName>Sét đánh</DisplayName>
+</Text>
+<Text Name="Jin_BoneNail">
+<DisplayName>Gai xương</DisplayName>
+</Text>
+<Text Name="Jin_SwordLight1">
+<DisplayName>Kiếm khí nhập thể (Nhẹ)</DisplayName>
+</Text>
+<Text Name="Jin_SwordLight2">
+<DisplayName>Kiếm khí nhập thể (Nặng)</DisplayName>
+</Text>
+<Text Name="Mu_VitalityDevour1">
+<DisplayName>Mỗi hơi thở đều giày vò (Nhẹ)</DisplayName>
+</Text>
+<Text Name="Mu_VitalityDevour2">
+<DisplayName>Mỗi hơi thở đều giày vò (Nặng)</DisplayName>
+</Text>
+<Text Name="Mu_Failure">
+<DisplayName>Suy kiệt</DisplayName>
+</Text>
+<Text Name="Mu_Corrosion">
+<DisplayName>Mục nát</DisplayName>
+</Text>
+<Text Name="Mu_Parasitic">
+<DisplayName>Ký sinh</DisplayName>
+</Text>
+<Text Name="Shui_Frostbite">
+<DisplayName>Thương do lạnh</DisplayName>
+</Text>
+<Text Name="Shui_ColdBlood">
+<DisplayName>Hàn mạch</DisplayName>
+</Text>
+<Text Name="Shui_ColdPoison">
+<DisplayName>Hàn độc</DisplayName>
+</Text>
+<Text Name="Huo_VisceralBurn">
+<DisplayName>Đốt nội</DisplayName>
+</Text>
+<Text Name="Huo_BurnOfPain">
+<DisplayName>Phỏng</DisplayName>
+</Text>
+<Text Name="Huo_MarrowDry">
+<DisplayName>Chứng khô tủy</DisplayName>
+</Text>
+<Text Name="Huo_HeartBurn">
+<DisplayName>Đốt tâm</DisplayName>
+</Text>
+<Text Name="Tu_Weathering">
+<DisplayName>Phong hóa</DisplayName>
+</Text>
+<Text Name="Tu_Petrifaction1">
+<DisplayName>Xơ cứng (Nhẹ)</DisplayName>
+</Text>
+<Text Name="Tu_Petrifaction2">
+<DisplayName>Xơ cứng (Nặng)</DisplayName>
+</Text>
+<Text Name="Tu_BrainClose">
+<DisplayName>Chứng khóa thần</DisplayName>
+</Text>
+</List>
+</Texts>

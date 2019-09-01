@@ -1,0 +1,600 @@
+﻿<Helps><List>
+<Help Name="1">
+<Title>Tóm lược căn bản</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="2">
+<Title>Giao diện nhân vật</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="3">
+<Title>Công việc ngoại môn</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="4">
+<Title>Công trình và phòng ốc</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="5">
+<Title>Phong thủy ngũ hành</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="6">
+<Title>Tu luyện nội môn</Title>
+<Text>[img]ui/Help/001[/img]</Text>
+</Help>
+<Help Name="11" Root="1">
+<Title>Khái niệm về trò chơi</Title><!--cần một trương khái quát tính Đồ-->
+<Text>
+<![CDATA[[img]ui/Help/002[/img]
+《Tu Tiên Chi Lộ》là một cái có được Roguelike yếu tố dung hợp sinh tồn, sắm vai nhân vật, mô phỏng kinh doanh và chiến lược.
+Ở trong trò chơi, Người chơi  đem Tòng Thượng Đế thị giác chỉ dẫn Nhân vật sinh tồn sản xuất cũng thành lập môn phái của mình, sau đó đột phá tầng tầng trắc trở phi thăng thành tiên. Vì vậy, bạn có thể cung cấp vai trò macro[color=#2E589A] ra lệnh mang tính phương hướng[/color], nhân vật sẽ dựa theo kế hoạch làm việc của mình đi thực hiện. Cho nên dưới đại đa số tình huống, bạn không thể trực tiếp khống chế nhân vật đi làm việc gì.
+Với[color=#2E589A] người ngoài cuộc[/color] thân phận chăm sóc mỗi một hỉ nộ bi hoan của nhân vật, đây vốn là chỗ thú vị của trò chơi.
+]]>
+</Text>
+</Help>
+<Help Name="12" Root="1">
+<Title>Thao tác cơ bản</Title><!--dùng đá chồng chất làm Na ba tấm Đồ liền tốt-->
+<Text>
+<![CDATA[
+[color=#9e6404] Di chuyển tầm nhìn[/color]
+Thông qua nút cuộn chuột, hoặc thông qua WASD hoặc là ↑↓←→ Phạm vi tầm nhìn khi di chuyển.
+[img]ui/Help/003[/img]
+[color=#9e6404] Tốc độ trò chơi[/color]
+Thông qua nút khống chế tốc độ trò chơi ở góc trên bên trái.
+Bốn nút lần lược là: Tạm dừng (Phím nhanh space); gấp một tốc độ; gấp hai tốc độ; gấp ba tốc độ (sử dụng Q khóa Giảm tốc độ trò chơi, E khóa Gia tăng tốc độ trò chơi)
+[img]ui/Help/004[/img]
+[color=#9e6404] Chọn và hủy[/color]
+Chuột trái để chọn. Chuột phải để hủy.
+[img]ui/Help/005[/img]
+]]>
+</Text>
+</Help>
+<Help Name="13" Root="1">
+<Title>Phím nhanh</Title><!--dùng đá chồng chất làm Na ba tấm Đồ liền tốt-->
+<Text>
+<![CDATA[
+[color=#9e6404] Xin kiểm tra【 Hệ thống-Tự thiết lập phím nhanh】Cửa sổ [/color]
+]]>
+</Text>
+</Help>
+<Help Name="21" Root="2">
+<Title>Giao diện nhân vật</Title>
+<Text>
+<![CDATA[
+[img]ui\Help2\001[/img]
+Giao diện nhân vật chủ yếu biểu hiện trạng thái của nhân vật, có thể xem xét[color=#D06508] độ đói[/color],[color=#D06508] chỉ số linh khí[/color],[color=#D06508] giá trị cảm xúc[/color] vân vân các số liệu trạng thái cơ bản.
+Góc trên bên trái bảng nhân vật có nút liên quan đến chiến đấu, có thể cho nhân vật phát động công kích / lệnh thoát chiến.
+Phía trên bảng nhân vật là nút tương tác, có thể phát lệnh tương tác riêng biệt cho nhân vật.
+Bên phải bảng nhân vật là thần thông / Thuật pháp (Trạng thái chiến đấu) bảng, có thể kiểm tra ở đây, phóng ra Thần Thông / Thuật pháp.
+]]>
+</Text>
+</Help>
+<Help Name="22" Root="2">
+<Title>Thuộc tính cơ bản</Title><!--Lục Mang Tinh Đồ-->
+<Text>
+<![CDATA[
+Thần thức: Năng lực dò xét cùng phản hồi đối với ngoại giới, ảnh hưởng tầm nhìn nhân vật, cùng hiệu suất thuộc tính của công việc cần sự tinh tế.
+Căn cốt: Sức chống đỡ của nhân vật, ảnh hưởng nhân vật tuổi thọ, chống đỡ lạnh chống đỡ nóng, cùng với hiệu suất của các thuộc tính có liên quan đến thể lực.
+Mị lực: Năng lực thu hoạch hảo cảm của người khác, bao gồm dung mạo bên ngoài cùng khí chất bên trong, ảnh hưởng năng lực xã giao.
+Ngộ tính: Năng lực suy nghĩ, ảnh hưởng tốc độ học tập của nhân vật.
+Khí vận: Mức độ nhân vật được trời cao chiếu cố, ảnh hưởng các thuộc tính liên quan đến xác suất.
+Tiềm lực: Thuộc tính ngũ duy của nhân vật càng cao, tuổi tác càng nhỏ, thì tiềm lực càng cao. Tiềm lực quyết định tốc độ trúc cơ của nhân vật.
+[img]ui/Help/006[/img]
+]]>
+</Text>
+</Help>
+<Help Name="23" Root="2">
+<Title>Tâm trạng và nhu cầu</Title><!--Cảm xúc Giao diện Đồ-->
+<Text>
+<![CDATA[
+Thông thường mà nói, nhu cầu của nhân vật thông qua tâm trạng để thông báo cho người chơi. Như Nhân vật nếu có"Cảm thấy Lạnh" Cảm xúc, vậy có nghĩa là nhân vật cần phương pháp chống lạnh có hiệu quả hơn.
+Người chơi có thể thông qua bảng nhân vật[color=#2E589A] Cảm xúc và xã giao[/color] để quan tâm đến tâm trạng nhân vật.
+Người chơi nên quan tâm đến tâm trạng của nhân vật. Khi tâm trạng nhân vật xuống thấp, sẽ dẫn ra hàng loạt vấn đề.
+Đối với đệ tử ngoại môn mà nói, tâm trạng thấp sẽ khiến bọn họ[color=#2E589A] lười biếng[/color], cũng tích lũy bất mãn. Chồng chất nhiều bất mãn có khả năng sẽ gây ra bỏ trốn.
+[img]ui/Help/007[/img]
+]]>
+</Text>
+</Help>
+<Help Name="24" Root="2">
+<Title>Quan hệ xã giao</Title>
+<Text>
+<![CDATA[
+Nhân vật sẽ nảy sinh đủ loại quan hệ với người khác trong môn phái: Bằng hữu, Người yêu, Tình địch, vân vân.
+Dựa theo quan hệ bất đồng, nhân vật sẽ có tương tác bất đồng: Song phương quan hệ tốt sẽ tâm sự với nhau, quan hệ không tốt sẽ mắng chửi nhau, thậm chí gạ kèo solo Yasuo.
+Vì vậy, duy trì sự hài hòa giữa các thành viên môn phái rất quan trọng.
+Người chơi có thể thông qua bảng nhân vật[color=#2E589A] Cảm xúc và xã giao[/color] để quan tâm quan hệ xã giao của nhân vật.
+Nhân vật ăn cơm với nhau trên bàn có thể tăng tiến cảm tình, Người chơi  có thể Sử dụng cái này Nhất quy luật gắn bó Môn phái Thành viên quan hệ trong đó.
+[img]ui/Help/007[/img]
+]]>
+</Text>
+</Help>
+<Help Name="25" Root="2">
+<Title>Trạng thái sức khỏe</Title>
+<Text>
+<![CDATA[
+Người chơi có thể thông qua bảng nhân vật[color=#2E589A] sức khỏe[/color] để quan tâm trạng thái sức khỏe của nhân vật.
+[color=#9e6404] Thương thế của ngoại môn[/color]
+[img]ui\Help2\032[/img]
+Khi nhân vật ngoại môn bị thương, dưới tiền đề có dược vật để xử lý, nhân vật phụ trách chữa bệnh sẽ tự động đến trị liệu.
+Tốc độ hồi phục thương thế của ngoại môn và[color=#D06508] sức khôi phục của người bị thương[/color],[color=#D06508] y thuật cao thấp của người trị liệu[/color],[color=#D06508] thuốc dùng trị liệu[/color] đều có liên quan. Nếu sau khi trị liệu mà thương thế không chuyển biến tốt, xin thử cải thiện những điều kiện trên.
+[color=#9e6404] Thương thế của nội môn[/color]
+[img]ui\Help2\033[/img]
+Theo quá trình xúc tiến trò chơi, người chơi có thể vì dị chủng chân khí nhập thể mà bị thương. Dị chủng chân khí gây ra thương thế không thể dựa vào dược vật để khôi phục, phải thông qua lò luyện đan luyện chế[color=#D06508] đan dược phù hợp[/color], đưa cho người bị thương dùng mới có thể hóa giải thương thế.
+Tốc độ hồi phục thương thế do dị chủng chân khí gây ra có liên quan đến[color=#D06508] sức khôi phục của người bị thương[/color],[color=#D06508] hiệu quả đan dược[/color] có liên quan đến nhau. Nếu sau khi sử dụng đan dược thương thế không chuyển biến tốt, xin thử cải thiện những yếu tố trên.
+[color=#9e6404] Chức năng[/color]
+Giữa phân trang sức khỏe, người chơi có thể kiểm tra chức năng của nhân vật có hoạt động khỏe mạnh hay không. Chức năng thì quyết định Nhân vật tại Thực hiện tới tương quan Hành vi Thì hiệu suất.
+Đau đớn: Mức độ đau đớn nhân vật cảm nhận được, đau đớn sẽ ảnh hưởng các chức năng liên quan đến ý thức. Nhân vật khác nhau sức chịu đựng đau đớn khác nhau. Có thể thông qua Chi Thống Dược để ức chế cơn đau.
+Ý thức: Mức độ tỉnh táo của nhân vật, đại não bị thương hoặc đau đớn quá độ đều ảnh hưởng đến ý thức.
+Kinh mạch: Mức độ kinh mạch thông suốt của nhân vật, kinh mạch ảnh hưởng hành vi liên quan đến chức năng tu luyện của nhân vật, mà còn ảnh hưởng đến linh khí tối đa.
+Di chuyển: Năng lực di chuyển của nhân vật, đôi chân và cột sống bị thương sẽ ảnh hưởng đến di chuyển. Di chuyển ảnh hưởng đến hiệu suất đa số công việc của nhân vật, mà còn ảnh hưởng tốc độ di chuyển.
+Thân thủ: Năng lực làm việc của nhân vật, hai tay và cột sống bị thương sẽ ảnh hưởng thân thủ. Thân thủ ảnh hưởng đến hiệu suất đa số công việc của nhân vật.
+Cảm giác: Năng lực nhận thức thế giới bên ngoài của nhân vật, mắt và tai bị thương sẽ ảnh hưởng nhận thức. Nhận thức ảnh hưởng hiệu suất đa số công việc của nhân vật, mà còn ảnh hưởng phạm vi tầm nhìn.
+[img]ui/Help/008[/img]
+]]>
+</Text>
+</Help>
+<Help Name="31" Root="3">
+<Title>Kế hoạch làm việc</Title>
+<Text>
+<![CDATA[
+Người chơi có thể thông qua góc phải dưới[color=#2E589A] Công việc[/color] bảng để sắp xếp công việc cho nhân vật.
+Nhân vật Hội chiếu theo Tòng Trái hướng Phải Cấp độ ưu tiên đi chính hoàn thành Công việc. Nếu như trong bảng làm việc không có chọn công việc, như vậy nhân vật sẽ không chấp hành nhiệm vụ này.
+Vì vậy, Khoa học sử dụng Bảng phân công việc có thể để môn phái vận hành càng cao hơn hiệu.
+[img]ui/Help/009[/img]
+[color=#9e6404] đặc biệt quan tâm[/color]
+Nhân vật sẽ đi hoàn thành nhiệm vụ có độ ưu tiên cao.
+[img]ui/Help/010[/img]
+[color=#9e6404] Quy hoạch thời gian của đệ tử ngoại môn[/color]
+Ở đây đại thể quy hoạch tiết tấu hành vi của đệ tử ngoại môn, hợp lý an bài thời gian quy hoạch có thể để Nhân vật tại sinh ra không tốt Cảm xúc trước đó, hợp lý bổ sung thực phẩm, uống nước hoặc đi ngủ.
+[img]ui/Help/011[/img]
+]]>
+</Text>
+</Help>
+<Help Name="32" Root="3">
+<Title>Lệnh xây dựng</Title>
+<Text>
+<![CDATA[
+[img]ui/Help/012[/img]
+Người chơi có thể thông qua Menu công trình góc trái dưới để đưa ra lệnh xây dựng.
+Theo quá trình chơi game, sẽ mở khóa thêm công trình.
+Tự do sắp xếp công trình, xây dựng môn phái độc nhất vô nhị của chính bạn.
+]]>
+</Text>
+</Help>
+<Help Name="33" Root="3">
+<Title>Lệnh căn bản</Title>
+<Text>
+<![CDATA[
+Người chơi  Có thể dùng phía dưới cùng Mệnh lệnh liệt đến tuyên bố cơ bản Lệnh căn bản.
+Lệnh thu thập có thể nhờ thao tác kéo thả để phát lệnh thu thập theo số lượng.
+Thu hoạch: Thu thập trái cây trong phạm vi, các sản vật lương thực thực vật.
+Chặt cây: Chặt cây cối trong phạm vi.
+Khai thác: Khai thác nham thạch khoáng vật trong phạm vi.
+Dọn dẹp: Dọn dẹp sạch sẽ thảm thực vật trong phạm vi.
+Dỡ bỏ: Dỡ bỏ công trình trong phạm vi.
+Thăm dò: Cắm một cái cột cho đi thăm dò, nhân vật sẽ đi tới vị trí mục tiêu, để xua tan sương mù dày đặc.
+Dập lửa: Dập lửa trong phạm vi.
+Huỷ bỏ: Hủy bỏ lệnh đã đưa ra.
+[img]ui/Help/013[/img]
+]]>
+</Text>
+</Help>
+<Help Name="34" Root="3">
+<Title>Lệnh sản xuất</Title>
+<Text>
+<![CDATA[
+Một bộ phận công trình có thể sản xuất vật phẩm, thông qua nút tương tác Sản Xuất của công trình để mở giao diện sản xuất.
+Trong giao diện sản xuất, Trái khóa Nhấn vào sản phẩm liền có thể đem nên sản phẩm gia nhập vào đội sản xuất trong hàng.
+[img]ui/Help/014[/img]
+[color=#9e6404] Lựa chọn tài liệu chính[/color]
+Trong giao diện sản xuất, Có thể chuột phải vào sản phẩm, để lựa chọn nguyên liệu chính chế tác vật phẩm này.
+[img]ui/Help/017[/img]
+[color=#9e6404] Chế tạo tuần hoàn[/color]
+Trong giao diện sản xuất, có thể Trái khóa Nhấn vào đối với đội sản xuất trong hàng Tuần hoàn nút bấm đến Lựa chọn nên sản phẩm Tuần hoàn phương thức.
+[img]ui/Help/016[/img]
+[color=#9e6404] Điều chỉnh hàng ngũ[/color]
+Trong giao diện sản xuất, có thể Trái khóa Nhấn vào đối với đội sản xuất trong hàng Ưu tiên nút bấm lai sứ nên nhiệm vụ Ưu tiên.
+[img]ui/Help/015[/img]
+]]>
+</Text>
+</Help>
+<Help Name="35" Root="3">
+<Title>Lệnh tương tác</Title>
+<Text>
+<![CDATA[
+Khi lựa chọn nhân vật, Nhân vật cột phía trên Hội sắp xếp ra nên Nhân vật có thể tiến hành Lệnh tương tác.
+Người chơi có thể lựa chọn lệnh tương tác, sau đó Lựa chọn tương tác người yêu đến đối với nên Nhân vật tuyên bố Nhất Cái minh xác tương tác chỉ lệnh.
+Lệnh tương tác có bao quát nhưng giới hạn trong những loại dưới đây:
+Ăn: Ăn một món gì đó.
+Trang bị đạo cụ: Trang bị vật gì đó.
+Công kích: Tấn công sinh vật nào đó.
+Luyện bảo: Thử luyện chế vật phẩm gì đó thành pháp bảo.
+[img]ui/Help/018[/img]
+]]>
+</Text>
+</Help>
+<Help Name="36" Root="3">
+<Title>Quy hoạch khu vực</Title>
+<Text>
+<![CDATA[
+Theo quá trình xúc tiến trò chơi, người chơi có thể quy hoạch khu nhà chứa, Nông điền, Dược điền ba loại khu vực.
+[color=#9e6404] Khu dự trữ[/color]
+[img]ui\Help2\021[/img]
+Sau khi người chơi quy hoạch một khu nhà kho, phụ trách Vận chuyển Nhân vật liền sẽ đem thỏa mãn Khu dự trữ cất giữ điều kiện Vật phẩm Vận chuyển đến Khu dự trữ Trung.
+Người chơi  có thể chọn trúng một mảnh Khu dự trữ đến thiết lập nên Khu dự trữ tuyển chọn quy tắc, có thể tiến hành phân loại vật chứa, tiện lợi tìm kiếm vật phẩm.
+[color=#9e6404] Nông điền cùng Dược điền[/color]
+[img]ui\Help2\019[/img]
+Sau khi người chơi quy hoạch xong một khu ruộng, nhân vật phụ trách trồng trọt sẽ đến đây thực hiện nhiệm vụ.
+Người chơi có thể lựa chọn một khu ruộng, để thiết lập khu vực phải trồng trọt cái gì. Khi xây dựng hoàn cảnh thích hợp để trồng trọt, có thể nhân lên tốc độ sinh trưởng cho cây trồng.
+[img]ui\Help2\018[/img]
+[color=#9e6404] Mở rộng khu vực[/color]
+Khi người chơi click kéo một khu vực đã có sẵn, có thể mở rộng khu vực đã có.
+]]>
+</Text>
+</Help>
+<Help Name="41" Root="4">
+<Title>Lựa chọn vật liệu chính</Title>
+<Text>
+<![CDATA[
+Khi xây dựng công trình, thông thường có thể lựa chọn[color=#2E589A] Tài liệu chính[/color] khác nhau để tiến hành xây dựng.
+Nguyên liệu chính khác nhau sẽ làm công trình có màu sắc khác nhau. Công trình sẽ kế thừa thuộc tính của nguyên liệu chính, và nắm giữ đặc chất khác nhau.
+[img]ui/Help/019[/img]
+[color=#9e6404] Ví dụ:[/color]
+Sử dụng sắt làm tường, ngũ hành sẽ thuộc hệ Kim, so với tường gỗ sẽ kiên cố hơn, lại không dễ bị cháy.
+Sử dụng Ngọc thạch để chế tạo gia cụ, ngũ hành sẽ thuộc hệ Thổ, so với vật liệu khác dù không đủ kiên cố và bền, nhưng sẽ có độ mỹ quan rất cao.
+[img]ui/Help/020[/img]
+]]>
+</Text>
+</Help>
+<Help Name="42" Root="4">
+<Title>Công trình Điểm công tác</Title>
+<Text>
+<![CDATA[
+Có những công trình cần tương tác với nhân vật, cho nên công trình đó có điểm công tác.
+Lúc đặt công trình, lưu ý chừa chỗ trống cho điểm công tác.
+[img]ui/Help/021[/img]
+]]>
+</Text>
+</Help>
+<Help Name="43" Root="4">
+<Title>Gian phòng</Title>
+<Text>
+<![CDATA[
+Bị tường và cửa làm thành một không gian kín sẽ hình thành một gian phòng.
+Gian phòng nhỏ nhất cần[color=#2E589A]3 ô[/color] diện tích, lớn nhất không thể vượt quá[color=#2E589A]400 ô[/color] diện tích.
+Khổ gian phòng chia làm những đơn vị dưới
+Cực nhỏ : 10 ô trở xuống
+Nhỏ hẹp : 10 ô-20 ô
+Vừa phải : 20 ô-50 ô
+Rộng lớn : 50 ô-100 ô
+Cực lớn: 100 ô trở lên
+Bên trong gian phòng, nhiệt lượng sẽ bị tường ngăn cách với bên ngoài. Vì vậy Có thể dùng điều chỉnh bên trong căn phòng nguồn nhiệt đến đạt thành nghỉ mát hoặc chống lạnh.
+Gian phòng có giữ một vài thuộc tính, như hình sau:
+[img]ui/Help/022[/img]
+Có thể thông qua lót sàn nhà, xây dựng gia cụ vân vân, để tối ưu hóa đánh giá gian phòng.
+]]>
+</Text>
+</Help>
+<Help Name="51" Root="5">
+<Title>Tóm tắt ngũ hành</Title>
+<Text>
+<![CDATA[
+Sau khi thành lập môn phái có thể mở khóa công trình:[color=#2E589A] Quan tinh đài[/color].
+[img]ui/Help/023[/img]
+Thành lập Quan tinh đài Hậu liền có thể Kiểm tra  Tràng cảnh  Trung cánh đồng Phân bố ngũ hành, ảnh hưởng của đơn vị đối với ngũ hành, cùng với phong thủy của công trình.
+[color=#9e6404] Phân bố ngũ hành[/color]
+Di chuyển con chuột đến một vị trí, trong màn hình phía trên Phân bố ngũ hành Đồ liền biểu thị nên vị trí Ngũ Hành phân bố.
+[img]ui/Help/024[/img]
+[color=#9e6404] Đơn vị ngũ hành[/color]
+Dùng chuột trái lựa chọn một (Công trình, Thực vật, hoặc vật phẩm). Nếu đơn vị sản sinh ảnh hưởng ngũ hành với xung quanh, đơn vị sẽ hiện ra hào quang với đơn vị là trung tâm.
+Màu sắc của hào quang thay mặt cho ngũ hành, phạm vi màu sắc của hào quang thay mặt cho phạm vi ảnh hưởng.
+[color=#9e6404] Đơn vị ngũ hành[/color]
+Nếu như phong thủy của công trình tốt, màu sắc sẽ biến xanh, phong thủy càng tốt, xanh càng xanh, nghĩa là Cát.
+Nếu phong thủy công trình không tốt, màu sắc sẽ biến vàng, phong thủy càng kém, màu vàng sẽ biến thành đỏ, nghĩa là Hung.
+Mà công trình có chữ Vô (ví dụ tường), thì có nghĩa là công trình này thuộc về công trình mang tính trang trí, không có khái niệm phong thủy.
+Quan hệ tương sinh tương khắc của ngũ hành như hình sau:
+[img]ui/Help/025[/img]
+]]>
+</Text>
+</Help>
+<Help Name="52" Root="5">
+<Title>Tu luyện và ngũ hành</Title>
+<Text>
+<![CDATA[
+Tu luyện của nhân vật chung một nhịp thở với ngũ hành. Nói tóm lại, công pháp nhân vật tu luyện sẽ nắm giữ một thuộc tính ngũ hành.
+Khi nhân vật tu luyện công pháp, hoàn cảnh tu luyện của nhân vật khắc chế ngũ hành của công pháp, như vậy tu luyện của hắn sẽ làm nhiều mà không được bao nhiêu. Thậm chí còn đột phá bình cảnh thất bại, thụ thương, tẩu hỏa nhập ma.
+Ngược lại, nếu nhân vật tu luyện trong hoàn cảnh tương sinh, tu luyện của nhân vật sẽ làm ít hưởng nhiều, cũng dễ dàng đột phá bình cảnh.
+[img]ui/Help/026[/img]
+[color=#9e6404] với Thủy thuộc tính Công Pháp< Thái Hòa Thập Lục Động Thiên >làm ví dụ:[/color]
+Vì Thổ khắc Thủy, nên công pháp không thích hợp tu luyện giữa hoàn cảnh hệ Thổ: Bởi vậy tránh sử dụng vật liệu đá chế tạo gia cụ gian phòng.
+Vì Kim sinh Thủy, nên công pháp thích hợp tu luyện ở hoàn cảnh hệ Kim: Có thể đặt nhiều gia cụ hệ kim trong phòng.
+]]>
+</Text>
+</Help>
+<Help Name="53" Root="5">
+<Title>Phong thủy và ngũ hành</Title>
+<Text>
+<![CDATA[
+Hệ thống phong thủy miêu tả trình độ hòa hợp của công trình và hoàn cảnh, mà trình độ hòa hợp này, trò chơi sử dụng[color=#2E589A] ngũ hành tương sinh tương khắc[/color] đến ví dụ:
+Khi Nhất Cái công trình kiến trúc Ngũ Hành cùng sở tại địa Ngũ Hành Không thích hợp lúc, phong thủy sẽ kém; ngược lại, phong thủy sẽ tốt.
+[color=#9e6404] Lấy gỗ chế tạo bàn làm ví dụ:[/color]
+Nếu gần đó có một đống quặng sắt, vì Kim khắc Mộc, phong thủy của cái bàn sẽ bị ảnh hưởng, trở nên không tốt.
+[img]ui/Help/036[/img]
+Nếu như chế tạo một giếng nước ở bên cạnh bàn, vì Thủy sinh Mộc, phong thủy của bàn sẽ biến thành không tệ.
+[img]ui/Help/035[/img]
+]]>
+</Text>
+</Help>
+<Help Name="54" Root="5">
+<Title>Phong thủy công trình</Title>
+<Text>
+<![CDATA[
+Công trình có thể chia làm hai loại:
+[color=#9e6404]1. Công trình loại trang trí[/color]
+Nói tóm lại,[color=#2E589A] Trang trí[/color],[color=#2E589A] Kết cấu[/color],[color=#2E589A] Sàn nhà[/color] đại thể là thuộc về loại này.
+Trang trí hình Công trình Hội căn cứ Tài liệu chính đến ảnh hưởng chung quanh Môi trường Phân bố ngũ hành.
+Công trình trang trí không có khái niệm phong thủy tốt xấu, chúng thường dùng để thay đổi phân bố ngũ hành của khu vực, lấy nó để điều tiết phong thủy các công trình chức năng.
+[color=#9e6404]2. Công trình loại chức năng[/color]
+Nói tóm lại,[color=#2E589A] Sinh hoạt[/color],[color=#2E589A] Công việc[/color],[color=#2E589A] Môn phái[/color],[color=#2E589A] Tiêu khiển[/color] đại thể là thuộc về loại này.
+Công trình loại chức năng có khái niệm phong thủy, ở công trình chức năng tip bên trên, sẽ có"Công trình phong thủy" chữ (như hình sau).
+Công trình loại chức năng Phong thủy Hội theo vị trí chỗ ở Phân bố ngũ hành biến hóa mà thay đổi. Thuộc tính ngũ hành của công trình càng xứng đôi với địa điểm công trình, phong thủy sẽ càng tốt.
+[img]ui/Help/038[/img]
+]]>
+</Text>
+</Help>
+<Help Name="55" Root="5">
+<Title>Phong thủy gian phòng</Title>
+<Text>
+<![CDATA[
+Phong thủy gian phòng do ba nhân tố bên dưới quyết định:
+Nhất: Phong thủy của tất cả các công trình trong phòng.
+Nhị: Bố cục gian phòng (Chen chúc / trống trải đều ảnh hưởng phong thủy).
+Tam: Dựa vào chức năng khác nhau của gian phòng, hướng đặt cửa cũng ảnh hưởng phong thủy:
+Ngồi bắc hướng về nam: Phòng ngủ, Tổ sư điện.
+Ngồi tây hướng về đông: Công xưởng, Luyện bảo các, Phòng luyện đan.
+Ngồi đông hướng về tây: Phòng bếp.
+Phòng trống không có phong thủy.
+Làm một phòng có nhiều loại hình thì, giá trị thấp nhất của phong thủy các loại đó quyết định phong thủy của gian phòng.
+Khi người chơi xây dựng Quan Tinh Đài, có thể kiểm tra cụ thể phong thủy tại Bàn Phong Thủy.
+[img]ui/Help/037[/img]
+Tình huống đặc thù:
+Khi gian phòng có nhiều cánh cửa, nguyên tắc đánh giá phong thủy như sau:
+Lấy gian phòng không có phong thủy làm ví dụ.
+1. Khi chỉ có một cánh cửa thông ra ngoài thì, dựa theo hướng của cánh cửa đó để đánh giá.
+2. Có hơn hai cánh cửa cùng thông ra ngoài thì, sẽ dẫn đến phong thủy bị tiết ra ngoài, ảnh hưởng nghiêm trọng tới phong thủy của gian phòng.
+3. Khi có cửa ở mọi hướng, cánh cửa thích hợp nhất sẽ quyết định phong thủy của gian phòng.
+]]>
+</Text>
+</Help>
+<Help Name="56" Root="5">
+<Title>Phong thủy môn phái</Title>
+<Text>
+<![CDATA[
+Bên trong môn phái tất cả Phong thủy gian phòng cùng Cái khác đơn độc Công trình Phong thủy cộng đồng quyết định Phong thủy môn phái.
+Phong thủy môn phái sẽ ảnh hưởng đến vận thế của các đệ tử, có tác dụng nhưng không quá rõ ràng, nhưng ở thời khắc then chốt, thậm chí quyết định đến sống chết.
+Phong thủy môn phái có thể kiểm tra trong giao diện môn phái. Sau khi xây dựng Quan Tình Đài, cũng có thể trực tiếp kiểm tra ở Bàn phong thủy ở góc trái trên.
+[img]ui/Help/039[/img]
+]]>
+</Text>
+</Help>
+<Help Name="61" Root="6">
+<Title>Chế độ tu luyện</Title>
+<Text>
+<![CDATA[
+Khi có nhân vật tiến vào nội môn, có thể lựa chọn chế độ hành vi cho nhân vật như hình dưới.
+[img]ui\Help\028[/img]
+[color=#9e6404]1. Tự động[/color]
+Nhân vật sẽ dựa theo chế độ thiếp lập sẵn để tiến hành tu luyện toàn diện.
+[color=#9e6404]2. Tu hành[/color]
+Lấy mục tiêu là tăng cảnh giới tu hành, nhân vật sẽ tập trung tu luyện công pháp, có thể nhanh chóng thu được tu vi.
+[color=#9e6404]3. Điều Tâm[/color]
+Lấy mục tiêu là khôi phục tâm cảnh, nhân vật sẽ tập trung điều chỉnh tâm cảnh của mình.
+[color=#9e6404]4. Luyện công[/color]
+Lấy mục tiêu là tu luyện kỹ năng, có thể nhanh chóng thu được điểm lĩnh hội.
+]]>
+</Text>
+</Help>
+<Help Name="62" Root="6">
+<Title>Tốc độ tu luyện</Title>
+<Text>
+<![CDATA[
+Người chơi có thể kiểm tra tốc độ tu luyện của nhân vật trên giao diện tu luyện.
+Chú ý Tốc độ tu luyện ấn tượng thừa số cũng thử cải thiện những này tham số có thể để Tu luyện trở nên làm ít công to.
+[color=#9e6404]1. Công pháp thích hợp[/color]
+Mức độ thích hợp của ngũ duy đối với công pháp, có thể thông qua vài phương pháp để điều chỉnh hoặc nâng cao ngũ duy.
+[color=#9e6404]2. Ngũ hành tương xứng[/color]
+Mức độ thích hợp của công pháp cùng ngũ hành tại địa điểm tu luyện, có thể lựa chọn địa điểm càng thích hợp để đề cao.
+[color=#9e6404]3. Sư đồ gia tăng[/color]
+Nếu nhân vật có sư phụ chỉ điểm, mà cảnh giới tu luyện thấp hơn sư phụ. Tốc độ tu luyện sẽ đề cao. Sư phụ và nhân vật cùng luyện một công pháp, trợ giúp sẽ càng cao.
+[color=#9e6404]4. Gia tăng % linh khí[/color]
+Mật độ linh khí tại địa điểm tu hành, có thể lựa chọn địa điểm tu luyện càng thích hợp hơn để đề cao.
+[color=#9e6404]5. Thoải mái dễ chịu gia tăng[/color]
+Các phương tiện tu hành (Giường đơn / các loại bồ đoàn) có sự trợ giúp đối với tu luyện, có thể đề cao thông qua vật liệu có nhiều linh khí để chế tạo.
+[color=#9e6404]6. Hệ số thời tiết[/color]
+Sự trợ giúp của mùa đối với tu hành. Xuân hệ Mộc, Hè hệ Hỏa, Thu hệ Kim, Đông hệ Thủy, ngày cuối mỗi quý thuộc hệ Mộc.
+[color=#9e6404]7. Cảm xúc gia tăng[/color]
+Sự trợ giúp của tâm trạng đối với tu luyện, có thể đề cao thông qua thỏa mãn nhu cầu của nhân vật.
+[color=#9e6404]8. Gia tăng tâm cảnh[/color]
+Sự trợ giúp của tâm cảnh đối với tu luyện, có thể đề cao thông qua Điều Tâm.
+[img]ui/Help/027[/img]
+Sau khi người chơi tu luyện đến cảnh giới Kim Đan, tu vi cần để gia tăng cảnh giới sẽ nhiều hơn, lúc này phải cố lợi dụng các loại thần thông nhập định để tăng nhanh tu vi.
+[img]ui/Help/040[/img]
+]]>
+</Text>
+</Help>
+<Help Name="63" Root="6">
+<Title>Tinh nguyên và tu luyện</Title>
+<Text>
+<![CDATA[
+Sau khi nhân vật tiến vào nội môn, sẽ tăng thêm một nhu cầu Tinh Nguyên. Nhân vật tu luyện sẽ tiêu hao tinh nguyên , lập tức có thể luyện tinh hóa khí , Đề cao tối đa linh khí.
+Tốc độ tiêu hao tinh nguyên liên quan đến tốc độ tu hành , hiệu suất tinh nguyên chuyển hóa thành linh khí liên quan đến tiềm lực nhân vật .
+Bổ sung tinh nguyên đến từ tiêu hao thức ăn , mỗi khi nhân vật tiêu hao thức ăn một mức nhất định , đều sẽ tinh luyện ra tinh nguyên .
+Theo tu vi tăng tiến, mặc dù sẽ đề cao tốc độ tiêu hao thức ăn , nhưng cũng đồng thời nhận được năng lực ăn sương uống khí từ thiên địa , hấp thu năng lượng bổ sung thức ăn . Đây gọi là ẩm khí ích cốc.
+Điều tiết tốc độ tiêu hao đồ ăn và hiệu suất ăn sương uống khí , với cam đoan cân bằng vật tư môn phái và hiệu suất tu luyện.
+Trừ cái đó ra, cũng có vài thiên tài địa bảo có thể trực tiếp bổ sung tinh nguyên .
+[img]ui/Help2/030[/img]
+]]>
+</Text>
+</Help>
+<Help Name="64" Root="6">
+<Title>Tâm cảnh</Title>
+<Text>
+<![CDATA[
+Tâm cảnh là thuộc tính chỉ tiêu quan trọng nhất của đệ tử nội môn.
+Tâm cảnh cao thấp ảnh hưởng các phương diện của đệ tử nội môn, bao gồm nhưng không hạn chế với:
+1. Tu hành
+2. Đột phá bình cảnh
+3. Luyện đan
+4. Luyện khí
+Thông thường mà nói, tâm cảnh càng tốt, kết quả cuối cùng cũng sẽ càng tốt.
+Tâm trạng có liên quan đến sự cao thấp của tâm cảnh.
+Tâm trạng không tốt, tốc độ tuột giảm của tâm cảnh cũng sẽ trở nên nhanh, tốc độ khôi phục sẽ chậm. Tâm trạng tốt thì ngược lại.
+Tâm trạng đệ tử nội môn quá thấp, có khả năng dẫn đến sinh ra tâm ma.
+Nếu như đệ tử nội môn nhập ma, nhân vật sẽ mất đi khống chế.
+[img]ui/Help/028[/img]
+]]>
+</Text>
+</Help>
+<Help Name="65" Root="6">
+<Title>Bình cảnh đột phá</Title>
+<Text>
+<![CDATA[
+Khi tu hành giả tu luyện gặp phải bình cảnh thì sẽ không có cách nào tiến bộ nữa, lúc này cần đột phá bình cảnh và tiến hành giai đoạn tu luyện tiếp theo.
+Bình cảnh chia làm mấy loại hình dưới đây.
+[color=#9e6404]1. Bình cảnh bình thường[/color]
+Lựa chọn một địa điểm thích hợp để tiến hành đột phá, căn cứ Nhân vật trạng thái cùng Lựa chọn địa điểm Thích hợp hay không có nhất định tỉ lệ Đột phá thành công.
+[color=#9e6404]2. Bình cảnh lịch luyện[/color]
+Loại này Bình cảnh  nhất định phải đem Tu hành giả điều động đến dưới núi Lịch luyện Tài Năng Đột phá, năng lực xử thế của nhân vật càng cao, càng dễ đột phá bình cảnh lịch luyện.
+[color=#9e6404]3. Bình cảnh chân không[/color]
+Loại bình cảnh này một khi đã bắt đầu đột phá thì không thể dừng lại, tu hành giả sẽ mất đi tất cả thần thông, một lần nữa trở thành đệ tử ngoại môn. Giữa những lao động thông thường cảm ngộ bản tâm, để đột phá bình cảnh này.
+[color=#9e6404]4. Bình cảnh Kim Đan[/color]
+Lựa chọn một địa điểm thích hợp để tiến hành kết đan, căn cứ Nhân vật trạng thái cùng Lựa chọn địa điểm Thích hợp hay không quyết định Kết đan Phẩm chất. Phẩm chất Kim Đan càng cao, tu luyện trong tương lai càng thuận lợi.
+[color=#9e6404]5. Lôi kiếp[/color]
+Trước lúc thời gian đếm ngược kết thúc, lựa chọn một chỗ tiến hành độ kiếp. Dựa theo tích lũy của tu hành giả để quyết định có độ kiếp thành công hay không.
+]]>
+</Text>
+</Help>
+<Help Name="66" Root="6">
+<Title>Lĩnh hội và đạo hạnh</Title>
+<Text>
+<![CDATA[
+Trong quá trình tu luyện người chơi có thể thu được[color=#2E589A] Chỉ số lĩnh hội[/color], tại giao diện lĩnh hội trong giao diện tu luyện, người chơi có thể tiêu hao điểm lĩnh hội để học tập bí tịch mới, để đề cao năng lực.
+Mỗi lần nhân vật tiêu hao lĩnh hội để học bí tịch mới, thay mặt cho thu hoạch được tri thức mới từ thiên đạo. Dựa theo học bí tịch mạnh hay yếu, đạo hạnh của nhân vật cũng từ từ tăng theo.
+Và[color=#2E589A] Đạo hạnh[/color] chính là mức độ chiếm đoạt thiên đạo. Tu hành vốn là nghịch thiên mà đi, đạo hạnh càng cao, thiên đạo càng cảnh giác với nhân vật, liền càng tiêu tốn điểm lĩnh hội để học tập bí tịch mới.
+[img]ui/Help2/043[/img]
+]]>
+</Text>
+</Help>
+<Help Name="67" Root="6">
+<Title>Bái sư</Title>
+<Text>
+<![CDATA[
+Môn phái có được[color=#2E589A] Kim Đan Kỳ[/color] đệ tử, các đệ tử nội môn khác có thể bái người đó làm sư phụ.
+Khi cảnh giới của sư phụ cao hơn đồ đệ, chỉ điểm của sư phụ sẽ khiến tốc độ tu luyện của đệ tử nhanh hơn, Nếu như cùng một công pháp, biên độ hiệu quả sẽ càng cao.
+Khi đệ tử đột phá bình cảnh, sư phụ cũng tới hộ pháp, đề cao xác suất đột phá của đệ tử.
+Sư phụ có thể truyền lại bí tịch mình học được cho đệ tử của mình. Thanh xuất vu lam nhi thắng vu lam, chẳng gì hơn thế.
+[img]ui/Help/029[/img]
+]]>
+</Text>
+</Help>
+<Help Name="68" Root="6">
+<Title>Nội môn chế tạo</Title>
+<Text>
+<![CDATA[
+[color=#9e6404] Luyện đan[/color]
+[img]ui/Help/030[/img]
+Khi có đệ tử nội môn, mà còn có Lò Luyện Đan, người chơi có thể thông qua nút tương tác Luyện Đan để tiến hành luyện đan.
+Mở khóa đan dược cần học được đan phương, đan phương chủ yếu thu được nhờ lịch lãm.
+[color=#9e6404] Luyện khí[/color]
+[img]ui/Help/031[/img]
+Khi có đệ tử nội môn, mà còn có Luyện Bảo Đài, Người chơi  Có thể dùng ấn vào nút tương tác bên trong Luyện bảo nút bấm tiến hành luyện chế pháp bảo.
+Bất cứ vật phẩm gì cũng có thể luyện thành pháp bảo, dựa theo đặc tính vật lý bất đồng của vật phẩm, khuynh hướng thuộc tính của pháp bảo luyện thành cũng bất đồng.
+Phẩm giai của nguyên liệu của vật phẩm càng cao, Độ khó để luyện chế càng lớn, uy lực luyện thành pháp bảo cũng càng mạnh.
+Nguyên liệu làm vật phẩm chứa đựng càng nhiều linh khí, càng dễ luyện ra pháp bảo cao giai.
+[color=#9e6404] Vẽ bùa[/color]
+Khi có đệ tử nội môn về sau, người chơi có thể thông qua nút tương tác Vẽ Bùa để vẽ bùa.
+Vẽ bùa cần tốn phù chỉ, phù chỉ có thể sản xuất thông qua Bàn Vẽ Bùa.
+Vẽ bùa sử dụng phù chỉ cấp bậc càng cao, hiệu quả của phù chú cũng càng mạnh.
+Họa pháp phù chú mới cần thông qua học phù đồ, phù đồ có thể thu được nhờ lịch luyện.
+Phù chú đã vẽ xong có thể nhờ nút Trang Bị để đeo lên người nhân vật mới có hiệu quả.
+[color=#9e6404] Dung luyện[/color]
+Sau này khi có được đệ tử nội môn, người chơi có thể dung luyện vật phẩm. Mỗi vật phẩm có 500 Điểm linh khí, có thể được luyện thành một viên Linh thạch.
+Khi dung luyện pháp bảo thì, nhất định nhận được Linh thạch, phẩm giai pháp bảo càng cao, Linh thạch nhận được càng nhiều.
+]]>
+</Text>
+</Help>
+<Help Name="69" Root="6">
+<Title>Thần Thông</Title>
+<Text>
+<![CDATA[
+[img]ui/Help/032[/img]
+Theo cảnh giới công pháp tăng cao, nhân vật sẽ học được rất nhiều thần thông mới. Những thần thông này có thể gia tăng thực vật sinh trưởng, có thể cướp đoạt tu vi người khác, có thể dự đoán chuyện tương lai, có thể hô phong hoán vũ.
+Trừ cái đó ra, lịch luyện cũng có thể thu được rất nhiều bí tịch ghi lại cách tu luyện thần thông, tu hành giả có thể thông qua những bí tịch đó để học được thần thông mới.
+]]>
+</Text>
+</Help>
+<Help Name="610" Root="6">
+<Title>Lịch luyện</Title>
+<Text>
+<![CDATA[
+[img]ui/Help/033[/img]
+Lúc có Nhân vật thăng nhập Đệ tử nội môn về sau, có thể thông qua nút Thiên Hạ bên góc dưới phải màn hình để tiến hành lịch luyện.
+Trong lúc lịch luyện tu hành giả sẽ gặp phải đủ thứ chuyện, cũng thu hoạch được các phần thưởng và tài nguyên.
+Theo bước tiến của trò chơi, người chơi sẽ nhận được càng nhiều tin tức địa điểm. Mục tiêu lịch luyện càng xa, lịch luyện càng tiêu hao nhiều thời gian.
+[img]ui/Help2/007[/img]
+]]>
+</Text>
+</Help>
+<Help Name="611" Root="6">
+<Title>Môn phái</Title>
+<Text>
+<![CDATA[
+[img]ui/Help/034[/img]
+Khi có nhân vật trúc cơ thành công, sau khi thăng làm đệ tử nội môn, có thể thông góc nút Môn Phái góc phải dưới để tiến vào giao diện môn phái, Thành lập môn phái.
+[color=#9e6404]1. Đẳng cấp môn phái[/color]
+Đẳng cấp môn phái chia làm ba mốc, từ từ tăng cấp theo danh vọng của môn phái.
+Đẳng cấp môn phái càng cao có thể mở khóa số lượng nhân khẩu tối đa, thêm các công trình môn phái.
+[color=#9e6404]2. Danh vọng môn phái và độ khó chiến đấu[/color]
+Theo lịch luyện, danh tiếng môn phái sẽ từ từ tăng. Cùng lúc đó, địch nhân xâm nhập cũng sẽ càng mạnh.
+[color=#9e6404]3. Quản lý môn phái[/color]
+Có thể thông qua giao diện thành viên của môn phái để đá vị đệ tử nào đó đi.
+Có thể thông qua giao diện môn phái để bật chức năng tự động nấu nướng, để đệ tử ngoại môn tự động nấu cơm.
+[color=#9e6404]4. Ngoại giao môn phái[/color]
+Theo lịch luyện, sẽ thành lập quan hệ ngoại giao với môn phái khác.
+Theo độ hảo cảm tăng cao, thì người chơi bái phỏng sơn môn đối phương, nhận được càng nhiều đồ tốt từ môn phái của đối phương.
+[img]ui/Help2/006[/img]
+]]>
+</Text>
+</Help>
+<Help Name="612" Root="6">
+<Title>Kết cấu môn phái</Title>
+<Text>
+<![CDATA[
+Khi môn phái lên tới động thiên (3 Cấp) sau, sẽ mở ra kết cấu môn phái. Người chơi  Có thể dùng Môn phái giao diện Kết cấu môn phái phân trang tới quản lý Môn phái.
+[color=#9e6404]1. Bổ nhiệm[/color]
+Người chơi có thể bổ nhiệm đệ tử nội môn làm chưởng môn hoặc đường chủ phân đường.
+Chức vị khác nhau yêu cầu năng lực cũng khác nhau. Ví dụ như Luyện đan đường yêu cầu kỹ năng luyện đan của nhân vật, luyện khí đường yêu cầu kỹ năng luyện khí của nhân vật.
+Năng lực tương ứng của đệ tử nhậm chức càng mạnh, có thể biểu hiện càng tốt trên cương vị.
+[color=#9e6404]2. Khu vực phân đường[/color]
+Người chơi có thể ở tab khu vực trong công trình"Khu vực phân đường" để quy hoạch một khu vực.
+Sau khi phân chia xong một khu vực, người chơi có thể thiết lập quyền sở hữu của phân đường.
+Khi đệ tử dưới phân đường ở tại khu vực của mình, sẽ nhận được gia tăng thuộc tính tương ứng.
+[color=#9e6404]3. Áp lực, Tạp niệm và năng lực chưởng môn[/color]
+Nội dung nhân vật phải quản lý càng nhiều, áp lực phải nhận sẽ càng lớn.
+Những áp lực này sẽ chuyển hóa thành tạp niệm, ảnh hưởng tâm cảnh của nhân vật, tốc độ tu hành vân vân.
+Chưởng môn năng lực Năng hữu hiệu giảm bớt tự thân cùng trong phái Cái khác Đường chủ tiếp nhận Áp lực.
+[color=#9e6404]4. Chuyên tâm và năng lực đường chủ[/color]
+Sau khi thành lập một phân đường và lựa chọn chuyên tâm, Thuộc sở hữu cùng này Phân đường đệ tử Hội căn cứ Đường chủ năng lực thu hoạch được nhất định Thuộc tính gia tăng.
+Đệ tử phân đường thu được gia tăng thuộc tính chia làm hai loại.
+1. Gia tăng khu vực: Chỉ ở khu vực phân đường tương ứng mới có thể thu được.
+2. Gia tăng thường trú: Chỉ cần thuộc về phân đường, là có thể gia tăng.
+[color=#9e6404]5. Cách chức và mệt mỏi[/color]
+Khi nhân vật đã từng nhậm chức không hề đảm nhiệm bất cứ chức vụ nào, nhân vật sẽ nhận được trạng thái mệt mỏi duy trì liên tục một khoảng thời gian nhất định.
+Cường độ mệt mỏi sẽ do cường độ lớn nhất trong lúc nhậm chức phải gánh chịu quyết định.
+Thời gian duy trì mệt mỏi do thời gian nhậm chức quyết định, nếu nhân vật thân nhận hơn một chức , vậy thời gian kéo dài sẽ bắt đầu từ chức vị đầu tiên, cho đến chức vị cách chức cuối cùng. (ngắn nhất 14 Thiên, dài nhất  84 Thiên. )
+Chú ý: Nếu như chỉ nhậm chức trong thời gian rất ngắn thì khi từ chức, sẽ không tiến vào trạng thái mệt mỏi.
+]]>
+</Text>
+</Help>
+</List></Helps>

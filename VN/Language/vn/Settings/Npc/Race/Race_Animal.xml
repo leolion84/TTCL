@@ -1,0 +1,50 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Rabbit">
+<DisplayName>Thỏ</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="Chicken">
+<DisplayName>gà</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="Wolf">
+<DisplayName>Lang</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="Snake">
+<DisplayName>Xà</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="Boar">
+<DisplayName>lợn rừng</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="Bear">
+<DisplayName>Hùng</DisplayName>
+<MaleName>Công</MaleName>
+<FemaleName>mẫu</FemaleName>
+</Text>
+<Text Name="Turtle">
+<DisplayName>Rùa</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="Frog">
+<DisplayName>ếch xanh</DisplayName>
+<MaleName>Hùng</MaleName>
+<FemaleName>thư</FemaleName>
+</Text>
+<Text Name="Fei">
+<DisplayName>phỉ</DisplayName>
+</Text>
+<Text Name="Lushu">
+<DisplayName>Lộc Thục</DisplayName>
+</Text>
+</List>
+</Texts>

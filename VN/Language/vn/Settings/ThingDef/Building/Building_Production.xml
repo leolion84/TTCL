@@ -1,0 +1,63 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="WorkPlace" sParam="Building">
+<ThingName>Chỗ chế tác</ThingName>
+<Desc>Không cần vật liệu chế tác gì, chỉ cần kéo một khu vực trên đất, có thể chế tác vài công cụ đơn giản.</Desc>
+</Text>
+<Text Name="MaterialWorkPlace" sParam="Building">
+<ThingName>Chỗ gia công vật liệu</ThingName>
+<Desc>Không cần vật liệu chế tác gì, chỉ cần kéo một khu vực trên đất, có thể gia công vài vật liệu đơn giản.</Desc>
+</Text>
+<Text Name="Bonfire" sParam="Building">
+<ThingName>Đống lửa</ThingName>
+<Desc>Chất gỗ lên làm thành ngọn lửa đơn giản, có thể mang đến ánh sáng cùng nhiệt độ cho chung quanh. Sử dụng nó có thể tiến hành một vài nấu nướng đơn giản.</Desc>
+</Text>
+<Text Name="Kitchen" sParam="Building">
+<ThingName>Bếp</ThingName>
+<Desc>Dùng để nấu nướng thức ăn.</Desc>
+</Text>
+<Text Name="StoneMaker" sParam="Building">
+<ThingName>Đài cắt đá</ThingName>
+<Desc>Dùng để mài cắt đá thô thành gạch.</Desc>
+</Text>
+<Text Name="WeaponMaker" sParam="Building">
+<ThingName>Đài rèn sắt</ThingName>
+<Desc>Dùng để rèn các loại kim chúc khí cụ.</Desc>
+</Text>
+<Text Name="Furnace" sParam="Building">
+<ThingName>Lò luyện</ThingName>
+<Desc>Dùng để nấu chảy kim chúc khoáng vật đúc thành thỏi.</Desc>
+</Text>
+<Text Name="TextileTable" sParam="Building">
+<ThingName>Bàn dệt</ThingName>
+<Desc>Dùng để dệt sợi thành vải và len.</Desc>
+</Text>
+<Text Name="TailorTable" sParam="Building">
+<ThingName>Bàn may</ThingName>
+<Desc>Dùng để chế tạo quần áo.</Desc>
+</Text>
+<Text Name="WoodShed" sParam="Building">
+<ThingName>Chỗ đốn củi</ThingName>
+<Desc>Đem gỗ thô gia công thành vật mộc liệu, có thể tăng rất cao hiệu suất sử dụng mộc tài.</Desc>
+</Text>
+<Text Name="MillStone" sParam="Building">
+<ThingName>Cối xay bột</ThingName>
+<Desc>Đem lương thực gia công thành dạng bột, khiến cho dự trữ tốt hơn, cũng có thể đề cao hiệu suất sử dụng đồ ăn.</Desc>
+</Text>
+<Text Name="HandWorkTable" sParam="Building">
+<ThingName>Bàn thủ công</ThingName>
+<Desc>Tiến hành chế tạo vật dụng thủ công đơn giản.</Desc>
+</Text>
+<Text Name="Well" sParam="Building">
+<ThingName>Giếng nước</ThingName>
+<Desc>có thể múc nước từ đó. Nước bên trong giếng vệ sinh hơn nước ở ngoài, bởi vậy không dễ sinh bệnh.</Desc>
+</Text>
+<Text Name="MedicineTable" sParam="Building">
+<ThingName>Bàn chế dược</ThingName>
+<Desc>Tiến hành chế tạo dược vật.</Desc>
+</Text>
+<Text Name="Building_YiTui" sParam="Building">
+<ThingName>Di thuế tiên nhân</ThingName>
+</Text>
+</List>
+</Texts>

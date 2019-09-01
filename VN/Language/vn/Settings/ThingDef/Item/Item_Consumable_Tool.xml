@@ -1,0 +1,79 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_Dice" sParam="Item">
+<ThingName>Xúc xắc</ThingName>
+<Desc>Một đôi xúc xắc, mang theo người có thể dùng để giải buồn lúc rảnh rỗi, tăng cao tâm trạng, nhưng sẽ ảnh hưởng hiệu suất làm việc.</Desc>
+<Item.FabaoSuffix>Xí ngầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SmallBell" sParam="Item">
+<ThingName>Linh đang</ThingName>
+<Desc>Một cái chuông nhỏ, mang trên người có thể làm tâm trạng tốt, cũng có thể hấp dẫn lực chú ý của người khác, làm cho họ thích giao lưu với người đeo.</Desc>
+<Item.FabaoSuffix>linh</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Bracelet" sParam="Item">
+<ThingName>Vòng tay</ThingName>
+<Desc>Một đôi vòng tay, mang trên người khiến ngươi trở nên mị lực hơn.</Desc>
+<Item.FabaoSuffix>vòng tay, mài</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Handkerchief" sParam="Item">
+<ThingName>Khăn tay</ThingName>
+<Desc>Một cái khăn tay, mang trên người khiến ngươi trở nên thú vị hơn ở trong mắt người khác.</Desc>
+<Item.FabaoSuffix>khăn, lụa, lụa</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_PerfumeBag" sParam="Item">
+<ThingName>Túi thơm</ThingName>
+<Desc>Một cái túi thơm, đệ tử nội môn đeo có thể tăng cao tâm cảnh.</Desc>
+<Item.FabaoSuffix>túi</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+<ThingName>Mỹ hảo thế giới</ThingName>
+<Desc>Một cái hộp đến từ thế giới khác, với thần niệm đắm chìm trong đó có thể du ngoạn Nhất Cái Thú vị và cảm động trò chơi.</Desc>
+<Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+<ThingName>Kỳ nguyện chi tâm</ThingName>
+<Desc>Là bảo vật do con người cầu nguyện với Hỉ nhạc chi kỳ ngưng tụ mà thành.</Desc>
+<Item.FabaoSuffix>Tim</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+<ThingName>Đông Phương hách thần châm</ThingName>
+<Desc>Vật này vốn là một vị Kiếm Tiên bản mệnh Pháp bảo, mặc dù tại theo Chủ nhân Luân Hồi quá trình bên trong Thần Uy mất hết, nhưng y nguyên giữ lại phi phàm bản chất.</Desc>
+<Item.FabaoSuffix>châm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+<ThingName>Bạch Ngọc thạch</ThingName>
+<Desc>Bạch Ngọc thạch do Mộc Bạch tiên nhân lưu lại, trông bình thường không có gì lạ, nhưng lại có thể tăng cao sức khôi phục tự nhiên của người đeo.</Desc>
+<Item.FabaoSuffix>Thạch</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+<ThingName>Tứ tượng Già Thiên</ThingName>
+<Desc>Trận đồ thần bí do Thanh Liên tiên nhân lưu lại với đại pháp lực, người đeo có thể mượn khí mạch bản địa, tiến hành tứ quy lưu chuyển lực với đại thế giới, che đậy chín năm thiên cơ, không bị thiên kiếp quấy rầy .Nếu trong quá trình này tháo quyển vẽ xuống, thiên kiếp sẽ lập tức phủ xuống.</Desc>
+<Item.FabaoSuffix>Đồ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Other_PuppetTest" sParam="Item">
+<ThingName>Khôi lỗi</ThingName>
+<Desc>Một con khôi lỗi. Nghe đồn 《Thái Hòa Thập Lục Động Thiên》 có ghi chép bí pháp phó thác linh tính cho khôi lỗi.</Desc>
+<Item.FabaoSuffix>Khôi lỗi</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Yao_RabbitLuck" sParam="Item">
+<ThingName>Chân của Thỏ Yêu</ThingName>
+<Desc>Đồ rằng có thể mang đến vận may .</Desc>
+</Text>
+<Text Name="Item_Yao_WolfAtk" sParam="Item">
+<ThingName>Răng nanh Lang Yêu </ThingName>
+<Desc>Răng nanh hoàn chỉnh của Lang Yêu, sát khí mười phần, đeo vào có thể gia tăng sát thương pháp bảo của nhân vật từ căn bản.</Desc>
+</Text>
+<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+<ThingName>Hàn lân của Xà Yêu</ThingName>
+<Desc>Lân phiến trên người Xà Yêu ngưng tụ toàn bộ âm khí, làm người không sợ nhiệt độ cao, tâm cảnh thanh minh.</Desc>
+</Text>
+<Text Name="Item_Yao_BearPiMao" sParam="Item">
+<ThingName>Lông cổ của Hùng Yêu </ThingName>
+<Desc>Bộ lông từ cổ nơi tinh hoa nhất của Hùng Yêu, ẩn chứa dương cương chi khí dồi dào .Người đeo sẽ không cần sợ nhiệt độ thấp, Đề cao tốc độ tu luyện.</Desc>
+</Text>
+<Text Name="Item_Yao_TurtleKe" sParam="Item">
+<ThingName>Kiên giáp cự quy </ThingName>
+<Desc>Chiếc mai rắn chắc của Cự Quy, đeo vào có thể đề cao lượng lớn kháng sát thương linh khí.</Desc>
+</Text>
+</List>
+</Texts>

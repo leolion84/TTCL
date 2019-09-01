@@ -1,0 +1,24 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="Wall" sParam="Building">
+<ThingName>Tường</ThingName>
+<Desc>Công trình kết cấu cơ bản, có thể làm thành một căn phòng khép kín. Gian phòng nhỏ nhất cần 3 ô, lớn nhất không thể vượt quá 400 ô.</Desc>
+</Text>
+<Text Name="Barrier" sParam="Building">
+<ThingName>Hàng rào</ThingName>
+<Desc>Lan can gỗ đơn giản dùng để phân cách khu vực, không cách nào làm thành gian phòng.</Desc>
+</Text>
+<Text Name="Door" sParam="Building">
+<ThingName>Cửa</ThingName>
+<Desc>Công trình kết cấu cơ bản, có thể cho người đi ra khỏi phòng. \n(Cửa cùng hướng mà liền nhau được coi là một cửa)</Desc>
+</Text>
+<Text Name="Door_SpringFestival" sParam="Building">
+<ThingName>Cửa Tết</ThingName>
+<Desc>Công trình kết cấu cơ bản, có thể cho người đi ra khỏi phòng. Dán chữ phúc, tăng vẻ vui mừng. \n(Cửa cùng hướng mà liền nhau được coi là một cửa)</Desc>
+</Text>
+<Text Name="Firecracker" sParam="Building">
+<ThingName>Pháo hoa - Long ca</ThingName>
+<Desc>Pháp hoa chứa đầy vui vẻ, sau khi châm sẽ dẫn lửa đến pháo hoa cách đó ba ô. Có người nói cùng một lúc bắn 9 cái pháo hoa lên trời thì, có khả năng sẽ có chuyện thần kỳ xảy ra.</Desc>
+</Text>
+</List>
+</Texts>

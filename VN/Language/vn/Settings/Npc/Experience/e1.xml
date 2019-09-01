@@ -1,0 +1,176 @@
+<Texts Type="Other">
+<List>
+	<Text Name="SYS_LOST">
+			<DisplayName>Không tìm thấy mod</DisplayName>
+			<Desc>Vật thất lạc, Không ai biết là gì. \n(Không tìm thấy mod)</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences1">
+		<DisplayName>Hà Lạc đại hiệp</DisplayName>
+		<Desc>Lần xuyên việt này dù mất hết công lực, nhưng tuyệt chiêu của Hà Lạc đại hiệp vẫn nhớ không quên. \n\n\n[size=10] Ban đầu tăng thêm bí tịch: [color=#D06508] Dã Cẩu Quyền [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences2">
+		<DisplayName>Mỹ hảo thế giới</DisplayName>
+		<Desc>Một chiếc hộp kỳ lạ, bên trong bao hàm khát vọng của vô số người đối với mỹ hảo. \n\n\n[size=10] Ban đầu tăng thêm bí bảo: [color=#D06508] Mỹ hảo thế giới [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences3">
+		<DisplayName>Dị giới lai khách</DisplayName>
+		<Desc>Ngươi đến từ dị giới, bên người mang theo một thanh bảo kiếm quỷ dị. \n\n\n[size=10] Ban đầu tăng thêm thần binh: [color=#D06508] Dalabumba [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences4">
+		<DisplayName>Công nghệ tương lai chi kiếm</DisplayName>
+		<Desc>Kiếm này chính là tín vật của chưởng môn Công Nghệ Tương Lai, thấy kiếm như thấy Lão Cúc! \n\n\n[size=10] Ban đầu tăng thêm thần binh: [color=#D06508] Công nghệ tương lai chi kiếm [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences5">
+		<DisplayName>Xuân Hồi Đại Địa</DisplayName>
+		<Desc>Một quyển bí tịch thần kỳ, có thể hội tụ linh khí, khiến cho tư duy linh động, đề cao ngộ tính. Tiện thể... \n\n\n[size=10] Ban đầu tăng thêm bí tịch: [color=#D06508] Xuân Hồi Đại Địa [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences6">
+		<DisplayName>Tinh Đồ Thiểm Diệu</DisplayName>
+		<Desc>Bị phong ấn một đoạn ký ức, ghi lại hồi ức quý giá của một tán nhân ở thời không nào đó gả con gái đi ~\n\n\n[size=10] Ban đầu tăng thêm bảo vật: [color=#D06508] Hồi ức phong ấn: Tinh Đồ Thiểm Diệu [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences7">
+		<DisplayName>Đổi trắng thay đen</DisplayName>
+		<Desc>Người này trời sinh có mệnh cách thâu thiên hoán nhật, từ khi có ký ức, trong đầu đã có một công pháp biến hóa kỳ lạ. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508] Thâu Thiên Quyết [/color]\n Thuộc tính yêu cầu: Căn cốt cực cao. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences8">
+		<DisplayName>Hắc quang Kiếm Thánh</DisplayName>
+		<Desc>Người này là Kiếm Thánh chuyển thế danh chấn thiên hạ xưa kia, ngày xưa từng rơi  vào tuyệt cảnh nhưng phản sát độc vương Cao Ly, dương oai Hoa Hạ, đánh một trận mà thành danh. \n\n\n[size=10] Ban đầu tăng thêm thần binh: [color=#D06508] Song long ma ảnh kiếm [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences9">
+		<DisplayName>Bạo Phát Chi Lực</DisplayName>
+		<Desc>Người này có độc môn tuyệt kỹ Bạo phát chi lực, có thể tiêu hao sinh mệnh bộc phát sức chiến đấu mạnh mẽ tại thời khắc mấu chốt. \n\n\n[size=10] Ban đầu tăng thêm bí tịch: [color=#D06508] Bạo Phát Chi Lực [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences10">
+		<DisplayName>Thần kỳ phù chú</DisplayName>
+		<Desc>Người này mang theo một hộp phù chú thần kỳ, trong đó có chứa ba tấm tuyệt phẩm phù chú. \n\n\n[size=10] Ban đầu tăng thêm bảo vật: [color=#D06508] Hộp phù chú thần kỳ [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences11">
+		<DisplayName>Thiên tứ thần phù</DisplayName>
+		<Desc>Người này mang theo một hộp thần phù, trong đó có chứa một tấm tuyệt phẩm phù chú. \n\n\n[size=10] Ban đầu tăng thêm bảo vật: [color=#D06508] Hộp thần phù [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences12">
+		<DisplayName>Côn Luân Tiên Pháp</DisplayName>
+		<Desc>Người này một đời tầm tiên phỏng đạo, rốt cuộc tìm được một quyển bí tịch của tiên nhân cổ đại tại Côn Luân Sơn. \n\n\n[size=10] Ban đầu tăng thêm bí tịch: [color=#D06508] Côn Luân Tiên Pháp [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences13">
+		<DisplayName>Kỳ nguyện hóa thân</DisplayName>
+		<Desc>Người này là hóa thân từ kỳ nguyện chi lực của chúng sinh, trời sinh có thần dị. \n\n\n[size=10] Ban đầu tăng thêm bí tịch: [color=#D06508] Thân thân phù [/color]. \n Ban đầu tăng thêm bảo vật: [color=#D06508] Kỳ nguyện chi tâm [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="LunHui_Experiences14">
+		<DisplayName>Kiếm tiên chuyển thế</DisplayName>
+		<Desc>người này  Kiếp trước  chính là tiếng tăm lừng lẫy Kiếm Tiên, bản mệnh Pháp bảo thuận theo chuyển thế, mặc dù Thần Uy mất hết, nhưng y nguyên giữ lại phi phàm bản chất. \n\n\n[size=10] Ban đầu tăng thêm bảo vật: [color=#D06508] Đông Phương hách thần châm [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1">
+		<DisplayName>Thái hòa phong đệ tử</DisplayName>
+		<Desc>Từ khi nhập môn ngươi đã muốn trở thành đệ tử Thái Hòa Phong của Thái Nhất Môn, trải qua nỗ lực không ngừng, rốt cuộc thành công, lấy được một trong ngũ hành chân pháp của Thái Nhất Môn 《Thái Hòa Thập Lục Động Thiên》. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Thái Hòa Thập Lục Động Thiên》[/color]\n Thuộc tính yêu cầu: Căn cốt cao, mị lực trung, ngộ tính trung. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences2">
+		<DisplayName>Bắc đẩu phong đệ tử</DisplayName>
+		<Desc>Từ khi nhập môn ngươi đã muốn trở thành đệ tử Bắc Đẩu Phong của Thái Nhất Môn, trải qua nỗ lực không ngừng, rốt cuộc thành công, lấy được một trong ngũ hành chân pháp của Thái Nhất Môn 《Bắc Đấu Động Tâm Kiếp Pháp》. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Bắc Đấu Động Tâm Kiếp Pháp》[/color]\n Thuộc tính yêu cầu: Thần thức cao, căn cốt trung, ngộ tính trung. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences3">
+		<DisplayName>Luân hồi phong đệ tử</DisplayName>
+		<Desc>Từ khi nhập môn ngươi đã muốn trở thành đệ tử Luân Hồi Phong của Thái Nhất Môn, trải qua nỗ lực không ngừng, rốt cuộc thành công, lấy được một trong ngũ hành chân pháp của Thái Nhất Môn 《Trường Sinh Lục Đạo Luân Hồi Kinh》. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Trường Sinh Lục Đạo Luân Hồi Kinh》[/color]\n Thuộc tính yêu cầu: Căn cốt trung, Thần thức cao, Ngộ tính cao. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences4">
+		<DisplayName>Tam dương phong đệ tử</DisplayName>
+		<Desc>Từ khi nhập môn ngươi đã muốn trở thành đệ tử Tam Dương Phong của Thái Nhất Môn, trải qua nỗ lực không ngừng, rốt cuộc thành công, lấy được một trong ngũ hành chân pháp của Thái Nhất Môn 《Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết》. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết》[/color]\n Thuộc tính yêu cầu: Thần thức trung, căn cốt trung, mị lực trung, ngộ tính trung, Cơ duyên trung. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences5">
+		<DisplayName>Quỳ hoa phong đệ tử</DisplayName>
+		<Desc>Từ khi nhập môn ngươi đã muốn trở thành đệ tử Quỳ Hoa Phong của Thái Nhất Môn, trải qua nỗ lực không ngừng, rốt cuộc thành công, lấy được một trong ngũ hành chân pháp của Thái Nhất Môn 《Quỳ Hoa Luyện Thần Đại Pháp》. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Quỳ Hoa Luyện Thần Đại Pháp》[/color]\n Thuộc tính yêu cầu: Thần thức cao, Mị lực cao, Ngộ tính cao. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences6">
+		<DisplayName>Thích ứng trong mọi tình cảnh</DisplayName>
+		<Desc>Từ khi nhập môn ngươi chỉ muốn tu hành tốt cơ sở, đối với đi Thái Nhất Môn ngũ phong bên trong cái nào Phong Tu luyện cũng không có rất mạnh mục đích Tim, thích ích với mọi hoàn cảnh nghe theo sự sắp xếp của số phận là tốt rồi. \n\n\n[size=10][color=#D06508] ngũ duy  [/color] tăng lên. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1G1_1">
+		<DisplayName>Cửu chuyển truyền thừa</DisplayName>
+		<Desc>Trước lúc tiến vào Thái Nhất Môn ngươi cơ duyên xảo hợp đạt được 《Cửu Chuyển Kim Đan Trực Chỉ》 Truyền thừa, bởi vậy mấy năm nay ngươi lo lắng sợ sệt, không dám khiến ai chú ý. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Cửu Chuyển Kim Đan Trực Chỉ》[/color]\n Công pháp này khởi đầu khó khăn, không kiến nghị tân thủ lựa chọn. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1G1_2">
+		<DisplayName>Bảo khố truyền thừa</DisplayName>
+		<Desc>Trước lúc tiến vào Thái Nhất Môn ngươi cơ duyên xảo hợp đạt được 《Kỷ Dần Cửu Trùng Đa Bảo Chân Giải》 Truyền thừa, bởi vậy mấy năm nay ngươi lo lắng sợ sệt, không dám khiến ai chú ý. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Kỷ Dần Cửu Trùng Đa Bảo Chân Giải》[/color]\n Công pháp này khởi đầu khó khăn, không kiến nghị tân thủ lựa chọn. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1G1_3">
+		<DisplayName>Thất sát truyền thừa</DisplayName>
+		<Desc>Trước lúc tiến vào Thái Nhất Môn ngươi cơ duyên xảo hợp đạt được 《Thất Sát Kiếm Quyết》 Truyền thừa, bởi vậy mấy năm nay ngươi lo lắng sợ sệt, không dám khiến ai chú ý. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Thất Sát Kiếm Quyết》[/color]\n Công pháp này khởi đầu khó khăn, không kiến nghị tân thủ lựa chọn. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1G1_4">
+		<DisplayName>Thâu thiên truyền thừa</DisplayName>
+		<Desc>Trước lúc tiến vào Thái Nhất Môn ngươi cơ duyên xảo hợp đạt được 《Thâu Thiên Quyết》 Truyền thừa, bởi vậy mấy năm nay ngươi lo lắng sợ sệt, không dám khiến ai chú ý. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Thâu Thiên Quyết》[/color]\n Công pháp này khởi đầu khó khăn, không kiến nghị tân thủ lựa chọn. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences1G1_5">
+		<DisplayName>Thái thượng truyền thừa</DisplayName>
+		<Desc>Trước lúc tiến vào Thái Nhất Môn ngươi cơ duyên xảo hợp đạt được 《Thái Thượng Vong Tình Đạo》 Truyền thừa, bởi vậy mấy năm nay ngươi lo lắng sợ sệt, không dám khiến ai chú ý. \n\n\n[size=10] Mở khóa công pháp: [color=#D06508]《Thái Thượng Vong Tình Đạo》[/color]\n Công pháp này khởi đầu khó khăn, không kiến nghị tân thủ lựa chọn. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences23">
+		<DisplayName>Cứu lấy pháp bảo</DisplayName>
+		<Desc>Trong đêm diệt môn, cấm pháp Khí Lư bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, mang đi vài món pháp bảo quý giá. \n\n\n[size=10] Vật tư ban đầu tăng [color=#D06508] Pháp bảo cao giai [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences24">
+		<DisplayName>Cứu lấy đan dược</DisplayName>
+		<Desc>Trong đêm diệt môn, cấm pháp Dược Lư bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, mang đi vài bình đan dược quý giá. \n\n\n[size=10] Vật tư ban đầu tăng [color=#D06508] Đan dược cao giai [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences25">
+		<DisplayName>Cứu lấy bí tịch</DisplayName>
+		<Desc>Trong đêm diệt môn, cấm pháp Tàng Kinh Lâu bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, mang đi vài quyển bí tịch quý giá. \n\n\n[size=10] Vật tư ban đầu tăng [color=#D06508] Bí tịch cao giai [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences26">
+		<DisplayName>Cứu lấy phù chú</DisplayName>
+		<Desc>Trong đêm diệt môn, cấm pháp Vân Lục Phòng bị phá, ngươi không đành lòng để chí bảo trong phái bị cướp sạch, vì vậy liều mình xông vào trong, mang đi vài tấm bùa chú quý giá. \n\n\n[size=10] Vật tư ban đầu tăng [color=#D06508] Bùa chú cao giai [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences31">
+		<DisplayName>Người quái gở</DisplayName>
+		<Desc>Sau khi gia nhập Thái Nhất Môn, ngươi hoàn toàn không muốn tốn thời gian xã giao, chỉ chuyên tâm tu hành. Trong đêm diệt môn, không có ai nguyện ý đi theo ngươi, chỉ có một mình ngươi chạy trốn. \n\n\n[size=10] Bắt đầu [color=#D06508] Đệ tử cột vị [/color] giảm bớt 2! [/size]</Desc>
+	</Text>
+	<Text Name="Experiences27">
+		<DisplayName>không giỏi giao tiếp</DisplayName>
+		<Desc>Sau khi gia nhập Thái Nhất Môn, biết rõ cơ sở tốt mới là tất cả, cũng không cố gắng kết giao với ai khác. Trong đêm diệt môn, chỉ có một người bạn thân chạy trốn cùng ngươi. \n\n\n[size=10] Bắt đầu [color=#D06508] Đệ tử cột vị [/color] giảm bớt 1! [/size]</Desc>
+	</Text>
+	<Text Name="Experiences29">
+		<DisplayName>Hảo hữu rất nhiều</DisplayName>
+		<Desc>Sau khi gia nhập Thái Nhất Môn, đã kết giao rất nhiều đạo hữu cùng chung chí hướng. Đêm diệt môn, bọn họ chạy ra môn phái cùng ngươi. \n\n\n[size=10] Bắt đầu [color=#D06508] Đệ tử cột vị [/color] gia tăng 1! [/size]</Desc>
+	</Text>
+	<Text Name="Experiences30">
+		<DisplayName>Đứng đầu ngoại môn</DisplayName>
+		<Desc>Sau khi gia nhập Thái Nhất Môn, tốn rất nhiều thời gian để đoàn kết đồng môn, thu hoạch được rất nhiều danh vọng trong hàng đệ tử ngoại môn. Đêm diệt môn, bọn họ chạy ra môn phái cùng ngươi. \n\n\n[size=10] Bắt đầu [color=#D06508] Đệ tử cột vị [/color] gia tăng 2! [/size]</Desc>
+	</Text>
+	<Text Name="Experiences7">
+		<DisplayName>Hưởng thụ cuộc sống</DisplayName>
+		<Desc>Ngươi luôn cho rằng tu tiên chính là vì hưởng thụ cuộc sống, bởi vậy sau khi gia nhập Thái Nhất Môn, ngươi thường lợi dụng thân phận đệ tử tiên gia xuống núi tiêu dao hưởng lạc. \n\n\n[size=10][color=#D06508] Mị lực [/color] tăng lên. \n[color=#D06508] Xử thế [/color] kỹ năng tăng lên. \n Tăng trang bị khởi đầu [color=#D06508] Quần áo và trang sức [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences8">
+		<DisplayName>Lương thực dự trữ</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, trong một lần lịch luyện bị trận pháp vây khốn một tháng. Sau khi bị cơn đói dằn vặt, ngươi liền có thói quen lúc nào cũng mang đầy đủ lương khô trên người. \n\n\n[size=10][color=#D06508] Căn cốt [/color] tăng lên. \n Bắt đầu [color=#D06508] ẩm thực loại vật tư [/color] tăng lên trên diện rộng. \n Vật tư ban đầu tăng [color=#D06508] Tích cốc đan [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences9">
+		<DisplayName>Kiến thiết đệ tử</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, phụ trách công việc xây dựng. Trên người mang theo các loại vật tư, bôn ba trong môn phái mỗi ngày là chuyện bình thường của ngươi. \n\n\n[size=10][color=#D06508] Thần thức [/color] tăng lên. \n Bắt đầu [color=#D06508] kiến thiết loại vật tư [/color] tăng lên trên diện rộng. \n Ban đầu tăng thêm một phần vật tư [color=#D06508] Nguyên liệu hiếm có [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences10">
+		<DisplayName>Tàng kinh các đệ tử</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, phụ trách trông coi Tàng Kinh Các. Lâu dài, cũng ghi chép, học hỏi một vài bí tịch nhập môn. \n\n\n[size=10][color=#D06508] Ngộ tính [/color] tăng lên. \n Vật tư ban đầu tăng [color=#D06508] Bí tịch:《Thái Bình Phù Lục Yếu Sách》 《Tóm tắt chân đan》[/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences11">
+		<DisplayName>Thần kiếm trạch chủ</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, trong một lần xuống núi lịch luyện thu được một thanh kiếm nổi tiếng. Ngươi yêu thích nó không rời tay, bất cứ lúc nào cũng mang theo trên người, hy vọng trong tương lai có thể luyện thanh kiếm này thành pháp bảo. Vì thế, ngươi thường xuyên thỉnh giáo sư huynh và các trưởng bối bí quyết và phương pháp ngự khí. \n\n\n[size=10][color=#D06508] ngự vật [/color] kỹ năng tăng lên. \n Vật tư ban đầu tăng [color=#D06508] Thần binh - Kiếm [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences12">
+		<DisplayName>Linh quang thối thần</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, trong một lần mượn đọc tàng thư thuật pháp trong Tàng Kinh Các, đột nhiên từ trong sách bắn ra một đạo linh quang tiến vào thức hải của ngươi. Từ đó về sau, ngươi liền phơi bày thiên phú tuyệt hảo đối với phương diện thuật pháp. \n\n\n[size=10][color=#D06508] Thuật pháp [/color] kỹ năng tăng lên. \n Bắt đầu [color=#D06508] Thuật pháp uy lực [/color] gia tăng. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences13">
+		<DisplayName>Kim cương chi thể</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, trong một lần lịch luyện ăn nhầm quả lạ. Trải qua kiểm tra của sư trưởng, phát hiện quả lạ này cải thiện khí mạch của ngươi, có thể làm cho linh khí hộ thể của ngươi gia tăng gấp đôi. \n\n\n[size=10][color=#D06508] Hộ Thể [/color] kỹ năng tăng lên. \n Bắt đầu [color=#D06508] Linh khí Cường độ hộ thuẫn [/color] gia tăng. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences14">
+		<DisplayName>Dược lư đồng tử</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, bị phân đến trông coi Dược Lư. Ngươi mang theo bên mình các loại linh dược, để bất cứ lúc nào cũng có thể đưa cho sư huynh và trưởng bối luyện đan. \n\n\n[size=10][color=#D06508] Dược kỹ [/color] kỹ năng tăng lên. \n[color=#D06508] Đan khí [/color] kỹ năng tăng lên. \n Bắt đầu [color=#D06508] dược liệu loại vật tư [/color] tăng lên trên diện rộng. \n Vật tư ban đầu tăng [color=#D06508] Linh dược hiếm có [/color]. [/size]</Desc>
+	</Text>
+	<Text Name="Experiences15">
+		<DisplayName>Khí lư đồng tử</DisplayName>
+		<Desc>Sau khi ngươi gia nhập Thái Nhất Môn, bị phân đến trông coi Khí Lư. Ngươi mang theo bên mình các loại vật tư, để bất cứ lúc nào cũng có thể đưa cho sư huynh và trưởng bối luyện khí. \n\n\n[size=10][color=#D06508] Xảo tượng [/color] kỹ năng tăng lên. \n[color=#D06508] Đan khí [/color] kỹ năng tăng lên. \n Bắt đầu [color=#D06508] nguyên liệu loại vật tư [/color] tăng lên trên diện rộng. \n Vật tư ban đầu tăng [color=#D06508] Nguyên liệu hiếm có [/color]. [/size]</Desc>
+	</Text>
+</List>
+</Texts>

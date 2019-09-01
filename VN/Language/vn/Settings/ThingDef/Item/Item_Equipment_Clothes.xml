@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+<List>
+<Text Name="ClothesBase" sParam="Item">
+<Item.FabaoSuffix>áo, Giáp, ngự, áo</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SummerClothes" sParam="Item">
+<ThingName>Bạc y sam</ThingName>
+<Desc>Quần áo khá thoáng khí, hơi hơi chống lạnh.</Desc>
+</Text>
+<Text Name="Item_SilkClothes" sParam="Item">
+<ThingName>Thanh lương y sam</ThingName>
+<Desc>Quần áo rộng rãi thoải mái, mặc vào sẽ cảm thấy rất mát mẻ.</Desc>
+</Text>
+<Text Name="Item_PracticeClothes" sParam="Item">
+<ThingName>Tu hành y sam</ThingName>
+<Desc>Quần áo kiểu môn phái, khá ấm, nhưng không quá thoáng khí.</Desc>
+</Text>
+<Text Name="Item_FormalClothes" sParam="Item">
+<ThingName>Hưu nhàn y sam</ThingName>
+<Desc>Quần áo rất thông thường, khá ấm, nhưng không quá thoáng khí.</Desc>
+</Text>
+<Text Name="Item_WinterClothes" sParam="Item">
+<ThingName>Hậu chế y sam</ThingName>
+<Desc>Chế tác dày chắc, vô cùng ấm áp.</Desc>
+</Text>
+</List>
+</Texts>

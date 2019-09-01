@@ -1,0 +1,57 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="Mood_Sys_Lost">
+<DisplayName>[Mất]</DisplayName>
+<Desc>Không tìm thấy mod</Desc>
+</Text>
+<Text Name="Mood_Sys_School_Disappointment">
+<DisplayName>Đường chủ kém cỏi</DisplayName>
+<Desc>Với trình độ của người này, cũng có thể làm đường chủ? Ta cũng làm được...</Desc>
+<StoryDesc>Vì đường chủ của bản thân năng lực kém cỏi mà bất mãn</StoryDesc>
+</Text>
+<Text Name="Mood_Sys_School_ZhangMen1">
+<DisplayName>Tiền nhiệm trưởng môn</DisplayName>
+<Desc>[TXT] Trở thành chưởng môn rồi, thật sự rất vui vẻ!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_ZhangMen2">
+<DisplayName>Tiền nhiệm trưởng môn</DisplayName>
+<Desc>[TXT] Trở thành chưởng môn rồi, thật sự quá hỏng bét rồi!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_ZhangMen3">
+<DisplayName>bị thu hồi</DisplayName>
+<Desc>Ta cảm thấy ta còn có thể tiếp tục làm chưởng môn...</Desc>
+</Text>
+<Text Name="Mood_Sys_School_ZhangMen4">
+<DisplayName>Cách chức chưởng môn</DisplayName>
+<Desc>[TXT] không còn là chưởng môn của chúng ta, thật đáng tiếc!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_ZhangMen5">
+<DisplayName>Cách chức chưởng môn</DisplayName>
+<Desc>[TXT] không còn là chưởng môn của chúng ta, tốt quá rồi!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu0">
+<DisplayName>Trở thành đường chủ</DisplayName>
+<Desc>Ta đã trở thành nhất đường chi chủ, tất nhiên tận tâm tận trách!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu1">
+<DisplayName>Đường chủ tiền nhiệm</DisplayName>
+<Desc>[TXT] Trở thành đường chủ, thật sự rất vui vẻ!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu2">
+<DisplayName>Đường chủ tiền nhiệm</DisplayName>
+<Desc>[TXT] ai nấy đều có thể trở thành đường chủ? Việc này thật sự khiến người khó chịu!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu3">
+<DisplayName>bị thu hồi</DisplayName>
+<Desc>Ta cảm thấy mình vẫn còn có thể tiếp tục làm đường chủ... Vì môn phái phát huy quang đại</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu4">
+<DisplayName>Rời chức đường chủ</DisplayName>
+<Desc>[TXT] Không còn là đường chủ của chúng ta nữa, thật sự rất khổ sở!</Desc>
+</Text>
+<Text Name="Mood_Sys_School_TangZhu5">
+<DisplayName>Rời chức đường chủ</DisplayName>
+<Desc>[TXT] Không còn là đường chủ của chúng ta nữa, đúng là đại khoái nhân tâm!</Desc>
+</Text>
+</List>
+</Texts>

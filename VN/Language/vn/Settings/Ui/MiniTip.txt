@@ -1,0 +1,36 @@
+﻿Trò chơi có nhiều phím tắt, Tỷ như dùng CTRL+ số để khóa tạo đội hình;~ Công kích. Chi tiết có thể F1 xem tại.
+Bí quyết của phong thủy nằm ở chỗ thuộc tính ngũ hành của khối đất tương sinh với thuộc tính công trình, Xây Quan Tinh Đài để xem thuộc tính ngũ hành của cánh đồng.
+Đệ tử ngoại môn bị thương, Tuyển chọn nhân vật lang trung sẽ tự đi trị liệu. Không cần chủ động sử dụng dược tài.
+Có thể dùng thần hành phù để tăng tốc độ lịch luyện, Đề cao Phân Ảnh Độn Không Phù.
+Khởi đầu trò chơi có thể tới Tiểu Lương Sơn lịch luyện để nhặt Miên Hoa, để giải quyết vấn đề y phục.
+Gian phòng Phong thủy cùng Mỹ quan trình độ Hội duy trì tính ảnh hưởng Đệ tử tâm tình.
+Lót sàn nhà có thể nâng cao độ mỹ quan.
+Danh vọng môn phái sẽ ảnh hưởng đến thực lực của kẻ địch đến tập kích.
+Sàn nhà có thể điều chỉnh thuộc tính ngũ hành của khối đất.
+Máu thịt cơ thể cũng hữu dụng, ví dụ như đặt ở ruộng đồng, hoặc làm khôi lỗi. . .
+Vật thể hoặc công trình hệ Hỏa, có thể gia tăng nhiệt độ xung quanh hoặc gian phòng.
+Vật thể hoặc công trình hệ Thủy, có thể hạ nhiệt độ xung quanh hoặc gian phòng.
+Đặt Long Chung ở vị trí thích hợp, có thể bảo vệ sinh mạng của đệ tử ngoại môn.
+Độ màu mỡ của đất, nồng độ linh khí, đều ảnh hưởng hiệu suất sinh trưởng của cây trồng.
+Diện tích gian phòng nhỏ nhất là 4, lớn nhất là 400.
+Ở trong gian phòng, nhiệt độ sẽ tăng giảm tổng thể, chứ không tập trung tại một điểm.
+Nếu có đệ tử bất hạnh qua đời, nhớ mai táng cho họ.
+Trồng tiểu mạch để có nguồn thức ăn chủ yếu.
+Đến thành trấn có thể tuyển nhận đệ tử, mua vật tư.
+Liên tục thăm dò địa điểm chủ yếu trên bản đồ, sẽ mở ra những địa điểm mới.
+Cự Ngân Hạnh khá hiếm, chỉ có thể ngộ không thể cầu.
+Đặt lu nước ở vị trí thích hợp, đệ tử làm việc và sinh sống sẽ càng dễ dàng hơn.
+Tham gia Tiên Duyên Đại Hội mỗi năm một lần, có thể thu hút số lượng lớn đệ tử đến bái sơn.
+Mỗi năm một lần Côn Luân Pháp Hội chỉ cho phép Kim Đan Kỳ với ở phía trên Đệ tử tham gia, đệ tử thấp hơn chỉ có thể tham quan học tập
+Tin đồn tiên giới: Nào đó Chưởng môn ăn Linh khí hàm lượng quá cao Bánh mì dẫn đến bạo thể mà chết. . .
+Tin đồn tiên giới: Có người phát hiện thượng cổ công pháp trong hộp đá cũ kỹ. . .
+Tin đồn tiên giới: Dù tiên hay người đều sẽ tham ăn, khó có thể chống lại niềm sung sướng của mỹ thực mang lại. . .
+Tin đồn tiên giới: Đau răng là bệnh khó trị nhất, không có ngoại lệ. . .
+Tin đồn tiên giới: Thanh Liên Kiếm Tông trên Thục Sơn có rất nhiều. . .
+Tin đồn tiên giới: Nếu như phong thủy của mộ phần quá kém, buổi tối sẽ xảy ra chuyện đáng sợ. . .
+Tin đồn tiên giới: Có một phương pháp để bầu trời vĩnh viễn sáng sủa, việc này có liên quan đến thượng cổ thần thú. . .
+Tin đồn tiên giới: Chỗ nước cạn có thể lót sàn nhà. . .
+Tin đồn tiên giới: Đệ tử mắc khiết phích vô cùng khó hầu hạ. . .
+Tin đồn tiên giới: Từng có tu hành giả đánh cắp được bảo vật trân quý từ trong thiên kiếp. . .
+Tin đồn tiên giới: Có đạo hữu đối với một chút Môn phái lại keo kiệt lại nghĩ kéo Nhân  nhập bọn cách làm biểu thị ra Bất mãn. . .
+Tin đồn tiên giới: Mỗi khi có Đạo thống hiện thế, đều là thời cơ tuyệt hảo để học được thượng cổ công pháp. . .

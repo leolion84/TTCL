@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="WoodBase" sParam="Item">
+<Item.FabaoSuffix>Mộc, Chi, trụ, cái cọc</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Wood" sParam="Item">
+<ThingName>Nguyên mộc</ThingName>
+<Desc>Mộc tài tốt, vật liệu chế tác thường gặp.</Desc>
+<Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_HardWood" sParam="Item">
+<ThingName>Kim ti Linh mộc</ThingName>
+<Desc>Kim Ti Mộc ngàn năm quý báo, tính chất cứng rắn, cực kỳ nặng.</Desc>
+<Item.BeMaterial.NamePrefix>Tơ vàng Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_ParasolWood" sParam="Item">
+<ThingName>Ngô đồng thần mộc</ThingName>
+<Desc>Thần mộc của Phượng Hoàng Tê Tức, bề mặt sáng bóng trơn trượt như tẩy, tính chất cực kỳ cứng rắn, giàu linh khí, hiếm thấy trên đời.</Desc>
+<Item.BeMaterial.NamePrefix>ngô đồng Mộc</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingWood" sParam="Item">
+<ThingName>Linh mộc</ThingName>
+<Desc>Mộc tài bị linh khí tẩy luyện, mười phần cứng rắn và không dễ cháy.</Desc>
+<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

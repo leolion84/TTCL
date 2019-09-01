@@ -1,0 +1,8 @@
+﻿Nam Thông dụng, Tẩu, Công, Hầu, Đế, Vương, Quân, Lang, Công Tử, Thiếu gia, Lang quân, Thư sinh, Tiên Sinh, Cư sĩ, Tán Nhân, Khách
+Nam trung, Tẩu, Công, Hầu, Đế, Vương, Quân, Lang, Công Tử, Thiếu gia, Lang quân, Thư sinh, Tiên Sinh, Cư sĩ, Tán Nhân, Khách
+Nam chính, Tẩu, Công, Hầu, Đế, Vương, Quân, Lang, Công Tử, Thiếu gia, Lang quân, Thư sinh, Tiên Sinh, Cư sĩ, Tán Nhân, Khách
+Nam tà, yêu nhân, Ma Nhân, Sát Thần, tà nhân, Sát nhân, Tẩu, Công, Hầu, Đế, Vương, Quân, Lang, Công Tử, Thiếu gia, Lang quân
+Nữ Thông dụng, tiên tử, nương tử, ngọc nữ, thánh cô, Cư sĩ, Tán Nhân, Khách, Nữ hiệp
+Nữ trung, tiên tử, nương tử, ngọc nữ, thánh cô, Cư sĩ, Tán Nhân, Khách, Nữ hiệp
+Nữ chính, tiên tử, nương tử, ngọc nữ, thánh cô, Cư sĩ, Tán Nhân, Khách, Nữ hiệp
+Nữ tà, yêu nữ, ma nữ, Sát nhân, nương tử, mị, Hồ ly

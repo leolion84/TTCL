@@ -1,0 +1,49 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="ClothBase" sParam="Item">
+<Desc>Miên Hoa dệt thành vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.FabaoSuffix>lụa, sa, La</Item.FabaoSuffix>
+<Item.BeMaterial.NamePrefix>vải</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_CottonCloth" sParam="Item">
+<ThingName>Vải hoa</ThingName>
+<Desc>Miên hoa dệt thành 【Hoa sắc】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải hoa</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_DeepBlueCloth" sParam="Item">
+<ThingName>Vải chàm</ThingName>
+<Desc>Miên hoa dệt thành 【điện Màu lam】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải chàm</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_PurpleCloth" sParam="Item">
+<ThingName>Vải tím</ThingName>
+<Desc>Miên hoa dệt thành 【Màu tím】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải tím</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_YellowCloth" sParam="Item">
+<ThingName>Vải vàng</ThingName>
+<Desc>Miên hoa dệt thành 【Màu vàng】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải vàng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_BlueCloth" sParam="Item">
+<ThingName>Vải xanh</ThingName>
+<Desc>Miên hoa dệt thành 【Màu lam】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải xanh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_RedCloth" sParam="Item">
+<ThingName>Vải đỏ</ThingName>
+<Desc>Miên hoa dệt thành 【Màu đỏ】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải đỏ</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_WhiteCloth" sParam="Item">
+<ThingName>Vải trắng</ThingName>
+<Desc>Miên hoa dệt thành 【Màu trắng】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải trắng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_BlackCloth" sParam="Item">
+<ThingName>Vải đen</ThingName>
+<Desc>Miên hoa dệt thành 【Màu đen】 vải vóc, có thể dùng để chế tạo các loại quần áo.</Desc>
+<Item.BeMaterial.NamePrefix>Vải đen</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

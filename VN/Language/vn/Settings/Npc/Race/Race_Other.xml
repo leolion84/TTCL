@@ -1,0 +1,25 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="SYS_LOST">
+<DisplayName>Không tìm thấy mod</DisplayName>
+</Text>
+<Text Name="Puppet">
+<DisplayName>Khôi lỗi</DisplayName>
+</Text>
+<Text Name="NY_Zhuyao">
+<DisplayName>Yêu quái heo ngày tết</DisplayName>
+</Text>
+<Text Name="NY_Jingguai">
+<DisplayName>Tiểu yêu ngày tết</DisplayName>
+</Text>
+<Text Name="BodyPart">
+<DisplayName>Bộ phận cơ thể</DisplayName>
+</Text>
+<Text Name="MiniLong">
+<DisplayName>ấu long</DisplayName>
+</Text>
+<Text Name="MiniFeng">
+<DisplayName>ấu Phượng</DisplayName>
+</Text>
+</List>
+</Texts>

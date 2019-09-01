@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+<List>
+	<Text Name="Temperature1">
+		<DisplayName>cực hàn</DisplayName>
+		<Desc>Vượt qua cái lạnh cực hạn, thì cũng bị đông chết thôi à.</Desc>
+		<StoryDesc>Đang bị đông lạnh đến thần chí mơ hồ</StoryDesc>
+	</Text>
+	<Text Name="Temperature2">
+		<DisplayName>lạnh giá</DisplayName>
+		<Desc>Lạnh quá, nhịn không được run lập cập.</Desc>
+		<StoryDesc>Đang thầm chửi rủa cái lạnh, Đang cố sức run người để đỡ lạnh</StoryDesc>
+	</Text>
+	<Text Name="Temperature3">
+		<DisplayName>Lạnh</DisplayName>
+		<Desc>Thật lạnh, nhịn không được run rẩy.</Desc>
+		<StoryDesc>Lạnh muốn chết, đang chà xát hai tay, run người để đỡ lạnh</StoryDesc>
+	</Text>
+	<Text Name="Temperature4">
+		<DisplayName>Có chút lạnh</DisplayName>
+		<Desc>Có hơi lạnh.</Desc>
+		<StoryDesc>Đang lầm bầm nói có nên mặc thêm đồ không, Vì cảm thấy se lạnh mà sợ tới run người</StoryDesc>
+	</Text>
+	<Text Name="Temperature5">
+		<DisplayName>Nhiệt độ thoải mái</DisplayName>
+		<Desc>Nhiệt độ vừa đủ, thật dễ chịu.</Desc>
+		<StoryDesc>Vừa mới cảm thán một tiếng vì nhiệt độ thoải mái, Vừa mới thầm cảm thán khí trời thật thoải mái</StoryDesc>
+	</Text>
+	<Text Name="Temperature6">
+		<DisplayName>Có chút nóng</DisplayName>
+		<Desc>Cảm thấy hơi nóng</Desc>
+		<StoryDesc>Lau mồ hôi rịn trên trán, Đang dùng tay quạt quạt gió</StoryDesc>
+	</Text>
+	<Text Name="Temperature7">
+		<DisplayName>Nóng</DisplayName>
+		<Desc>Nóng quá, mồ hôi đổ đầm đìa, khó chịu thật.</Desc>
+		<StoryDesc>Vừa mới dùng ống tay áo lau mồ hôi, Vừa mới vén áo bị mồ hôi thấm ướt nhẹp</StoryDesc>
+	</Text>
+	<Text Name="Temperature8">
+		<DisplayName>Nóng bức</DisplayName>
+		<Desc>Nóng quá trời, nóng chịu không nổi.</Desc>
+		<StoryDesc>Lớn tiếng chửi bới nhiệt độ nóng bức này, Vừa vắt quần áo bị mồ hôi làm ướt nhẹp</StoryDesc>
+	</Text>
+	<Text Name="Temperature9">
+		<DisplayName>Cực nóng</DisplayName>
+		<Desc>Nhiệt độ quá cao làm người tan vỡ, muốn nóng chết rồi.</Desc>
+		<StoryDesc>Đang nóng đến thần trí không rõ</StoryDesc>
+	</Text>
+	<Text Name="Light1">
+		<DisplayName>Chói mắt</DisplayName>
+		<Desc>Nắng quá, nắng tới mắt mở không lên.</Desc>
+		<StoryDesc>Đang lấy tay che khuất ánh nắng cường liệt này, Vì ánh nắng làm chói mắt mà nước mắt chảy ròng ròng</StoryDesc>
+	</Text>
+	<Text Name="Light2">
+		<DisplayName>Chói mắt</DisplayName>
+		<Desc>Nắng thật mạnh, đôi mắt khó chịu, nhìn không rõ.</Desc>
+		<StoryDesc>Vì quá nắng mà phải híp mắt, Dụi dụi đôi mắt bị lóa</StoryDesc>
+	</Text>
+	<Text Name="Light3">
+		<DisplayName>Lờ mờ</DisplayName>
+		<Desc>Không đủ sáng, nhìn không được rõ.</Desc>
+		<StoryDesc>Vì ánh sáng quá lờ mờ mà phải mở to hai mắt, Lầm bầm nói nếu như sáng hơn chút thì tốt rồi</StoryDesc>
+	</Text>
+	<Text Name="Light4">
+		<DisplayName>Đen kịt</DisplayName>
+		<Desc>Giơ tay không thấy năm ngón, thật bất tiện.</Desc>
+		<StoryDesc>Vì khắp nơi tối thui mà lần dò lục lọi, Đang chửi bới ở trong lòng sao ngay cả cái đèn cũng không có</StoryDesc>
+	</Text>
+	<Text Name="Light5">
+		<DisplayName>Lờ mờ</DisplayName>
+		<Desc>Môi trường u ám, khiến ta cảm thấy an tâm.</Desc>
+		<StoryDesc>Vì môi trường u ám mà cảm thấy an tâm, Đang hưởng thụ thời khắc u ám này</StoryDesc>
+	</Text>
+	<Text Name="Light6">
+		<DisplayName>Đen kịt</DisplayName>
+		<Desc>Giơ tay không thấy năm ngón, cảm thấy thật an toàn.</Desc>
+		<StoryDesc>Mới vừa ở trong hoàn cảnh đen kịt phát ra tiếng thở dài thỏa mãn, Đang hưởng thụ thời khắc đen kịt hiếm có này</StoryDesc>
+	</Text>
+	<Text Name="Pain1">
+		<DisplayName>Thống Bất Dục Sinh</DisplayName>
+		<Desc>Tại sao lại đau đớn như thế, chi bằng bất tỉnh đi cho rồi...</Desc>
+		<StoryDesc>Vì đau đớn mà kêu rên, Đang bị cơn đau làm chết đi sống lại, Đang bị cơn đau giày vò</StoryDesc>
+	</Text>
+	<Text Name="Pain2">
+		<DisplayName>Đau nhức</DisplayName>
+		<Desc>Chịu không nổi rồi, đau quá, chống đỡ không nổi...</Desc>
+		<StoryDesc>Đang cắn chặt răng chịu đựng đau đớn, Vì đau đớn mà thấp giọng kêu rên</StoryDesc>
+	</Text>
+	<Text Name="Pain3">
+		<DisplayName>Đau đớn phi thường</DisplayName>
+		<Desc>Thật sự rất đau, nhịn tới lúc nào mới xong a...</Desc>
+		<StoryDesc>Vì đau đớn mà hít một hơi lạnh, Đang âm thầm chịu đựng đau đớn</StoryDesc>
+	</Text>
+	<Text Name="Pain4">
+		<DisplayName>Đau đớn</DisplayName>
+		<Desc>Rất đau, khẽ cắn môi cố gắng cho qua.</Desc>
+		<StoryDesc>Vừa mới vì đau mà nhếch miệng, Đang nói thầm đau quá</StoryDesc>
+	</Text>
+	<Text Name="Pain5">
+		<DisplayName>Hơi đau</DisplayName>
+		<Desc>Có hơi đau, không quá cao hứng...</Desc>
+		<StoryDesc>Vừa vì đau đớn mà nhíu mày, Vừa vì đau đớn mà hít sâu mấy lần</StoryDesc>
+	</Text>
+	<Text Name="Consciousness1">
+		<DisplayName>Thần chí không rõ</DisplayName>
+		<Desc>Ta là ai, đây là đâu... Rốt cuộc đã xảy ra chuyện gì, đầu của ta...</Desc>
+		<StoryDesc>Trong đầu một mớ hỗn độn</StoryDesc>
+	</Text>
+	<Text Name="Consciousness2">
+		<DisplayName>Đau đầu chóng mặt</DisplayName>
+		<Desc>Cảm thấy đầu óc như một mớ hồ dán, thật là một trải nghiệm làm người ta khó chịu.</Desc>
+		<StoryDesc>Vì đau đầu làm choáng váng mà thở dài một hơi</StoryDesc>
+	</Text>
+	<Text Name="Consciousness3">
+		<DisplayName>Hỗn loạn</DisplayName>
+		<Desc>Cảm giác đầu như đổ chì, hỗn loạn, không cách nào suy nghĩ.</Desc>
+		<StoryDesc>Đang cảm thấy mê man, thập phần không khỏe</StoryDesc>
+	</Text>
+	<Text Name="Consciousness4">
+		<DisplayName>Rũ rượi</DisplayName>
+		<Desc>Không muốn động đậy, nhấc không lên một chút sức lực nào...</Desc>
+		<StoryDesc>Vì không có tinh thần mà ngáp một cái</StoryDesc>
+	</Text>
+	<Text Name="GetWet">
+		<DisplayName>Quần áo ướt rồi</DisplayName>
+		<Desc>Có đem theo dù thì tốt rồi.</Desc>
+		<StoryDesc>Vừa kéo kéo quần áo bị ướt, Đang lầm bầm sao ngay cả một cái dù cũng không có</StoryDesc>
+	</Text>
+	<Text Name="DevilBlood">
+		<DisplayName>Ma niệm</DisplayName>
+		<Desc>Trong lòng như đang có vô số ma đầu kêu gào, bọn chúng như sói đói, điên cuồng cắn xé nội tâm ta.</Desc>
+		<StoryDesc>Vì trong lòng xuất hiện ma niệm kêu gào mà đau khổ nhẫn nại</StoryDesc>
+	</Text>
+	<Text Name="DevilBlood_Satisfy">
+		<DisplayName>Tạm thời thỏa mãn</DisplayName>
+		<Desc>Vui vẻ, đây là vui vẻ, ta cảm thấy ma đầu trong lòng đã kêu lên tiếng thỏa mãn.</Desc>
+		<StoryDesc>Vì ma dục trong lòng đã thỏa mãn mà phát ra một tiếng thở dài</StoryDesc>
+	</Text>
+	<Text Name="DevilBlood_LianHun">
+		<DisplayName>Luyện Hồn</DisplayName>
+		<Desc>Linh hồn ta như bị xé nát... Trên thế giới này sao lại có nỗi đau như vậy.</Desc>
+		<StoryDesc>Vì linh hồn bị xé nát mà thống khổ cắn chặt răng</StoryDesc>
+	</Text>
+	<Text Name="AfterAbsorbGong_6">
+		<DisplayName>Bị móc sạch</DisplayName>
+		<Desc>Cảm thấy tu luyện của bản thân có chút không thích hợp, lòng như bị đào trống không.</Desc>
+		<StoryDesc>Vì thân thể không hiểu sao lại suy yếu mà cảm thấy buồn bực</StoryDesc>
+	</Text>
+</List>
+</Texts>

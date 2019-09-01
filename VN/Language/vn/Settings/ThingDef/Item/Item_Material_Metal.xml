@@ -1,0 +1,32 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="MetalBase" sParam="Item">
+<Item.FabaoSuffix>Kim, Ấn, bia, giác, khuê, Khuyết, Trấn</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_IronRock" sParam="Item">
+<ThingName>Thiết khoáng thạch</ThingName>
+<Desc>Kim chúc khoáng thạch thông thường nhất.Có được độ cứng khá cao, lại dễ dàng gia công.</Desc>
+<Item.BeMaterial.NamePrefix>Thiết</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_CopperRock" sParam="Item">
+<ThingName>Hỏa đồng khoáng thạch</ThingName>
+<Desc>Kim chúc khoáng giàu hỏa khí, tới gần sẽ có cảm giác nóng rực.</Desc>
+<Item.BeMaterial.NamePrefix>Hỏa đồng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SilverRock" sParam="Item">
+<ThingName>Hàn tinh khoáng thạch</ThingName>
+<Desc>Kim chúc khoáng ẩn chứa hàn khí, tính chất của nó tương tự ngân khoáng, tới gần sẽ cảm thấy hàn khí bức người, hết sức xinh đẹp.</Desc>
+<Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_DarksteelRock" sParam="Item">
+<ThingName>Huyền Thiết khoáng thạch</ThingName>
+<Desc>Kim loại hiếm thấy, màu sắc của nó đen kịt, cực kỳ nặng lại rắn chắc, là vật liệu thần binh hiếm có.</Desc>
+<Item.BeMaterial.NamePrefix>huyền thiết</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_StarEssence" sParam="Item">
+<ThingName>Tinh tủy</ThingName>
+<Desc>Tinh hoa sao băng, có vật tính đặc thù, là trân bảo hiếm có tu hành giới.</Desc>
+<Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

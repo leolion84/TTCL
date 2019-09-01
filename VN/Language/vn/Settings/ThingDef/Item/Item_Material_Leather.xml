@@ -1,0 +1,48 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="LeatherBase" sParam="Item">
+<Item.FabaoSuffix>cách, che đậy, chướng</Item.FabaoSuffix>
+<Item.BeMaterial.NamePrefix>Bì</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_BoarLeather" sParam="Item">
+<ThingName>Da lợn rừng</ThingName>
+<Desc>Da heo rừng, tính chất thô ráp, nhưng khá rắn chắc.</Desc>
+<Item.BeMaterial.NamePrefix>Da lợn rừng</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_RabbitLeather" sParam="Item">
+<ThingName>Da thỏ</ThingName>
+<Desc>Da lông thỏ, chất lông mềm mại, mười phần ấm áp.</Desc>
+<Item.BeMaterial.NamePrefix>Da thỏ</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_BearLeather" sParam="Item">
+<ThingName>Da gấu</ThingName>
+<Desc>Da lông gấu, chất lông mềm mại, mười phần ấm áp.</Desc>
+<Item.BeMaterial.NamePrefix>Da gấu</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_WolfLeather" sParam="Item">
+<ThingName>Da sói</ThingName>
+<Desc>Một miếng da sói, rắn chắc dùng bền.</Desc>
+<Item.BeMaterial.NamePrefix>Da sói</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_FeiLeather" sParam="Item">
+<ThingName>Da phỉ</ThingName>
+<Desc>Da lông yêu thú Phỉ, chứa lực lượng thần kỳ, đông ấm hè mát, thậm chí có thể ngăn cách tổn thương tạo thành từ linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>phỉ Bì</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LuShuLeather" sParam="Item">
+<ThingName>Da nai</ThingName>
+<Desc>Da lông linh thú Lộc Thục, chứa lực lượng thần kỳ, đông ấm hè mát, thậm chí có thể ngăn cách tổn thương tạo thành từ linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>Lộc Thục Bì</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_YaoLeather" sParam="Item">
+<ThingName>Da thú của yêu hóa</ThingName>
+<Desc>Da lông của yêu thú, ẩn chứa yêu lực , đông ấm hè mát, thậm chí có thể ngăn cách tổn thương tạo thành từ linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>yêu Bì</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_YaoLeather1" sParam="Item">
+<ThingName>Da mềm của yêu thú</ThingName>
+<Desc>Da rắn chắc của đại yêu quái , ẩn chứa yêu lực khổng lồ , đông ấm hè mát, thậm chí có hiệu quả ngăn cản sát thương linh khí.</Desc>
+<Item.BeMaterial.NamePrefix>yêu mềm dai Bì</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>

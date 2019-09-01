@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_SpellPaper" sParam="Item">
+<ThingName>Phù chú</ThingName>
+<Desc>Trang giấy đặc thù, dùng thần niệm đem giấy ở phía trên Chu sa kéo ra đặc biệt ký hiệu tức có thể hình thành Phù chú.</Desc>
+<Item.FabaoSuffix>Phù, Chú, Cấm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SpellPaperLv2" sParam="Item">
+<ThingName>Linh huyết phù</ThingName>
+<Desc>Trang giấy dùng Yêu Linh Huyết chế thành, dùng thần niệm đem giấy ở phía trên Chu sa kéo ra đặc biệt ký hiệu tức có thể hình thành Phù chú.</Desc>
+</Text>
+<Text Name="Item_SpellPaperLv3" sParam="Item">
+<ThingName>Thần phách phù</ThingName>
+<Desc>Chế phù chú với Ninh Phách, dùng thần niệm đem giấy ở phía trên Chu sa kéo ra đặc biệt ký hiệu tức có thể hình thành Phù chú.</Desc>
+</Text>
+<Text Name="Item_Spell" sParam="Item">
+<ThingName>Phù chú</ThingName>
+<Desc>sẽ chế thành công phù chú, đeo lên người có thể tăng thêm năng lực nhất định.</Desc>
+<Item.FabaoSuffix>Phù, Chú, Cấm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SpellLv2" sParam="Item">
+<ThingName>Phù chú</ThingName>
+<Desc>sẽ chế thành công phù chú, đeo lên người có thể tăng thêm năng lực nhất định.</Desc>
+</Text>
+<Text Name="Item_SpellLv3" sParam="Item">
+<ThingName>Phù chú</ThingName>
+<Desc>sẽ chế thành công phù chú, đeo lên người có thể tăng thêm năng lực nhất định.</Desc>
+</Text>
+</List>
+</Texts>

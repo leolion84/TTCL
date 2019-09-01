@@ -1,0 +1,59 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_WeaponBow" sParam="Item">
+<ThingName>Cung</ThingName>
+<Desc>Một cây cung, có thể dùng để săn bắn mục tiêu xa.</Desc>
+<Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponWoodBow" sParam="Item">
+<ThingName>Cung</ThingName>
+<Desc>Một cây cung, có thể dùng để săn bắn mục tiêu xa.</Desc>
+<Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponKnife" sParam="Item">
+<ThingName>Đao</ThingName>
+<Desc>Một cây đao, sở trường chém bổ.</Desc>
+<Item.FabaoSuffix>Đao</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponLance" sParam="Item">
+<ThingName>Trường thương</ThingName>
+<Desc>Một thanh trường thương, có thể tạo thành vết thương với nội tạng.</Desc>
+<Item.FabaoSuffix>Thương</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponSword" sParam="Item">
+<ThingName>Kiếm</ThingName>
+<Desc>Một thanh kiếm, nhẹ nhàng và nhanh nhẹn.</Desc>
+<Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponHalbert" sParam="Item">
+<ThingName>Chùy</ThingName>
+<Desc>Một thanh trọng chùy, trọng lượng nặng nề có thể đập gãy xương kẻ địch.</Desc>
+<Item.FabaoSuffix>Chùy</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_WeaponAxeRing" sParam="Item">
+<ThingName>Hoàn</ThingName>
+<Desc>Binh khí kỳ môn, bao lấy nắm tay, có thể nhanh nhẹn và mau chóng tạo thành một lượng lớn vết thương lên người đối thủ.</Desc>
+<Item.FabaoSuffix>Hoàn</Item.FabaoSuffix>
+</Text>
+<Text Name="SP_Sword1" sParam="Item">
+<ThingName>Dalabumba</ThingName>
+<Desc>Truyền thuyết ở phương tây xa xôi, có vị gọi Dalabumba dũng sĩ Tằng sử dụng thanh bảo kiếm này chém giết qua được xưng là "Long" cường đại, thân kiếm đỏ tươi như là đã từng tắm qua máu rồng.Thanh kiếm này đánh trúng mục tiêu có tỷ lệ khiến trái tim kẻ địch bị thiêu đốt.</Desc>
+</Text>
+<Text Name="SP_Sword2" sParam="Item">
+<ThingName>Mộc vũ kiếm</ThingName>
+<Desc>Kiếm gỗ phổ thông được Mộc Bạch tiên nhân lưu lại, trông bình thường không có gì lạ, nhưng lại có thần diệu hô phong hoán vũ.</Desc>
+</Text>
+<Text Name="SP_Sword3" sParam="Item">
+<ThingName>Công nghệ tương lai chi kiếm</ThingName>
+<Desc>Kiếm này chính là tín vật của chưởng môn Công Nghệ Tương Lai, thấy kiếm như thấy Lão Cúc.Người nắm giữ có thể tăng cao tính tích cực của tất cả công nhân lao động.</Desc>
+</Text>
+<Text Name="SP_Sword4" sParam="Item">
+<ThingName>Song long ma ảnh kiếm</ThingName>
+<Desc>Thanh kiếm này chính là bội kiếm của Hắc Quang Kiếm Thánh xưa kia, uy lực tuyệt luân.</Desc>
+</Text>
+<Text Name="SP_Bow1" sParam="Item">
+<ThingName>Cung bắt thú </ThingName>
+<Desc>Cây cung chuyên dùng để bắt thú , sử dụng mũi tên đặc chế không cách nào xuyên vào da thịt có tẩm thuốc mê , cho nên sẽ không tạo ra vết thương trí mạng .</Desc>
+</Text>
+</List>
+</Texts>

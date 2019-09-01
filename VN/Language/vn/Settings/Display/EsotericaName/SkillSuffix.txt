@@ -1,0 +1,10 @@
+﻿Tổn thương loại đạn 1, Quyết, Chú, Chân Ngôn, Thần Lôi
+Tổn thương trực tiếp 2, Thần Sát, Thần Cương
+Đơn thể phi kiếm tăng cường 3, Kiếm Quyết, Kiếm Độn, Kiếm
+Quần thể phi kiếm tăng cường 4, Kiếm Trận, Kiếm Quyết, Kiếm Độn, Kiếm
+Đơn thể thuật pháp tăng cường 5, Quyết, Chú, Chân Ngôn, Đại Pháp, Pháp, Thần Thông
+Quần thể thuật pháp tăng cường 6, Trận, Đại Trận, Chú Trận, Phù Trận
+Đơn thể khôi phục sinh lực 7, Quyết, Chú, Chân Ngôn, Đại Pháp, Pháp, Thần Thông
+Quần thể khôi phục sinh lực 8, Trận, Đại Trận, Chú Trận, Phù Trận
+Đơn thể đề cao hộ thuẫn 9, Quyết, Chú, Chân Ngôn, Đại Pháp, Pháp, Thần Thông
+Quần thể đề cao hộ thuẫn 10, Trận, Đại Trận, Chú Trận, Phù Trận

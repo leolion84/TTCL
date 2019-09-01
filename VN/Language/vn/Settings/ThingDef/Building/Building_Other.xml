@@ -1,0 +1,38 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="Building_Jiaolong_Body" sParam="Building">
+<ThingName>Thi thể Giao Long</ThingName>
+</Text>
+<Text Name="Building_Dragon_Hole" sParam="Building">
+<ThingName>Huyệt động thần bí</ThingName>
+<Desc>Bên trong huyệt động thỉnh thoảng phát ra ý niệm cường đại, Yêu cầu ngươi cúng tế. Có thể thông qua trấn áp phong thủy gian phòng, Phong thủy gian phòng càng tốt, hoạt tính của nó càng thấp, Khoảng cách cúng tế càng dài .Mỗi lần tế tự thành công đều tăng cường ý niệm bên trong huyệt động thần bí, Cũng sẽ đề cao độ khó trấn áp.</Desc>
+<StoryBnts.0.Name>Chọc giận</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử lấp huyệt động</StoryBnts.0.Desc>
+<StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("Trong huyệt động ý niệm tràn ngập nguy hiểm và khí tức cường đại, nhất định phải Chọc giận nó sao? (Thực hiện nên Mệnh lệnh Hội triệu hồi ra Thượng cổ chi thú , nếu như chưa chuẩn bị sẵn sàng , có thể sẽ dẫn đến diệt môn , xin hãy suy nghĩ kỹ.)", 2, function(b) if (b ~="1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+</Text>
+<Text Name="Building_Xiongfeng_dan" sParam="Building">
+<ThingName>Trứng Hung Phượng</ThingName>
+<Desc>Cực nóng mà còn phát ra hào quang chói mắt , nó đang hấp thu linh khí dự định hồi sinh .</Desc>
+</Text>
+<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+<ThingName>Trứng Hung Phượng (Tử vong)</ThingName>
+<Desc>Đã chết</Desc>
+</Text>
+<Text Name="Building_Zhulong_yingdan" sParam="Building">
+<ThingName>Trứng âm</ThingName>
+<Desc>Có thứ gì đang cố gắng nở ra , cần dùng phong thủy Đại Cát tới trấn áp.</Desc>
+</Text>
+<Text Name="Building_Zhulong_yangdan" sParam="Building">
+<ThingName>Trứng dương</ThingName>
+<Desc>Có thứ gì đang cố gắng nở ra , cần dùng phong thủy Đại Hung tới trấn áp.</Desc>
+</Text>
+<Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+<ThingName>Trứng âm (Tử vong)</ThingName>
+<Desc>Đã chết</Desc>
+</Text>
+<Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+<ThingName>Trứng dương (Tử vong)</ThingName>
+<Desc>Đã chết</Desc>
+</Text>
+</List>
+</Texts>

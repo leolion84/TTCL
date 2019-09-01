@@ -1,0 +1,106 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="OrnamentBase" sParam="Building">
+<Desc>Công trình giành cho trang trí, dựa vào vật liệu chế tạo có thể ảnh hưởng thuộc tính ngũ hành xung quanh.</Desc>
+</Text>
+<Text Name="Building_StoneMan" sParam="Building">
+<ThingName>Cự linh pho tượng</ThingName>
+</Text>
+<Text Name="Building_Flag1" sParam="Building">
+<ThingName>Long Kỳ</ThingName>
+</Text>
+<Text Name="Building_Flag2" sParam="Building">
+<ThingName>Bát Quái Kỳ</ThingName>
+</Text>
+<Text Name="Building_Flag3" sParam="Building">
+<ThingName>Thái Cực Kỳ</ThingName>
+</Text>
+<Text Name="Building_StoneLion" sParam="Building">
+<ThingName>Tượng sư tử</ThingName>
+</Text>
+<Text Name="Building_StoneLion2" sParam="Building">
+<ThingName>Tượng sư tử</ThingName>
+</Text>
+<Text Name="Building_StoneLion3" sParam="Building">
+<ThingName>Tượng sư tử</ThingName>
+</Text>
+<Text Name="Building_BigTripod" sParam="Building">
+<ThingName>Đỉnh lớn</ThingName>
+</Text>
+<Text Name="Building_SmallTripod" sParam="Building">
+<ThingName>Đỉnh</ThingName>
+</Text>
+<Text Name="Building_BigCenser" sParam="Building">
+<ThingName>Lư hương lớn</ThingName>
+</Text>
+<Text Name="Building_SmallCenser" sParam="Building">
+<ThingName>Lư hương</ThingName>
+</Text>
+<Text Name="Building_BigSwordPillar" sParam="Building">
+<ThingName>Hộ sơn kiếm trận</ThingName>
+<Desc>Có thể bỏ pháp bảo vô dụng vào kiếm trận, trong lúc cần thiết có thể mở kiếm trận, chống lại địch nhân, kiếm trận chỉ có thể khóa chặt khí tức đệ tử đệ tử nội môn. Một khi đã bỏ pháp bảo vào kiếm trận thì không cách nào lấy ra.</Desc>
+</Text>
+<Text Name="Building_BigVase" sParam="Building">
+<ThingName>Bình hoa lớn</ThingName>
+</Text>
+<Text Name="Building_SmallVase" sParam="Building">
+<ThingName>Bình hoa</ThingName>
+</Text>
+<Text Name="Building_Screen1" sParam="Building">
+<ThingName>Bình phong</ThingName>
+</Text>
+<Text Name="Building_BookShelf" sParam="Building">
+<ThingName>Giá sách</ThingName>
+</Text>
+<Text Name="Building_ItemShelf" sParam="Building">
+<ThingName>Kệ để đồ</ThingName>
+<Desc>Có thể đặt vật phẩm chỉ định lên.</Desc>
+</Text>
+<Text Name="Building_ShuZhuangTai" sParam="Building">
+<ThingName>Bàn trang điểm</ThingName>
+</Text>
+<Text Name="Building_Tower" sParam="Building">
+<ThingName>Trấn tháp</ThingName>
+</Text>
+<Text Name="Building_Tower2" sParam="Building">
+<ThingName>Tháp</ThingName>
+</Text>
+<Text Name="Building_ShiBei" sParam="Building">
+<ThingName>Bia</ThingName>
+</Text>
+<Text Name="Building_Zhong" sParam="Building">
+<ThingName>Chuông</ThingName>
+<Desc>Một cái chuông lớn, có thể gõ vang để phát ra cảnh giác, toàn bộ đệ tử ngoại môn sẽ đến gần đó để tránh né nguy hiểm, cần tự tay hủy bỏ cảnh giác. Cũng có thể làm vật trang trí, dựa vào vật liệu chế tạo có thể ảnh hưởng thuộc tính ngũ hành xung quanh.</Desc>
+</Text>
+<Text Name="Building_Gu" sParam="Building">
+<ThingName>Trống</ThingName>
+</Text>
+<Text Name="Building_JiaShan1" sParam="Building">
+<ThingName>Núi giả - tằng loan</ThingName>
+</Text>
+<Text Name="Building_JiaShan2" sParam="Building">
+<ThingName>Núi giả - điệp chướng</ThingName>
+</Text>
+<Text Name="Building_PenZai1" sParam="Building">
+<ThingName>Bồn hoa - thương thúy</ThingName>
+</Text>
+<Text Name="Building_PenZai2" sParam="Building">
+<ThingName>Bồn hoa - nghênh khách</ThingName>
+</Text>
+<Text Name="Building_PenZai3" sParam="Building">
+<ThingName>Bồn hoa - nghênh tiên</ThingName>
+</Text>
+<Text Name="Building_Tower1" sParam="Building">
+<ThingName>Lưu kim tháp</ThingName>
+</Text>
+<Text Name="Building_ShiBei1" sParam="Building">
+<ThingName>Bá hạ bia</ThingName>
+</Text>
+<Text Name="Building_Zhong1" sParam="Building">
+<ThingName>Bàn long chung</ThingName>
+</Text>
+<Text Name="Building_Gu1" sParam="Building">
+<ThingName>Vân long cổ</ThingName>
+</Text>
+</List>
+</Texts>

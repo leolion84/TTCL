@@ -1,0 +1,282 @@
+﻿<Texts Type="Other">
+<List>
+<Text Name="SYS_LOST">
+<DisplayName>[ Mất ]</DisplayName>
+<Desc>Đây là một cái nhãn hảo cảm đã mất, Không ai biết bất cứ tin tức gì .(Không tìm thấy mod).</Desc>
+</Text>
+<Text Name="Opinion">
+<DisplayName>Thái độ</DisplayName>
+<Desc>Đây là những nhãn hảo cảm đặc biệt, dùng để giải quyết các loại quan điểm</Desc>
+</Text>
+<Text Name="Distrust">
+<DisplayName>Lạnh lùng</DisplayName>
+<Desc>Thế giới này đều vì lợi ích, ta không tin tưởng bất cứ ai</Desc>
+</Text>
+<Text Name="Enthusiasm">
+<DisplayName>Nhiệt tình</DisplayName>
+<Desc>Mọi người tương phùng chính là hữu duyên, đều là bằng hữu!!</Desc>
+</Text>
+<Text Name="BeReceived">
+<DisplayName>Được hoan nghênh</DisplayName>
+<Desc>[HENAME] rất có mị lực, trời sinh đã được người khác hoan nghênh</Desc>
+</Text>
+<Text Name="BeTrueMan">
+<DisplayName>Người chân thật</DisplayName>
+<Desc>[HENAME] kinh lịch chân thật của người này khiến người khác nhìn đến với cặp mắt khác xưa.</Desc>
+</Text>
+<Text Name="Loyal">
+<DisplayName>Trượng nghĩa</DisplayName>
+<Desc>[HENAME] rất trượng nghĩa, đáng để thâm giao.</Desc>
+</Text>
+<Text Name="BeiGuoXia">
+<DisplayName>Bối oa hiệp</DisplayName>
+<Desc>[HENAME] thường xuyên gánh chịu trách nhiệm, được mọi người xung quanh yêu thích.</Desc>
+</Text>
+<Text Name="DongShiZhang">
+<DisplayName>Sếp</DisplayName>
+<Desc>[HENAME] là sếp của chúng ta!</Desc>
+</Text>
+<Text Name="HaoShuang">
+<DisplayName>Hào sảng</DisplayName>
+<Desc>[HENAME] dụng tâm hiệp nghĩa, là người hào sảng, làm người sinh ra ý muốn kết giao!</Desc>
+</Text>
+<Text Name="BeginTogether">
+<DisplayName>Bước chân vào giang hồ</DisplayName>
+<Desc>[HENAME] cùng ta bước chân vào giang hồ</Desc>
+</Text>
+<Text Name="Charisma0">
+<Desc>mị lực hảo cảm 0</Desc>
+<Layers.0.DisplayName>Người thô bỉ</Layers.0.DisplayName>
+<Layers.0.Desc>Trên thế giới sao lại có người như [HENAME] vậy...</Layers.0.Desc>
+<Layers.1.DisplayName>Không hiểu tình người</Layers.1.DisplayName>
+<Layers.1.Desc>cùng [HENAME] chung sống rất khó chịu.</Layers.1.Desc>
+<Layers.2.DisplayName>không giỏi giao tiếp</Layers.2.DisplayName>
+<Layers.2.Desc>[HENAME] dù không dễ chung sống với người khác, nhưng thật ra là một người rất tốt.</Layers.2.Desc>
+</Text>
+<Text Name="Charisma1">
+<Desc>mị lực hảo cảm 1</Desc>
+<Layers.0.DisplayName>Ngụy quân tử</Layers.0.DisplayName>
+<Layers.0.Desc>[HENAME] rất giả tạo, ngụy quân tử ra vẻ đạo mạo.</Layers.0.Desc>
+<Layers.1.DisplayName>Có tu dưỡng</Layers.1.DisplayName>
+<Layers.1.Desc>[HENAME] nhìn qua là một người không tệ.</Layers.1.Desc>
+<Layers.2.DisplayName>Thiện giải nhân ý</Layers.2.DisplayName>
+<Layers.2.Desc>[HENAME] rất hiểu ý người khác, chung sống với hắn rất vui</Layers.2.Desc>
+</Text>
+<Text Name="Charisma2">
+<Desc>mị lực hảo cảm 2</Desc>
+<Layers.0.DisplayName>Quân tử</Layers.0.DisplayName>
+<Layers.0.Desc>Dù ta rất ghét [HENAME], nhưng hắn là một chân quân tử.</Layers.0.Desc>
+<Layers.1.DisplayName>Tác phong nhanh nhẹn</Layers.1.DisplayName>
+<Layers.1.Desc>[HENAME] nhìn qua phong độ nhanh nhẹn, rất có khí chất và tu dưỡng.</Layers.1.Desc>
+<Layers.2.DisplayName>như tắm gió xuân</Layers.2.DisplayName>
+<Layers.2.Desc>cùng [HENAME] chung sống thật sự quá vui, như tắm gió xuân, có bằng hữu như vậy thật vui vẻ.</Layers.2.Desc>
+</Text>
+<Text Name="Relative">
+<Desc>[HENAME] là của ta [TXT]</Desc>
+</Text>
+<Text Name="Practice">
+<Desc>[HENAME] là của ta [TXT]</Desc>
+</Text>
+<Text Name="PracticeOther">
+<Desc>[HENAME] là của ta [TXT]</Desc>
+</Text>
+<Text Name="Family">
+<Desc>[HENAME] là của ta [TXT]</Desc>
+</Text>
+<Text Name="Friend">
+<Desc>Bằng hữu hảo cảm 2</Desc>
+<Layers.0.DisplayName>Bằng hữu</Layers.0.DisplayName>
+<Layers.0.Desc>[HENAME] là bằng hữu của ta, nhưng gần đây giữa chúng ta xảy ra chút vấn đề</Layers.0.Desc>
+<Layers.1.DisplayName>Bằng hữu</Layers.1.DisplayName>
+<Layers.1.Desc>[HENAME] là hảo hữu của ta</Layers.1.Desc>
+<Layers.2.DisplayName>Bạn thân</Layers.2.DisplayName>
+<Layers.2.Desc>[HENAME] là chí hữu của ta.</Layers.2.Desc>
+</Text>
+<Text Name="Scar">
+<DisplayName>Vết sẹo</DisplayName>
+<Desc>[HENAME] trên mặt có vết sẹo xấu xí</Desc>
+</Text>
+<Text Name="Fancy">
+<DisplayName>Ái mộ</DisplayName>
+<Desc>Ái mộ</Desc>
+<Layers.0.DisplayName>Ái mộ</Layers.0.DisplayName>
+<Layers.0.Desc>[HENAME]..Haiz.</Layers.0.Desc>
+<Layers.1.DisplayName>Ái mộ</Layers.1.DisplayName>
+</Text>
+<Text Name="Lover">
+<DisplayName>Người yêu</DisplayName>
+<Desc>[HENAME] là người yêu của ta</Desc>
+</Text>
+<Text Name="VisceralScar">
+<DisplayName>Vết sẹo kinh khủng</DisplayName>
+<Desc>[HENAME] trên người có vết sẹo kinh khủng khiến người khác không thể nhìn thẳng</Desc>
+</Text>
+<Text Name="Evilfaced">
+<DisplayName>Tướng mạo xấu xí</DisplayName>
+<Desc>[HENAME] dáng vẻ rất xấu, làm người khác nhìn thôi cũng khó chịu</Desc>
+</Text>
+<Text Name="BeautifulFace">
+<DisplayName>Dung mạo tuấn mỹ</DisplayName>
+<Desc>[HENAME] lớn lên thật xinh đẹp, làm người khác tâm sinh hảo cảm.</Desc>
+</Text>
+<Text Name="Cruel">
+<DisplayName>Đãi nhân nghiêm khắc</DisplayName>
+<Desc>[HENAME] thái độ cực kém, đúng là đáng ghét mà.</Desc>
+</Text>
+<Text Name="Affinity">
+<DisplayName>Đãi nhân thân thiện</DisplayName>
+<Desc>[HENAME] thân thiện nhiệt tình, khiến người khác thấy thân thiết.</Desc>
+</Text>
+<Text Name="SayHi">
+<DisplayName>Chào hỏi</DisplayName>
+<Desc>Ta cùng [HENAME] bắt chuyện với nhau.</Desc>
+</Text>
+<Text Name="AfterTalk">
+<DisplayName>Tán dóc</DisplayName>
+<Desc>Ta cùng [HENAME] tám chuyện, rất không tệ.</Desc>
+</Text>
+<Text Name="DeepTalk">
+<DisplayName>Tâm sự</DisplayName>
+<Desc>Ta cùng [HENAME] tâm sự chút chuyện, việc này khiến chúng ta thấu hiểu lẫn nhau, ta cảm thấy quan hệ của chúng ta vừa tiến một bước dài.</Desc>
+</Text>
+<Text Name="Neglect">
+<DisplayName>Chậm trễ</DisplayName>
+<Desc>Ta và [HENAME] nói hai ba câu, [HE] hình như ngó lơ ta, đúng lúc ta cũng chẳng thèm để ý hắn [HE].</Desc>
+</Text>
+<Text Name="Quarrel">
+<DisplayName>Xảy ra tranh cãi</DisplayName>
+<Desc>Ta cùng [HENAME] xảy ra tranh cãi, cái người này đúng là không nói đạo lý, đáng ghét.</Desc>
+</Text>
+<Text Name="Insult">
+<DisplayName>Vũ nhục</DisplayName>
+<Desc>Ta và [HENAME] vũ nhục lẫn nhau, ta thật sự không thể nhìn nổi tên khốn này.</Desc>
+</Text>
+<Text Name="SayHiFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta cùng [HENAME] hàn huyên một chút, thế nhưng không hiểu tại sao song phương động đến cơn lửa giận nào, kết quả tẩn nhau một trận, tệ thật.</Desc>
+</Text>
+<Text Name="AfterTalkFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta cùng [HENAME] tám chuyện, thế nhưng không hiểu tại sao song phương động đến cơn lửa giận nào, kết quả tẩn nhau một trận, tệ thật.</Desc>
+</Text>
+<Text Name="DeepTalkFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta cùng [HENAME] nói chuyện tâm sự, nhưng mà chúng ta lại khắc khẩu kịch liệt, cuối cùng tẩn nhau.Việc này thật sự rất tổn thương tình cảm của nhau.</Desc>
+</Text>
+<Text Name="NeglectFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta và [HENAME] nói hai ba câu, nhưng mà thái độ khinh nhờn của chúng ta chọc giận đối phương, nhịn không được tẩn nhau một trận.</Desc>
+</Text>
+<Text Name="QuarrelFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta cùng [HENAME] xảy ra tranh cãi, nếu đã bất mãn, vậy chỉ có thể đánh nhau để giải quyết rồi.</Desc>
+</Text>
+<Text Name="InsultFight">
+<DisplayName>đánh nhau</DisplayName>
+<Desc>Ta và [HENAME] vũ nhục lẫn nhau, cái tên mất dạy này chỉ có thể dùng nắm tay để dạy dỗ.</Desc>
+</Text>
+<Text Name="WithYoung">
+<Desc>thái độ đối với tiểu bối</Desc>
+<Layers.0.DisplayName>Không biết tôn ti</Layers.0.DisplayName>
+<Layers.0.Desc>Ta cho rằng [HENAME] là một tên khốn</Layers.0.Desc>
+<Layers.1.DisplayName>Yêu thương</Layers.1.DisplayName>
+<Layers.1.Desc>Ta cảm thấy [HENAME] còn là con nít</Layers.1.Desc>
+<Layers.2.DisplayName>tuổi trẻ tài cao</Layers.2.DisplayName>
+<Layers.2.Desc>Ta cảm thấy [HENAME] tuổi trẻ tài cao</Layers.2.Desc>
+</Text>
+<Text Name="WithElder">
+<Desc>Thái độ đối với trưởng bối</Desc>
+<Layers.0.DisplayName>Phản nghịch</Layers.0.DisplayName>
+<Layers.0.Desc>Ta ở [HENAME] trước mặt cảm thấy không được tự nhiên</Layers.0.Desc>
+<Layers.1.DisplayName>Tôn lão</Layers.1.DisplayName>
+<Layers.1.Desc>Ta cảm thấy [HENAME] lớn tuổi hẳn nên tôn kính</Layers.1.Desc>
+<Layers.2.DisplayName>Sùng kính</Layers.2.DisplayName>
+<Layers.2.Desc>Ta rất sùng kính [HENAME]</Layers.2.Desc>
+</Text>
+<Text Name="RivalInlove">
+<Desc>Tình địch</Desc>
+<Layers.0.DisplayName>Căm hận</Layers.0.DisplayName>
+<Layers.0.Desc>Ta hận không thể một đao đâm chết [HENAME]</Layers.0.Desc>
+<Layers.1.DisplayName>Đồng tình</Layers.1.DisplayName>
+<Layers.1.Desc>Ta cảm thấy [HENAME] rất giống mình</Layers.1.Desc>
+</Text>
+<Text Name="PersonalEnemyBegin">
+<DisplayName>Cừu hận</DisplayName>
+<Desc>Ta và [HENAME] không đội trời chung</Desc>
+</Text>
+<Text Name="FeatureOpposition">
+<DisplayName>Đặc tính đối lập</DisplayName>
+<Desc>Ta ghét [HE], [HE] vậy mà lại là con người như vậy.([TXT])</Desc>
+</Text>
+<Text Name="FeatureClose">
+<DisplayName>Đặc tính tương đồng</DisplayName>
+<Desc>Ta thích [HE] loại người, chúng ta có phẩm chất giống như nhau.([TXT])</Desc>
+</Text>
+<Text Name="SameBackstory">
+<DisplayName>Cùng trải</DisplayName>
+<Desc>kinh lịch của chúng ta giống nhau ([TXT])</Desc>
+</Text>
+<Text Name="FeedGood">
+<DisplayName>Chăm sóc</DisplayName>
+<Desc>Cám ơn sự chăm sóc của ngươi</Desc>
+</Text>
+<Text Name="FeedBad">
+<DisplayName>Đây là cái gì</DisplayName>
+<Desc>Ngươi cho ta ăn cái gì?</Desc>
+</Text>
+<Text Name="ThankTreat">
+<DisplayName>Trị liệu</DisplayName>
+<Desc>Cám ơn ngươi đã trị liệu</Desc>
+</Text>
+<Text Name="ThankHufa">
+<DisplayName>Hộ pháp</DisplayName>
+<Desc>Cám ơn sư phụ</Desc>
+</Text>
+<Text Name="BeAttack">
+<DisplayName>Bị công kích</DisplayName>
+<Desc>Ngươi muốn giết ta?</Desc>
+</Text>
+<Text Name="BeMagicBood">
+<DisplayName>Cảm kích</DisplayName>
+<Desc>Cám ơn tất cả những gì ngươi đã làm</Desc>
+</Text>
+<Text Name="BeMagicBad">
+<DisplayName>Thương tổn</DisplayName>
+<Desc>Ngươi đã làm gì ta?</Desc>
+</Text>
+<Text Name="AmuseME">
+<DisplayName>Chọc cười</DisplayName>
+<Desc>[HENAME] thật sự là người thú vị</Desc>
+</Text>
+<Text Name="PersonalEnemy">
+<DisplayName>Cừu hận</DisplayName>
+<Desc>[HENAME] đã giết hại [TXT]</Desc>
+</Text>
+<Text Name="MagicBad">
+<DisplayName>Thương tổn</DisplayName>
+<Desc>Tận mắt thấy [HENAME] đã tổn thương [TXT]</Desc>
+</Text>
+<Text Name="MagicGood">
+<DisplayName>Cảm kích</DisplayName>
+<Desc>Tận mắt thấy [HENAME] đối với [TXT] thi triển tiên thuật</Desc>
+</Text>
+<Text Name="BeDeclaration">
+<Layers.0.DisplayName>Thổ lộ</Layers.0.DisplayName>
+<Layers.0.Desc>Vậy mà lại được [HENAME] Thổ lộ, haha</Layers.0.Desc>
+<Layers.1.DisplayName>Thổ lộ</Layers.1.DisplayName>
+<Layers.1.Desc>[HENAME] thổ lộ với ta, tim đập thật nhanh</Layers.1.Desc>
+</Text>
+<Text Name="Favour_School_FiveTangZhu">
+<DisplayName>Khinh bỉ</DisplayName>
+<Desc>[HENAME] Trình độ này mà cũng có thể làm đường chủ?</Desc>
+</Text>
+<Text Name="Favour_School_ZhangMen">
+<DisplayName>Chưởng môn</DisplayName>
+<Desc>[HENAME] là chưởng môn của chúng ta.</Desc>
+</Text>
+<Text Name="Favour_School_TangZhu">
+<DisplayName>Đường chủ</DisplayName>
+<Desc>[HENAME] là đường chủ của chúng ta.</Desc>
+</Text>
+</List>
+</Texts>

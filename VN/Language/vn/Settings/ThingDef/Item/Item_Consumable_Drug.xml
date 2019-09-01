@@ -1,0 +1,262 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_Fruit" sParam="Item">
+<ThingName>Long tiên quả</ThingName>
+<Desc>Một nắm Long Tiên quả, sau khi sử dụng trong vòng nửa ngày không thấy đói khát, không cảm thấy mệt nhọc.Nhưng là một khi hái xuống, sẽ thối rữa rất nhanh.</Desc>
+<Item.FabaoSuffix>quả, Châu, hoàn, cầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LingWater" sParam="Item">
+<ThingName>Linh sơ lộ</ThingName>
+<Desc>Một giọt sương sớm giàu sinh khí đọng trên Linh Thảo.Một khi ly khai linh thảo sẽ tan biến rất nhanh.Sau khi sử dụng có thể bổ sung đại lượng tinh nguyên, đồng thời trong thời gian ngắn tăng cao tốc độ khôi phục của cơ thể.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_ZaoHuaYuLu" sParam="Item">
+<ThingName>Ngọc sương tạo hóa</ThingName>
+<Desc>Sương sớm ngưng kết trên thiên địa linh căn ẩn chứa sức mạnh tạo hóa.Một khi rời khỏi linh căn , sẽ tiêu tán rất nhanh .Sau khi dùng sẽ mất đi nguyên thần , tiến vào trạng thái chết giả chín chín tám mốt ngày, khôi phục tất cả các vết thương .Sau đó thoát thai hoán cốt , Tăng ngũ duy 1 điểm, giảm lượng lớn đạo hạnh .Vật này một người chỉ có thể dùng một lần , nếu như dùng lần thứ hai, sẽ mất đi nguyên thần vĩnh viễn, hoàn toàn tiêu tán .</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SilverGrit" sParam="Item">
+<ThingName>Hàn tinh sa</ThingName>
+<Desc>Hàn tinh khoáng thạch mài thành bột khoáng, có thể làm thuốc.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_CopperGrit" sParam="Item">
+<ThingName>Hoả đồng sa</ThingName>
+<Desc>Hỏa đồng khoáng thạch mài thành bột khoáng, có thể làm thuốc.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Cinnabar" sParam="Item">
+<ThingName>Chu sa</ThingName>
+<Desc>Khoáng vật đặc thù, nguyên liệu dẫn thường dùng trong luyện đan và vẽ bùa.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_JinEssence" sParam="Item">
+<ThingName>Lang gia quả</ThingName>
+<Desc>Thiên địa thần dược, ngũ hành thuộc kim, ẩn chứa dồi dào linh khí.Truyền thuyết Thiên Cực Phong, Phi Vân Giản có sản xuất.</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+<StoryBnts.0.Name>Trồng trọt</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Trồng để sinh ra Linh Thực .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_MuEssence" sParam="Item">
+<ThingName>Mộc khô đằng</ThingName>
+<Desc>Thiên địa thần dược, ngũ hành thuộc mộc, ẩn chứa dồi dào linh khí, không thể sử dụng trực tiếp.Truyền thuyết Trùng Cốc ở Long Hổ Sơn cùng Nam Hoang có tung tích của Mộc Khô Đằng.</Desc>
+<Item.FabaoSuffix>dây leo, khóa, liên, dây thừng, Tác</Item.FabaoSuffix>
+<StoryBnts.0.Name>Trồng trọt</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Trồng để sinh ra Linh Thực .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_ShuiEssence" sParam="Item">
+<ThingName>Ngũ sắc kim xích</ThingName>
+<Desc>Thiên địa thần dược, ngũ hành thuộc thủy, ẩn chứa dồi dào linh khí, không thể sử dụng trực tiếp.Truyền Thuyết Ngũ Long Trì ở Đan Hà Sơn có một gốc ngũ sắc Kim Liên.</Desc>
+<Item.FabaoSuffix>Liên, đài, Ấn, che đậy, giới</Item.FabaoSuffix>
+<StoryBnts.0.Name>Trồng trọt</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Trồng để sinh ra Linh Thực .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_HuoEssence" sParam="Item">
+<ThingName>Chu quả</ThingName>
+<Desc>Thiên địa thần dược, ngũ hành thuộc hỏa, ẩn chứa dồi dào linh khí, không thể sử dụng trực tiếp.Truyền thuyết Ngưng Bích Nhai ở Thục Sơn, Bên trong Hỏa Huyệt ở Đại Mạc có Chu Quả sinh trưởng.</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+<StoryBnts.0.Name>Trồng trọt</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Trồng để sinh ra Linh Thực .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_TuEssence" sParam="Item">
+<ThingName>Giả hoàng tinh</ThingName>
+<Desc>Thiên địa thần dược, ngũ hành thuộc thổ, ẩn chứa dồi dào linh khí, không thể sử dụng trực tiếp.Truyền thuyết Long Mạch Động Quật ở Côn Luân Sơn có Giả Hoàng Tinh sinh trưởng.</Desc>
+<Item.FabaoSuffix>ngẫu, Khôi, rễ, Ấn</Item.FabaoSuffix>
+<StoryBnts.0.Name>Trồng trọt</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Trồng để sinh ra Linh Thực .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_LingMuXueJie" sParam="Item">
+<ThingName>Linh mộc huyết kiệt </ThingName>
+<Desc>Vật dạng nhựa chiết ra sau khi nuôi dưỡng thiên địa linh căn, chứa lượng lớn tinh nguyên có thể hấp thu trực tiếp .</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_EarthEssence" sParam="Item">
+<ThingName>Địa mẫu linh dịch</ThingName>
+<Desc>Tinh hoa sâu trong vỏ trái đất, có chất lỏng màu nhũ bạch, là vật liệu luyện chế nhiều loại thần đan.Trực tiếp sử dụng có thể đại bổ tinh nguyên, đồng thời mở rộng khí hải, đề cao linh khí tối đa từ căn bản .Nhiều lần sử dụng, hiệu quả mở rộng khí hải sẽ giảm mạnh.Truyền Thuyết Ngọc Tuyền Động ở Hợp Hoan Đảo và Thục Sơn có suối nguồn Địa Mẫu linh dịch.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_EarthEssence1" sParam="Item">
+<ThingName>Tà mạch huyết tuyền </ThingName>
+<Desc>Tinh hoa sâu trong vỏ trái đất, ánh màu đỏ tươi .Trực tiếp sử dụng có thể đại bổ tinh nguyên, đồng thời mở rộng khí hải, Đề cao tối đa linh khí.Tính kháng thuốc của vật này rất yếu , Có thể sử dụng nhiều lần , chỉ là thu liễm sát khí , ảnh hưởng tâm trạng vĩnh viễn, nếu dùng quá nhiều lần sẽ ảnh hưởng rất lớn với tu hành.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_EarthEssence_1" sParam="Item">
+<ThingName>Cao linh tủy </ThingName>
+<Desc>Địa mẫu linh dịch ngưng kết thành vật dạng cao, có thể tán linh khí ra thành nguyên khí bản mạng , Giảm tối đa linh khí dựa theo chỉ số cơ bản, có thể trị liệu toàn bộ thương thế , đồng thời tăng thần thức, Căn cốt, ngộ tính 0.5 điểm.Chỉ lần sử dụng đầu tiên mới có công hiệu .</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_EarthEssence1_1" sParam="Item">
+<ThingName>Cao huyết tủy</ThingName>
+<Desc>Tà mạch huyết tuyền ngưng kết thành vật dạng cao, có thể đem nguyên khí bản mạng hóa thành linh khí , Đề cao linh khí từ căn bản đến tối đa, nhưng sau khi dùng nguyên khí sẽ đại thương, Giảm thần thức , Căn cốt, ngộ tính 0.5 điểm.Có thể sử dụng nhiều lần .</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_LifeStream" sParam="Item">
+<ThingName>Trường sinh tuyền</ThingName>
+<Desc>Truyền thuyết uống Thần Tuyền có thể trường sinh, là vật liệu luyện chế nhiều loại thần đan.Trực tiếp sử dụng có thể kéo dài chín mươi chín năm tuổi thọ, nhiều lần sử dụng hiệu quả sẽ giảm mạnh.Truyền Thuyết bên trong Thiên Trì ở Ngũ Liên Sơn có suối nguồn Trường Sinh Tuyền.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Ginseng" sParam="Item">
+<ThingName>Nhân sâm</ThingName>
+<Desc>Dược liệu đắt giá, trực tiếp Lấy dùng có thể tại trong vòng một canh giờ xách cao nhân Sức khôi phục tự nhiên.Đệ tử ngoại môn sử dụng có thể xúc tiến trúc cơ, đệ tử nội môn sử dụng có thể bổ sung chút ít tinh nguyên, thường dùng để luyện dược.Nhưng nhiều lần sử dụng hiệu quả sẽ giảm mạnh.</Desc>
+<Item.FabaoSuffix>ngẫu, Khôi, lỗi</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_GanodermaLucidum" sParam="Item">
+<ThingName>Chi thảo</ThingName>
+<Desc>Dược liệu đắt giá, trực tiếp sử dụng có thể tục mệnh ba năm.Đệ tử ngoại môn sử dụng có thể xúc tiến trúc cơ, đệ tử nội môn sử dụng có thể bổ sung chút ít tinh nguyên, thường dùng để luyện dược.Nhưng nhiều lần sử dụng hiệu quả sẽ giảm mạnh.</Desc>
+<Item.FabaoSuffix>Như Ý, chi, tán, Dù</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_RedGinseng" sParam="Item">
+<ThingName>Xích sâm</ThingName>
+<Desc>Cực phẩm trong các loại Nhân Sâm, màu đỏ thẫm, đệ tử ngoại môn sử dụng có thể xúc tiến lượng lớn trúc cơ, đệ tử nội môn sử dụng có thể bổ sung chút ít tinh nguyên, thường thường dùng để luyện chế một vài đan dược.Trực tiếp Lấy dùng có thể tại trong vòng một canh giờ trên diện rộng xách cao nhân Sức khôi phục tự nhiên, đồng thời tăng một chút linh khí tối đa , nhưng sử dụng nhiều lần sẽ giảm hiệu quả.</Desc>
+<Item.FabaoSuffix>ngẫu, Khôi, lỗi</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
+<ThingName>Tử chi</ThingName>
+<Desc>Cực phẩm trong các loại Linh Chi, toàn thân màu đỏ tía, đệ tử ngoại môn sử dụng có thể xúc tiến lượng lớn trúc cơ, đệ tử nội môn sử dụng có thể bổ sung chút ít tinh nguyên, có thể dùng để luyện chế một vài đan dược trân quý.Trực tiếp sử dụng có thể kéo dài mười năm tuổi thọ, lại đề cao chút ít linh khí tối đa, Nhưng nhiều lần sử dụng hiệu quả sẽ giảm mạnh.</Desc>
+<Item.FabaoSuffix>Như Ý, chi, tán, Dù</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SoulPearl" sParam="Item">
+<ThingName>Huyền tẫn châu</ThingName>
+<Desc>Yêu thú nội đan, ở trong chứa âm tính linh khí khổng lồ.Trong Thiên Thi Động ở Bách Man Sơn có tung tích của Huyền Tẫn Châu.</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+<Item.BeMaterial.NamePrefix>yêu thai</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_MonsterBlood" sParam="Item">
+<ThingName>Yêu linh huyết</ThingName>
+<Desc>Yêu thú huyết dịch, chứa đựng cuồn cuộn linh khí, kể cả để trong chai vẫn cảm thấy nóng hổi.Có thể thu được Yêu Linh Huyết tại Vạn Xà Khanh ở Bách Man Sơn và Minh Sa Thôn ở Đại Mạc.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Mint" sParam="Item">
+<ThingName>Thanh tâm thảo</ThingName>
+<Desc>Dược liệu thường thấy, dược tính thanh lương, trực tiếp sử dụng có thể làm an thần tĩnh khí, nếu là đệ tử nội môn thì còn có thể tăng chút tâm cảnh.</Desc>
+<Item.FabaoSuffix>Hoa, Nhị</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_MagicHerb" sParam="Item">
+<ThingName>Linh tiên thảo</ThingName>
+<Desc>Dược thảo giàu linh lực, dược tính ôn hòa, rất chung chung, có thể phối hợp các loại vật liệu luyện thành đan dược.</Desc>
+<Item.FabaoSuffix>Hoa, Nhị</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Ginkgo" sParam="Item">
+<ThingName>Ngân hạnh quả</ThingName>
+<Desc>Quả cây Ngân Hạnh, có thể luyện chế một vài dược vật an thần bổ khí .</Desc>
+<Item.FabaoSuffix>quả, Châu, hoàn, cầu, che đậy</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SnakeGallbladder" sParam="Item">
+<ThingName>Mật rắn</ThingName>
+<Desc>Mật rắn, có thể bổ sung chút ít tinh nguyên , cũng có thể làm thuốc.Phàm nhân ăn sống sẽ có ích cho thân thể, xúc tiến trúc cơ.</Desc>
+<Item.FabaoSuffix>hoàn, gan</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BearGallbladder" sParam="Item">
+<ThingName>Mật gấu</ThingName>
+<Desc>Mật gấu, có thể bổ sung tinh nguyên, cũng có thể làm thuốc.Phàm nhân ăn sống sẽ có ích cho thân thể, xúc tiến trúc cơ.</Desc>
+<Item.FabaoSuffix>hoàn, gan</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Healroot" sParam="Item">
+<ThingName>Dược thảo</ThingName>
+<Desc>Dược liệu thường thấy, có thể dùng để trị liệu các loại thương bệnh, nhưng là hiệu quả có hạn.</Desc>
+<Item.FabaoSuffix>Diệp</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Hemostatics" sParam="Item">
+<ThingName>Kim sang dược</ThingName>
+<Desc>Dược vật thường thấy, có thể dùng để trị liệu vết thương da thịt, có hiệu quả trị liệu rõ ràng.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SmallCycle" sParam="Item">
+<ThingName>Tiểu hoàn đan</ThingName>
+<Desc>Dược vật thường thấy, có thể dùng để trị liệu tổn thương nội tạng, có hiệu quả trị liệu rõ ràng.</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Plaster" sParam="Item">
+<ThingName>Tiếp cốt cao</ThingName>
+<Desc>Dược vật thường thấy, có thể dùng để trị liệu tổn thương xương cốt, có hiệu quả trị liệu rõ ràng.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_StoneEssenceDrug" sParam="Item">
+<ThingName>Thạch thủy tán</ThingName>
+<Desc>Đem Thạch Tủy mài thành bột, phối hợp với dược thảo để chế thành dược vật.Có hiệu quả chữa trị thương ngoài da.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Anodyne" sParam="Item">
+<ThingName>Thuốc giảm đau</ThingName>
+<Desc>Dược vật thường thấy, có công hiệu làm dịu cơn đau.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Laxative" sParam="Item">
+<ThingName>Thông tả tán</ThingName>
+<Desc>Dược vật thường thấy, có thể thông ruột già, chữa trướng bụng, các bệnh trạng vì ăn đất.Nhưng là dược hiệu sau khi kết thúc sẽ cảm thấy suy yếu gấp đôi.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_ThunderAir" sParam="Item">
+<ThingName>Hơi thở thiên kiếp</ThingName>
+<Desc>Với Thâu Thiên chi pháp trộm ra một luồng thiên kiếp khí tức, có uy năng đáng sợ lưu chuyển ở trong.</Desc>
+<Item.FabaoSuffix>hơi thở, Kiếp </Item.FabaoSuffix>
+</Text>
+<Text Name="Item_XianBone" sParam="Item">
+<ThingName>Di cốt tiên nhân</ThingName>
+<Desc>Sau khi phá hủy di thuế tiên nhân giữ lại hài cốt ẩn chứa thần lực.Nếu như có thể nhận lấy thần lực này, luyện nhập vào thân thể, có thể dung hợp khí tức thiên đạo, giảm mạnh đạo hạnh.</Desc>
+<Item.FabaoSuffix>Cốt, Hài</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_ZaoHuaYuZi" sParam="Item">
+<ThingName>Hạt ngọc tạo hóa</ThingName>
+<Desc>Tinh hoa ngưng kết từ chỗ sâu trong Long Mạch Động Quật tại Côn Lôn Sơn.Vô cùng cô đọng, phải dùng bí pháp đặc thù mới có thể sử dụng vật đó.</Desc>
+<Item.FabaoSuffix>Ngọc, Ấn</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BenYuan_None" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Không</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên thuần túy.Chỉ có tu tập công pháp hệ Vô , mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .Theo số lần luyện hóa , hiệu quả sẽ giảm dần .</Desc>
+<Item.FabaoSuffix>Tinh</Item.FabaoSuffix>
+<StoryBnts.0.Name>Luyện hóa </StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử luyện hóa thiên đạo bổn nguyên .</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BenYuan_Jin" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Kim</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên hệ Kim .Chỉ có tu tập công pháp hệ Kim, mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .Theo số lần luyện hóa , hiệu quả sẽ giảm dần .</Desc>
+</Text>
+<Text Name="Item_BenYuan_Mu" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Mộc</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên hệ Mộc .Chỉ có tu tập công pháp hệ Mộc , mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .Theo số lần luyện hóa , hiệu quả sẽ giảm dần .</Desc>
+</Text>
+<Text Name="Item_BenYuan_Shui" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Thủy</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên hệ Thủy .Chỉ có tu tập công pháp hệ Thủy , mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .Theo số lần luyện hóa , hiệu quả sẽ giảm dần .</Desc>
+</Text>
+<Text Name="Item_BenYuan_Huo" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Hỏa</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên hệ Hỏa .Chỉ có tu tập công pháp hệ Hỏa, mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .Theo số lần luyện hóa , hiệu quả sẽ giảm dần .</Desc>
+</Text>
+<Text Name="Item_BenYuan_Tu" sParam="Item">
+<ThingName>Thiên đạo bổn nguyên  - Thổ</ThingName>
+<Desc>Ẩn chứa kết tinh thiên đạo bổn nguyên hệ Thổ .Chỉ có tu tập công pháp hệ Thổ, mới có thể luyện hóa nó .Nếu như luyện hóa thành công , sẽ giảm đạo hạnh , nếu như thất bại , sẽ bị thương mà còn tăng thiên khiển .Đạo hạnh càng cao, xác suất luyện hóa thành công càng cao .</Desc>
+</Text>
+<Text Name="Item_YuanHunLu" sParam="Item">
+<ThingName>Nguyên hồn lộ </ThingName>
+<Desc>Giọt sương sớm ẩn chứa tinh hoa linh hồn yêu thú .Sử dụng có thể khiến đầu óc hòa hoãn, khôi phục tổn thương nguyên thần .Nhưng cái giá của hòa hoãn đầu óc là ảnh hưởng ít nhiều đến năng lực suy nghĩ, sẽ giảm ngộ tính  0.5 điểm.</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_XieHunLu" sParam="Item">
+<ThingName>Tà hồn lộ </ThingName>
+<Desc>Giọt sương sớm ẩn chứa tinh hoa linh hồn yêu thú .Sử dụng có thể làm đầu óc nhanh nhạy trong vòng một quý , đề cao ngộ tính 1 điểm, đề cao năng lực học tập .Nhưng điều này sẽ tiêu hao thần hồn , tổn hại nguyên thần .</Desc>
+<Item.FabaoSuffix>dịch, Thủy, sương mù, khói, Ải</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_YanDaoGuo" sParam="Item">
+<ThingName>Diễn đạo quả </ThingName>
+<Desc>Một loại quả kỳ lạ ẩn chứa hơi thở thiên kiếp .Sử dụng có thể xem diễn biến thiên đạo , đề cao lượng lớn đạo hạnh , đồng thời lấy thân hợp đạo , giảm lượng lớn thiên khiển .</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_QieDaoGuo" sParam="Item">
+<ThingName>Thiết đạo quả </ThingName>
+<Desc>Một loại quả kỳ lạ ẩn chứa hơi thở thiên kiếp .Sử dụng có thể ăn trộm đạo trời , giảm mạnh đạo hạnh, đồng thời bị thiên đạo kiêng dè , đề cao lượng lớn thiên khiển .</Desc>
+<Item.FabaoSuffix>Châu, hoàn, cầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_XianDaoShenNian" sParam="Item">
+<ThingName>Tiên thức thần niệm </ThingName>
+<Desc>Một luồng thần niệm tách ra từ di cốt tiên nhân, tu hành giả có thể mượn vật ấy để làm lại thân tâm .Khi trùng sinh được di thức tiên nhân bảo vệ , có thể giữ lại một phần nhỏ lĩnh hội.Lần đầu tiên mượn vật này trùng sinh , dưới sự thấm nhuần thần niệm , có thể đề cao một chút tiềm lực .</Desc>
+<Item.FabaoSuffix>phách, Hồ </Item.FabaoSuffix>
+</Text>
+<Text Name="Item_XianDaoXieNian" sParam="Item">
+<ThingName>Tiên thức tà niệm </ThingName>
+<Desc>Phi Thăng tiên nhân di cốt thông qua  thiên địa linh căn và phân ra một sợi tà niệm, tu hành giả có thể mượn vật ấy để làm lại thân tâm .Khi trùng sinh được di thức tiên nhân bảo vệ , có thể giữ lại phần lớn lĩnh hội, nhưng vật này sát tính rất nặng , Lần đầu tiên mượn vật này trùng sinh , sẽ tiêu hao một ít tiềm lực .</Desc>
+<Item.FabaoSuffix>phách, Hồ </Item.FabaoSuffix>
+</Text>
+</List>
+</Texts>

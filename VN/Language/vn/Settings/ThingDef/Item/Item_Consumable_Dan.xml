@@ -1,0 +1,263 @@
+<Texts Type="Thing">
+<List>
+<Text Name="DanBase" sParam="Item">
+<Item.FabaoSuffix>châu, hoàn, cầu</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BasePracticeDrug" sParam="Item">
+<ThingName>Trúc cơ đan</ThingName>
+<Desc>Đan dược tiên gia tu hành giả luyện chế, có thể điều chỉnh ngũ khí trong cơ thể, kích hoạt tiềm lực cơ thể, tạm thời đề cao thần thức trong 24 giờ , Căn cốt, ngộ tính 1 điểm.Đệ tử ngoại môn dùng thì có thể xúc tiến tiến độ trúc cơ cực nhiều.</Desc>
+</Text>
+<Text Name="Item_Dan_JingYuan" sParam="Item">
+<ThingName>Tinh nguyên đan</ThingName>
+<Desc>tại 7 thiên chi bên trong đề cao Thân thể  sinh ra Tinh nguyên năng lực, tăng tốc độ tiêu hao độ no, đề cao tỉ lệ chuyển hóa tinh nguyên .</Desc>
+</Text>
+<Text Name="Item_Dan_JingYuan2" sParam="Item">
+<ThingName>Tham chi cửu khiếu hoàn</ThingName>
+<Desc>tại 14 thiên chi bên trong đề cao Thân thể  sinh ra Tinh nguyên năng lực, tăng tốc độ tiêu hao độ no, đề cao tỉ lệ chuyển hóa tinh nguyên .</Desc>
+</Text>
+<Text Name="Item_Dan_JingYuan3" sParam="Item">
+<ThingName>Huyết kiệt tán</ThingName>
+<Desc>tại 28 thiên chi bên trong đề cao Thân thể  sinh ra Tinh nguyên năng lực, tăng tốc độ tiêu hao độ no, đề cao tỉ lệ chuyển hóa tinh nguyên .</Desc>
+</Text>
+<Text Name="Item_Dan_Ling" sParam="Item">
+<ThingName>Tụ linh đan</ThingName>
+<Desc>Giàu linh khí, sử dụng có thể khôi phục 3000 Linh khí, đồng thời trong 6 canh giờ gia tăng khôi phục linh khí.Kết Đan Kỳ trở lên mới có thể sử dụng, bằng không có khả năng sẽ không chịu nổi dược tính mà thụ thương, thậm chí tử vong.</Desc>
+</Text>
+<Text Name="Item_Dan_Ling2" sParam="Item">
+<ThingName>Tử dương đan</ThingName>
+<Desc>Đan hoàn toàn thân tím đậm, sử dụng có thể khôi phục lượng lớn linh khí, đồng thời gia tăng giới hạn linh khí.Dưới nhiều lần sử dụng, gia tăng giới hạn linh khí hiệu quả sẽ từ từ giảm xuống.Kim đan kỳ trở nên mới có thể dùng , bằng không có khả năng sẽ không chịu nổi dược tính mà thụ thương, thậm chí tử vong.</Desc>
+</Text>
+<Text Name="Item_Dan_PracticeRate" sParam="Item">
+<ThingName>Hoàng đình đan</ThingName>
+<Desc>Với Lang Gia Quả, luyện từ Thanh Tâm Thảo, có thể khiến người tinh thần như điện, lúc này tăng gấp đôi xác suất đột phá bình cảnh, duy trì hai mươi bốn canh giờ.Dưới nhiều lần sử dụng, dược hiệu sẽ từ từ giảm xuống.</Desc>
+</Text>
+<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
+<ThingName>Hoàng nha đan</ThingName>
+<Desc>Đan dược dùng Chu Quả luyện chế, có thể tăng cao ba thành tốc độ tu luyện, duy trì mười hai canh giờ.</Desc>
+</Text>
+<Text Name="Item_Dan_CalmDown" sParam="Item">
+<ThingName>Thanh tâm đan</ThingName>
+<Desc>Với Thanh Tâm Thảo, luyện thành từ Hàn Tinh Sa, có thể ổn định tâm cảnh.</Desc>
+</Text>
+<Text Name="Item_Dan_Happiness" sParam="Item">
+<ThingName>Cực lạc đan</ThingName>
+<Desc>Có thể cảm thấy khoái hoạt trong hai ngày, nhưng sau khi ăn hiệu suất làm việc sẽ giảm xuống năm thành.</Desc>
+</Text>
+<Text Name="Item_Dan_NoHunger" sParam="Item">
+<ThingName>Ẩm khí đan</ThingName>
+<Desc>Sử dụng Ẩm khí đan , trong vòng hai ngày thu được năng lực ăn sương uống khí , tự động khôi phục độ no .</Desc>
+</Text>
+<Text Name="Item_Dan_NoHunger2" sParam="Item">
+<ThingName>Tích cốc đan</ThingName>
+<Desc>Ăn Tích Cốc Đan, trong vòng hai ngày không thấy đói .</Desc>
+</Text>
+<Text Name="Item_Dan_NoHunger1" sParam="Item">
+<ThingName>Binh lương hoàn</ThingName>
+<Desc>Sau khi sử dụng có thể bổ sung dinh dưỡng, đồng thời giảm tốc độ đói khát và mệt nhọc, duy trì hai ngày.</Desc>
+</Text>
+<Text Name="Item_Dan_LostSoul" sParam="Item">
+<ThingName>Nhiếp thần đan</ThingName>
+<Desc>Cơ sở Kim Thạch Đan phương, sau khi Ăn sẽ ức chế đại não hoạt tính, làm cho lâm vào hôn mê ba ngày ba đêm.</Desc>
+</Text>
+<Text Name="Item_Dan_DredgeQi1" sParam="Item">
+<ThingName>Thông mạch tán</ThingName>
+<Desc>Bột thuốc điều phối từ nhân sâm và chi thảo, có thể thông kinh hoạt mạch, chữa trị có đánh dấu"Linh" đánh dấu.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_DredgeQi" sParam="Item">
+<ThingName>Lý khí đan</ThingName>
+<Desc>Có thể sắp xếp khí hỗn loạn trong cơ thể, có thể chữa trị thương thế có chữ"Linh" đánh dấu.</Desc>
+</Text>
+<Text Name="Item_Dan_WuLingSan" sParam="Item">
+<ThingName>Ngũ linh tán</ThingName>
+<Desc>Có thể hóa giải thương thế có"Kim""Mộc""Thủy""Hỏa""Thổ" đánh dấu, nhưng hiệu quả khá chậm.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_CureJinDamage" sParam="Item">
+<ThingName>Canh kim vạn hóa hoàn</ThingName>
+<Desc>Lập tức hóa giải có đánh dấu"Mộc" loại hình nội môn tổn thương.</Desc>
+</Text>
+<Text Name="Item_Dan_CureMuDamage" sParam="Item">
+<ThingName>Bích xuân đan</ThingName>
+<Desc>Lập tức hóa giải có đánh dấu"Thổ" loại hình nội môn tổn thương.</Desc>
+</Text>
+<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
+<ThingName>Thiên nhất thừa khí tán</ThingName>
+<Desc>Lập tức hóa giải có đánh dấu"Hỏa" loại hình nội môn tổn thương.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
+<ThingName>Hoả chân đan</ThingName>
+<Desc>Lập tức hóa giải có đánh dấu"Kim" loại hình nội môn tổn thương.</Desc>
+</Text>
+<Text Name="Item_Dan_CureTuDamage" sParam="Item">
+<ThingName>Định khôn đan</ThingName>
+<Desc>Lập tức hóa giải có đánh dấu"Thủy" loại hình nội môn tổn thương.</Desc>
+</Text>
+<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
+<ThingName>Ngũ phương hóa thương đan</ThingName>
+<Desc>Có thể hóa giải thương thế có"Kim""Mộc""Thủy""Hỏa""Thổ" đánh dấu, hiệu quả trị liệu tương đối nhanh.</Desc>
+</Text>
+<Text Name="Item_Dan_Restore" sParam="Item">
+<ThingName>Quy nguyên tán</ThingName>
+<Desc>Kích phát tiềm năng thân thể, có thể chữa trị đa số vết thương cũ còn lưu lại trên cơ thể..</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
+<ThingName>Tạo hóa thần đan</ThingName>
+<Desc>Thần đan đoạt thiên địa tạo hóa, chỉ cần còn có một hơi thở, lập tức có thể kéo trở về từ tay Diêm Vương.</Desc>
+</Text>
+<Text Name="Item_Dan_HundredRefine" sParam="Item">
+<ThingName>Cửu chuyển Kim Đan</ThingName>
+<Desc>Vô thượng thần đan của đạo môn, chỉ hữu hiệu trong lần sử dụng đầu tiên, có thể khiến tu vi tiến nhanh, nhưng phải là Kim Đan Kỳ mới có thể sử dụng, bằng không sẽ không chịu nổi dược hiệu mà thụ thương thậm chí tử vong.</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
+<ThingName>Trường sinh đan</ThingName>
+<Desc>Có thể kéo dài một giáp tuổi thọ, Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau dược hiệu sẽ giảm bớt đi nhiều.</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
+<ThingName>Huyền tẫn tục mệnh tán</ThingName>
+<Desc>Có thể kéo dài hai trăm năm tuổi thọ, Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau dược hiệu sẽ giảm bớt đi nhiều.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
+<ThingName>Ngũ cực linh đan</ThingName>
+<Desc>Sử dụng có thể kéo dài 500 năm tuổi thọ, đồng thời gia tăng ngũ duy  0.3 điểm.Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau dược hiệu sẽ giảm bớt đi nhiều.</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
+<ThingName>Tái tạo Kim Đan</ThingName>
+<Desc>Có thể kéo dài hai trăm năm mươi sáu năm tuổi thọ, Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau dược hiệu sẽ giảm bớt đi nhiều.</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
+<ThingName>Vị lai tinh túc hóa kiếp đan</ThingName>
+<Desc>Có thể kéo dài bốn trăm chín mươi năm tuổi thọ, đồng thời có thể trì hoãn thiên kiếp bốn mươi chín ngày.Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau dược hiệu sẽ giảm bớt đi nhiều.</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
+<ThingName>Càn nguyên tị kiếp đan</ThingName>
+<Desc>Có thể trì hoãn thiên kiếp một trăm linh tám ngày.Chỉ lần sử dụng đầu tiên là có tất cả hiệu quả, về sau hiệu quả sẽ giảm dần .</Desc>
+</Text>
+<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
+<ThingName>Bích huyết đan thanh</ThingName>
+<Desc>Với linh hồn yêu thú trong 9 viên Huyền Tẫn Châu làm yểm hộ, Che đậy thiên cơ, có thể khiến thiên kiếp hoãn lại 27 ngày.Có thể sử dụng nhiều lần .</Desc>
+</Text>
+<Text Name="Item_Dan_SwordBall" sParam="Item">
+<ThingName>Kiếm hoàn</ThingName>
+<Desc>Đan hoàn Thất Sát Kiếm Quyết ghi lại, cô đọng từ ngũ kim chi tinh trong đan lô.Tuyệt đối không thể ăn.</Desc>
+</Text>
+<Text Name="Item_Dan_Defense" sParam="Item">
+<ThingName>Chân cương đan</ThingName>
+<Desc>Sau khi sử dụng có thể tăng cường hộ thể cường độ chân khí trong mười hai tiếng.</Desc>
+</Text>
+<Text Name="Item_Dan_Ling3" sParam="Item">
+<ThingName>Vạn linh tán</ThingName>
+<Desc>Sau khi sử dụng có thể khôi phục 300000 Điểm linh khí, đồng thời trong vòng hai mươi bốn giờ tăng cường linh khí tối đa 100000 điểm.Nếu như người dùng tu vi quá thấp, có thể dẫn đến khí hải bạo liệt mà tử vong.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBase1" sParam="Item">
+<ThingName>Thông thiên hoàn</ThingName>
+<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể trong vòng hai mươi bốn giờ tăng cường thần thức 1 điểm.Nhưng cũng lại bởi vậy giảm thọ 3 Năm.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBase2" sParam="Item">
+<ThingName>Nạp địa hoàn</ThingName>
+<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể trong vòng hai mươi bốn giờ tăng cường căn cốt 1 điểm.Nhưng cũng lại bởi vậy giảm thọ 3 Năm.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBase3" sParam="Item">
+<ThingName>Dật tiên hoàn</ThingName>
+<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể trong vòng hai mươi bốn giờ tăng cường mị lực 1 điểm.Nhưng cũng lại bởi vậy giảm thọ 3 Năm.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBase4" sParam="Item">
+<ThingName>Minh thông hoàn</ThingName>
+<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể trong vòng hai mươi bốn giờ tăng cường ngộ tính 1 điểm.Nhưng cũng lại bởi vậy giảm thọ 3 Năm.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBase5" sParam="Item">
+<ThingName>Thần hữu hoàn</ThingName>
+<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể trong vòng hai mươi bốn giờ tăng cường cơ duyên 1 điểm.Nhưng cũng lại bởi vậy giảm thọ 3 Năm.</Desc>
+</Text>
+<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
+<ThingName>Ngũ độc ngũ khí nguyên thần đan</ThingName>
+<Desc>Sau khi sử dụng kích phát nguyên khí, đề cao ngũ duy 0.5 điểm.Nhưng cũng bởi vậy giảm một giáp tuổi thọ.</Desc>
+</Text>
+<Text Name="Item_Dan_Fail1" sParam="Item">
+<ThingName>Luyện hỏng đan dược</ThingName>
+<Desc>Luyện chế thất bại đan dược cặn bã, trong đó có lực lượng kỳ lạ đang cuộn trào, nuốt xuống không biết sẽ xảy ra chuyện gì.</Desc>
+</Text>
+<Text Name="Item_Dan_Fail2" sParam="Item">
+<ThingName>Luyện hỏng đan dược</ThingName>
+<Desc>Luyện chế thất bại đan dược cặn bã, trong đó có lực lượng kỳ lạ đang cuộn trào, nuốt xuống không biết sẽ xảy ra chuyện gì.</Desc>
+</Text>
+<Text Name="Item_Dan_Fail3" sParam="Item">
+<ThingName>Luyện hỏng đan dược</ThingName>
+<Desc>Luyện chế thất bại đan dược cặn bã, trong đó có lực lượng kỳ lạ đang cuộn trào, nuốt xuống không biết sẽ xảy ra chuyện gì.</Desc>
+</Text>
+<Text Name="Item_Dan_Fail4" sParam="Item">
+<ThingName>Luyện hỏng đan dược</ThingName>
+<Desc>Luyện chế thất bại đan dược, dường như đã hấp thu quá nhiều Chân Hỏa Chi Lực trong đan lô, có thể thiêu cháy toàn bộ ngũ tạng của người dùng, và sẽ giảm thọ nguyên.Nhưng nếu sống sót từ loại thương thế này, có lẽ sẽ thu được một vài chỗ tốt.</Desc>
+</Text>
+<Text Name="Item_Dan_Fail5" sParam="Item">
+<ThingName>Luyện hỏng đan dược</ThingName>
+<Desc>Luyện chế thất bại đan dược cặn bã, trong đó có lực lượng kỳ lạ đang cuộn trào, nuốt xuống không biết sẽ xảy ra chuyện gì.</Desc>
+</Text>
+<Text Name="Item_Dan_TreeEXP" sParam="Item">
+<ThingName>Thiên đạo thần đan</ThingName>
+<Desc>Thần đan ẩn chứa chư thiên tạo hóa, sử dụng có thể cảm thụ đại đạo vận chuyển đồng thời thu được lĩnh hội từ đó.Thu hoạch được Lĩnh hội nhiều ít căn cứ người dùng Ngộ tính cùng Lấy dùng Thì Tâm cảnh quyết định.</Desc>
+</Text>
+<Text Name="Item_Dan_Thin" sParam="Item">
+<ThingName>Tố thân đan</ThingName>
+<Desc>Đan dược tiên gia tu hành giả luyện chế, sử dụng có thể làm hình thể nhân vật ốm đi.</Desc>
+</Text>
+<Text Name="Item_Dan_Fat" sParam="Item">
+<ThingName>Tráng thể đan</ThingName>
+<Desc>Đan dược tiên gia tu hành giả luyện chế, sử dụng có thể làm hình thể nhân vật mập ra.</Desc>
+</Text>
+<Text Name="Item_Dan_Soul1" sParam="Item">
+<ThingName>Thần khấp đan</ThingName>
+<Desc>Đan dược với U Phách làm dẫn luyện chế, sử dụng có thể thu được lĩnh hội, nhưng dược tính âm hàn, sẽ giảm 9 Năm Thọ.</Desc>
+</Text>
+<Text Name="Item_Dan_Soul2" sParam="Item">
+<ThingName>Thông huyền đan</ThingName>
+<Desc>Đan dược với Linh Phách làm dẫn luyện chế, sử dụng có thể thu được lĩnh hội, nhưng dược tính mãnh liệt, sử dụng sẽ có tổn hại khí hải, từ căn bản lên giảm xuống 10 Điểm linh khí giá trị</Desc>
+</Text>
+<Text Name="Item_Dan_Soul3" sParam="Item">
+<ThingName>Ngưng phách đan</ThingName>
+<Desc>Đan dược với Ninh Phách làm dẫn cô đọng thành, sử dụng có thể thu được lĩnh hội.Theo số lần sử dụng tăng lên, dược hiệu sẽ gia tăng từ từ.Nhưng mà người dùng sẽ bị thần thức hỗn loạn còn xót lại trùng kích, tổn thương đại não.</Desc>
+</Text>
+<Text Name="Item_Dan_Soul4" sParam="Item">
+<ThingName>Nhiên hồn đan</ThingName>
+<Desc>Đan dược với Ninh Phách làm dẫn luyện thành, sử dụng có thể thiêu đốt trăm năm tuổi thọ, trong vòng một canh giờ có được trí tuệ siêu phàm, đề cao cực lớn hiệu suất thu hoạch lĩnh hội.Nhưng sau dược hiệu sẽ tổn thần trí nghiêm trọng, giảm vĩnh viễn 2 điểm ngộ tính.Công dụng của đan dược sẽ giảm xuống từ từ theo số lần sử dụng.</Desc>
+</Text>
+<Text Name="Item_Dan_LunHui1" sParam="Item">
+<ThingName>Hồi ức phong ấn: Tinh Đồ Thiểm Diệu</ThingName>
+<Desc>Sau khi sử dụng có thể lấy được điểm lĩnh hội từ trong đoạn ký ức, đồng thời bị nó cảm động.\n[color=#D06508] Dùng cái này cảm tạ Tiêu Dao Tán Nhân 《Tinh Đồ Thiểm Diệu》 Loạt video cho ta sung sướng cùng sức mạnh! [/color]</Desc>
+</Text>
+<Text Name="Item_Dan_ReBorn" sParam="Item">
+<ThingName>Huyền tẫn trọng sinh đan</ThingName>
+<Desc>Với Phách làm dẫn, mượn thần hiệu của Huyền Tẫn Châu luyện thành.Sau khi sử dụng có thể quay về phàm nhân chi thân, tái tạo thân thể.Dù là thời khắc hấp hối, cũng có thể cứu về một cái mạng.</Desc>
+</Text>
+<Text Name="Item_Dan_ReBorn_4" sParam="Item">
+<ThingName>Lục đạo Luân Hồi Đan</ThingName>
+<Desc>với Luân Hồi chi lực luyện chế thần đan, Lấy dùng có thể trở lại phàm nhân chi thân, tái tạo thân thể, cũng giữ lại toàn bộ Lĩnh hội.</Desc>
+</Text>
+<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
+<ThingName>Linh nguyên chủng</ThingName>
+<Desc>Là chí bảo dùng bí pháp hợp luyện ngũ hành thần dược và hạt ngọc tạo hóa mà thành, diệu dụng khôn cùng.Chôn giữa lòng đất tự động hóa thành linh mạch trải dài, chậm rãi tạo hóa những khối đất xung quanh thành linh thổ hoặc linh thủy.Đeo lên có thể nóng lạnh bất xâm, che đậy thiên đạo, giảm bớt đạo hạnh.Dùng có thể gia tăng lượng lớn tối đa linh khí từ cơ bản.</Desc>
+<StoryBnts.0.Name>Mai phục</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Đem vật đó chôn dưới đất.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_Dan_LingYuanSha" sParam="Item">
+<ThingName>Tạo hóa ngọc sa</ThingName>
+<Desc>Với bí pháp luyện hóa Hạt ngọc tạo hóa thành cát.Tuy nhiên linh hiệu sẽ giảm dần, có thể dùng làm vật dẫn để thi triển thần thông nhiều lần, Tạo hóa ốc thổ.</Desc>
+<Item.FabaoSuffix>Sa, cát, bụi, phấn, chướng</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_Dan_LongDan1" sParam="Item">
+<ThingName>Long hồn chân linh đan</ThingName>
+<Desc>Linh đan luyện chế ra từ nguyên thần Chân Long , sử dụng có thể luyện hóa nó thành một đạo phân thần, khống chế thêm một món pháp bảo.Chỉ lần sử dụng đầu tiên mới có công hiệu .</Desc>
+</Text>
+<Text Name="Item_Dan_FengDan1" sParam="Item">
+<ThingName>Phượng hồn chân linh đan</ThingName>
+<Desc>Linh đan luyện chế ra từ nguyên thần Hung Phượng, sử dụng có thể luyện hóa nó thành một đạo phân thần, khống chế thêm một món pháp bảo.Chỉ lần sử dụng đầu tiên mới có công hiệu .</Desc>
+</Text>
+<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
+<ThingName>Âm dương chân linh đan</ThingName>
+<Desc>Linh đan luyện chế ra từ nguyên thần Chúc Long , sử dụng có thể luyện hóa nó thành một đạo phân thần, khống chế thêm một món pháp bảo.Chỉ lần sử dụng đầu tiên mới có công hiệu .</Desc>
+</Text>
+</List>
+</Texts>

@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+<List>
+<Text Name="GrassRoof" sParam="Building">
+<Desc>Nóc nhà, vẻn vẹn là đồ trang trí, cũng không ảnh hưởng phong thuỷ.</Desc>
+<ThingName>Mái nhà rơm</ThingName>
+</Text>
+<Text Name="CaveRoof" sParam="Building">
+<ThingName>Đỉnh sơn động</ThingName>
+</Text>
+<Text Name="WoodRoof" sParam="Building">
+<ThingName>Nóc nhà</ThingName>
+<Desc>Nóc nhà, vẻn vẹn là đồ trang trí, cũng không ảnh hưởng phong thuỷ.</Desc>
+</Text>
+<Text Name="StoneRoof" sParam="Building">
+<ThingName>Nóc nhà</ThingName>
+<Desc>Nóc nhà, vẻn vẹn là đồ trang trí, cũng không ảnh hưởng phong thuỷ.</Desc>
+</Text>
+<Text Name="WoodRoof_SpringFestival" sParam="Building">
+<ThingName>Nóc nhà - Nghênh Xuân</ThingName>
+<Desc>Nóc nhà đặc biệt mừng xuân, tăng vẻ vui mừng, vẻn vẹn là đồ trang trí, cũng không ảnh hưởng phong thuỷ.</Desc>
+</Text>
+<Text Name="StoneRoof_SpringFestival" sParam="Building">
+<ThingName>Nóc nhà - Hưởng phúc</ThingName>
+<Desc>Nóc nhà đặc biệt mừng xuân, tăng vẻ vui mừng, vẻn vẹn là đồ trang trí, cũng không ảnh hưởng phong thuỷ.</Desc>
+</Text>
+</List>
+</Texts>

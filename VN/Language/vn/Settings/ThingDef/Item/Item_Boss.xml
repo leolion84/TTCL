@@ -1,0 +1,133 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+<ThingName>Gai Giao Long</ThingName>
+</Text>
+<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+<ThingName>Phượng hoàng nội đan</ThingName>
+</Text>
+<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+<ThingName>Phượng hoàng hỏa vũ</ThingName>
+</Text>
+<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+<ThingName>Sí liệt hỏa vũ</ThingName>
+<Desc>Một cọng lông vũ kỳ lạ, Dù chạm tay vào thấy nhiệt độ không cao, Nhưng liên tục tản ra nhiệt độ, Có thể đề cao lượng lớn nhiệt độ trong không gian kín.Ngoại trừ cái đó ra còn có hiệu quả tụ linh khá mạnh, dường như không có tác dụng khác.</Desc>
+<Item.FabaoSuffix>Vũ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_GangYu" sParam="Item">
+<ThingName>Cương vũ của Hung Phượng</ThingName>
+<Desc>Lông vũ hoàn chỉnh trên người Hung Phượng, thu liễm hết sức nóng, sắc bén và cứng rắn.Đeo lên người có thể không sợ giá lạnh, khí huyết lưu thông nhanh hơn, gia tăng tiêu hao thức ăn.</Desc>
+<Item.FabaoSuffix>Vũ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_TouYu" sParam="Item">
+<ThingName>Tẫn Diệt Vũ của Hung Phượng</ThingName>
+<Desc>Chiếc lông vũ hoa lệ trên đỉnh đầu Hung Phượng cháy lên ngọn lửa bất diệt, là tinh hoa ngưng tụ của Hung Phượng.Hung Hoàng am hiểu đạo ngự pháp, đeo vật này vào có thể mượn sức mạnh Hung Hoàng, Đột phá Thuật pháp kỹ năng cực hạn 3 Cấp.</Desc>
+<Item.FabaoSuffix>Vũ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+<ThingName>Tế Thiên Vũ của Hung Phượng</ThingName>
+<Desc>Lông đuôi khổng lồ của Hung Phượng, hào quang lưu chuyển bên trên, chạm tay vào ấm áp, không nóng bức, thập phần thần kỳ.Sau khi xử lý với phương pháp đặc thù, có lẽ sẽ có hiệu dụng đặc biệt.</Desc>
+<Item.FabaoSuffix>Vũ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_Gu" sParam="Item">
+<ThingName>Kiên Không Cốt của Hung Phượng</ThingName>
+<Desc>Khung xương rỗng ruột trên hai cánh của Hung Phượng, cứng rắn dị thường, mà lại còn không cảm nhận được sức nặng.Sau khi xử lý với phương pháp đặc thù, có lẽ sẽ có hiệu dụng đặc biệt.</Desc>
+<Item.FabaoSuffix>Vũ</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_HongYu" sParam="Item">
+<ThingName>Chân Diễm Ngọc của Hung Phượng</ThingName>
+<Desc>Cội nguồn sức mạnh của Hung Phượng, bên trong có chứa nguyên thần Hung Phượng.Nếu câu thông với nguyên thần, có thể lĩnh ngộ được một vài tin tức hữu dụng.Đeo vật này vào có thể mượn sức mạnh nguyên thần của Hung Phượng, giảm bớt 10% sát thương hệ Hỏa.</Desc>
+<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+<StoryBnts.0.Name>Lĩnh hội</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử thu hoạch một vài tin tức có ích từ bên trong.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BossFeng_Meat" sParam="Item">
+<ThingName>Máu thịt Hung Phượng</ThingName>
+<Desc>Máu thịt tinh hoa nhất của Hung Phượng, Lấy dùng có thể Tòng trên căn bản bổ sung Linh khí tối đa 25 điểm, cũng kéo dài tuổi thọ 10 Năm.Số lần sử dụng càng nhiều, hiệu quả sẽ giảm dần.</Desc>
+<Item.FabaoSuffix>thịt</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_DragonScale" sParam="Item">
+<ThingName>Vảy rồng bị tước rụng</ThingName>
+<Desc>Vảy rồng bị tước rụng trên thân rồng, Ngoại trừ cái đó ra còn có hiệu quả tụ linh khá mạnh, đã mất đi đa số công hiệu.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossLong_Jiao" sParam="Item">
+<ThingName>Sừng của Giao Long</ThingName>
+<Desc>Chiếc sừng trên đỉnh đầu Giao Long, chính là nơi tinh hoa Giao Long ngưng tụ.Giao Long am hiểu đạo ngự khí, đeo vật này vào có thể mượn sức mạnh Giao Long, Đột phá ngự kiếm kỹ năng cực hạn 3 Cấp.</Desc>
+<Item.FabaoSuffix>đâm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossLong_Zhua" sParam="Item">
+<ThingName>La Sát Trảo của Giao Long</ThingName>
+<Desc>Móng vuốt sắc của Giao Long, dồi dào phong duệ chi khí, vô kiên bất tồi.Sau khi xử lý với phương pháp đặc thù, có lẽ sẽ có hiệu dụng đặc biệt.</Desc>
+<Item.FabaoSuffix>đâm</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossLong_Lin" sParam="Item">
+<ThingName>Huyền Lân của Giao Long</ThingName>
+<Desc>Miếng vảy hoàn chỉnh trên người Giao Long, kiên bất khả tồi.Đeo vào có thể chống đỡ sát thương linh khí.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossLong_NiLin" sParam="Item">
+<ThingName>Nghịch lân của Giao Long</ThingName>
+<Desc>Cội nguồn sức mạnh của Giao Long, bên trong có chứa nguyên thần của Giao Long.Nếu câu thông với nguyên thần, có thể lĩnh ngộ được một vài tin tức hữu dụng.Đeo vật này vào có thể mượn sức mạnh nguyên thần Giao Long, giảm bớt 10% sát thương hệ Thủy.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+<StoryBnts.0.Name>Lĩnh hội</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử thu hoạch một vài tin tức có ích từ bên trong.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BossLong_Jing" sParam="Item">
+<ThingName>Băng Thiên Cân của Giao Long</ThingName>
+<Desc>Tĩnh mạch cứng rắn nhất trên đuôi Giao Long, có tính chất dẫn linh khí tuyệt hảo.Sau khi xử lý với phương pháp đặc thù, có lẽ sẽ có hiệu dụng đặc biệt.</Desc>
+<Item.FabaoSuffix>gân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossLong_Meat" sParam="Item">
+<ThingName>Máu thịt Giao Long</ThingName>
+<Desc>Máu thịt tinh hoa nhất của Giao Long, Lấy dùng có thể Tòng trên căn bản bổ sung Linh khí tối đa 25 điểm, cũng kéo dài tuổi thọ 10 Năm.Số lần sử dụng càng nhiều, hiệu quả sẽ giảm dần.</Desc>
+<Item.FabaoSuffix>thịt</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+<ThingName>Đại lân trắng nõn</ThingName>
+<Desc>Vảy rồng trắng nõn trên người Chúc Long.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+<ThingName>Đại lân đen nhánh</ThingName>
+<Desc>Vảy rồng đen nhánh trên người Chúc Long.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+<ThingName>Tinh thể âm dương</ThingName>
+<Desc>Đôi mắt Chúc Long ngưng tụ tinh thể trong suốt pha lẫn hai màu đen trắng, xuyên qua tinh thể dường như có thể nhìn thấy sự huyền bí biến ảo của Âm dương chi đạo.Sau khi xử lý với phương pháp đặc thù, có lẽ sẽ có hiệu dụng đặc biệt.</Desc>
+<Item.FabaoSuffix>Tinh</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+<ThingName>Thiên lân của Chúc Long</ThingName>
+<Desc>Miếng vảy hình dáng kỳ lạ trên mi tâm Chúc Long, ngưng tụ tinh hoa Chúc Long.Chúc Long hóa âm dương mà ngự ngũ hành, đeo vật này vào có thể mượn sức mạnh Chúc Long, Đột phá hộ thuẫn kỹ năng cực hạn 3 Cấp.</Desc>
+<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+<ThingName>Ngọc rồng hỗn mang</ThingName>
+<Desc>Cội nguồn sức mạnh của Chúc Long, trong đó còn sót lại một chút nguyên thần của Chúc Long .Nếu câu thông với nguyên thần, có thể lĩnh ngộ được một vài tin tức hữu dụng.Đeo vật này vào có thể mượn sức mạnh nguyên thần của Chúc Long, giảm bớt 5% sát thương ngũ hành.</Desc>
+<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+<StoryBnts.0.Name>Lĩnh hội</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Thử thu hoạch một vài tin tức có ích từ bên trong.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+<ThingName>Máu thịt nguyên sơ</ThingName>
+<Desc>Máu thịt trên người Chúc Long, bị âm dương xâm nhiễm nên có diệu dụng đặc biệt.Lấy dùng Khả giảm bớt đạo hạnh 2 điểm, cũng kéo dài tuổi thọ 10 Năm.Số lần sử dụng càng nhiều, hiệu quả sẽ giảm dần.</Desc>
+<Item.FabaoSuffix>thịt</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BossFeng_FengYin" sParam="Item">
+<ThingName>Cổ ngọc phượng văn</ThingName>
+<Desc>Một miếng cổ ngọc tìm được ở bảo tàng Long Đài, dường như là một mảnh của một bộ vật phẩm.</Desc>
+<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Kiểm tra Cổ ngọc phượng văn.</StoryBnts.0.Desc>
+</Text>
+<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+<ThingName>Cổ ngọc đen trắng</ThingName>
+<Desc>Miếng ngọc kỳ lạ tìm được giữa Chiến trường tiên ma, bên trong có âm dương lập lòe, như đang dựng dục thứ gì đó.</Desc>
+<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+<StoryBnts.0.Desc>Kiểm tra Cổ ngọc đen trắng.</StoryBnts.0.Desc>
+</Text>
+</List>
+</Texts>

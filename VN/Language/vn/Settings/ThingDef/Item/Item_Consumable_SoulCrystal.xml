@@ -1,0 +1,19 @@
+<Texts Type="Thing">
+<List>
+<Text Name="Item_SoulCrystalBase" sParam="Item">
+<Item.FabaoSuffix>Phách</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_SoulCrystalYou" sParam="Item">
+<ThingName>U phách</ThingName>
+<Desc>Hồn phách u tối, trong đó còn giữ lại một vài ký ức thống khổ.</Desc>
+</Text>
+<Text Name="Item_SoulCrystalNing" sParam="Item">
+<ThingName>Ninh phách</ThingName>
+<Desc>Hồn phách yên bình, trong đó giữ lại một vài ký ức.</Desc>
+</Text>
+<Text Name="Item_SoulCrystalLing" sParam="Item">
+<ThingName>Linh phách</ThingName>
+<Desc>Hồn phách trong sáng, trong đó giữ lại một vài ký ức hạnh phúc.</Desc>
+</Text>
+</List>
+</Texts>

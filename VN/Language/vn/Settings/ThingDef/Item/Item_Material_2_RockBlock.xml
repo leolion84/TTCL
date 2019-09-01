@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+<List>
+<Text Name="RockBlockBase" sParam="Item">
+<Item.FabaoSuffix>Thạch, Ấn, bia, giác, khuê, Khuyết, Trấn</Item.FabaoSuffix>
+</Text>
+<Text Name="Item_BrownRockBlock" sParam="Item">
+<ThingName>Tông thạch</ThingName>
+<Desc>Khối gạch được cắt từ Tông thạch, mười phần phổ biến, rất có hiệu quả khi tiến hành chế tạo, chỉ là độ mỹ quan rất kém.</Desc>
+<Item.BeMaterial.NamePrefix>Tông thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_GrayRockBlock" sParam="Item">
+<ThingName>Hôi thạch</ThingName>
+<Desc>Khối gạch được cắt từ Hôi thạch, rất có hiệu quả khi tiến hành chế tạo, độ mỹ quan rất bình thường.</Desc>
+<Item.BeMaterial.NamePrefix>Hôi thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_MarbleBlock" sParam="Item">
+<ThingName>Cẩm thạch</ThingName>
+<Desc>Khối gạch được cắt từ Đại Lý thạch, rất có hiệu quả khi tiến hành chế tạo.Hoa văn khá đẹp.</Desc>
+<Item.BeMaterial.NamePrefix>Cẩm thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_JadeBlock" sParam="Item">
+<ThingName>Gạch ngọc</ThingName>
+<Desc>Khối gạch được cắt từ Ngọc thạch, rất có hiệu quả khi tiến hành chế tạo.</Desc>
+<Item.BeMaterial.NamePrefix>Ngọc thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_SkyStoneBlock" sParam="Item">
+<ThingName>Gạch thiên trụ</ThingName>
+<Desc>Khối gạch được cắt từ Thiên Trụ Thạch, rất có hiệu quả khi tiến hành chế tạo.</Desc>
+<Item.BeMaterial.NamePrefix>Đá thiên trụ</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingStoneBlock" sParam="Item">
+<ThingName>Gạch Linh thạch</ThingName>
+<Desc>Khối gạch được cắt từ Linh thạch, rất có hiệu quả khi tiến hành chế tạo.</Desc>
+<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+</Text>
+<Text Name="Item_LingCrystalBlock" sParam="Item">
+<ThingName>Gạch Linh Tinh</ThingName>
+<Desc>Khối gạch được cắt từ Linh Tinh, rất có hiệu quả khi tiến hành chế tạo.</Desc>
+<Item.BeMaterial.NamePrefix>Linh Tinh</Item.BeMaterial.NamePrefix>
+</Text>
+</List>
+</Texts>
