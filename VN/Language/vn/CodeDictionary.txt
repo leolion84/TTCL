@@ -55,21 +55,21 @@ Key	Value
 玉	Ngọc
 隋	Tùy
 文烟	Văn Yên
-[color=#9e6404]相关工作：[/color]\n移除地板\n拆除建筑\n修理建筑\n移动和安装建筑\n建造建筑\n搬运建筑原料	[color=#9e6404] Công việc liên quan: [/color]\n Dời sàn nhà \n Dỡ bỏ công trình \n Sửa chữa công trình \n Di chuyển và lắp đặt công trình \n Xây dựng công trình \n Vận chuyển nguyên liệu xây dựng
-[color=#9e6404]相关工作：[/color]\n搬人上床\n照顾病人	[color=#9e6404] Công việc liên quan: [/color]\n Đưa người lên giường \n Chăm sóc bệnh nhân
-[color=#9e6404]相关工作：[/color]\n祭祀\n搬人上床\n搬运燃料\n埋葬\n搬运角色\n挑水\n搬运物品\n搬运生产原料\n打扫地面	[color=#9e6404] Công việc liên quan: [/color]\n Tế tự \n Đưa người lên giường \n Vận chuyển nhiên liệu \n Mai táng \n Vận chuyển nhân vật \n Gánh nước \n Vận chuyển vật phẩm \n Vận chuyển nguyên liệu sản xuất \n Quét tước mặt đất
-[color=#9e6404]相关工作：[/color]\n扫地	[color=#9e6404] Công việc liên quan: [/color]\n Quét rác
-[color=#9e6404]相关工作：[/color]\n烹饪\n搬运烹饪原料	[color=#9e6404] Công việc liên quan: [/color]\n Nấu nướng \n Vận chuyển nguyên liệu nấu nướng
-[color=#9e6404]相关工作：[/color]\n劈柴\n搬运劈柴原料\n砍伐树木\n割除植物	[color=#9e6404] Công việc liên quan: [/color]\n Chẻ củi \n Vận chuyển nguyên liệu chẻ củi \n Chặt cây \n Cắt thực vật
-[color=#9e6404]相关工作：[/color]\n切石\n搬运切石原料\n手工制造\n搬运手工原料	[color=#9e6404] Công việc liên quan: [/color]\n Cắt đá \n Vận chuyển nguyên liệu cắt đá \n Chế tạo thủ công \n Vận chuyển nguyên vật liệu thủ công
-[color=#9e6404]相关工作：[/color]\n屠宰\n狩猎\n探索	[color=#9e6404] Công việc liên quan: [/color]\n Làm thịt \n Săn bắt \n Thăm dò
-[color=#9e6404]相关工作：[/color]\n开采矿石	[color=#9e6404] Công việc liên quan: [/color]\n Khai thác khoáng thạch
-[color=#9e6404]相关工作：[/color]\n灭火	[color=#9e6404] Công việc liên quan: [/color]\n Dập lửa
-[color=#9e6404]相关工作：[/color]\n收获植物\n种植植物	[color=#9e6404] Công việc liên quan: [/color]\n Thu hoạch thực vật \n Trồng thực vật
-[color=#9e6404]相关工作：[/color]\n上床休养	[color=#9e6404] Công việc liên quan: [/color]\n Lên giường tịnh dưỡng
-[color=#9e6404]相关工作：[/color]\n制作衣物\n搬运衣物原材料	[color=#9e6404] Công việc liên quan: [/color]\n Chế tạo quần áo \n Vận chuyển nguyên vật liệu may mặc
-[color=#9e6404]相关工作：[/color]\n锻造物品\n搬运锻造原料	[color=#9e6404] Công việc liên quan: [/color]\n Rèn đúc vật phẩm \n Vận chuyển nguyên liệu rèn
-[color=#9e6404]相关工作：[/color]\n治疗普通疾病\n制药	[color=#9e6404] Công việc liên quan: [/color]\n Trị liệu thương bệnh bình thường \n Chế dược
+[color=#9e6404]相关工作：[/color]\n移除地板\n拆除建筑\n修理建筑\n移动和安装建筑\n建造建筑\n搬运建筑原料	[color=#9e6404]Công việc liên quan: [/color]\nDời sàn nhà\nDỡ bỏ công trình\nSửa chữa công trình\nDi chuyển và lắp đặt công trình\nXây dựng công trình\nVận chuyển nguyên liệu xây dựng
+[color=#9e6404]相关工作：[/color]\n搬人上床\n照顾病人	[color=#9e6404]Công việc liên quan: [/color]\nĐưa người lên giường\nChăm sóc bệnh nhân
+[color=#9e6404]相关工作：[/color]\n祭祀\n搬人上床\n搬运燃料\n埋葬\n搬运角色\n挑水\n搬运物品\n搬运生产原料\n打扫地面	[color=#9e6404]Công việc liên quan: [/color]\nTế tự\nĐưa người lên giường\nVận chuyển nhiên liệu\nMai táng\nVận chuyển nhân vật\nGánh nước\nVận chuyển vật phẩm\nVận chuyển nguyên liệu sản xuất\nQuét tước mặt đất
+[color=#9e6404]相关工作：[/color]\n扫地	[color=#9e6404]Công việc liên quan: [/color]\nQuét rác
+[color=#9e6404]相关工作：[/color]\n烹饪\n搬运烹饪原料	[color=#9e6404]Công việc liên quan: [/color]\nNấu nướng\nVận chuyển nguyên liệu nấu nướng
+[color=#9e6404]相关工作：[/color]\n劈柴\n搬运劈柴原料\n砍伐树木\n割除植物	[color=#9e6404]Công việc liên quan: [/color]\nChẻ củi\nVận chuyển nguyên liệu chẻ củi\nChặt cây\nCắt thực vật
+[color=#9e6404]相关工作：[/color]\n切石\n搬运切石原料\n手工制造\n搬运手工原料	[color=#9e6404]Công việc liên quan: [/color]\nCắt đá\nVận chuyển nguyên liệu cắt đá\nChế tạo thủ công\nVận chuyển nguyên vật liệu thủ công
+[color=#9e6404]相关工作：[/color]\n屠宰\n狩猎\n探索	[color=#9e6404]Công việc liên quan: [/color]\nLàm thịt\nSăn bắt\nThăm dò
+[color=#9e6404]相关工作：[/color]\n开采矿石	[color=#9e6404]Công việc liên quan: [/color]\nKhai thác khoáng thạch
+[color=#9e6404]相关工作：[/color]\n灭火	[color=#9e6404]Công việc liên quan: [/color]\nDập lửa
+[color=#9e6404]相关工作：[/color]\n收获植物\n种植植物	[color=#9e6404]Công việc liên quan: [/color]\nThu hoạch thực vật\nTrồng thực vật
+[color=#9e6404]相关工作：[/color]\n上床休养	[color=#9e6404]Công việc liên quan: [/color]\nLên giường tịnh dưỡng
+[color=#9e6404]相关工作：[/color]\n制作衣物\n搬运衣物原材料	[color=#9e6404]Công việc liên quan: [/color]\nChế tạo quần áo\nVận chuyển nguyên vật liệu may mặc
+[color=#9e6404]相关工作：[/color]\n锻造物品\n搬运锻造原料	[color=#9e6404]Công việc liên quan: [/color]\nRèn đúc vật phẩm\nVận chuyển nguyên liệu rèn
+[color=#9e6404]相关工作：[/color]\n治疗普通疾病\n制药	[color=#9e6404]Công việc liên quan: [/color]\nTrị liệu thương bệnh bình thường\nChế dược
 筑工	Trúc công
 照顾	Chăm sóc
 苦力	Khuân vác
@@ -200,12 +200,12 @@ Key	Value
 弟子	Đệ tử
 精英	Tinh anh
 长老	Trưởng lão
-\n温度不适	\n Nhiệt độ không hợp
-\n灵气不适	\n Không đủ linh khí
-\n肥沃不适	\n Không đủ màu mỡ
-\n季节不适	\n Mùa màng không hợp
-\n五行不适	\n Ngũ hành không hợp
-\n灵气不足	\n Linh khí không đủ
+\n温度不适	\nNhiệt độ không hợp
+\n灵气不适	\nKhông đủ linh khí
+\n肥沃不适	\nKhông đủ màu mỡ
+\n季节不适	\nMùa màng không hợp
+\n五行不适	\nNgũ hành không hợp
+\n灵气不足	\nLinh khí không đủ
 无滤镜	Không lọc
 岁月	Năm tháng
 铭记	Ghi khắc
@@ -221,14 +221,14 @@ Key	Value
 [{0}](禁止)	[{0}](cấm đoán)
 (热爱)	(nhiệt tình)
 (着迷)	(say mê)
-[{8}]{6}\n能力评分:{0:N0}/{1:N0}({9:N0}%)\n\t等级:{2}/{11}({5})\n\t经验:{3}{4}\n{7}\n\n{10}	[{8}]{6}\n Đánh giá năng lực:{0:N0}/{1:N0}({9:N0}%)\n\t Đẳng cấp:{2}/{11}({5})\n\t Kinh nghiệm:{3}{4}\n{7}\n\n{10}
-{0:F0}秒	{0:F0} giây
-{0:F0}天	{0:F0} ngày
-({0:F1}天)	({0:F1} ngày)
-{0}的{1}	{0}  {1}
+[{8}]{6}\n能力评分:{0:N0}/{1:N0}({9:N0}%)\n\t等级:{2}/{11}({5})\n\t经验:{3}{4}\n{7}\n\n{10}	[{8}]{6}\nĐánh giá năng lực:{0:N0}/{1:N0}({9:N0}%)\n\tĐẳng cấp:{2}/{11}({5})\n\tKinh nghiệm:{3}{4}\n{7}\n\n{10}
+{0:F0}秒	{0:F0}giây
+{0:F0}天	{0:F0}ngày
+({0:F1}天)	({0:F1}ngày)
+{0}的{1}	{1}trong số{0}
 采集或者历练	Thu thập hoặc lịch luyện
 <font color=#B65704>可选主材料(或):\n</font>	<font color=#B65704> Có thể chọn nguyên liệu chính (hoặc):\n</font>
-[color=#FF0000](无库存)[/color]\n[color=#604343]来源：{0}[/color]	[color=#FF0000](Không tồn kho)[/color]\n[color=#604343] khởi nguồn: {0}[/color]
+[color=#FF0000](无库存)[/color]\n[color=#604343]来源：{0}[/color]	[color=#FF0000](Không tồn kho)[/color]\n[color=#604343]khởi nguồn:{0}[/color]
 <font color=#B65704>必须材料:\n</font>	<font color=#B65704> Nguyên liệu cần thiết:\n</font>
 神乎其技	Thần hồ kỳ kỹ
 大师	Đại sư
@@ -326,17 +326,17 @@ Key	Value
 煞性隐隐	Sát tính mơ hồ
 煞性凝练	Sát tính cô đọng
 煞性凌冽	Sát tính lăng liệt
-自身生长速度很慢，对周边环境产生极大的正面增益。	Tốc độ sinh trưởng rất chậm , tạo ra cực nhiều lợi ích tích cực cho môi trường xung quanh .
-自身生长速度较慢，对周边环境产生较大的正面增益。	Tốc độ sinh trưởng khá chậm , tạo ra khá nhiều lợi ích tích cực cho môi trường xung quanh .
-自身生长速度略慢，对周边环境产生略微的正面增益。	Tốc độ sinh trưởng hơi chậm , tạo ra một chút lợi ích tích cực cho môi trường xung quanh .
-自身生长速度略快，对周边环境产生略微的负面影响。	Tốc độ sinh trưởng hơi nhanh, tạo ra một chút tiêu cực cho môi trường xung quanh .
-自身生长速度较快，对周边环境产生较大的负面影响。	Tốc độ sinh trưởng khá nhanh, tạo ra khá nhiều tiêu cực cho môi trường xung quanh .
-自身生长速度很快，对周边环境产生极大的负面影响。	Tốc độ sinh trưởng rất nhanh, tạo ra rất nhiều tiêu cực cho môi trường xung quanh .
+自身生长速度很慢，对周边环境产生极大的正面增益。	Tốc độ sinh trưởng rất chậm , tạo ra cực nhiều lợi ích tích cực cho môi trường xung quanh.
+自身生长速度较慢，对周边环境产生较大的正面增益。	Tốc độ sinh trưởng khá chậm , tạo ra khá nhiều lợi ích tích cực cho môi trường xung quanh.
+自身生长速度略慢，对周边环境产生略微的正面增益。	Tốc độ sinh trưởng hơi chậm , tạo ra một chút lợi ích tích cực cho môi trường xung quanh.
+自身生长速度略快，对周边环境产生略微的负面影响。	Tốc độ sinh trưởng hơi nhanh, tạo ra một chút tiêu cực cho môi trường xung quanh.
+自身生长速度较快，对周边环境产生较大的负面影响。	Tốc độ sinh trưởng khá nhanh, tạo ra khá nhiều tiêu cực cho môi trường xung quanh.
+自身生长速度很快，对周边环境产生极大的负面影响。	Tốc độ sinh trưởng rất nhanh, tạo ra rất nhiều tiêu cực cho môi trường xung quanh.
 空	Không
-鼎炉潜力尚未开发，炼精化气效率极高。	Đỉnh lô Tiềm lực chưa khai phát, luyện tinh hóa khí hiệu suất Cực cao .
+鼎炉潜力尚未开发，炼精化气效率极高。	Đỉnh lô Tiềm lực chưa khai phát, luyện tinh hóa khí hiệu suất Cực cao.
 始	Bắt đầu
 鼎炉潜力开发伊始，炼精化气效率较高。	Đỉnh lô Tiềm lực khai phát bắt đầu, luyện tinh hóa khí hiệu suất tương đối cao.
-鼎炉潜力开发泰半，炼精化气效率正常。	Đỉnh lô Tiềm lực khai phát hầu hết, luyện tinh hóa khí hiệu suất Bình thường .
+鼎炉潜力开发泰半，炼精化气效率正常。	Đỉnh lô Tiềm lực khai phát hầu hết, luyện tinh hóa khí hiệu suất Bình thường.
 盈	Doanh
 鼎炉潜力几尽枯竭，炼精化气效率较慢。	Đỉnh lô Tiềm lực mấy tận khô kiệt, luyện tinh hóa khí hiệu suất chậm chạp.
 满	Mãn
@@ -382,15 +382,15 @@ Key	Value
 远离炼宝台	Tránh xa đài luyện bảo
 远离炼丹炉	Tránh xa lò luyện đan
 远离炉灶	Tránh xa bếp
-初始化..	Khởi tạo . .
+初始化..	Khởi tạo..
 最后的准备.	Chuẩn bị cuối cùng.
-    天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	  Thiên Thương Lịch năm 245, tháng chạp. \n  Chính đạo môn phái Thái Nhất Môn lập phái tại Nguyệt Luân Sơn, đột nhiên bị kẻ thù xâm lấn. Chưởng giáo Thái Nhất Môn lúc lâm trận mặc dù đột phá Kim Đan, nhưng dưới sự truy kích của địch nhân liền thân hãm Tuyệt Long Trận, cuối cùng vẫn lạc. \n  đêm đó, Thái Nhất Môn bị tẫn diệt. Vẻn vẹn có mấy danh Đệ tử ngoại môn tại truyền công trưởng lão Giúp đỡ hạ chạy ra sơn môn...
+    天苍历245年，腊月。\n立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	  Thiên Thương Lịch năm 245, tháng chạp.\nChính đạo môn phái Thái Nhất Môn lập phái tại Nguyệt Luân Sơn, đột nhiên bị kẻ thù xâm lấn. Chưởng giáo Thái Nhất Môn lúc lâm trận mặc dù đột phá Kim Đan, nhưng dưới sự truy kích của địch nhân liền thân hãm Tuyệt Long Trận, cuối cùng vẫn lạc.\nđêm đó, Thái Nhất Môn bị tẫn diệt. Vẻn vẹn có mấy danh Đệ tử ngoại môn tại truyền công trưởng lão Giúp đỡ hạ chạy ra sơn môn...
 选择存档	Lựa chọn Lưu trữ
-今天的{0:N0}点	Hôm nay {0:N0} điểm
-{0:N0}个小时后	{0:N0} mấy tiếng sau
-{0}天后的{1:N0}点	{0} Ngày sau {1:N0} điểm
+今天的{0:N0}点	Hôm nay{0:N0}điểm
+{0:N0}个小时后	{0:N0}mấy tiếng sau
+{0}天后的{1:N0}点	{0}Ngày sau{1:N0}điểm
 微乎其微	Cực kỳ thấp
-{0}成	{0} thành
+{0}成	{0}thành
 读取存档	Đọc lưu trữ
 抱歉，WeGame异常导致游戏即将退出。	Xin lỗi, WeGame Khác thường sẽ dẫn đến việc trò chơi bị thoát ra.
 是否确定退出游戏	Phải chăng Xác định Rời khỏi trò chơi
@@ -402,22 +402,22 @@ Key	Value
 空地	Đất trống
 上的	Ở phía trên
 载入配置	Đang tải thiết lập
-初始化游戏数据失败，游戏将不能正常运行。请检查数据完整性和确认模组数据正确。\n依然要进入吗？	Khởi tạo dữ liệu trò chơi thất bại , không thể vận hành trò chơi bình thường . Xin hãy kiểm tra dữ liệu hoàn chỉnh và xác nhận chính xác dữ liệu bản mod. \n Vẫn muốn tiến vào chứ ?
-资源加载(1/2)..	Đang tải tài nguyên  (1/2). .
-资源加载(2/2)..	Đang tải tài nguyên  (2/2). .
-初始化{0}..({1}/{2})	Khởi tạo  {0}. . ({1}/{2})
-自动存档..	Tự động lưu trữ. .
-存档中...	Đang lưu trữ. . .
+初始化游戏数据失败，游戏将不能正常运行。请检查数据完整性和确认模组数据正确。\n依然要进入吗？	Khởi tạo dữ liệu trò chơi thất bại , không thể vận hành trò chơi bình thường. Xin hãy kiểm tra dữ liệu hoàn chỉnh và xác nhận chính xác dữ liệu bản mod.\nVẫn muốn tiến vào chứ ?
+资源加载(1/2)..	Đang tải tài nguyên  (1/2)..
+资源加载(2/2)..	Đang tải tài nguyên  (2/2)..
+初始化{0}..({1}/{2})	Khởi tạo{0}.. ({1}/{2})
+自动存档..	Tự động lưu trữ..
+存档中...	Đang lưu trữ...
 存档	Lưu trữ
 存档完毕！	Lưu trữ hoàn tất!
 记录世界	Ghi chép thế giới
 准备数据	Chuẩn bị số liệu
 写入数据	Ghi số liệu
 即将完成	Sắp hoàn thành
-非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Lưu trữ không thành công. \n Trong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra. \n Chúng tôi vô cùng xin lỗi! Xin hãy thử đọc lưu trữ cũ. \n Nếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
+非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Lưu trữ không thành công.\nTrong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra.\nChúng tôi vô cùng xin lỗi! Xin hãy thử đọc lưu trữ cũ.\nNếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
 读取存档文件	Đọc tài liệu lưu trữ
 载入数据:{0}/{1}	Tải dữ liệu:{0}/{1}
-逆转因果，有干天和。已无法在真仙模式下使用。\n(你已经离开真仙模式)	Nghịch chuyển nhân quả, có kiền thiên hòa. Đã vô pháp tiếp tục chế độ Chân Tiên. \n(Bạn đã thoát khỏi chế độ Chân Tiên)
+逆转因果，有干天和。已无法在真仙模式下使用。\n(你已经离开真仙模式)	Nghịch chuyển nhân quả, có kiền thiên hòa. Đã vô pháp tiếp tục chế độ Chân Tiên.\n(Bạn đã thoát khỏi chế độ Chân Tiên)
 子时,子夜时分,三更时分,夜半时分,夜深之时,万籁俱静	Giờ tý, Lúc giữa đêm, Lúc canh ba, Lúc đêm khuya, Lúc đêm dài, Vạn vật yên tĩnh
 丑时,鸡鸣时分,四更时分,星垂夜阔,西月微斜	Giờ sửu, Lúc gà gáy, Lúc canh bốn, Đêm đến trăng tỏa, Ánh trăng dần mờ
 寅时,黎明时分,平旦之时,五更时分,月沉西落,东方渐白	Giờ dần, Lúc bình minh, Lúc tờ mờ sáng, Canh năm, Trăng lặn về tây, Phía đông dần sáng
@@ -777,11 +777,11 @@ Key	Value
 开启阵法	Mở trận pháp
 关闭阵法	Đóng trận pháp
 命令与行为	Mệnh lệnh và hành vi
-[color=#bf642f]分堂掌管能力：{0}[/color]\n	[color=#bf642f] Năng lực của chưởng quản phân đường: {0}[/color]\n
-{0}加成：{1}\n	{0} gia tăng: {1}\n
-境界加成：{0}\n	Gia tăng cảnh giới: {0}\n
-道行加成：{0}\n	Gia tăng đạo hạnh: {0}\n
-功法加成：{0}\n	Gia tăng công pháp: {0}\n
+[color=#bf642f]分堂掌管能力：{0}[/color]\n	[color=#bf642f]Năng lực của chưởng quản phân đường:{0}[/color]\n
+{0}加成：{1}\n	{0}gia tăng:{1}\n
+境界加成：{0}\n	Gia tăng cảnh giới:{0}\n
+道行加成：{0}\n	Gia tăng đạo hạnh:{0}\n
+功法加成：{0}\n	Gia tăng công pháp:{0}\n
 交互	Tương tác
 与这个物体交互	Tương tác với vật thể này
 拼装耗时 : 	Lúc láp ráp :
@@ -794,41 +794,41 @@ Key	Value
 灵气最低的目标	Mục tiêu có linh khí thấp nhất
 距离最近的目标	Mục tiêu gần nhất
 随机目标	Mục tiêu ngẫu nhiên
-法宝威力 : {0:N0}	Uy lực của pháp bảo : {0:N0}
-灵气容量 : {0:N0}	Dung lượng linh khí : {0:N0}
-回灵速度 : {0:N1}/秒	Tốc độ hồi linh : {0:N1}/ giây
-飞行速度 : {0:N1}米/秒	Tốc độ phi hành : {0:N1} mét / giây
-转弯速度 : {0:N0}度/秒	Tốc độ chuyển ngoặt : {0:N0} Độ / giây
-攻击间隔 : {0:N1}秒	Khoảng cách công kích : {0:N1} giây
-击退抵抗 : {0:P0}	Đề kháng đánh lui : {0:P0}
-击退强度 : {0:P0}	Cường độ đánh lui : {0:P0}
-体积 : {0:P0}	Thể tích : {0:P0}
-拖尾长度 : {0:N1}米	Độ dài kéo đuôi : {0:N1} mét
-飞行速度 : {0:P1}	Tốc độ phi hành : {0:P1}
-{0}\n目标阵营：{4}\n目标类型：{3}\n消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\n Trận doanh mục tiêu: {4}\n Loại hình mục tiêu: {3}\n Tiêu hao linh khí: {1:N0} điểm \n Khoảng cách thi pháp: {2:F1} giây \n
+法宝威力 :{0:N0}	Uy lực của pháp bảo :{0:N0}
+灵气容量 :{0:N0}	Dung lượng linh khí :{0:N0}
+回灵速度 :{0:N1}/秒	Tốc độ hồi linh :{0:N1}/giây
+飞行速度 :{0:N1}米/秒	Tốc độ phi hành :{0:N1}m/s
+转弯速度 :{0:N0}度/秒	Tốc độ chuyển ngoặt :{0:N0}Độ/giây
+攻击间隔 :{0:N1}秒	Khoảng cách công kích :{0:N1}giây
+击退抵抗 :{0:P0}	Đề kháng đánh lui :{0:P0}
+击退强度 :{0:P0}	Cường độ đánh lui :{0:P0}
+体积 :{0:P0}	Thể tích :{0:P0}
+拖尾长度 :{0:N1}米	Độ dài kéo đuôi :{0:N1}mét
+飞行速度 :{0:P1}	Tốc độ phi hành :{0:P1}
+{0}\n目标阵营：{4}\n目标类型：{3}\n消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nTrận doanh mục tiêu:{4}\nLoại hình mục tiêu:{3}\nTiêu hao linh khí:{1:N0}điểm\nKhoảng cách thi pháp:{2:F1}giây\n
 友方	Phía bạn bè
 敌方	Quân địch
-作用半径：{0:F1}米\n	Bán kính ảnh hưởng: {0:F1} mét \n
-持续时间：{0:F1}秒\n	Thời gian duy trì: {0:F1} giây \n
-对目标造成{0:F0}点灵气伤害	Đối mục tiêu tạo thành {0:F0} điểm tổn thương linh khí
-增强法宝威力{0:P0}	Tăng cường uy lực pháp bảo {0:P0}
-回复目标{0:F0}点灵气	Mục tiêu hồi phục {0:F0} Điểm linh khí
-提高护体金光强度{0:P0}	Đề cao kim quang hộ thể {0:P0}
-强化术法伤害{0:P0}	Cường hóa tổn thương pháp thuật {0:P0}
+作用半径：{0:F1}米\n	Bán kính ảnh hưởng:{0:F1}mét\n
+持续时间：{0:F1}秒\n	Thời gian duy trì:{0:F1}giây\n
+对目标造成{0:F0}点灵气伤害	Đối mục tiêu tạo thành{0:F0}điểm tổn thương linh khí
+增强法宝威力{0:P0}	Tăng cường uy lực pháp bảo{0:P0}
+回复目标{0:F0}点灵气	Mục tiêu hồi phục{0:F0}Điểm linh khí
+提高护体金光强度{0:P0}	Đề cao kim quang hộ thể{0:P0}
+强化术法伤害{0:P0}	Cường hóa tổn thương pháp thuật{0:P0}
 术法与法宝	Thuật pháp cùng Pháp bảo
 的	của
-{0}释放的{1}	{0} Phóng thích {1}
+{0}释放的{1}	{0}Phóng thích{1}
 神兽灵智	Linh trí thần thú
 工作与劳动	Công tác và lao động
 不安	Bất an
 埋葬	Mai táng
-{0}之墓	{0} chi mộ
-{0}\n享年{1:N0}岁\n死因:{2}	{0}\n Hưởng thọ {1:N0} tuổi \n Nguyên nhân chết:{2}
+{0}之墓	{0}chi mộ
+{0}\n享年{1:N0}岁\n死因:{2}	{0}\nHưởng thọ{1:N0}tuổi\nNguyên nhân chết:{2}
 未知	Không biết
 祭拜	Tế bái
 打水	Múc nước
 扫地	Quét rác
-{0} 享用:{1}	{0} hưởng dụng:{1}
+{0}享用:{1}	{0}hưởng dụng:{1}
 规划行程	Quá trình quy hoạch
 休息	Nghỉ ngơi
 规划路线	Tuyến quy hoạch
@@ -837,16 +837,16 @@ Key	Value
 挖土	Đào đất
 喂食	Đút ăn
 喂水	Đút nước
-喂{0}吃了东西	Đút  {0} Đã ăn cái gì đó
-喂{0}喝了水	Đút  {0} Đã uống nước
+喂{0}吃了东西	Đút{0}Đã ăn cái gì đó
+喂{0}喝了水	Đút{0}Đã uống nước
 待机	Thời cơ
 游荡	Lêu lổng
 嗷~	Ngao ~
 放灯	Đặt đèn
-被{0}屠宰	Bị {0} Làm thịt
+被{0}屠宰	Bị{0}Làm thịt
 前往	Đi đến
 击杀	Đánh chết
-被{0}击杀	Bị {0} Đánh chết
+被{0}击杀	Bị{0}Đánh chết
 驻扎	Đóng quân
 历练中	Đang lịch luyện
 放下收获	Bỏ thu hoạch
@@ -910,7 +910,7 @@ Key	Value
 夺舍	Đoạt xá
 接受传授	Tiếp nhận truyền thụ
 传授	Truyền thụ
-跟随{0}	Tùy tùng {0}
+跟随{0}	Tùy tùng{0}
 沉睡	Ngủ say
 建造:{0}	Xây dựng:{0}
 伐木	Đốn củi
@@ -918,7 +918,7 @@ Key	Value
 拆除:{0}	Dỡ bỏ:{0}
 老子好饿，只能吃土了！	Lão tử quá đói, chỉ có thể ăn đất!
 享用:{0}	Hưởng dụng:{0}
-喂给{0}{1}	Đút cho {0}{1}
+喂给{0}{1}	Đút cho{0}{1}
 东西	Đồ vật
 战斗中	Đang chiến đấu
 维修:{0}	Sửa chữa và bảo dưỡng:{0}
@@ -943,17 +943,17 @@ Key	Value
 调查:{0}	Điều tra:{0}
 安装建筑:{0}	Lắp đặt kiến trúc:{0}
 凶宅	Nhà hung
-{0}正在发挥药效	{0} Dược hiệu đang phát huy
-治疗:{0}上的{1}	Trị liệu:{0} ở phía trên {1}
+{0}正在发挥药效	{0}Dược hiệu đang phát huy
+治疗:{0}上的{1}	Trị liệu:{0}ở phía trên{1}
 孵化中	Đang ấp trứng
 施放	Tung ra
 聚气	Tụ khí
-\n来自：{0}	\n đến từ: {0}
-{0}对其施展的{1}	{0} Thi triển với {1}
+\n来自：{0}	\nđến từ:{0}
+{0}对其施展的{1}	{0}Thi triển với{1}
 似乎什么都不会发生	Dường như không xảy ra gì
-{0}可能会出现 {1}	{0} Có khả năng sẽ xuất hiện {1}
+{0}可能会出现{1}	{0}Có khả năng sẽ xuất hiện{1}
 似乎没有什么特殊的事情发生	Dường như không xảy ra chuyện đặc thù gì
-门派近期派人前往{0}可能{1}	Môn phái gần đây phái người đi đến {0} khả năng {1}
+门派近期派人前往{0}可能{1}	Môn phái gần đây phái người đi đến{0}khả năng{1}
 某地	Nơi nào đó
 被替换	Bị hoán đổi
 激活中	Đang kích hoạt
@@ -979,18 +979,18 @@ Key	Value
 历世	Từng trải
 特殊	Đặc thù
 插入角色名字	Cắm vào Nhân vật Danh tự
-插入第三人称代词（他/她）	Cắm vào thứ ba nhân xưng đại từ (hắn / nàng)
-插入语第三人称物主代词（他的/她的）	Thành phần xen kẽ thứ ba nhân xưng vật chủ đại từ (hắn / nàng)
-未选择需要删除的内容	Vị  Lựa chọn cần xóa bỏ Nội dung
+插入第三人称代词（他/她）	Cắm vào thứ ba nhân xưng đại từ (hắn/nàng)
+插入语第三人称物主代词（他的/她的）	Thành phần xen kẽ thứ ba nhân xưng vật chủ đại từ (hắn/nàng)
+未选择需要删除的内容	Không có nội dung để xóa
 删除成功	Xóa bỏ Thành công
-新故事	Chuyện xưa mới
-输入数值	Đưa vào trị số
+新故事	Câu chuyện mới
+输入数值	Nhập giá trị
 添加特性	Tăng thêm đặc tính
-请选择需要保存的内容	Xin lựa chọn cần bảo tồn Nội dung
-有需要保存的内容还没有名字	Có cần bảo tồn Nội dung còn không có Danh tự
-需要保存的内容还没有名字	Cần bảo tồn Nội dung còn không có Danh tự
+请选择需要保存的内容	Vui lòng chọn nội dung bạn muốn lưu
+有需要保存的内容还没有名字	Không có tên cho nội dung cần được lưu.
+需要保存的内容还没有名字	Nội dung cần lưu chưa có tên.
 保存成功	Bảo tồn Thành công
-背景故事 {0} 数据写入中...	Bối cảnh cố sự {0} số liệu viết nhập Trung. . .
+背景故事{0}数据写入中...	Bối cảnh cố sự{0}số liệu viết nhập Trung...
 正常	Bình thường
 白	Bạch
 黑	Hắc
@@ -1008,38 +1008,38 @@ Key	Value
 现在退出未保存的数据将丢失	Hiện tại rời khỏi Vị  bảo tồn số liệu đem Mất đồ
 未选择需要上传的内容	Vị  Lựa chọn cần thượng truyền Nội dung
 单次上传的轮回者最多允许 20 个	Đan lần tới truyền Luân hồi giả nhiều nhất cho phép 20 Cái
-轮回者 {0} 数据与已有的数据冲突，无法保存	Luân hồi giả {0} số liệu cùng đã có số liệu xung đột, không cách nào bảo tồn
-轮回者 {0} 缺少描述，无法保存	Luân hồi giả {0} thiếu khuyết miêu tả, không cách nào bảo tồn
+轮回者{0}数据与已有的数据冲突，无法保存	Luân hồi giả{0}số liệu cùng đã có số liệu xung đột, không cách nào bảo tồn
+轮回者{0}缺少描述，无法保存	Luân hồi giả{0}thiếu khuyết miêu tả, không cách nào bảo tồn
 等轮回者	Chờ Luân hồi giả
-[作者]\r\n    	[ tác giả ]\r\n
-[简介]\r\n	[ giới thiệu vắn tắt ]\r\n
-[内容]\r\n	[ Nội dung ]\r\n
+[作者]\r\n	[tác giả]\r\n
+[简介]\r\n	[giới thiệu vắn tắt]\r\n
+[内容]\r\n	[Nội dung]\r\n
 本地轮回者	Bản Địa Luân hồi giả
 文中含有敏感词汇，请斟酌后重书。	Bên trong ẩn chứa từ ngữ nhạy cảm, xin hãy châm chước rồi hãy đọc.
 是	Phải
 年龄不足	Tuổi không đủ
-{1}:{2:F2}\n(先天:{3:F2} 后天:{4:F2})\n{0}	{1}:{2:F2}\n(Tiên Thiên:{3:F2} hậu thiên:{4:F2})\n{0}
+{1}:{2:F2}\n(先天:{3:F2}后天:{4:F2})\n{0}	{1}:{2:F2}\n(Tiên Thiên:{3:F2}hậu thiên:{4:F2})\n{0}
 总值	Tổng giá trị
-\n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404] Không thể cùng tồn tại: [/color]
-[新手推荐]\n	[ Đề cử tân thủ ]\n
+\n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404]Không thể cùng tồn tại: [/color]
+[新手推荐]\n	[Đề cử tân thủ]\n
 未选择需要保存的内容	Vị  Lựa chọn cần bảo tồn Nội dung
-轮回者 {0} 缺少描述	Luân hồi giả {0} thiếu khuyết miêu tả
+轮回者{0}缺少描述	Luân hồi giả{0}thiếu khuyết miêu tả
 自制轮回者	Tự chế Luân hồi giả
-轮回者 {0} 数据写入中...	Luân hồi giả {0} số liệu viết nhập Trung. . .
+轮回者{0}数据写入中...	Luân hồi giả{0}số liệu viết nhập Trung...
 添加新故事	Tăng thêm chuyện xưa mới
 键位的编码已被使用，请更换编码！	Phím mã hóa đã được sử dụng, xin thay đổi mã hóa!
 类型或ID不能为空！	Loại hình hoặc ID không thể vì Không!
  或 	 hoặc
-天苍{0}年 {1} 第{2}日	Mùa {1} Năm {0} ngày {2}
-加载自动过期信息有问题！报错：{0}	Có vấn đề xảy ra quá thời hạn tự động tải thêm ! Báo lỗi: {0}
-加载条件过期信息有问题！报错：{0}	Có vấn đề xảy ra quá thời hạn tải thêm điều kiện ! Báo lỗi: {0}
-加载查看移除信息有问题！报错：{0}	Có vấn đề xảy ra khi kiểm tra di dời và xóa bỏ! Báo lỗi: {0}
+天苍{0}年{1}第{2}日	Mùa{1}Năm{0}ngày{2}
+加载自动过期信息有问题！报错：{0}	Có vấn đề xảy ra quá thời hạn tự động tải thêm ! Báo lỗi:{0}
+加载条件过期信息有问题！报错：{0}	Có vấn đề xảy ra quá thời hạn tải thêm điều kiện ! Báo lỗi:{0}
+加载查看移除信息有问题！报错：{0}	Có vấn đề xảy ra khi kiểm tra di dời và xóa bỏ! Báo lỗi:{0}
 加载历史消息	Tải thông báo cũ
-消息属性{0}存在问题	Thông báo {0} có vấn đề
-[{0}前]	[{0} trước ]
+消息属性{0}存在问题	Thông báo{0}có vấn đề
+[{0}前]	[{0}trước]
 开始载入补丁	Bắt đầu tải bản vá
-加载{0}配置文件	Tải thêm {0} sắp xếp văn kiện
-修复程序加载失败，错误信息：{0}	Sửa chửa trình tự tải thêm thất bại, Lỗi tin tức: {0}
+加载{0}配置文件	Tải thêm{0}sắp xếp văn kiện
+修复程序加载失败，错误信息：{0}	Sửa chửa trình tự tải thêm thất bại, Lỗi tin tức:{0}
 请先接受 Steam 工作坊法律协议 : 	Mời Tiên tiếp nhận Steam công tác phường pháp luật hiệp nghị :
 建立物品的使用者目前已被社群封锁	Thành lập Vật phẩm người sử dụng trước mắt đã bị xã Quần phong tỏa
 长时间未响应，建议重新建立	Dài thời gian Vị  hưởng ứng, đề nghị một lần nữa thành lập
@@ -1054,7 +1054,7 @@ Key	Value
 还未设置该模组的名称	Còn chưa thiết trí nên mô tổ danh xưng
 确定更新模组内容吗？	Xác định đổi mới mô tổ Nội dung sao?
 分享	Chia sẻ
-\r\n[内容]	\r\n[ Nội dung ]
+\r\n[内容]	\r\n[Nội dung]
 上传	Thượng truyền
 更新	Đổi mới
 图片(*.png;*.jpg)\0*.png;*.jpg	Hình ảnh (*. png;*. jpg)\0*. png;*. jpg
@@ -1067,19 +1067,19 @@ Key	Value
 类型:	Loại hình:
 订阅数:	Đặt mua số:
 作者:	Tác giả:
-读取中...	Đang đọc. . .
+读取中...	Đang đọc...
 评分:	Cho điểm:
-\r\n[简介]	\r\n[ giới thiệu vắn tắt ]
-[作者]\r\n	[ tác giả ]\r\n
-[简介]	[ giới thiệu vắn tắt ]
+\r\n[简介]	\r\n[giới thiệu vắn tắt]
+[作者]\r\n	[tác giả]\r\n
+[简介]	[giới thiệu vắn tắt]
 未拉取到投票信息	Vị  kéo vào tay bỏ phiếu tin tức
 全部	Toàn bộ
-模组商店只在WeGame和Steam平台提供。\n开发不易，请支持正版。感谢！	Mô tổ cửa hàng chỉ ở WeGame cùng Steam bình đài cung cấp. \n khai phát không dễ, xin ủng hộ chính bản. Cám ơn!
+模组商店只在WeGame和Steam平台提供。\n开发不易，请支持正版。感谢！	Mô tổ cửa hàng chỉ ở WeGame cùng Steam bình đài cung cấp.\nkhai phát không dễ, xin ủng hộ chính bản. Cám ơn!
 模组可能处于审核状态或已下架，未能正常下载	Mô tổ khả năng ở vào xét duyệt trạng thái hoặc đã loại bỏ, chưa thể Bình thường  download
-{0} 下载失败，请检查网络连接是否稳定，同时移至Steam下载界面恢复下载	{0} download Thất bại, mời kiểm tra mạng lưới kết nối phải chăng ổn định, đồng thời dời đi Steam download Giao diện khôi phục lại chở
+{0}下载失败，请检查网络连接是否稳定，同时移至Steam下载界面恢复下载	{0}download Thất bại, mời kiểm tra mạng lưới kết nối phải chăng ổn định, đồng thời dời đi Steam download Giao diện khôi phục lại chở
 正在下载 ：	Đang download :
-{0} 下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0} download quá thời gian, mời kiểm tra mạng lưới kết nối, hoặc dời đi Steam download Giao diện khôi phục lại chở
-{0} 下载超时，请检查网络连接，是否继续下载	{0} download quá thời gian, mời kiểm tra mạng lưới kết nối, phải chăng Tiếp tục  download
+{0}下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0}download quá thời gian, mời kiểm tra mạng lưới kết nối, hoặc dời đi Steam download Giao diện khôi phục lại chở
+{0}下载超时，请检查网络连接，是否继续下载	{0}download quá thời gian, mời kiểm tra mạng lưới kết nối, phải chăng Tiếp tục  download
 有资源未下载完成，退出将被取消，确定要退出吗？	Có tài nguyên chưa xuống chở hoàn thành, rời khỏi đem bị Hủy bỏ, xác định muốn rời khỏi?
 添加新标签	Tăng thêm Tân nhãn hiệu
 设置的版本号未高于原版本号，请确认	Thiết trí phiên bản hào Vị  cao hơn nguyên bản Bản hào, xin xác nhận
@@ -1096,12 +1096,12 @@ Key	Value
 物品	Vật phẩm
 装备	Trang bị
 建筑	Công trình
-检测服务器MOD...	Kiểm trắc Server MOD. . .
-更新MOD信息...	Đổi mới MOD tin tức. . .
-上传中，请耐心等待...	Thượng truyền Trung, Xin hãy kiên nhẫn . . .
+检测服务器MOD...	Kiểm trắc Server MOD...
+更新MOD信息...	Đổi mới MOD tin tức...
+上传中，请耐心等待...	Thượng truyền Trung, Xin hãy kiên nhẫn...
 上传成功！大约需要10分钟的时间才会在模组订阅面板中出现	Thượng truyền Thành công! Ước chừng cần 10 phút thời gian mới có thể tại mô tổ đặt mua bảng Trung xuất hiện
-上传失败!错误信息：{0}\n是否选择无预览图上传	Thượng truyền Thất bại! Lỗi tin tức: {0}\n phải chăng Lựa chọn Không dự lãm Đồ thượng truyền
-上传失败!错误信息：{0}	Thượng truyền Thất bại! Lỗi tin tức: {0}
+上传失败!错误信息：{0}\n是否选择无预览图上传	Thượng truyền Thất bại! Lỗi tin tức:{0}\nphải chăng Lựa chọn Không dự lãm Đồ thượng truyền
+上传失败!错误信息：{0}	Thượng truyền Thất bại! Lỗi tin tức:{0}
 上传成功！已提交审核请等待！	Thượng truyền Thành công! Đã Gửi xét duyệt mời Chờ đợi!
 围观	Hóng hớt
 慕名而来	Mộ danh mà đến
@@ -1125,8 +1125,8 @@ Key	Value
 播种	Gieo trồng
 成长	Trưởng thành
 推演万物生长	Thúc đẩy vạn vật sinh trưởng
-上古时期叱咤风云的[{1}]·[{0}]出世了！	Oai phong một cõi thời thượng cổ  [{1}]·[{0}] xuất thế rồi !
-发现新的地点：{0}	Phát hiện địa điểm mới: {0}
+上古时期叱咤风云的[{1}]·[{0}]出世了！	Oai phong một cõi thời thượng cổ  [{1}]·[{0}]xuất thế rồi !
+发现新的地点：{0}	Phát hiện địa điểm mới:{0}
 但是这个地点你已经知道了	Thế nhưng địa điểm này bạn đã biết rồi
 自然与环境	Thiên nhiên và môi trường
 一窝孕育中的	Một tổ đang dựng dục
@@ -1135,117 +1135,117 @@ Key	Value
 较多的	Khá nhiều
 大量的	Lượng lớn
 巨量的	Lượng cực lớn
-{0}{1}经验	{0}{1} Kinh nghiệm
-获得配方：{0}	Thu được phối phương: {0}
-习得符咒：{0}	Học được phù chú: {0}
-{0:F1}点{1}	{0:F1} điểm {1}
+{0}{1}经验	{0}{1}Kinh nghiệm
+获得配方：{0}	Thu được phối phương:{0}
+习得符咒：{0}	Học được phù chú:{0}
+{0:F1}点{1}	{0:F1}điểm{1}
 (技能)	(kỹ năng)
 {0}→[color=#009900]{1}(相生)[/color]	{0}→[color=#009900]{1}(Tương sinh )[/color]
 {0}→[color=#990000]{1}(相克)[/color]	{0}→[color=#990000]{1}(Tương khắc )[/color]
 {0}→[color=#999900]{1}(归元)[/color]	{0}→[color=#999900]{1}(Quy nguyên)[/color]
 功法秘籍	Bí tịch công pháp
 的宝贝	Bảo bối
-{0}习得[{1}]\n[color=#D06508]{2}[/color]	{0} tập được [{1}]\n[color=#D06508]{2}[/color]
+{0}习得[{1}]\n[color=#D06508]{2}[/color]	{0}tập được [{1}]\n[color=#D06508]{2}[/color]
 [color=#880000](丢失)[/color]	[color=#880000](Mất đồ)[/color]
 [color=#880000](未激活)[/color]	[color=#880000](Chưa kích hoạt)[/color]
 [color=#880000](模组版本不符:v{0})[/color]	[color=#880000](Phiên bản mod không hợp:v{0})[/color]
 [color=#880000](游戏版本过低:{0})[/color]	[color=#880000](Phiên bản trò chơi quá thấp :{0})[/color]
 [color=#880000](不再支持的MOD版本:{0})[/color]	[color=#880000](không còn ủng hộ MOD phiên bản:{0})[/color]
 [color=#008800](正常)[/color]	[color=#008800](Bình thường )[/color]
-\n使用模组:\n	\n Sử dụng mod :\n
+\n使用模组:\n	\nSử dụng mod :\n
 加载资源	Đang tải tài nguyên
 大能出世	Đại năng xuất thế
 大地与土壤	Mặt đất và đất đai
 生成世界	Tạo thế giới
 开天辟地	Khai thiên tích địa
-{0}{1}  {2}等级\n	{0}{1} {2} Đẳng cấp \n
-{0}{1}  {2}经验\n	{0}{1} {2} Kinh nghiệm \n
-{0}{1}  {2}等级(提高上限)\n	{0}{1} {2} Đẳng cấp (Tăng giới hạn trên)\n
+{0}{1}{2}等级\n	{0}{1}{2}Đẳng cấp\n
+{0}{1}{2}经验\n	{0}{1}{2}Kinh nghiệm\n
+{0}{1}{2}等级(提高上限)\n	{0}{1}{2}Đẳng cấp (Tăng giới hạn trên)\n
 天道影响	Thiên đạo ảnh hưởng
-{0}{1}  {2}等级	{0}{1} {2} Đẳng cấp
-{0}{1}  {2}经验	{0}{1} {2} Kinh nghiệm
-{0}{1}  {2}等级(提高上限)	{0}{1} {2} Đẳng cấp (Tăng giới hạn trên)
+{0}{1}{2}等级	{0}{1}{2}Đẳng cấp
+{0}{1}{2}经验	{0}{1}{2}Kinh nghiệm
+{0}{1}{2}等级(提高上限)	{0}{1}{2}Đẳng cấp (Tăng giới hạn trên)
 一个Modifier	Nhất Cái Modifier
 成员	Thành viên
 堂主	Đường chủ
 被击	Bị đánh
-{0}天 {1:D2}:{2:D2}	Ngày {0} lúc {1:D2}:{2:D2}
+{0}天{1:D2}:{2:D2}	Ngày{0}lúc{1:D2}:{2:D2}
 丢失核心	Mất đi hạch tâm
-食用了{0}	Ăn được rồi {0}
+食用了{0}	Ăn được rồi{0}
 内灵气	Linh khí bên trong
 傀·	Khôi ·
 尸·	Thi ·
 失去控制	Mất đi khống chế
 怀孕中	Đang có thai
 额外掉落需要在精英怪上才能生效	Ngoài định mức điệu lạc cần ở trên quái tinh anh mới có hiệu lực
-[color=#306BC7]获得了新的修炼功法：{0}[/color]	[color=#306BC7] Nhận được công pháp tu luyện mới: {0}[/color]
-{0}引荐了几个弟子	{0} dẫn đến mấy tên đệ tử
-获得秘籍：{0} X {1}	Thu được bí tịch: {0} X {1}
-获得秘籍：《{0}》 X {1}	Thu được bí tịch: <{0} > X {1}
-获得符咒：{0} X {1}	Thu được phù chú: {0} X {1}
+[color=#306BC7]获得了新的修炼功法：{0}[/color]	[color=#306BC7]Nhận được công pháp tu luyện mới:{0}[/color]
+{0}引荐了几个弟子	{0}dẫn đến mấy tên đệ tử
+获得秘籍：{0}X{1}	Thu được bí tịch:{0}X{1}
+获得秘籍：《{0}》 X{1}	Thu được bí tịch: <{0}> X{1}
+获得符咒：{0}X{1}	Thu được phù chú:{0}X{1}
 历练	Lịch luyện
-{0}的{1}受伤了!	{0}  {1} Bị thương rồi!
-{0}受伤了!	{0} Bị thương rồi!
-{0}点 门派声望	{0} điểm Danh vọng môn phái
-{1}点 [{0}]好感度	{1} điểm [{0}] Độ hảo cảm
-{0}点 {1}	{0} điểm {1}
-{0}获得称号 [{1}]	{0} nhận được danh hiệu [{1}]
-{1}习得秘籍：《{0}》	{1} Học được bí tịch: <{0} >
-{1}获得参悟经验：{0:F0}点	{1} Thu được điểm lĩnh hội: {0:F0} điểm
-[{0}]瓶颈已突破	[{0}] Đã đột phá bình cảnh
+{0}的{1}受伤了!	{0}{1}Bị thương rồi!
+{0}受伤了!	{0}Bị thương rồi!
+{0}点 门派声望	{0}điểm Danh vọng môn phái
+{1}点 [{0}]好感度	{1}điểm [{0}]Độ hảo cảm
+{0}点{1}	{0}điểm{1}
+{0}获得称号 [{1}]	{0}nhận được danh hiệu [{1}]
+{1}习得秘籍：《{0}》	{1}Học được bí tịch: <{0}>
+{1}获得参悟经验：{0:F0}点	{1}Thu được điểm lĩnh hội:{0:F0}điểm
+[{0}]瓶颈已突破	[{0}]Đã đột phá bình cảnh
 活物组成	Vật sống cấu thành
 重生	Trùng sinh
-[{0}]缺少人手\n	[{0}] Thiếu nhân thủ \n
+[{0}]缺少人手\n	[{0}]Thiếu nhân thủ\n
 一个特性	Một đặc tính
-{0}带来的{1}{2}	{0} Mang đến {1}{2}
-{0}带来的{1}导致{2}被破坏	{0} Mang đến {1} dẫn đến {2} bị phá hư
-{0}导致{1}被破坏	{0} dẫn đến {1} bị phá hư
-失去{0}	Mất đi {0}
+{0}带来的{1}{2}	{0}Mang đến{1}{2}
+{0}带来的{1}导致{2}被破坏	{0}Mang đến{1}dẫn đến{2}bị phá hư
+{0}导致{1}被破坏	{0}dẫn đến{1}bị phá hư
+失去{0}	Mất đi{0}
 轻身符	Khinh Thân Phù
 怠工	Lười biếng
 阳寿已尽	Dương thọ đã tận
 同意	Đồng ý
 拒绝	Cự tuyệt
-已领悟\n	Đã Lĩnh ngộ \n
-秘籍异常\n	Bí tịch dị thường \n
-自行领悟，不可传授。\n	Tự hành Lĩnh ngộ, không thể Truyền thụ. \n
+已领悟\n	Đã Lĩnh ngộ\n
+秘籍异常\n	Bí tịch dị thường\n
+自行领悟，不可传授。\n	Tự hành Lĩnh ngộ, không thể Truyền thụ.\n
 参悟不足({0}/{1})\n	Lĩnh hội không đủ ({0}/{1})\n
 境界不够({0}/{1})\n	Không đủ cảnh giới ({0}/{1})\n
-不能共存：{0}\n	Không thể cùng tồn tại: {0}\n
-前置条件：{0}\n	Trước đưa điều kiện: {0}\n
+不能共存：{0}\n	Không thể cùng tồn tại:{0}\n
+前置条件：{0}\n	Trước đưa điều kiện:{0}\n
 角色已死亡	Nhân vật đã tử vong
-\n不能共存：{0}	\n Không thể cùng tồn tại: {0}
-\n金丹品级不够：{0}品	\n Phẩm cấp kim đan không đủ : {0} phẩm
-\n灵气最大值不够：{0:F0}/{1:F0}	\n Không đủ linh khí tối đa: {0:F0}/{1:F0}
-\n天劫洗礼次数不够：{0:N0}/{1:N0}	\n Không đủ số lần Thiên kiếp tẩy lễ: {0:N0}/{1:N0}
-\n参悟不足：{0:F0}/{1:F0}	\n Lĩnh hội không đủ: {0:F0}/{1:F0}
-\n道行不够：{0}	\n Không đủ đạo hạnh : {0}
-\n已达到道行上限	\n Đã đạt được đạo hạnh tối đa
-\n前置条件：{0}	\n trước đưa điều kiện: {0}
-\n境界不够：{0}	\n Không đủ cảnh giới: {0}
-\n{0}等级：{1}/{2}	\n{0} Đẳng cấp: {1}/{2}
-{1}{0:F0} 精元\n	{1}{0:F0} Tinh nguyên \n
-{0}瓶颈突破成功	{0} Đột phá bình cảnh thành công
-仙人{0}经过无量劫难，度{1}重天劫，于天苍历{2}年{3}斩断尘缘，以{4}证得天仙之境。	Tiên nhân {0} Trải qua vô số kiếp nạn, Độ {1} Trọng thiên kiếp, Thiên Thương năm {2} {3} Chặt đứt trần duyên, với {4} đạt Thiên tiên chi cảnh.
+\n不能共存：{0}	\nKhông thể cùng tồn tại:{0}
+\n金丹品级不够：{0}品	\nPhẩm cấp kim đan không đủ :{0}phẩm
+\n灵气最大值不够：{0:F0}/{1:F0}	\nKhông đủ linh khí tối đa:{0:F0}/{1:F0}
+\n天劫洗礼次数不够：{0:N0}/{1:N0}	\nKhông đủ số lần Thiên kiếp tẩy lễ:{0:N0}/{1:N0}
+\n参悟不足：{0:F0}/{1:F0}	\nLĩnh hội không đủ:{0:F0}/{1:F0}
+\n道行不够：{0}	\nKhông đủ đạo hạnh :{0}
+\n已达到道行上限	\nĐã đạt được đạo hạnh tối đa
+\n前置条件：{0}	\ntrước đưa điều kiện:{0}
+\n境界不够：{0}	\nKhông đủ cảnh giới:{0}
+\n{0}等级：{1}/{2}	\n{0}Đẳng cấp:{1}/{2}
+{1}{0:F0}精元\n	{1}{0:F0}Tinh nguyên\n
+{0}瓶颈突破成功	{0}Đột phá bình cảnh thành công
+仙人{0}经过无量劫难，度{1}重天劫，于天苍历{2}年{3}斩断尘缘，以{4}证得天仙之境。	Tiên nhân{0}Trải qua vô số kiếp nạn, Độ{1}Trọng thiên kiếp, Thiên Thương năm{2}{3}Chặt đứt trần duyên, với{4}đạt Thiên tiên chi cảnh.
 瓶颈突破失败	Đột phá bình cảnh thất bại
 天劫	Thiên kiếp
 遇到瓶颈	Gặp phải bình cảnh
 修行运转之法	Phương pháo tu hành vận chuyển
 伪造的	Ngụy tạo
-\n但似乎是伪造的，效果大打折扣。	\n Nhưng hình như là đồ giả, hiệu quả giảm mạnh.
+\n但似乎是伪造的，效果大打折扣。	\nNhưng hình như là đồ giả, hiệu quả giảm mạnh.
 一张随意为之但充满想象力的符咒，不知道会有什么神奇的效果。	Chỉ là một lá bùa ngẫu hứng nhưng tràn đầy trí tưởng tượng, không biết nó sẽ có hiệu quả thần kỳ gì.
 角色属性数据	Số liệu thuộc tính nhân vật
-\n[color=#9e6404]受以下状态影响:[/color]	\n[color=#9e6404] Bị ảnh hưởng bởi trạng thái sau đây:[/color]
-\n情绪影响:\n {0:N0}%	\n Ảnh hưởng tâm trạng:\n {0:N0}%
-\n境界影响:\n {0:N0}%	\n Ảnh hưởng cảnh giới:\n {0:N0}%
-非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Lưu trữ không thành công. \n Trong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra. \n Chúng tôi vô cùng xin lỗi! Xin hãy thử lưu trữ lại hoặc đọc lữu trữ cũ. \n Nếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
+\n[color=#9e6404]受以下状态影响:[/color]	\n[color=#9e6404]Bị ảnh hưởng bởi trạng thái sau đây:[/color]
+\n情绪影响:\n{0:N0}%	\nẢnh hưởng tâm trạng:\n{0:N0}%
+\n境界影响:\n{0:N0}%	\nẢnh hưởng cảnh giới:\n{0:N0}%
+非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Lưu trữ không thành công.\nTrong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra.\nChúng tôi vô cùng xin lỗi! Xin hãy thử lưu trữ lại hoặc đọc lữu trữ cũ.\nNếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
 天下门派	Môn phái thiên hạ
-由{0}建立的新兴修仙门派，势力强劲且还在成长。	Từ {0} thành lập mới phát tu tiên Môn phái, thế lực mạnh mẽ và vẫn đang lớn dần.
-天苍历{0}年，在修行界{1}的{2}覆灭。	Thiên Thương Lịch năm {0}, tại tu hành giới {1} của {2} bị tiêu diệt.
-获得了新的修炼功法：\n[align=center][color=#306BC7]{0}[/color][/align]	Nhận được công pháp tu luyện mới: \n[align=center][color=#306BC7]{0}[/color][/align]
-内门弟子数量达到上限:{0}。\n内门弟子数量受门派规模影响。\n你可以扩大门派规模或者将其他弟子踢出门派。	Số lượng đệ tử nội môn đã đến giới hạn:{0}. \n số lượng đệ tử nội môn chịu ảnh hưởng bởi quy mô môn phái. \n Bạn có thể khuếch trương quy mô môn phái hoặc đuổi đệ tử khác đi.
+由{0}建立的新兴修仙门派，势力强劲且还在成长。	Từ{0}thành lập mới phát tu tiên Môn phái, thế lực mạnh mẽ và vẫn đang lớn dần.
+天苍历{0}年，在修行界{1}的{2}覆灭。	Thiên Thương Lịch năm{0}, tại tu hành giới{1}của{2}bị tiêu diệt.
+获得了新的修炼功法：\n[align=center][color=#306BC7]{0}[/color][/align]	Nhận được công pháp tu luyện mới:\n[align=center][color=#306BC7]{0}[/color][/align]
+内门弟子数量达到上限:{0}。\n内门弟子数量受门派规模影响。\n你可以扩大门派规模或者将其他弟子踢出门派。	Số lượng đệ tử nội môn đã đến giới hạn:{0}.\nsố lượng đệ tử nội môn chịu ảnh hưởng bởi quy mô môn phái.\nBạn có thể khuếch trương quy mô môn phái hoặc đuổi đệ tử khác đi.
 祝贺	Chúc mừng
- 再见,{0}!\n	 tạm biệt,{0}! \n
+ 再见,{0}!\n	 tạm biệt,{0}!\n
 掌门	Chưởng môn
 请选择门派后缀	Xin lựa chọn hậu tố môn phái
 无名	Vô danh
@@ -1278,14 +1278,14 @@ Key	Value
 魔宫	Ma cung
 魔殿	Ma điện
 妖窟	Yêu quật
-月轮山麓，太一门。\n 年关将至，虽然掌教为突破金丹境界，已闭关数日未曾露面。但举派上下已投身在新年将至的喜悦中，无不振奋…… 	Chân núi Nguyệt Luân Sơn, Thái Nhất Môn. \n Cửa ải cuối năm sắp tới, mặc dù chưởng môn vì đột phá Kim Đan cảnh giới, đã bế quan mấy hôm chưa từng lộ diện. Nhưng trên dưới toàn phái đã đắm chìm vào sự vui mừng của năm mới sắp tới, ai nấy phấn khởi...
+月轮山麓，太一门。\n年关将至，虽然掌教为突破金丹境界，已闭关数日未曾露面。但举派上下已投身在新年将至的喜悦中，无不振奋…… 	Chân núi Nguyệt Luân Sơn, Thái Nhất Môn.\nCửa ải cuối năm sắp tới, mặc dù chưởng môn vì đột phá Kim Đan cảnh giới, đã bế quan mấy hôm chưa từng lộ diện. Nhưng trên dưới toàn phái đã đắm chìm vào sự vui mừng của năm mới sắp tới, ai nấy phấn khởi...
 弟子男	Nam đệ tử
 听说二师兄昨日已经回山，此番历练又有奇遇……竟然寻得一块星髓，真让人眼红。	Nghe nói nhị sư huynh hôm qua đã về núi, lần này lịch luyện lại có kỳ ngộ... Vậy mà tìm được một khối tinh tủy, làm cho người đỏ mắt.
 弟子女	Nữ đệ tử
-是啊，就是不知道二师兄喜欢什么样的女孩子。哎呀！不过说起来，掌教真人此番闭关能进阶[color=#ff0000]上品金丹[/color]的话，我们太一门也称得上的名门大派了！	Đúng vậy a, cũng không biết nhị sư huynh thích dạng gì nữ hài tử. Ai nha! Bất quá nói đến, chưởng môn chân nhân lần này bế quan có thể tiến giai [color=#ff0000] Thượng phẩm Kim Đan [/color], chúng ta Thái Nhất Môn cũng được coi là danh môn đại phái!
+是啊，就是不知道二师兄喜欢什么样的女孩子。哎呀！不过说起来，掌教真人此番闭关能进阶[color=#ff0000]上品金丹[/color]的话，我们太一门也称得上的名门大派了！	Đúng vậy a, cũng không biết nhị sư huynh thích dạng gì nữ hài tử. Ai nha! Bất quá nói đến, chưởng môn chân nhân lần này bế quan có thể tiến giai [color=#ff0000]Thượng phẩm Kim Đan [/color], chúng ta Thái Nhất Môn cũng được coi là danh môn đại phái!
 掌教真人修为精深，一定没问题的……哎，你快看，师妹是怎么了，吃饭的时候还一脸不高兴，难道是我惹她不高兴了？	Chưởng môn chân nhân tu vi tinh thâm, nhất định không có vấn đề... Haiz, ngươi mau nhìn, sư muội làm sao, lúc ăn cơm vẻ mặt không cao hứng, chẳng lẽ là ta chọc giận làm cho nàng không vui?
 不知道，但是我敢肯定，一定不是因为师兄你……	Không biết, nhưng mà ta dám khẳng định, không phải là vì sư huynh ngươi...
-角色的大部分信息(属性、情绪、健康等)都可以在角色面板查看到。\n情绪是角色最重要的模块，它反应了角色的喜怒哀乐，表达了角色的需求。\n[color=#9e6404]关心角色的情绪，并试图满足角色的需求，是维持门派良好运转的核心手段。[/color]	Phần lớn thông tin nhân vật (Thuộc tính, Cảm xúc, Sức khỏe) đều có thể xem xét tại bảng nhân vật. \n Cảm xúc là khung quan trọng nhất của nhân vật, nó thể hiện nhân vật hỉ nộ ái nhạc, biểu đạt nhân vật nhu cầu. \n[color=#9e6404] Quan tâm cảm xúc nhân vật, và thỏa mãn nhu cầu nhân vật, là phương pháp chủ yếu để điều hành môn phái thật tốt. [/color]
+角色的大部分信息(属性、情绪、健康等)都可以在角色面板查看到。\n情绪是角色最重要的模块，它反应了角色的喜怒哀乐，表达了角色的需求。\n[color=#9e6404]关心角色的情绪，并试图满足角色的需求，是维持门派良好运转的核心手段。[/color]	Phần lớn thông tin nhân vật (Thuộc tính, Cảm xúc, Sức khỏe) đều có thể xem xét tại bảng nhân vật.\nCảm xúc là khung quan trọng nhất của nhân vật, nó thể hiện nhân vật hỉ nộ ái nhạc, biểu đạt nhân vật nhu cầu.\n[color=#9e6404]Quan tâm cảm xúc nhân vật, và thỏa mãn nhu cầu nhân vật, là phương pháp chủ yếu để điều hành môn phái thật tốt. [/color]
 查看情绪面板	Xem xét bảng cảm xúc
 嘿，别瞎琢磨啦！女人的心思呀，只有我们女人知道，你要是想……	Ha ha, đừng đoán mò! Tâm tư của nữ nhân nha, chỉ có nữ nhân chúng ta rõ, nếu ngươi muốn...
 什么？	Cái gì?
@@ -1294,20 +1294,20 @@ Key	Value
 利用WASD或者鼠标中键移动摄像头。	Sử dụng WASD Hoặc con lăn chuột để di chuyển góc nhìn.
 打坐	Đả tọa
 等待	Chờ đợi
-我滞留结丹境界已久，奈何今日强敌入侵，我需要冒险突破以力挽狂澜。\n本门修行的《长生轮回经》需要在[color=#ff0000]水属性[/color]环境中才能突破成功,现在需要你帮忙建造寒晶鼎一座，以改变此处的五行风水。	Ta đã dừng lại ở cảnh giới kết đan đã lâu, tại sao hôm nay cường địch lại xâm lấn, ta cần mạo hiểm đột phá để ngăn cơn sóng dữ. \n Bản môn tu hành < trường sinh Luân Hồi Kinh > cần tại [color=#ff0000] Thủy thuộc tính [/color] Hoàn cảnh bên trong mới có thể đột phá thành công, Hiện tại ngươi cần hỗ trợ kiến tạo một tòa hàn tinh đỉnh, cải biến ngũ hành phong thủy nơi đây.
+我滞留结丹境界已久，奈何今日强敌入侵，我需要冒险突破以力挽狂澜。\n本门修行的《长生轮回经》需要在[color=#ff0000]水属性[/color]环境中才能突破成功,现在需要你帮忙建造寒晶鼎一座，以改变此处的五行风水。	Ta đã dừng lại ở cảnh giới kết đan đã lâu, tại sao hôm nay cường địch lại xâm lấn, ta cần mạo hiểm đột phá để ngăn cơn sóng dữ.\nBản môn tu hành < trường sinh Luân Hồi Kinh > cần tại [color=#ff0000]Thủy thuộc tính [/color]Hoàn cảnh bên trong mới có thể đột phá thành công, Hiện tại ngươi cần hỗ trợ kiến tạo một tòa hàn tinh đỉnh, cải biến ngũ hành phong thủy nơi đây.
 尊掌门法旨！可是弟子尚为外门弟子，修为不足以忍受寒晶矿附近的酷寒。	Tuân mệnh chưởng môn pháp chỉ! Thế nhưng đệ tử còn là ngoại môn đệ tử, tu vi không đủ để chịu đựng Hàn tinh khoáng phụ cận hàn khí.
-赐你[color=#ff0000]太阳符[/color],此物可让你无视寒冷。速去速回。	Ban thưởng ngươi [color=#ff0000] Thái Dương Phù [/color], Vật này để ngươi không bị hàn khí xâm nhập. Đi nhanh rồi trở về.
+赐你[color=#ff0000]太阳符[/color],此物可让你无视寒冷。速去速回。	Ban thưởng ngươi [color=#ff0000]Thái Dương Phù [/color], Vật này để ngươi không bị hàn khí xâm nhập. Đi nhanh rồi trở về.
 弟子领命！	Đệ tử lĩnh mệnh!
-在游戏中，玩家不能直接控制角色，大部分交互指令都是通过命令指定的方式下达。\n点击对应功能按钮后选择交互对象，即可完成交互指令的下达。	Ở trong trò chơi, người chơi không thể trực tiếp khống chế nhân vật, đại bộ phận mệnh lệnh đều là thông qua hình thức chỉ định. \n Nhấn chức năng tương ứng sau đó chỉ định đối tượng, liền có thể hoàn thành mệnh lệnh.
+在游戏中，玩家不能直接控制角色，大部分交互指令都是通过命令指定的方式下达。\n点击对应功能按钮后选择交互对象，即可完成交互指令的下达。	Ở trong trò chơi, người chơi không thể trực tiếp khống chế nhân vật, đại bộ phận mệnh lệnh đều là thông qua hình thức chỉ định.\nNhấn chức năng tương ứng sau đó chỉ định đối tượng, liền có thể hoàn thành mệnh lệnh.
 选中需要装备符咒的角色。	Lựa chọn nhân vật cần trang bị phù chú.
-点击[装备道具]按钮。	Nhấn vào [ Trang bị đạo cụ ] nút bấm.
-点击[太阳符]完成装备命令。	Nhấn vào [ Thái Dương Phù ] để hoàn thành trang bị.
+点击[装备道具]按钮。	Nhấn vào [Trang bị đạo cụ]nút bấm.
+点击[太阳符]完成装备命令。	Nhấn vào [Thái Dương Phù]để hoàn thành trang bị.
 很好，接下来你需要将后山的寒晶矿开采出来并熔炼成寒晶锭。熔炉就在矿山的旁边。	Rất tốt, tiếp xuống ngươi cần đem phía sau núi Hàn tinh mỏ Khai thác ra cũng Dung luyện thành Hàn tinh đĩnh. Lò luyện ngay tại bên cạnh quặng mỏ.
-游戏中的资源采集，也通过命令下达的方式来完成。\n游戏中针对不同的资源拥有不同的命令。\n例如[开采]对应[矿石]，[砍伐]对应[树木]。	Thu thập tài nguyên trong trò chơi, cũng thông qua mệnh lệnh được đưa ra để hoàn thành. \n Trong trò chơi dựa vào loại tài nguyên mà mệnh lệnh khác nhau. \n Ví dụ [ Khai thác ] Đối ứng [ Khoáng thạch ], [ Chặt cây ] Đối ứng [ Cây cối ].
+游戏中的资源采集，也通过命令下达的方式来完成。\n游戏中针对不同的资源拥有不同的命令。\n例如[开采]对应[矿石]，[砍伐]对应[树木]。	Thu thập tài nguyên trong trò chơi, cũng thông qua mệnh lệnh được đưa ra để hoàn thành.\nTrong trò chơi dựa vào loại tài nguyên mà mệnh lệnh khác nhau.\nVí dụ [Khai thác]Đối ứng [Khoáng thạch], [Chặt cây]Đối ứng [Cây cối].
 发布开采命令	Đưa ra lệnh khai thác
-命令被发布后,角色会根据[color=#ff0000]工作面板[/color]中的配置，自动承接对应的任务，并完成工作。	Mệnh lệnh tuyên bố xong, Nhân vật sẽ dựa theo [color=#ff0000] Bảng phân công việc [/color] Bên trong sắp xếp, tự động tiếp nhận tương ứng công việc, để hoàn thành công việc.
+命令被发布后,角色会根据[color=#ff0000]工作面板[/color]中的配置，自动承接对应的任务，并完成工作。	Mệnh lệnh tuyên bố xong, Nhân vật sẽ dựa theo [color=#ff0000]Bảng phân công việc [/color]Bên trong sắp xếp, tự động tiếp nhận tương ứng công việc, để hoàn thành công việc.
 等待角色完成开采	Đợi nhân vật khai thác thành công
-[color=#ff0000]游戏速度[/color]是一项重要功能，你可以通过屏幕左上方的按钮，或者快捷键来调整游戏速度。\n[color=#9e6404]可以通过SPACE暂停，暂停状态下也可以正常发布命令[/color]	[color=#ff0000] Tốc độ trò chơi [/color] Là một chức năng quan trọng, người chơi có thể sử dụng ở phía trên màn hình bên trái, hoặc là phím tắt để điều chỉnh. \n[color=#9e6404] Có thể dùng SPACE Tạm dừng, trạng thái tạm dừng vẫn có thể đưa ra mệnh lệnh như bình thường [/color]
+[color=#ff0000]游戏速度[/color]是一项重要功能，你可以通过屏幕左上方的按钮，或者快捷键来调整游戏速度。\n[color=#9e6404]可以通过SPACE暂停，暂停状态下也可以正常发布命令[/color]	[color=#ff0000]Tốc độ trò chơi [/color]Là một chức năng quan trọng, người chơi có thể sử dụng ở phía trên màn hình bên trái, hoặc là phím tắt để điều chỉnh.\n[color=#9e6404]Có thể dùng SPACE Tạm dừng, trạng thái tạm dừng vẫn có thể đưa ra mệnh lệnh như bình thường [/color]
 加快游戏速度。	Tăng tốc độ trò chơi.
 等待角色完成开采。	Đợi nhân vật khai thác thành công.
 寒晶矿你已经拿到了，速去熔炉将其制成寒晶锭，身为外门弟子你应该知道该怎么做。	Đã lấy được Hàn tinh khoáng, nhanh đi lò luyện đem nó chế thành Hàn tinh đĩnh, thân là ngoại môn đệ tử ngươi hẳn phải biết làm thế nào.
@@ -1317,14 +1317,14 @@ Key	Value
 添加寒晶锭到队列中。	Thêm Hàn tinh đĩnh vào hàng ngũ.
 等待生产完成。	Đợi sản xuất hoàn tất.
 很好，现在建造一个寒晶鼎来改变我闭关处的五行属性。	Rất tốt, hiện tại Xây dựng Nhất Cái Hàn tinh Đỉnh đến cải biến ta bế quan chỗ Ngũ Hành Thuộc tính.
-建筑是发展门派的核心内容。使用主材料的不同，建筑也会拥有不同的属性，并以此来影响周围的环境。\n例如：寒晶锭建造的建筑，会使周围的水属性增多。	Công trình là nội dung quan trọng để phát triển môn phái. Sử dụng nguyên liệu khác biệt, kiến trúc có thể có được thuộc tính khác biệt, cũng ảnh hưởng đến hoàn cảnh xung quanh. \n Ví dụ: Sử dụng hàn tinh đĩnh xây dựng công trình, sẽ làm thuộc tính thủy xung quanh tăng lên.
-五行是游戏世界的重要元素，五行生克影响游戏的方方面面。如[color=#ff0000]境界突破[/color]，[color=#ff0000]建筑风水[/color]，[color=#ff0000]法宝炼制[/color]等等。	Ngũ hành là nguyên tố quan trọng của trò chơi, tương sinh tương khắc của ngũ hành ảnh hưởng các mặt của trò chơi. Như [color=#ff0000] Cảnh giới đột phá [/color], [color=#ff0000] Phong thủy công trình [/color], [color=#ff0000] luyện chế pháp bảo [/color] vân vân.
-以建筑风水为例：\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。	Lấy phong thủy của công trình làm ví dụ: \n[color=#ff0000] Hỏa thuộc tính [/color] Của kiến trúc nằm tại [color=#ff0000] Thủy thuộc tính [/color] Hoàn cảnh, liền sẽ bởi vì [color=#ff0000] Thủy khắc hỏa [/color] Nguyên nhân mà phong thủy không tốt. \n[color=#ff0000] Hỏa thuộc tính [/color] Của kiến trúc nằm tại [color=#ff0000] Mộc thuộc tính [/color] Hoàn cảnh, bởi vì [color=#ff0000] Mộc sinh hỏa [/color] Nguyên nhân, phong thủy liền sẽ rất tốt.
-再以境界突破为例：\n[color=#ff0000]木属性[/color]的功法在[color=#ff0000]金属性[/color]的环境中突破时，因[color=#ff0000]金克木[/color]的原因而倍加艰难。\n如果在[color=#ff0000]水属性[/color]的环境中突破，则会因[color=#ff0000]水生木[/color]之故，而提高突破成功率。	Lại lấy cảnh giới đột phá ví dụ: \n[color=#ff0000] Mộc thuộc tính [/color] Công pháp tại [color=#ff0000] Kim thuộc tính [/color] Hoàn cảnh đột phá, bởi vì [color=#ff0000] Kim khắc mộc [/color] Nguyên nhân mà khó gấp bội. \n Nếu như tại [color=#ff0000] Thủy thuộc tính [/color] Hoàn cảnh bên trong đột phá, thì sẽ vì [color=#ff0000] Thủy sinh mộc [/color] Nguyên nhân, mà đề cao xác suất đột phá thành công.
+建筑是发展门派的核心内容。使用主材料的不同，建筑也会拥有不同的属性，并以此来影响周围的环境。\n例如：寒晶锭建造的建筑，会使周围的水属性增多。	Công trình là nội dung quan trọng để phát triển môn phái. Sử dụng nguyên liệu khác biệt, kiến trúc có thể có được thuộc tính khác biệt, cũng ảnh hưởng đến hoàn cảnh xung quanh.\nVí dụ: Sử dụng hàn tinh đĩnh xây dựng công trình, sẽ làm thuộc tính thủy xung quanh tăng lên.
+五行是游戏世界的重要元素，五行生克影响游戏的方方面面。如[color=#ff0000]境界突破[/color]，[color=#ff0000]建筑风水[/color]，[color=#ff0000]法宝炼制[/color]等等。	Ngũ hành là nguyên tố quan trọng của trò chơi, tương sinh tương khắc của ngũ hành ảnh hưởng các mặt của trò chơi. Như [color=#ff0000]Cảnh giới đột phá [/color], [color=#ff0000]Phong thủy công trình [/color], [color=#ff0000]luyện chế pháp bảo [/color]vân vân.
+以建筑风水为例：\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。	Lấy phong thủy của công trình làm ví dụ:\n[color=#ff0000]Hỏa thuộc tính [/color]Của kiến trúc nằm tại [color=#ff0000]Thủy thuộc tính [/color]Hoàn cảnh, liền sẽ bởi vì [color=#ff0000]Thủy khắc hỏa [/color]Nguyên nhân mà phong thủy không tốt.\n[color=#ff0000]Hỏa thuộc tính [/color]Của kiến trúc nằm tại [color=#ff0000]Mộc thuộc tính [/color]Hoàn cảnh, bởi vì [color=#ff0000]Mộc sinh hỏa [/color]Nguyên nhân, phong thủy liền sẽ rất tốt.
+再以境界突破为例：\n[color=#ff0000]木属性[/color]的功法在[color=#ff0000]金属性[/color]的环境中突破时，因[color=#ff0000]金克木[/color]的原因而倍加艰难。\n如果在[color=#ff0000]水属性[/color]的环境中突破，则会因[color=#ff0000]水生木[/color]之故，而提高突破成功率。	Lại lấy cảnh giới đột phá ví dụ:\n[color=#ff0000]Mộc thuộc tính [/color]Công pháp tại [color=#ff0000]Kim thuộc tính [/color]Hoàn cảnh đột phá, bởi vì [color=#ff0000]Kim khắc mộc [/color]Nguyên nhân mà khó gấp bội.\nNếu như tại [color=#ff0000]Thủy thuộc tính [/color]Hoàn cảnh bên trong đột phá, thì sẽ vì [color=#ff0000]Thủy sinh mộc [/color]Nguyên nhân, mà đề cao xác suất đột phá thành công.
 在掌门附近，发布一个寒晶鼎的建造命令。	Tại chưởng môn phụ cận, ra lệnh chế tạo một cái hàn tinh đỉnh.
 是！弟子马上开始进行寒晶鼎的建造。	Rõ! Đệ tử lập tức tiến hành chế tạo hàn tinh đỉnh.
-工作计划是外门的核心策略模块，规定了外门弟子的工作优先级和重心。\n工作优先级越往右越低，可以进行高优先级工作时不会进行低优先级工作。\n[color=#9e6404][特别优先]可以将一个工作优先级提高到所有工作之上[/color]。	Kế hoạch công việc là khung sách lược chủ yếu của ngoại môn, quy định công việc ưu tiên và quan trọng cho ngoại môn đệ tử. \n Từ trái qua phải công việc ưu tiên càng thấp, có thể tiến hành Cao Cấp độ ưu tiên Công việc Thì sẽ không tiến Hành Thấp Cấp độ ưu tiên Công việc. \n[color=#9e6404][ Đặc biệt ưu tiên ] Có thể đem một cái công việc đề cao ưu tiên nhất trong tất cả công việc [/color].
-在工作计划面板中，为角色勾选[筑工]。	Bên trong bảng kế hoạch làm việc, tuyển chọn cho nhân vật [ Trúc công ].
+工作计划是外门的核心策略模块，规定了外门弟子的工作优先级和重心。\n工作优先级越往右越低，可以进行高优先级工作时不会进行低优先级工作。\n[color=#9e6404][特别优先]可以将一个工作优先级提高到所有工作之上[/color]。	Kế hoạch công việc là khung sách lược chủ yếu của ngoại môn, quy định công việc ưu tiên và quan trọng cho ngoại môn đệ tử.\nTừ trái qua phải công việc ưu tiên càng thấp, có thể tiến hành Cao Cấp độ ưu tiên Công việc Thì sẽ không tiến Hành Thấp Cấp độ ưu tiên Công việc.\n[color=#9e6404][Đặc biệt ưu tiên]Có thể đem một cái công việc đề cao ưu tiên nhất trong tất cả công việc [/color].
+在工作计划面板中，为角色勾选[筑工]。	Bên trong bảng kế hoạch làm việc, tuyển chọn cho nhân vật [Trúc công].
 等待建造完成。	Đợi xây dựng xong.
 做的很好，天时地利皆备，我要开始突破了。你速去激活护山大阵以拖延时间。	Làm rất tốt, thiên thời địa lợi đều có, ta muốn bắt đầu đột phá. Ngươi nhanh đi kích hoạt hộ sơn đại trận để kéo dài thời gian.
 弟子遵命！	Đệ tử tuân mệnh!
@@ -1332,7 +1332,7 @@ Key	Value
 接招，看我太虚神剑！！	Tiếp chiêu, xem ta thái hư thần kiếm! !
 本座已成上品金丹，我太一门今日便以妖人之血，立威天下！诸弟子听令，速速跟随本座追杀敌人，除恶务尽！	Bản tọa đã thành thượng phẩm Kim Đan, ta Thái Nhất Môn nay lợi dụng máu của yêu nhân, lập uy thiên hạ! Chúng đệ tử nghe lệnh, nhanh chóng đi theo bản tọa truy sát địch nhân, diệt cỏ tận gốc!
 众门人	Chúng môn nhân
-恭喜您完成《了不起的修仙模拟器》新手教学！\n时长问题无法为您展示游戏大部分内容，这个世界留待您自己去探索了。\n游戏中您可以随时通过右下角的帮助按钮(F11)打开帮助功能，祝您游戏愉快！	Chúc mừng ngài đã hoàn thành < Tu Tiên Chi Lộ > Hướng dẫn tân thủ! \n Vì thời lượng nên không cách nào biểu thị cho ngài hết tất cả nội dung trò chơi, thế giới này tạm gác lại. \n Trong trò chơi bất cứ lúc nào bạn cũng có thể ấn nút trợ giúp ở góc phải dưới (F11) Mở chức năng trợ giúp  , chúc ngài chơi game vui vẻ!
+恭喜您完成《了不起的修仙模拟器》新手教学！\n时长问题无法为您展示游戏大部分内容，这个世界留待您自己去探索了。\n游戏中您可以随时通过右下角的帮助按钮(F11)打开帮助功能，祝您游戏愉快！	Chúc mừng ngài đã hoàn thành < Tu Tiên Chi Lộ > Hướng dẫn tân thủ!\nVì thời lượng nên không cách nào biểu thị cho ngài hết tất cả nội dung trò chơi, thế giới này tạm gác lại.\nTrong trò chơi bất cứ lúc nào bạn cũng có thể ấn nút trợ giúp ở góc phải dưới (F11) Mở chức năng trợ giúp  , chúc ngài chơi game vui vẻ!
 积累木料	Tích lũy mộc liệu
 建造材料加工点，并在材料加工点完成50份木料的制作	Xây dựng điểm gia công, cũng hoàn thành gia công 50 phần mộc liệu ở điểm gia công
 有家可归	Có nhà để về
@@ -1342,7 +1342,7 @@ Key	Value
 获得水源	Thu được nguồn nước
 建造水井，以获得干净的水源。	Xây giếng nước, và nhận được nguồn nước sạch.
 粮食储备	Dự trữ lương thực
-积累50份耐储存的食物（烤肉/面饼/果脯）	Tích lũy 50 phần thức ăn dự trữ (Thịt quay / Bánh mì / Mứt quả)
+积累50份耐储存的食物（烤肉/面饼/果脯）	Tích lũy 50 phần thức ăn dự trữ (Thịt quay/Bánh mì/Mứt quả)
 修仙之始	Bắt đầu tu tiên
 将一名弟子完成筑基，并晋升内门	Khi có một đệ tử hoàn thành trúc cơ, tấn chức vào nội môn
 建立门派	Thành lập môn phái
@@ -1368,17 +1368,17 @@ Key	Value
 结丹修士	Tu sĩ kết đan
 将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Khi một tu hành giả đột phá đến cảnh giới Kết Đan (Lựa chọn nhân vật, thông qua màn hình bên dưới chính là giao diện nhân vật, chuyển đến chế độ luyện công, có thể chuyên tâm tu luyện, đề cao cảnh giới. )
  坐了下来	 ngồi xuống
-☯[size=10]此物{0}，有镇压风水之效。其性属{1}，{2}于{3}{4}{5}方能生效。[/size]\n	☯[size=10] Vật này {0}, có công hiệu trấn áp phong thủy . Thuộc tính của nó  {1}, {2} Vu {3}{4}{5} mới có thể có hiệu lực . [/size]\n
-须处{0}{1}之境地，	Cần chỗ  {0}{1} hoàn cảnh ,
+☯[size=10]此物{0}，有镇压风水之效。其性属{1}，{2}于{3}{4}{5}方能生效。[/size]\n	☯[size=10]Vật này{0}, có công hiệu trấn áp phong thủy. Thuộc tính của nó{1},{2}Vu{3}{4}{5}mới có thể có hiệu lực. [/size]\n
+须处{0}{1}之境地，	Cần chỗ{0}{1}hoàn cảnh ,
 且	Mà còn
-☯[size=10]因其性特异，故另有所需：[/size]\n	☯[size=10] Vì tính đặc biệt của nó, có yêu cầu khác: [/size]\n
-☯[size=10]此物通灵，可泽被房间内角色：[/size]\n	☯[size=10] Vật này thông linh , có thể đặt trong phòng nhân vật : [/size]\n
-孵化进度：{0:N0}%	Tiến độ ấp trứng : {0:N0}%
-蕴养中，剩余:{0}天	Đang nuôi dưỡng , còn:{0} ngày
+☯[size=10]因其性特异，故另有所需：[/size]\n	☯[size=10]Vì tính đặc biệt của nó, có yêu cầu khác: [/size]\n
+☯[size=10]此物通灵，可泽被房间内角色：[/size]\n	☯[size=10]Vật này thông linh , có thể đặt trong phòng nhân vật : [/size]\n
+孵化进度：{0:N0}%	Tiến độ ấp trứng :{0:N0}%
+蕴养中，剩余:{0}天	Đang nuôi dưỡng , còn:{0}ngày
 众生万物	Vạn vật chúng sinh
 点击次数:{0}	Số lần ấn vào:{0}
 停！	Ngừng!
-点我复制第{0}个	Chọn ta phục chế Đệ  {0} Cái
+点我复制第{0}个	Chọn ta phục chế Đệ{0}Cái
 已存在对应控件:{0}，不需要复制	Đã có phím tắt tương tự:{0}, Không cần sao chép
 点我！	Chọn ta!
 上层界面可以控制子节点中的控件	Ấn vào nút kiểm soát trên giao diện có thể kiểm soát tiểu mục
@@ -1434,11 +1434,11 @@ Key	Value
 放置	Đặt
 将物品的一个单位放置到置物台上。	Đặt một đơn vị vật phẩm lên bàn trang trí.
 熔炼	Dung luyện
-内门弟子将会尝试将这个物品熔炼为灵石。\n每500灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Đệ tử nội môn sẽ thử đem vật phẩm dung luyện làm linh thạch. \n mỗi 500 linh khí có thể dung luyện ra một cái Linh thạch. Nếu như là pháp bảo, pháp bảo phẩm giai càng cao, dung luyện ra càng nhiều Linh thạch.
+内门弟子将会尝试将这个物品熔炼为灵石。\n每500灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Đệ tử nội môn sẽ thử đem vật phẩm dung luyện làm linh thạch.\nmỗi 500 linh khí có thể dung luyện ra một cái Linh thạch. Nếu như là pháp bảo, pháp bảo phẩm giai càng cao, dung luyện ra càng nhiều Linh thạch.
 装备给与	Trang bị cho
 将这个装备给与一个角色，角色会自动前来装备。	Đem trang bị này cho một nhân vật, nhân vật sẽ tự động đến trang bị.
-{0}已经学过这本秘籍了	{0} Đã học rồi
-{0}没有对应的装备槽位了	{0} Không có ô trang bị thích hợp
+{0}已经学过这本秘籍了	{0}Đã học rồi
+{0}没有对应的装备槽位了	{0}Không có ô trang bị thích hợp
 食用给与	Lấy cho
 将这个物品给与一个角色，角色会自动前来食用。	Đem vật phẩm này cho một nhân vật, nhân vật sẽ tự động đến lấy ăn.
 归阵	Quy trận
@@ -1465,26 +1465,26 @@ Key	Value
 生长程度	Mức sinh trưởng
 设置种植植物的生长程度	Thiết lập mức sinh trưởng của thực vật
 选择生长程度	Chọn mức sinh trưởng
-生长度:{0:P0} 成熟度:{1:P0}	Độ sinh trưởng:{0:P0} Độ trưởng thành:{1:P0}
+生长度:{0:P0}成熟度:{1:P0}	Độ sinh trưởng:{0:P0}Độ trưởng thành:{1:P0}
 归属分堂	Phân đường thuộc sở hữu
-{0}已经拥有一块区域了，要替换吗？	{0} Đã có một khu vực rồi, muốn thay đổi?
+{0}已经拥有一块区域了，要替换吗？	{0}Đã có một khu vực rồi, muốn thay đổi?
 请选择归属	Xin lựa chọn sở hữu
-{0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\n Đường chủ: {1}\n\n chuyên tâm: {2}\n{3}
+{0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\nĐường chủ:{1}\n\nchuyên tâm:{2}\n{3}
 指定动物	Chỉ định động vật
 指定动物活动区域	Chỉ định khu vực hoạt động của động vật
 食用	Ăn
-选择并食用一个道具。\n角色会自动食用食物	Lựa chọn lấy ăn một đạo cụ. \n Nhân vật sẽ tự động ăn đồ ăn
+选择并食用一个道具。\n角色会自动食用食物	Lựa chọn lấy ăn một đạo cụ.\nNhân vật sẽ tự động ăn đồ ăn
 选择一个道具,其他角色会将其喂给此角色。	Lựa chọn một đạo cụ, nhân vật khác sẽ đem đút cho nhân vật này.
 装备道具	Trang bị đạo cụ
 装备或者替换一个道具	Trang bị hoặc thay đạo cụ
 画符	Vẽ bùa
 绘制一张灵符。	Vẽ được một lá bùa.
-将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Luyện chế một vật phẩm bình thường thành pháp bảo chiến đấu, cần [color=#FF0000] Đài luyện bảo [/color].
-炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Luyện chế một lò đan dược, cần [color=#FF0000] Luyện đan lô [/color].
-\n需要炼丹等级:	\n Cần cấp độ luyện đan:
-\n需要灵气:	\n Cần linh khí:
+将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Luyện chế một vật phẩm bình thường thành pháp bảo chiến đấu, cần [color=#FF0000]Đài luyện bảo [/color].
+炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Luyện chế một lò đan dược, cần [color=#FF0000]Luyện đan lô [/color].
+\n需要炼丹等级:	\nCần cấp độ luyện đan:
+\n需要灵气:	\nCần linh khí:
 选择要炼制的丹药	Lựa chọn đan dược muốn luyện chế
-传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Truyền thụ bí tịch cấp thấp phù hợp với cảnh giới của đệ tử , Giảm tiêu hao lĩnh hội  25%. Nếu là đệ tử của bản thân , sẽ giảm thêm ngoài mức  25%. \n Sau khi chọn nhiều bí tịch truyền thụ, Truyền thụ Giả Hội từng cái Chờ đợi Đệ tử Chỉ số lĩnh hội đầy đủ Thì lại tiến hành Truyền thụ.
+传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Truyền thụ bí tịch cấp thấp phù hợp với cảnh giới của đệ tử , Giảm tiêu hao lĩnh hội  25%. Nếu là đệ tử của bản thân , sẽ giảm thêm ngoài mức  25%.\nSau khi chọn nhiều bí tịch truyền thụ, Truyền thụ Giả Hội từng cái Chờ đợi Đệ tử Chỉ số lĩnh hội đầy đủ Thì lại tiến hành Truyền thụ.
 狩猎	Săn bắt
 狩猎这个动物并进行屠宰	Săn bắt động vật này rồi tiến hành giết mổ
 屠宰这个动物获得产物。	Giết mổ động vật thu được sản phẩm.
@@ -1496,7 +1496,7 @@ Key	Value
 叫醒	Đánh thức
 尝试叫醒这个人	Thử đánh thức người này
 留下这个角色	Giữ lại nhân vật này
-门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	Đệ tử môn phái đã đến giới hạn:{0}. \n Bạn có thể khuếch trương quy mô môn phái hoặc đuổi đệ tử khác đi.
+门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	Đệ tử môn phái đã đến giới hạn:{0}.\nBạn có thể khuếch trương quy mô môn phái hoặc đuổi đệ tử khác đi.
 帮助	Giúp đỡ
 为他提供帮助	Trợ giúp cho hắn
 请教	Thỉnh giáo
@@ -1517,11 +1517,11 @@ Key	Value
 跟随一个友方角色	Đi theo một nhân vật phe mình
 取消跟随	Hủy bỏ đi theo
 取消跟随当前目标	Hủy bỏ đi theo mục tiêu trước mặt
-[color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color] Đã mở khóa \n
+[color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color]Đã mở khóa\n
 房间最小面积为4，最大面积为400	Diện tích gian phòng tối thiểu là 4, tối đa là 400
 选择建造地点	Lựa chọn điểm kiến tạo
-(按[keycode]RotBuilding[/keycode]旋转)	(Ấn [keycode]RotBuilding[/keycode] Xoay )
-[color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000] Đã đạt được số lượng tối đa:{0}[/color]
+(按[keycode]RotBuilding[/keycode]旋转)	(Ấn [keycode]RotBuilding[/keycode]Xoay )
+[color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000]Đã đạt được số lượng tối đa:{0}[/color]
 <font color=#FF0000>地点不适合</font>	<font color=#FF0000> Địa điểm không thích hợp </font>
 风水:	Phong thủy:
 选择一个目标	Lựa chọn một mục tiêu
@@ -1564,21 +1564,21 @@ Key	Value
 这将会打断当前工作，确认立即进行突破吗？	Việc này sẽ cắt ngang công việc trước mắt, Xác nhận lập tức tiến hành đột phá sao?
 瓶颈突破	Bình cảnh đột phá
 旧的傀儡将会被替换掉，确定要继续吗？	Con rối cũ sẽ bị thay thế, xác định muốn tiếp tục?
-确定要对{0}施展吗？这将会导致死亡。	Xác định mục tiêu {0} Thi triển sao? Việc này sẽ dẫn đến cái chết.
+确定要对{0}施展吗？这将会导致死亡。	Xác định mục tiêu{0}Thi triển sao? Việc này sẽ dẫn đến cái chết.
 凝珀之术	Ngưng Phách chi Thuật
-确定要夺舍{0}吗？{1}	Xác định đoạt xá {0} sao? {1}
+确定要夺舍{0}吗？{1}	Xác định đoạt xá{0}sao?{1}
 \n(注意：妖修尚未开放，夺舍后果自负)	\n(chú ý: Yêu tu chưa mở, đoạt xá tự gánh hậu quả)
 攻击目标为非敌方单位，确定要发起攻击吗？	Mục tiêu công kích không phải đơn vị quân địch, xác định muốn bắt đầu công kích?
 修炼速度停滞，无法入定。	Tốc độ tu luyện ngưng trệ , vô pháp nhập định.
 寿命不足，无法入定。	Không đủ tuổi thọ , vô pháp nhập định.
 选择入定时长	Lựa chọn thời gian nhập định
-时长:{2}\n消耗寿元:{0:N0}/{1:N0}   消耗精元：{5}{3:N0}{6}/{4:N0}	Thời gian dài:{2}\n Tiêu hao thọ nguyên:{0:N0}/{1:N0}  Tiêu hao tinh nguyên: {5}{3:N0}{6}/{4:N0}
+时长:{2}\n消耗寿元:{0:N0}/{1:N0}消耗精元：{5}{3:N0}{6}/{4:N0}	Thời gian dài:{2}\nTiêu hao thọ nguyên:{0:N0}/{1:N0}Tiêu hao tinh nguyên:{5}{3:N0}{6}/{4:N0}
 没有可以传授的秘籍或者参悟	Không thể truyền thụ bí tịch hoặc lĩnh hội
-参悟经验：{0:F0}/{1:F0}\n	Kinh nghiệm lĩnh hội: {0:F0}/{1:F0}\n
-\n提高道行：{0}	\n Đề cao đạo hạnh: {0}
-参悟经验：{0:F0}/{1:F0}	Kinh nghiệm lĩnh hội: {0:F0}/{1:F0}
-\n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000] Không đủ cảnh giới ({0}/{1})[/color]
-\n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000] Chỉ có thể tự mình lĩnh ngộ [/color]
+参悟经验：{0:F0}/{1:F0}\n	Kinh nghiệm lĩnh hội:{0:F0}/{1:F0}\n
+\n提高道行：{0}	\nĐề cao đạo hạnh:{0}
+参悟经验：{0:F0}/{1:F0}	Kinh nghiệm lĩnh hội:{0:F0}/{1:F0}
+\n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000]Không đủ cảnh giới ({0}/{1})[/color]
+\n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000]Chỉ có thể tự mình lĩnh ngộ [/color]
 你选择了传授多个秘籍，传功者会逐个等待弟子参悟值足够时再进行传授。	Bạn đã lựa chọn nhiều bí tịch truyền thụ, truyền công Giả Hội từng cái Chờ đợi Đệ tử Chỉ số lĩnh hội đầy đủ Thì lại tiến hành Truyền thụ.
 请选择秘籍	Xin lựa chọn bí tịch
 不适合或者已被占用	Không phù hợp hoặc đã bị sử dụng
@@ -1593,11 +1593,11 @@ Key	Value
 该物品正在被使用	Vật phẩm này đang bị sử dụng
 该物品已经不能开光了	Vật phẩm này đã không thể khai quang
 该物品不能被灵淬了	Vật phẩm không thể bị linh tôi
-找不到物品[灵珀]	Không tìm được vật phẩm [ Linh phách ]
-灵淬成功率：{0}	Xác suất linh tôi thành công: {0}
+找不到物品[灵珀]	Không tìm được vật phẩm [Linh phách]
+灵淬成功率：{0}	Xác suất linh tôi thành công:{0}
 该物品已经不能再幽淬了	Vật phẩm không thể lại u thối
-找不到物品[幽珀]	Không tìm được vật phẩm [ U phách ]
-幽淬成功率：{0}	Xác suất u thối thành công: {0}
+找不到物品[幽珀]	Không tìm được vật phẩm [U phách]
+幽淬成功率：{0}	Xác suất u thối thành công:{0}
 该物品没有灵气	Vật phẩm này không có linh khí
 该物品不是玄牝珠	Vật phẩm này không phải Huyền Tẫn Châu
 该物品不能作为赋灵对象	Vật phẩm này không thể làm mục tiêu phú linh
@@ -1626,46 +1626,46 @@ Key	Value
 该物品不能用于炼制	Vật phẩm này không thể dùng để luyện chế
 没有空闲的个数	Không có số lượng nhàn rỗi
 灵气不足:{1}({2:N0}) 炼制成功率:{0}	Linh khí không đủ:{1}({2:N0}) Xác suất luyện chế thành công:{0}
-成功率:{0} 灵气:{1} 心境:{2}	Xác suất thành công:{0} Linh khí:{1} Tâm cảnh:{2}
+成功率:{0}灵气:{1}心境:{2}	Xác suất thành công:{0}Linh khí:{1}Tâm cảnh:{2}
 该物品不能用于绘制符咒	Vật phẩm này không thể dùng để vẽ phù
 所需灵气不足:{0}({1:N0})	Không đủ linh khí cần thiết:{0}({1:N0})
 不能用来炼丹	Không thể dùng để luyện đan
 该建筑正忙	Công trìnhnày  đang bận
 不能用来埋葬	Không thể dùng để mai táng
 已经被使用	Đã bị sử dụng
-飞升：{0:F0}人	Phi Thăng: {0:F0} Nhân
-历练：{0:F0}次	Lịch luyện: {0:F0} Lần
-炼丹：{0:F0}次	Luyện đan: {0:F0} Lần
-炼宝：{0:F0}次	Luyện bảo: {0:F0} Lần
-画符：{0:F0}次	Vẽ bùa: {0:F0} Lần
-击杀生物：{0:F0}个	Đánh chết sinh vật: {0:F0} Cái
-击杀修行者：{0:F0}个	Đánh chết tu hành giả: {0:F0} Cái
-制作食物：{0:F0}种	Chế tạo đồ ăn: {0:F0} loại
-稀有艺术品：{0:F0}个	Tác phẩm nghệ thuật hiếm có: {0:F0} Cái
-说服成功：{0:F0}次	Thuyết phục thành công: {0:F0} Lần
-习得秘籍：{0:F0}本	Học được bí tịch: {0:F0} Bản
-弟子死亡：{0:F0}个	Đệ tử đã chết: {0:F0} Cái
-内门弟子死亡：{0:F0}个	Đệ tử nội môn tử vong: {0:F0} Cái
-夺舍：{0:F0}次	Đoạt xá: {0:F0} Lần
-入定：{0:F0}秒	Nhập Định: {0:F0} giây
-搜魂大法：{0:F0}次	Sưu Hồn Đại Pháp: {0:F0} Lần
-夺取寿命：{0:F0}秒	Cướp đoạt thọ mệnh: {0:F0} giây
-炼魂：{0:F0}次	Luyện Hồn: {0:F0} Lần
-摄神御鬼：{0:F0}次	Nhiếp Thần Ngự Quỷ: {0:F0} Lần
-炼化尸体：{0:F0}	Luyện hóa thi thể: {0:F0}
-献祭：{0:F0}次	Hiến Tế: {0:F0} Lần
-魂体寄生：{0:F0}次	Ký sinh hồn thể: {0:F0} Lần
-获取镇派法宝：{0:F0}个	Thu được pháp bảo trấn phái: {0:F0} Cái
-\n进度：{0:F0}/{1:F0}	\n tiến độ: {0:F0}/{1:F0}
+飞升：{0:F0}人	Phi Thăng:{0:F0}Nhân
+历练：{0:F0}次	Lịch luyện:{0:F0}Lần
+炼丹：{0:F0}次	Luyện đan:{0:F0}Lần
+炼宝：{0:F0}次	Luyện bảo:{0:F0}Lần
+画符：{0:F0}次	Vẽ bùa:{0:F0}Lần
+击杀生物：{0:F0}个	Đánh chết sinh vật:{0:F0}Cái
+击杀修行者：{0:F0}个	Đánh chết tu hành giả:{0:F0}Cái
+制作食物：{0:F0}种	Chế tạo đồ ăn:{0:F0}loại
+稀有艺术品：{0:F0}个	Tác phẩm nghệ thuật hiếm có:{0:F0}Cái
+说服成功：{0:F0}次	Thuyết phục thành công:{0:F0}Lần
+习得秘籍：{0:F0}本	Học được bí tịch:{0:F0}Bản
+弟子死亡：{0:F0}个	Đệ tử đã chết:{0:F0}Cái
+内门弟子死亡：{0:F0}个	Đệ tử nội môn tử vong:{0:F0}Cái
+夺舍：{0:F0}次	Đoạt xá:{0:F0}Lần
+入定：{0:F0}秒	Nhập Định:{0:F0}giây
+搜魂大法：{0:F0}次	Sưu Hồn Đại Pháp:{0:F0}Lần
+夺取寿命：{0:F0}秒	Cướp đoạt thọ mệnh:{0:F0}giây
+炼魂：{0:F0}次	Luyện Hồn:{0:F0}Lần
+摄神御鬼：{0:F0}次	Nhiếp Thần Ngự Quỷ:{0:F0}Lần
+炼化尸体：{0:F0}	Luyện hóa thi thể:{0:F0}
+献祭：{0:F0}次	Hiến Tế:{0:F0}Lần
+魂体寄生：{0:F0}次	Ký sinh hồn thể:{0:F0}Lần
+获取镇派法宝：{0:F0}个	Thu được pháp bảo trấn phái:{0:F0}Cái
+\n进度：{0:F0}/{1:F0}	\ntiến độ:{0:F0}/{1:F0}
 成就 ({0}/{1})	Thành tựu ({0}/{1})
 灵气:{0:N0}/{1:N0}	Linh khí:{0:N0}/{1:N0}
-尸体({0:N0}秒)	Thi thể ({0:N0} giây)
-弥留({0:N0}秒)	Hấp hối ({0:N0} giây)
+尸体({0:N0}秒)	Thi thể ({0:N0}giây)
+弥留({0:N0}秒)	Hấp hối ({0:N0}giây)
 昏迷	Hôn mê
 濒死	Sắp chết
 (发呆)	(đờ người)
-{2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\n chỉ số linh khí: {0:N0}/{1:N0}\n Pháp bảo lúc không có việc, hoặc linh khí hao hết sẽ hấp thu linh khí từ trên người nhân vật.
-{2}{3}\n {0}\n剩余:{1}	{2}{3}\n {0}\n còn:{1}
+{2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\nchỉ số linh khí:{0:N0}/{1:N0}\nPháp bảo lúc không có việc, hoặc linh khí hao hết sẽ hấp thu linh khí từ trên người nhân vật.
+{2}{3}\n{0}\n剩余:{1}	{2}{3}\n{0}\ncòn:{1}
 选择地点	Lựa chọn địa điểm
 经验加成	Cộng thêm kinh nghiệm
 从之前突破失败中获得的成功率加成。失败次数越多，成功率越高。	Theo đột phá thất bại trước đó thu được thêm xác xuất thành công. Số lần thất bại càng nhiều, xác xuất thành công càng cao.
@@ -1678,26 +1678,26 @@ Key	Value
 天气加成	Thêm vào thời tiết
 突破时的天气对突破成功率的影响。	Thời tiết lúc đột phá ảnh hưởng đến xác suất đột phá thành công.
 阴阳加成	Âm dương tăng thêm
-突破时的阴阳偏向对突破成功率的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Thiên hướng âm dương lúc đột phá ảnh hưởng đến xác suất đột phá thành công. \n Trong thuộc tính ngũ hành, hỏa mộc thuần dương, được gia tăng ở ban ngày; kim thủy thuần âm, được gia tăng ở ban đêm; thổ thì cần âm dương cân đối.
+突破时的阴阳偏向对突破成功率的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Thiên hướng âm dương lúc đột phá ảnh hưởng đến xác suất đột phá thành công.\nTrong thuộc tính ngũ hành, hỏa mộc thuần dương, được gia tăng ở ban ngày; kim thủy thuần âm, được gia tăng ở ban đêm; thổ thì cần âm dương cân đối.
 时节加成	Vụ mùa gia tăng
-突破时时节对突破成功率的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	Mùa màng lúc đột phá ảnh hưởng đến xác suất đột phá thành công. \n Xuân hệ Mộc, Hè hệ Hỏa, Thu hệ Kim, Đông hệ Thủy, cuối mỗi quý là thời điểm tốt nhất của hệ Thổ.
+突破时时节对突破成功率的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	Mùa màng lúc đột phá ảnh hưởng đến xác suất đột phá thành công.\nXuân hệ Mộc, Hè hệ Hỏa, Thu hệ Kim, Đông hệ Thủy, cuối mỗi quý là thời điểm tốt nhất của hệ Thổ.
 五行匹配	Ngũ hành tương xứng
 突破地点的五行属性与功法的匹配度对突破成功率的影响。	Đột phá địa điểm Ngũ Hành Thuộc tính cùng Công Pháp thích hợp Độ đối với Đột phá thành công suất ảnh hưởng.
 灵气浓度	Nồng độ linh khí
 突破地点的灵气浓度对突破成功率的影响。	Nồng độ linh khí của địa điểm đột phá ảnh hưởng xác suất đột phá thành công.
-{0}品	{0} phẩm
+{0}品	{0}phẩm
 结丹时的心境对丹品的影响。	Tâm cảnh lúc kết đan ảnh hưởng đến đan phẩm.
 结丹时的天气对丹品的影响。	Khí trời lúc kết đan ảnh hưởng đến đan phẩm.
-结丹时的阴阳偏向对丹品的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Thiên hướng âm dương lúc kết đan ảnh hưởng đến đan phẩm. \n Trong thuộc tính ngũ hành, hỏa mộc thuần dương, được gia tăng ở ban ngày; kim thủy thuần âm, được gia tăng ở ban đêm; thổ thì cần âm dương cân đối.
-结丹时时节对丹品的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	Thời tiết lúc kết đan ảnh hưởng đến đan phẩm. \n Xuân hệ Mộc, Hè hệ Hỏa, Thu hệ Kim, Đông hệ Thủy, cuối mỗi quý là thời điểm tốt nhất của hệ Thổ.
+结丹时的阴阳偏向对丹品的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Thiên hướng âm dương lúc kết đan ảnh hưởng đến đan phẩm.\nTrong thuộc tính ngũ hành, hỏa mộc thuần dương, được gia tăng ở ban ngày; kim thủy thuần âm, được gia tăng ở ban đêm; thổ thì cần âm dương cân đối.
+结丹时时节对丹品的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	Thời tiết lúc kết đan ảnh hưởng đến đan phẩm.\nXuân hệ Mộc, Hè hệ Hỏa, Thu hệ Kim, Đông hệ Thủy, cuối mỗi quý là thời điểm tốt nhất của hệ Thổ.
 功法匹配	Công pháp thích hợp
 结丹时自身属性与功法的匹配度对丹品的影响。	Lúc kết đan thuộc tính của bản thân và độ thích hợp với công pháp ảnh hưởng đến đan phẩm.
 灵气加成	Gia tăng % linh khí
 结丹地点的灵气浓度对结丹效果的影响。	Nồng độ linh khí ở địa điểm kết đan ảnh hưởng đến kết quả kết đan.
 结丹地点的五行属性与功法的匹配度对结丹效果的影响。	Kết đan địa điểm Ngũ Hành Thuộc tính cùng Công Pháp thích hợp Độ đối với Kết đan hiệu quả ảnh hưởng.
-\n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[ Ấn chuột phải có thể chỉ định nguyên vật liệu ]</font>
+\n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Ấn chuột phải có thể chỉ định nguyên vật liệu]</font>
 生成全景图片需要一定的时间，请不要移动鼠标并耐心等待直到提示完成。	Tạo hình ảnh toàn cảnh cần thời gian nhất định, xin đừng di động con chuột hãy nhẫn nại đợi đến thông báo hoàn thành.
-截图已经保存到：\n{0}	Ảnh chụp đã được lưu đến: \n{0}
+截图已经保存到：\n{0}	Ảnh chụp đã được lưu đến:\n{0}
 正在拼接图片(1)……	Đang ghép hình ảnh (1)...
 正在拼接图片({0})……	Đang ghép hình ảnh ({0})...
 即将完成……	Sắp hoàn thành...
@@ -1718,7 +1718,7 @@ Key	Value
 似乎随便画画就可以得到神奇的结果。	Dường như vẽ đại phát cũng có thể đạt được kết quả thần kỳ.
 地图种子	Xây dựng bản đồ
 已将分享码复制到粘贴板中。	Mã chia sẻ đã được sao chép vào clipboard.
-分享码无效。	Mã chia sẻ vô hiệu .
+分享码无效。	Mã chia sẻ vô hiệu.
 分享码	Mã chia sẻ
 拍照模式	Chụp ảnh
 问题上报	Báo cáo vấn đề
@@ -1732,11 +1732,11 @@ Key	Value
 存档并返回	Lưu trữ và trở ra
 存档并退出	Lưu trữ và thoát game
 数据与成就	Số liệu và thành tựu
-{1}季\n剩余{0}天	Quý {1}\n còn {0} ngày
-游戏 暂停/继续\n[keycode]GamePauseOrPlay[/keycode]	Tạm dừng trò chơi  / Tiếp tục  \n[keycode]GamePauseOrPlay[/keycode]
-1倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	1 Tăng tốc \n[keycode]SpeedP[/keycode] Giảm tốc độ  \n[keycode]SpeedN[/keycode] Tăng tốc độ
-2倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	2 Tăng tốc \n[keycode]SpeedP[/keycode] Giảm tốc độ  \n[keycode]SpeedN[/keycode] Tăng tốc độ
-{0}倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	{0} Tăng tốc \n[keycode]SpeedP[/keycode] Giảm tốc độ  \n[keycode]SpeedN[/keycode] Tăng tốc độ
+{1}季\n剩余{0}天	Quý{1}\ncòn{0}ngày
+游戏 暂停/继续\n[keycode]GamePauseOrPlay[/keycode]	Tạm dừng trò chơi /Tiếp tục\n[keycode]GamePauseOrPlay[/keycode]
+1倍速\n[keycode]SpeedP[/keycode]降低速度\n[keycode]SpeedN[/keycode]提升速度	1 Tăng tốc\n[keycode]SpeedP[/keycode]Giảm tốc độ\n[keycode]SpeedN[/keycode]Tăng tốc độ
+2倍速\n[keycode]SpeedP[/keycode]降低速度\n[keycode]SpeedN[/keycode]提升速度	2 Tăng tốc\n[keycode]SpeedP[/keycode]Giảm tốc độ\n[keycode]SpeedN[/keycode]Tăng tốc độ
+{0}倍速\n[keycode]SpeedP[/keycode]降低速度\n[keycode]SpeedN[/keycode]提升速度	{0}Tăng tốc\n[keycode]SpeedP[/keycode]Giảm tốc độ\n[keycode]SpeedN[/keycode]Tăng tốc độ
 快捷键	Phím nhanh
 系统	Hệ thống
 天下	Thiên hạ
@@ -1757,21 +1757,21 @@ Key	Value
 随机生成一个法宝	Ngẫu nhiên tạo ra một cái pháp bảo
 随机符咒	Phù chú ngẫu nhiên
 随机生成一个符咒	Ngẫu nhiên tạo ra một tấm phù chú
-角色按钮显示\n左键点击:\n显示内门:{0}(切换快捷键:{1})\n显示外门:{2}(切换快捷键:{3})\n\n右键点击:\n简易模式:{4}(切换快捷键:{5})）	Nhân vật nút bấm Hiển thị \n Trái khóa Nhấn vào:\n Hiển thị nội môn:{0}(hoán đổi Phím nhanh:{1})\n Hiển thị ngoại môn:{2}(hoán đổi Phím nhanh:{3})\n\n Phải khóa Nhấn vào:\n giản dị hình thức:{4}(hoán đổi Phím nhanh:{5}))
+角色按钮显示\n左键点击:\n显示内门:{0}(切换快捷键:{1})\n显示外门:{2}(切换快捷键:{3})\n\n右键点击:\n简易模式:{4}(切换快捷键:{5})）	Nhân vật nút bấm Hiển thị\nTrái khóa Nhấn vào:\nHiển thị nội môn:{0}(hoán đổi Phím nhanh:{1})\nHiển thị ngoại môn:{2}(hoán đổi Phím nhanh:{3})\n\nPhải khóa Nhấn vào:\ngiản dị hình thức:{4}(hoán đổi Phím nhanh:{5}))
 开	Mở
 关	Quan
-{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\n sức khỏe:{1:P0}\n Độ đói:{2:N0}\n Khát nước:{3:N0}\n Tinh lực:{4:N0}\n Cảm xúc:{5:N0}
+{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\nsức khỏe:{1:P0}\nĐộ đói:{2:N0}\nKhát nước:{3:N0}\nTinh lực:{4:N0}\nCảm xúc:{5:N0}
 (访客)	(tiếp khách)
-{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\n Linh khí:{8:N0}\n sức khỏe:{1:P0}\n Tâm cảnh:{6:N0}\n Độ đói:{2:N0}\n Khát nước:{3:N0}\n Tinh lực:{4:N0}\n Cảm xúc:{5:N0}
-\n重要情绪:	\n Tâm trạng quan trọng:
-\n[color=#009600]风水建筑[/color]	\n[color=#009600] Công trình phong thủy [/color]
-\n[color=#B65704]产出:[/color]	\n[color=#B65704] Sản xuất:[/color]
+{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nLinh khí:{8:N0}\nsức khỏe:{1:P0}\nTâm cảnh:{6:N0}\nĐộ đói:{2:N0}\nKhát nước:{3:N0}\nTinh lực:{4:N0}\nCảm xúc:{5:N0}
+\n重要情绪:	\nTâm trạng quan trọng:
+\n[color=#009600]风水建筑[/color]	\n[color=#009600]Công trình phong thủy [/color]
+\n[color=#B65704]产出:[/color]	\n[color=#B65704]Sản xuất:[/color]
 生存目标	Mục tiêu sống còn
 门派建设	Xây dựng môn phái
 修行进阶	Tu hành tiến giai
-第{0}天 {1:D2}:{2:D2} {3}	Ngày {0} lúc {1:D2}:{2:D2} {3}
-{0}\n剩余：{1}	{0}\n còn: {1}
-门派风水：{0}	Phong thủy môn phái: {0}
+第{0}天{1:D2}:{2:D2}{3}	Ngày{0}lúc{1:D2}:{2:D2}{3}
+{0}\n剩余：{1}	{0}\ncòn:{1}
+门派风水：{0}	Phong thủy môn phái:{0}
 (室)	(phòng)
 (冰)	(băng)
 未探索	Chưa thăm dò
@@ -1781,35 +1781,35 @@ Key	Value
 请输入任意按键	Xin hãy chọn phím
 该热键已被系统锁定	Phím nhanh này đã bị hệ thống khóa lại
 该热键存在重复注册	Phím nhanh đã tồn tại
-非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Vô cùng thứ lỗi! Bởi vì đại lượng số liệu cải biến dẫn đến Thượng cổ chi thú  phiên bản không còn ủng hộ trước đó Lưu trữ. \n Nhưng chúng tôi vì phiên bản Thượng Cổ  (0. 95) cung cấp hỗ trợ chế độ bắt đầu mới  [color=#D06508][ Bắt đầu luân hồi  ][/color]. \n Bắt đầu luân hồi sẽ kế tục một số câu chuyện và dữ liệu ở lưu trữ cũ , bạn có thể thông qua đọc lưu trữ cũ để bắt đầu câu chuyện hoàn toàn mới !
-你改变了系统语言，重新启动后生效。\nyou changed the language and took effect after restarting.	Ngươi cải biến Hệ thống ngôn ngữ, một lần nữa khởi động hậu sinh hiệu. \nyou changed the language and took effect after restarting.
-我们强烈建议您先进行一次[color=#D06508]新人模式[/color]。\n新人模式下会使用我们预制好的地图和角色开局，这会让您更加容易上手并熟悉游戏。\n当然这并不是必须的,确定要使用经典模式吗？	Chúng tôi kiến nghị ngài nên chơi một lần [color=#D06508] Chế độ người mới [/color]. \n Chế độ người mới hạ sẽ sử dụng chúng ta dự chế Được rồi Địa đồ cùng Nhân vật bắt đầu, việc này sẽ làm ngài càng thêm lên tay và hiểu rõ trò chơi. \n Đương nhiên không hề bắt buộc, quyết định muốn dùng chế độ kinh điển sao?
-太虚幻境\n无事件发生\n无角色存在\n瞬间完成建造\n虚空造物\n随意调整时间\n随意召唤天气\n适合大部分玩家	Thái hư huyễn cảnh \n Không có chuyện gì xảy ra \n Không có nhân vật tồn tại \n Hoàn thành xây dựng ngay lập tức \n Tạo vật hư không \n Tùy ý điều chỉnh thời gian \n Tùy ý triệu hoán khí trời \n Thích hợp đại đa số người chơi
+非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Vô cùng thứ lỗi! Bởi vì đại lượng số liệu cải biến dẫn đến Thượng cổ chi thú  phiên bản không còn ủng hộ trước đó Lưu trữ.\nNhưng chúng tôi vì phiên bản Thượng Cổ  (0. 95) cung cấp hỗ trợ chế độ bắt đầu mới  [color=#D06508][Bắt đầu luân hồi ][/color].\nBắt đầu luân hồi sẽ kế tục một số câu chuyện và dữ liệu ở lưu trữ cũ , bạn có thể thông qua đọc lưu trữ cũ để bắt đầu câu chuyện hoàn toàn mới !
+你改变了系统语言，重新启动后生效。\nyou changed the language and took effect after restarting.	Ngươi cải biến Hệ thống ngôn ngữ, một lần nữa khởi động hậu sinh hiệu.\nyou changed the language and took effect after restarting.
+我们强烈建议您先进行一次[color=#D06508]新人模式[/color]。\n新人模式下会使用我们预制好的地图和角色开局，这会让您更加容易上手并熟悉游戏。\n当然这并不是必须的,确定要使用经典模式吗？	Chúng tôi kiến nghị ngài nên chơi một lần [color=#D06508]Chế độ người mới [/color].\nChế độ người mới hạ sẽ sử dụng chúng ta dự chế Được rồi Địa đồ cùng Nhân vật bắt đầu, việc này sẽ làm ngài càng thêm lên tay và hiểu rõ trò chơi.\nĐương nhiên không hề bắt buộc, quyết định muốn dùng chế độ kinh điển sao?
+太虚幻境\n无事件发生\n无角色存在\n瞬间完成建造\n虚空造物\n随意调整时间\n随意召唤天气\n适合大部分玩家	Thái hư huyễn cảnh\nKhông có chuyện gì xảy ra\nKhông có nhân vật tồn tại\nHoàn thành xây dựng ngay lập tức\nTạo vật hư không\nTùy ý điều chỉnh thời gian\nTùy ý triệu hoán khí trời\nThích hợp đại đa số người chơi
 经典模式需要先完成基础教学才能解锁	Chế độ kinh điển cần hoàn thành Hướng dẫn tân thủ mới mở khóa
 新人模式需要先完成基础教学才能解锁	Chế độ người mới phải hoàn thành Hướng dẫn cơ bản rồi mới mở khóa
 太虚幻境需要先完成基础教学才能解锁	Thái hư huyễn cảnh cần hoàn thành Hướng dẫn tân thủ mới có thể mở khóa
 波澜不惊不能开启真仙模式	Độ khó này không thể mở chế độ Chân Tiên
-我们强烈建议您在进行真仙模式前尽可能的熟悉游戏，真仙模式下您将会面临极大的挑战。\n确定要打开真仙模式吗？	Chúng ta mãnh liệt đề nghị ngài đang tiến hành Chế độ Chân Tiên trước tận khả năng quen thuộc Trò chơi, ở chế độ Chân Tiên ngài sẽ đối mặt với khiêu chiến cực lớn. \n quyết định mở chế độ Chân Tiên sao?
-抱歉，该存档已经不再被支持。但你可以以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n需要轮回吗？\n	Xin lỗi, lưu trữ này không còn được hỗ trợ . Nhưng bạn có thể lấy nó làm nền tảng luân hồi thế giới mới . \n(Cũng có thể chuyển nhánh trò chơi   0. 94 sử dụng phiên bản cũ tiếp tục chơi )\n Bạn muốn luân hồi không? \n
+我们强烈建议您在进行真仙模式前尽可能的熟悉游戏，真仙模式下您将会面临极大的挑战。\n确定要打开真仙模式吗？	Chúng ta mãnh liệt đề nghị ngài đang tiến hành Chế độ Chân Tiên trước tận khả năng quen thuộc Trò chơi, ở chế độ Chân Tiên ngài sẽ đối mặt với khiêu chiến cực lớn.\nquyết định mở chế độ Chân Tiên sao?
+抱歉，该存档已经不再被支持。但你可以以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n需要轮回吗？\n	Xin lỗi, lưu trữ này không còn được hỗ trợ. Nhưng bạn có thể lấy nó làm nền tảng luân hồi thế giới mới.\n(Cũng có thể chuyển nhánh trò chơi   0. 94 sử dụng phiên bản cũ tiếp tục chơi )\nBạn muốn luân hồi không?\n
 模组数据不匹配，我们无法保证存档数据的正确性，要继续吗？	Dữ liệu mod không thích hợp , chúng tôi không cách nào cam đoan sẽ lưu trữ dự liệu chính xác , muốn tiếp tục chứ ?
-错误的存档，建议删除。	Lỗi lưu trữ , đề nghị xóa bỏ .
+错误的存档，建议删除。	Lỗi lưu trữ , đề nghị xóa bỏ.
 您好，模组管理器已经上线，您曾经使用的模组需要手动在管理器进行激活，另外我们强烈建议直接从模组商店重新订阅相关模组。	Ngài tốt, Quản lý Mods khí đã thượng tuyến, ngài đã từng sử dụng mô tổ cần dùng tay đang quản lý khí tiến hành Kích hoạt, ngoài ra chúng ta mãnh liệt đề nghị trực tiếp Tòng mô tổ cửa hàng một lần nữa đặt mua tương quan mô tổ.
-读取旧世界数据,请耐心等待…	Đang đọc dữ liệu thế giới cũ , Xin hãy kiên nhẫn . . .
-旧世界读取失败。	Đọc thế giới cũ thất bại .
-旧世界尚未创建门派，无法轮回。	Thế giới cũ chưa lập môn phái , không thể luân hồi .
-太虚幻境无法轮回。	Thái hư huyễn cảnh không thể luân hồi .
-分析中,请耐心等待…	Đang phân tích , Xin hãy kiên nhẫn . . .
-你将以以下配置轮回:\n尺寸：{0}\n难度：{1}\n{2}现在进入吗？	Bạn sẽ luân hồi với thiết lập sau:\n Nhỏ: {0}\n Độ khó : {1}\n{2} Tiến vào ?
-真仙模式\n	Chế độ Chân Tiên \n
-波澜不惊\n事件发生的概率正常\n修炼难度大幅降低\n生存难度大幅降低\n心境调节更容易\n天劫威力较低\n快速模式仅推荐新手游玩	Không một gợn sóng \n Xác suất xảy ra sự kiện, bình thường \n Độ khó tu luyện giảm mạnh \n Độ khó sinh tồn giảm mạnh \n Dễ dàng điều chỉnh tâm cảnh \n Uy lực thiên kiếp giảm thấp \n Chế độ này đề cử tân thủ chơi
-芸芸众生\n事件发生的概率正常\n更快的修炼速度\n更少的参悟消耗\n偶尔会发生危险\n天劫威力正常\n适合大部分玩家	Đông đảo chúng sinh \n Xác suất xảy ra sự kiện, bình thường \n Tốc độ tu luyện nhanh hơn \n Tốn ít điểm lĩnh hội hơn \n Thỉnh thoảng sẽ xảy ra chuyện nguy hiểm \n Uy lực thiên kiếp bình thường \n Thích hợp đại đa số người chơi
-大起大落\n事件发生的概率很频繁\n正常的修炼速度\n正常的参悟消耗\n经常发生激烈的战斗或事件\n天劫威力很强\n适合渴望挑战的玩家	Thay đổi rất nhanh \n Xác suất xảy ra sự kiện, rất cao \n Tốc độ tu luyện, bình thường \n Tiêu hao lĩnh hội, bình thường \n Xảy ra chiến đấu kịch liệu hoặc sự kiện, bình thường \n Uy lực của thiên kiếp rất mạnh \n Thích hợp với người chơi muốn có sự thách thức
+读取旧世界数据,请耐心等待…	Đang đọc dữ liệu thế giới cũ , Xin hãy kiên nhẫn...
+旧世界读取失败。	Đọc thế giới cũ thất bại.
+旧世界尚未创建门派，无法轮回。	Thế giới cũ chưa lập môn phái , không thể luân hồi.
+太虚幻境无法轮回。	Thái hư huyễn cảnh không thể luân hồi.
+分析中,请耐心等待…	Đang phân tích , Xin hãy kiên nhẫn...
+你将以以下配置轮回:\n尺寸：{0}\n难度：{1}\n{2}现在进入吗？	Bạn sẽ luân hồi với thiết lập sau:\nNhỏ:{0}\nĐộ khó :{1}\n{2}Tiến vào ?
+真仙模式\n	Chế độ Chân Tiên\n
+波澜不惊\n事件发生的概率正常\n修炼难度大幅降低\n生存难度大幅降低\n心境调节更容易\n天劫威力较低\n快速模式仅推荐新手游玩	Không một gợn sóng\nXác suất xảy ra sự kiện, bình thường\nĐộ khó tu luyện giảm mạnh\nĐộ khó sinh tồn giảm mạnh\nDễ dàng điều chỉnh tâm cảnh\nUy lực thiên kiếp giảm thấp\nChế độ này đề cử tân thủ chơi
+芸芸众生\n事件发生的概率正常\n更快的修炼速度\n更少的参悟消耗\n偶尔会发生危险\n天劫威力正常\n适合大部分玩家	Đông đảo chúng sinh\nXác suất xảy ra sự kiện, bình thường\nTốc độ tu luyện nhanh hơn\nTốn ít điểm lĩnh hội hơn\nThỉnh thoảng sẽ xảy ra chuyện nguy hiểm\nUy lực thiên kiếp bình thường\nThích hợp đại đa số người chơi
+大起大落\n事件发生的概率很频繁\n正常的修炼速度\n正常的参悟消耗\n经常发生激烈的战斗或事件\n天劫威力很强\n适合渴望挑战的玩家	Thay đổi rất nhanh\nXác suất xảy ra sự kiện, rất cao\nTốc độ tu luyện, bình thường\nTiêu hao lĩnh hội, bình thường\nXảy ra chiến đấu kịch liệu hoặc sự kiện, bình thường\nUy lực của thiên kiếp rất mạnh\nThích hợp với người chơi muốn có sự thách thức
 {0}[color=#ff0000](错误)[/color]	{0}[color=#ff0000](Lỗi)[/color]
-{0}[color=#9e6404][真仙][/color]	{0}[color=#9e6404][ Chân Tiên ][/color]
-{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][ Ảo cảnh ][/color]
-\n该存档版本号过低，可以轮回开局。\n	\n Phiên bản của lưu trữ này quá thấp, Có thể bắt đầu luân hồi . \n
-确定要删除存档{0}吗？这将不可逆转。	Nhất định phải xóa bỏ Lưu trữ {0} sao? Việc này không thể hoàn tác.
-非常抱歉！存档读取失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试检查你的模组配置或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Đọc lưu trữ thất bại. \n Trong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra. \n Chúng tôi vô cùng xin lỗi! Xin hãy kiểm tra lại bản mod hoặc đọc lưu trữ cũ . \n Nếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
+{0}[color=#9e6404][真仙][/color]	{0}[color=#9e6404][Chân Tiên][/color]
+{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Ảo cảnh][/color]
+\n该存档版本号过低，可以轮回开局。\n	\nPhiên bản của lưu trữ này quá thấp, Có thể bắt đầu luân hồi.\n
+确定要删除存档{0}吗？这将不可逆转。	Nhất định phải xóa bỏ Lưu trữ{0}sao? Việc này không thể hoàn tác.
+非常抱歉！存档读取失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试检查你的模组配置或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:QA@GSQStudio.com。	Vô cùng thứ lỗi! Đọc lưu trữ thất bại.\nTrong lúc tức giận bạn có thể sẽ trách cứ nhà phát triển, bạn quả thật có lý do để làm vậy, chuyện này vốn không nên xảy ra.\nChúng tôi vô cùng xin lỗi! Xin hãy kiểm tra lại bản mod hoặc đọc lưu trữ cũ.\nNếu như cần giúp đỡ hoặc báo lỗi, Xin hãy gửi email đến:QA@GSQStudio. com.
 门派名	Tên môn phái
 选择后缀	Lựa chọn hậu tố
 创建门派	Sáng lập môn phái
@@ -1823,9 +1823,9 @@ Key	Value
 主要角色未选择经历,确定要直接进入游戏吗？	Nhân vật chủ chốt chưa lựa chọn kinh lịch, xác định muốn tiến vào trò chơi?
 初始人员偏少，可能会因为人手的不足带来生存的压力。	Vừa bắt đầu mà đệ tử quá ít, có khả năng vì không đủ nhân thủ mang đến áp lực sinh tồn.
 初始人员偏多，可能会因为物资不够而带来生存的压力。	Vừa bắt đầu mà đệ tử quá nhiều, có khả năng vì không đủ vật tư mang đến áp lực sinh tồn.
-\n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\n Bởi vì bạn chưa hoàn toàn quen thuộc trò chơi, đề nghị sử dụng từ hai đến bốn người khởi nghiệp. \n Muốn trực tiếp tiến vào?
-{0}{1}的转世	{0}{1} chuyển thế
-{0}与{1}感情基础\n{2}	{0} cùng {1} Cơ sở tình cảm \n{2}
+\n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\nBởi vì bạn chưa hoàn toàn quen thuộc trò chơi, đề nghị sử dụng từ hai đến bốn người khởi nghiệp.\nMuốn trực tiếp tiến vào?
+{0}{1}的转世	{0}{1}chuyển thế
+{0}与{1}感情基础\n{2}	{0}cùng{1}Cơ sở tình cảm\n{2}
 新人模式下不能改变角色，请直接开始游戏。	Trong chế độ tân thủ không thể thay đổi nhân vật, xin hãy trực tiếp bắt đầu trò chơi.
 选择称号	Lựa chọn danh hiệu
 无称号	Không có danh hiệu
@@ -1833,120 +1833,120 @@ Key	Value
 技能关联:{0}	Kỹ năng liên quan:{0}
 技能关联:无	Kỹ năng liên quan: Không
 请输入存档名	Xin nhập tên lưu trữ vào
-确定要覆盖存档{0}吗？	Nhất định phải bao trùm Lưu trữ {0} sao?
-[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f] Năng lực của chưởng quản: {3}[/color]\n Gia tăng mị lực: {0}\n Gia tăng xử thế: {1}\n Gia tăng cảnh giới: {2}\n
-[color=#bf642f]分堂掌管压力：{0}[/color]\n{1}	[color=#bf642f] Áp lực của chưởng quản phân đường: {0}[/color]\n{1}
-[color=#bf642f]掌管压力：{0}[/color]\n{1}	[color=#bf642f] Áp lực của chưởng quản: {0}[/color]\n{1}
+确定要覆盖存档{0}吗？	Nhất định phải bao trùm Lưu trữ{0}sao?
+[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Năng lực của chưởng quản:{3}[/color]\nGia tăng mị lực:{0}\nGia tăng xử thế:{1}\nGia tăng cảnh giới:{2}\n
+[color=#bf642f]分堂掌管压力：{0}[/color]\n{1}	[color=#bf642f]Áp lực của chưởng quản phân đường:{0}[/color]\n{1}
+[color=#bf642f]掌管压力：{0}[/color]\n{1}	[color=#bf642f]Áp lực của chưởng quản:{0}[/color]\n{1}
 选择掌门	Lựa chọn chưởng môn
 未激活	Chưa kích hoạt
-[color=#FF0000]未指定掌门[/color]\n	[color=#FF0000] Chưa chỉ định chưởng môn [/color]\n
-[color=#FF0000]未指定专精[/color]\n	[color=#FF0000] Chưa chỉ định chuyên tâm [/color]\n
-[color=#FF0000]未指定堂主[/color]\n	[color=#FF0000] Chưa chỉ định đường chủ [/color]\n
+[color=#FF0000]未指定掌门[/color]\n	[color=#FF0000]Chưa chỉ định chưởng môn [/color]\n
+[color=#FF0000]未指定专精[/color]\n	[color=#FF0000]Chưa chỉ định chuyên tâm [/color]\n
+[color=#FF0000]未指定堂主[/color]\n	[color=#FF0000]Chưa chỉ định đường chủ [/color]\n
 已激活	Đã kích hoạt
 设置堂主	Thiết lập đường chủ
 更换分堂专精	Thay đổi chuyên tâm của phân đuòng
 门派规模达到洞天才可以建立分堂。	Quy mô môn phái đạt đến động thiên mới có thể thành lập phân đường.
 分堂名	Tên phân đường
 输入分堂名称	Nhập tên cho phân đường
-确定要取消[{0}]吗？	Xác định muốn hủy bỏ [{0}] sao?
-[color=#bf642f]已归属：{0}[/color]	[color=#bf642f] Đã thuộc sở hữu: {0}[/color]
+确定要取消[{0}]吗？	Xác định muốn hủy bỏ [{0}]sao?
+[color=#bf642f]已归属：{0}[/color]	[color=#bf642f]Đã thuộc sở hữu:{0}[/color]
 选择分堂专精	Lựa chọn chuyên tâm cho phân đường
 请先为分堂选择专精。	Xin lựa chọn chuyên tâm cho phân đường trước.
-门派声望：{0:F0}\n声望来自于门派各个方面的行为。\n声望会影响来袭敌人的强度。\n声望会影响门派规模:\n山寨: 0\n门派: 500\n洞天: 2000	Danh vọng môn phái: {0:F0}\n Danh vọng đến từ các hành vi của môn phái. \n Danh vọng sẽ ảnh hưởng cường độ đột kích của kẻ địch. \n Danh vọng sẽ ảnh hưởng quy mô môn phái:\n Sơn trại: 0\n Môn phái: 500\n Động thiên: 2000
-正邪倾向:\n正 {0:F0}  邪 {1:F0}\n正邪倾向会影响事件的选择和发展方向	Khuynh hướng chính tà:\n chính {0:F0} tà {1:F0}\n Khuynh hướng chính tà sẽ ảnh hưởng sự lựa chọn trong sự kiện và phương hướng phát triển
-门派风水\n风水会影响整个门派方方面面	Phong thủy môn phái \n Phong thủy sẽ ảnh hưởng đến mọi mặt của môn phái
-规模：{0}	Quy mô: {0}
-门派规模会影响门派的人数上限。\n山寨: {0}个\n门派: {1}个\n洞天: {2}个	Quy mô môn phái sẽ ảnh hưởng nhân số giới hạn của môn phái. \n Sơn trại: {0} Cái \n Môn phái: {1} Cái \n Động thiên: {2} Cái
-掌门：{0}	Chưởng môn: {0}
+门派声望：{0:F0}\n声望来自于门派各个方面的行为。\n声望会影响来袭敌人的强度。\n声望会影响门派规模:\n山寨: 0\n门派: 500\n洞天: 2000	Danh vọng môn phái:{0:F0}\nDanh vọng đến từ các hành vi của môn phái.\nDanh vọng sẽ ảnh hưởng cường độ đột kích của kẻ địch.\nDanh vọng sẽ ảnh hưởng quy mô môn phái:\nSơn trại: 0\nMôn phái: 500\nĐộng thiên: 2000
+正邪倾向:\n正{0:F0}邪{1:F0}\n正邪倾向会影响事件的选择和发展方向	Khuynh hướng chính tà:\nchính{0:F0}tà{1:F0}\nKhuynh hướng chính tà sẽ ảnh hưởng sự lựa chọn trong sự kiện và phương hướng phát triển
+门派风水\n风水会影响整个门派方方面面	Phong thủy môn phái\nPhong thủy sẽ ảnh hưởng đến mọi mặt của môn phái
+规模：{0}	Quy mô:{0}
+门派规模会影响门派的人数上限。\n山寨:{0}个\n门派:{1}个\n洞天:{2}个	Quy mô môn phái sẽ ảnh hưởng nhân số giới hạn của môn phái.\nSơn trại:{0}Cái\nMôn phái:{1}Cái\nĐộng thiên:{2}Cái
+掌门：{0}	Chưởng môn:{0}
 门派掌门	Chưởng môn
-弟子数量：{0}/{1}	Số lượng đệ tử: {0}/{1}
-门派弟子总数\n人数上限受门派规模影响：\n山寨: {0}个\n门派: {1}个\n洞天: {2}个	Tổng số đệ tử trong môn phái \n Nhân số giới hạn chịu ảnh hưởng bởi quy mô môn phái: \n Sơn trại: {0} Cái \n Môn phái: {1} Cái \n Động thiên: {2} Cái
-外门弟子：{0}	Đệ tử ngoại môn: {0}
+弟子数量：{0}/{1}	Số lượng đệ tử:{0}/{1}
+门派弟子总数\n人数上限受门派规模影响：\n山寨:{0}个\n门派:{1}个\n洞天:{2}个	Tổng số đệ tử trong môn phái\nNhân số giới hạn chịu ảnh hưởng bởi quy mô môn phái:\nSơn trại:{0}Cái\nMôn phái:{1}Cái\nĐộng thiên:{2}Cái
+外门弟子：{0}	Đệ tử ngoại môn:{0}
 门派外门弟子总数	Tổng số đệ tử ngoại môn
-内门弟子：{0}	Đệ tử nội môn: {0}
+内门弟子：{0}	Đệ tử nội môn:{0}
 门派内门弟子总数	Tổng số đệ tử nội môn
-死亡弟子：{0}	Tử vong đệ tử: {0}
+死亡弟子：{0}	Tử vong đệ tử:{0}
 门派已死亡弟子个数	Số đệ tử đã chết
-击败普通人：{0}个	Đánh ngã người thường: {0} Cái
+击败普通人：{0}个	Đánh ngã người thường:{0}Cái
 在战斗中击败普通敌人的数量	Số lượng phàm nhân đã đánh bại
-击败修行者：{0}个	Đánh ngã tu hành giả: {0} Cái
+击败修行者：{0}个	Đánh ngã tu hành giả:{0}Cái
 在战斗中击败修行敌人的数量	Số lượng tu hành giả đã đánh bại
-提供帮助：{0}次	Cung cấp trợ giúp: {0} Lần
+提供帮助：{0}次	Cung cấp trợ giúp:{0}Lần
 给路人提供帮助的次数	Số lần giúp đỡ người qua đường
-历练次数：{0}次	Số lần lịch luyện: {0} Lần
+历练次数：{0}次	Số lần lịch luyện:{0}Lần
 派遣内门弟子历练的次数	Số lần lịch luyện của đệ tử nội môn
-发现地点：{0}个	Phát hiện địa điểm: {0} Cái
+发现地点：{0}个	Phát hiện địa điểm:{0}Cái
 在世界发现新地点的个数	Vừa phát hiện địa điểm mới trên ở thế giới
-发现秘籍：{0}本	Phát hiện bí tịch: {0} Bản
+发现秘籍：{0}本	Phát hiện bí tịch:{0}Bản
 发现并练习新秘籍的数量	Phát hiện số lượng bí tịch mới có thể luyện tập
-炼制法宝：{0}件	Luyện chế pháp bảo: {0} Kiện
+炼制法宝：{0}件	Luyện chế pháp bảo:{0}Kiện
 炼制成功的法宝数量	Số lượng pháp bảo luyện chế thành công
-炼制丹药：{0}颗	Luyện chế đan dược: {0} Khỏa
+炼制丹药：{0}颗	Luyện chế đan dược:{0}Khỏa
 炼制成功的丹药数量	Số lượng đan dược luyện chế thành công
-绘制符咒：{0}张	Vẽ phù chú: {0} Trương
+绘制符咒：{0}张	Vẽ phù chú:{0}Trương
 绘制符咒的张数	Số phù chú đã vẽ
-施展神通：{0}次	Thi triển thần thông: {0} Lần
+施展神通：{0}次	Thi triển thần thông:{0}Lần
 施展神通的次数	Số lần thi triển thần thông
-{0}\n已死亡\n享年{1:N0}岁	{0}\n Đã chết \n Hưởng thọ {1:N0} tuổi
-{0}\n{2}\n{1:N0}岁\n{3}	{0}\n{2}\n{1:N0} tuổi \n{3}
+{0}\n已死亡\n享年{1:N0}岁	{0}\nĐã chết\nHưởng thọ{1:N0}tuổi
+{0}\n{2}\n{1:N0}岁\n{3}	{0}\n{2}\n{1:N0}tuổi\n{3}
 (已飞升)	(Đã phi thăng)
-要将{0}驱逐出门派么？这将影响其他角色的情绪。	Muốn đem {0} Trục xuất ra Môn phái sao? Việc này sẽ ảnh hưởng đến tâm trạng của các nhân vật khác.
+要将{0}驱逐出门派么？这将影响其他角色的情绪。	Muốn đem{0}Trục xuất ra Môn phái sao? Việc này sẽ ảnh hưởng đến tâm trạng của các nhân vật khác.
 内门	Nội môn
 外门	Ngoại môn
-与{0}的好感度为:{1:N0}\n\n{2}	Cùng {0} độ hảo cảm :{1:N0}\n\n{2}
+与{0}的好感度为:{1:N0}\n\n{2}	Cùng{0}độ hảo cảm :{1:N0}\n\n{2}
 请选择	Xin lựa chọn
-匹配程度：{0:P0}	Độ thích hợp: {0:P0}
-瓶颈\n	Bình cảnh  \n
+匹配程度：{0:P0}	Độ thích hợp:{0:P0}
+瓶颈\n	Bình cảnh\n
 秘籍:\n[color=#483721]{0}[/color]\n	Bí tịch:\n[color=#483721]{0}[/color]\n
-所修功法：{0}\n{1}	Công pháp sở tu: {0}\n{1}
+所修功法：{0}\n{1}	Công pháp sở tu:{0}\n{1}
 任 意	Tùy ý
 关闭	Đóng
-{0}分钟	{0} phút
+{0}分钟	{0}phút
 持续	Duy trì
-{0}天	{0} ngày
+{0}天	{0}ngày
 确定要重置教学提示吗？	Xác định muốn thiết lập lại gợi ý hướng dẫn?
 教学提示已经重置！	Hướng dẫn chơi đã được đặt lại!
 多线程优化需要重启游戏才能生效。	Tối ưu hóa đa luồng yêu cầu khởi động lại để có hiệu lực.
 由于您修改了分辨率，请重新启动游戏。	Vì ngài vừa sửa độ phân giải, xin khởi động lại trò chơi.
 秘籍参悟({0})	Lĩnh hội bí tịch ({0})
-确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Xác định muốn tốn {0:F0} điểm lĩnh hội để lĩnh ngộ {1} sao? \n Việc này sẽ làm mất quyển bí tịch.
-提高道行: {0}\n	Đề cao đạo hạnh: {0}\n
+确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Xác định muốn tốn{0:F0}điểm lĩnh hội để lĩnh ngộ{1}sao?\nViệc này sẽ làm mất quyển bí tịch.
+提高道行:{0}\n	Đề cao đạo hạnh:{0}\n
 秘籍内容:\n	Nội dung bí tịch:\n
-[color=#ff0000]参悟值：{0:F0}/{1:F0}[color]\n{2}	[color=#ff0000] Chỉ số lĩnh hội: {0:F0}/{1:F0}[color]\n{2}
-参悟值：{0:F0}/{1:F0}\n{2}	Chỉ số lĩnh hội: {0:F0}/{1:F0}\n{2}
-[color=#ff0000]所需境界：{0}[color]\n{1}	[color=#ff0000] Cảnh giới cần: {0}[color]\n{1}
-所需境界：{0}\n{1}	Cảnh giới cần: {0}\n{1}
-[color=#ff0000]已达到道行上限[color]\n{0}	[color=#ff0000] Đã đạt được đạo hạnh tối đa [color]\n{0}
-\n[color=#9e6404]前置条件：[/color]	\n[color=#9e6404] trước đưa điều kiện: [/color]
-\n[color=#9e6404]不能共存：[/color]	\n[color=#9e6404] Không thể cùng tồn tại: [/color]
-[color=#0000FF]已参悟[/color]\n	[color=#0000FF] đã lĩnh hội [/color]\n
-[{2}]\n所需境界:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}	[{2}]\n Cảnh giới cần:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}
-[color=#ff0000]下一级参悟值：{0:F0}/{1:F0}[color]\n提高道行: {3}\n{2}	[color=#ff0000] Chỉ số lĩnh hội cấp tiếp theo: {0:F0}/{1:F0}[color]\n Đề cao đạo hạnh: {3}\n{2}
-下一级参悟值：{0:F0}/{1:F0}\n提高道行: {3}\n{2}	Chỉ số lĩnh hội cấp tiếp theo: {0:F0}/{1:F0}\n Đề cao đạo hạnh: {3}\n{2}
-参悟值：{0:F0}	Chỉ số lĩnh hội: {0:F0}
-[{2}]\n参悟值：{0:F0}/{1:F0}	[{2}]\n Chỉ số lĩnh hội: {0:F0}/{1:F0}
+[color=#ff0000]参悟值：{0:F0}/{1:F0}[color]\n{2}	[color=#ff0000]Chỉ số lĩnh hội:{0:F0}/{1:F0}[color]\n{2}
+参悟值：{0:F0}/{1:F0}\n{2}	Chỉ số lĩnh hội:{0:F0}/{1:F0}\n{2}
+[color=#ff0000]所需境界：{0}[color]\n{1}	[color=#ff0000]Cảnh giới cần:{0}[color]\n{1}
+所需境界：{0}\n{1}	Cảnh giới cần:{0}\n{1}
+[color=#ff0000]已达到道行上限[color]\n{0}	[color=#ff0000]Đã đạt được đạo hạnh tối đa [color]\n{0}
+\n[color=#9e6404]前置条件：[/color]	\n[color=#9e6404]trước đưa điều kiện: [/color]
+\n[color=#9e6404]不能共存：[/color]	\n[color=#9e6404]Không thể cùng tồn tại: [/color]
+[color=#0000FF]已参悟[/color]\n	[color=#0000FF]đã lĩnh hội [/color]\n
+[{2}]\n所需境界:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}	[{2}]\nCảnh giới cần:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}
+[color=#ff0000]下一级参悟值：{0:F0}/{1:F0}[color]\n提高道行:{3}\n{2}	[color=#ff0000]Chỉ số lĩnh hội cấp tiếp theo:{0:F0}/{1:F0}[color]\nĐề cao đạo hạnh:{3}\n{2}
+下一级参悟值：{0:F0}/{1:F0}\n提高道行:{3}\n{2}	Chỉ số lĩnh hội cấp tiếp theo:{0:F0}/{1:F0}\nĐề cao đạo hạnh:{3}\n{2}
+参悟值：{0:F0}	Chỉ số lĩnh hội:{0:F0}
+[{2}]\n参悟值：{0:F0}/{1:F0}	[{2}]\nChỉ số lĩnh hội:{0:F0}/{1:F0}
 [{0}][color=#0000FF](已参悟)[/color]	[{0}][color=#0000FF](đã lĩnh hội)[/color]
-\n提高道行: {0}	\n Đề cao đạo hạnh: {0}
-{0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404] Không thể cùng tồn tại: [/color]
+\n提高道行:{0}	\nĐề cao đạo hạnh:{0}
+{0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404]Không thể cùng tồn tại: [/color]
 \n[align=center][color=#9e6404]----已参悟----[/color][/align]	\n[align=center][color=#9e6404]---- đã lĩnh hội ----[/color][/align]
 \n[align=center][color=#9e6404]----未参悟----[/color][/align]	\n[align=center][color=#9e6404]---- Chưa lĩnh ngộ  ----[/color][/align]
-确定要消耗{0:F0}点参悟值提高{1}等级么？	Xác định muốn tốn {0:F0} Điểm lĩnh hội đề cao {1} đó cấp sao?
-成功将{0}提升到{1}级！	Thành công đem {0} tăng lên tới {1} Cấp!
-确定要消耗{0:F0}点参悟值参悟{1}么？	Xác định muốn tốn {0:F0} điểm lĩnh hội để lĩnh hội {1} sao?
-[{0:N0}阶	[{0:N0} giai
-{0:N0}阶]	{0:N0} giai ]
+确定要消耗{0:F0}点参悟值提高{1}等级么？	Xác định muốn tốn{0:F0}Điểm lĩnh hội đề cao{1}đó cấp sao?
+成功将{0}提升到{1}级！	Thành công đem{0}tăng lên tới{1}Cấp!
+确定要消耗{0:F0}点参悟值参悟{1}么？	Xác định muốn tốn{0:F0}điểm lĩnh hội để lĩnh hội{1}sao?
+[{0:N0}阶	[{0:N0}giai
+{0:N0}阶]	{0:N0}giai]
 杂项	Mục phụ
 材料	Nguyên liệu
 消耗	Tiêu hao
 知道了	Đã biết
 提示	Gợi ý
-{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}	{7}<font color=#D06508>[ Vật thể ]</font>\n Linh khí: {1:N0}({5}{6:N2}/s)\n Tụ linh: {4} {9}\n Mỹ quan: {0}\n Phẩm giai: {3}\n Phẩm chất: {2}{10}{8}
+{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4}{9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}	{7}<font color=#D06508>[Vật thể]</font>\nLinh khí:{1:N0}({5}{6:N2}/s)\nTụ linh:{4}{9}\nMỹ quan:{0}\nPhẩm giai:{3}\nPhẩm chất:{2}{10}{8}
 傀儡	Khôi lỗi
-<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[ Nguyên vật liệu ]</font>\n{0}\n
-<font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[ Khôi lỗi ]</font>\n
-主人：{0}\n	Chủ nhân: {0}\n
-耐久：{0:F0}/{1:F0}\n	Độ bền: {0:F0}/{1:F0}\n
-移动速度：{0:F1}米/秒\n	Tốc độ di chuyển: {0:F1} mét / giây \n
+<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Nguyên vật liệu]</font>\n{0}\n
+<font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Khôi lỗi]</font>\n
+主人：{0}\n	Chủ nhân:{0}\n
+耐久：{0:F0}/{1:F0}\n	Độ bền:{0:F0}/{1:F0}\n
+移动速度：{0:F1}米/秒\n	Tốc độ di chuyển:{0:F1}m/s\n
 (停止工作)	(đình chỉ công việc)
 (建造中)	(đang xây dựng)
 (等待建造)	(đang đợi xây dựng)
@@ -1956,13 +1956,13 @@ Key	Value
 (等待安装)	(đang đợi lắp đặt)
 (正常工作)	(công việc bình thường)
 (被摧毁)	(Bị phá hủy)
-<font color=#D06508>[建 筑]</font>	<font color=#D06508>[ Xây dựng ]</font>
+<font color=#D06508>[建 筑]</font>	<font color=#D06508>[Xây dựng]</font>
 [color=#00FF00](风水建筑)[/color]	[color=#00FF00](Công trình phong thủy)[/color]
-\n燃料剩余: {0:F0}秒	\n Nhiên liệu dư: {0:F0} giây
-\n水量: {0}	\n lượng nước: {0}
-\n香火值: {0:F2}	\n Chỉ số hương hỏa: {0:F2}
-\n拥有者: {0}	\n Có người: {0}
-\n所属工作: {0}	\n Công việc tương ứng: {0}
+\n燃料剩余:{0:F0}秒	\nNhiên liệu dư:{0:F0}giây
+\n水量:{0}	\nlượng nước:{0}
+\n香火值:{0:F2}	\nChỉ số hương hỏa:{0:F2}
+\n拥有者:{0}	\nCó người:{0}
+\n所属工作:{0}	\nCông việc tương ứng:{0}
 <font color=#00FF00>可选中</font>\n	<font color=#00FF00> Có thể chọn </font>\n
 <font color=#FF0000>不可选中</font>\n	<font color=#FF0000> Không thể chọn </font>\n
 (成长中)	(đang trưởng thành)
@@ -1972,111 +1972,111 @@ Key	Value
 (凋谢中)	(đang héo)
 (被烧毁)	(bị thiêu hủy)
 (生长停止)	(ngừng sinh trưởng)
-<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[ Thực vật ]</font>\n Hiệu suất sinh trưởng:{0:N1}%
-\n生长百分比:{0:N1}%	\n Tỉ lệ sinh trưởng:{0:N1}%
-\n成熟百分比:{0:N1}%	\n Tỉ lệ trưởng thành:{0:N1}%
+<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[Thực vật]</font>\nHiệu suất sinh trưởng:{0:N1}%
+\n生长百分比:{0:N1}%	\nTỉ lệ sinh trưởng:{0:N1}%
+\n成熟百分比:{0:N1}%	\nTỉ lệ trưởng thành:{0:N1}%
 矿石	Khoáng thạch
 物体	Vật thể
-\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[ Linh thực  ]</font>\n{9}: {10:N2}%\n Chiều hướng linh sát : {8}{0:N2}/ngày \n Gia tăng nuôi dưỡng : {1}\n Thêm vào thời tiết: {2}\n Gia tăng mùa màng : {3}\n Gia tăng ngũ hành : {4}\n Gia tăng giao cảm : {5}\n\n Trạng thái trước mắt : {6}\n {7}\n
+\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Linh thực ]</font>\n{9}:{10:N2}%\nChiều hướng linh sát :{8}{0:N2}/ngày\nGia tăng nuôi dưỡng :{1}\nThêm vào thời tiết:{2}\nGia tăng mùa màng :{3}\nGia tăng ngũ hành :{4}\nGia tăng giao cảm :{5}\n\nTrạng thái trước mắt :{6}\n{7}\n
 当前灵性	Linh tính trước mắt
 当前煞性	Sát tính trước mắt
-范围：{0}	Phạm vi : {0}
+范围：{0}	Phạm vi :{0}
 腐朽中({0})	Đang thối rữa ({0})
-{0}后开始腐朽	{0} sau bắt đầu mục nát
+{0}后开始腐朽	{0}sau bắt đầu mục nát
 <font color=#00FF00>可选中</font>	<font color=#00FF00> Có thể chọn </font>
 <font color=#FF0000>不可选中</font>	<font color=#FF0000> Không thể chọn </font>
-  <font color=#00FF00>[绑定：{0}]</font>\n\n	 <font color=#00FF00>[ trói buộc: {0}]</font>\n\n
-幽淬次数：{0}次\n	Số lần u tôi : {0} Lần \n
-灵淬次数：{0}次\n	Số lần linh tôi : {0} Lần \n
+  <font color=#00FF00>[绑定：{0}]</font>\n\n	 <font color=#00FF00>[trói buộc:{0}]</font>\n\n
+幽淬次数：{0}次\n	Số lần u tôi :{0}Lần\n
+灵淬次数：{0}次\n	Số lần linh tôi :{0}Lần\n
 <font color=#888888>(无风水)</font>	<font color=#888888>(Không có phong thủy )</font>
 <font color=#00FF00>(契合)</font>	<font color=#00FF00>(Phù hợp )</font>
 <font color=#FF0000>(不合)</font>	<font color=#FF0000>(Không hợp )</font>
 <font color=#888888>(房间外)</font>	<font color=#888888>(Ngoài gian phòng )</font>
-<font color=#D06508>[镇物{1}]{0}</font>\n	<font color=#D06508>[ Trấn vật  {1}]{0}</font>\n
+<font color=#D06508>[镇物{1}]{0}</font>\n	<font color=#D06508>[Trấn vật{1}]{0}</font>\n
 (通灵)	(Thông linh )
 (未鉴定)\n	(Chưa giám định )\n
-<font color=#D06508>[装备]</font>\n	<font color=#D06508>[ Trang bị ]</font>\n
-伤害强度：{0:N1}\n	Cường độ tổn thương: {0:N1}\n
-攻击速度：{0:N2}次/秒\n	Tốc độ tấn công: {0:N2} Lần / giây \n
-攻击距离：{0:N2}米\n	Cự ly tấn công: {0:N2} mét \n
-护盾转化加成：{0:N3}/点\n	Gia tăng chuyển hóa hộ thuẫn: {0:N3}/ điểm \n
-最适温度上限：{1}{0:N2}度\n	Nhiệt độ thích hợp cao nhất: {1}{0:N2} Độ \n
-最适温度下限：{1}{0:N2}度\n	Nhiệt độ thích hợp thấp nhất: {1}{0:N2} Độ \n
-<font color=#D06508>[食用]</font>\n	<font color=#D06508>[ Ăn ]</font>\n
+<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Trang bị]</font>\n
+伤害强度：{0:N1}\n	Cường độ tổn thương:{0:N1}\n
+攻击速度：{0:N2}次/秒\n	Tốc độ tấn công:{0:N2}Lần/s\n
+攻击距离：{0:N2}米\n	Cự ly tấn công:{0:N2}mét\n
+护盾转化加成：{0:N3}/点\n	Gia tăng chuyển hóa hộ thuẫn:{0:N3}/điểm\n
+最适温度上限：{1}{0:N2}度\n	Nhiệt độ thích hợp cao nhất:{1}{0:N2}Độ\n
+最适温度下限：{1}{0:N2}度\n	Nhiệt độ thích hợp thấp nhất:{1}{0:N2}Độ\n
+<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Ăn]</font>\n
 <font color=#FF0000>(生食)</font>\n	<font color=#FF0000>(Ăn sống)</font>\n
-精元：{0}\n	Tinh nguyên: {0}\n
-食物：{0}\n	Đồ ăn: {0}\n
-水份：{0}\n	Độ ẩm: {0}\n
-娱乐：{0}\n	Tiêu khiển: {0}\n
-<font color=#D06508>[药物]</font>\n	<font color=#D06508>[ Dược vật ]</font>\n
-治疗效率：{0:N2}\n	Hiệu suất trị liệu: {0:N2}\n
-持续时间：{0:N2}天\n	Thời gian duy trì: {0:N2} ngày \n
+精元：{0}\n	Tinh nguyên:{0}\n
+食物：{0}\n	Đồ ăn:{0}\n
+水份：{0}\n	Độ ẩm:{0}\n
+娱乐：{0}\n	Tiêu khiển:{0}\n
+<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Dược vật]</font>\n
+治疗效率：{0:N2}\n	Hiệu suất trị liệu:{0:N2}\n
+持续时间：{0:N2}天\n	Thời gian duy trì:{0:N2}ngày\n
 作用部位：	Bộ vị ảnh hưởng:
-<font color=#D06508>[秘籍]</font>\n	<font color=#D06508>[ Bí tịch ]</font>\n
-[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][ Sau khi trang bị có thể lĩnh hội ][/color]\n
+<font color=#D06508>[秘籍]</font>\n	<font color=#D06508>[Bí tịch]</font>\n
+[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Sau khi trang bị có thể lĩnh hội][/color]\n
 提高道行:{0}\n	Đề cao đạo hạnh:{0}\n
-需求境界：{0}({1})\n	Yêu cầu cảnh giới: {0}({1})\n
+需求境界：{0}({1})\n	Yêu cầu cảnh giới:{0}({1})\n
 <font color=#FF0000>(境界不够，无法修炼)</font>\n	<font color=#FF0000>(Không đủ cảnh giới, không cách nào tu luyện)</font>\n
-需求境界：{0}\n	Yêu cầu cảnh giới: {0}\n
-<font color=#D06508>[丹药]</font>\n	<font color=#D06508>[ Đan Dược ]</font>\n
-灵气：{0}\n	Linh khí: {0}\n
-筑基值：{0}\n	Chỉ số trúc cơ: {0}\n
-参悟经验：{0}\n	Kinh nghiệm lĩnh hội: {0}\n
-耐药性：{0:P2}\n	Tính kháng thuốc: {0:P2}\n
-<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[ Pháp bảo ]</font>\n
-天劫洗练：{0}次\n	Thiên kiếp tẩy luyện : {0} Lần \n
-五行：相生\n	Ngũ Hành: Tương sinh  \n
-五行：相同\n	Ngũ Hành: Tương đồng \n
-五行：相克\n	Ngũ Hành: Tương khắc  \n
-<font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[ Tinh phẩm ]</font>
-孵化进度：{0:N0}%\n	Tiến độ ấp trứng : {0:N0}%\n
+需求境界：{0}\n	Yêu cầu cảnh giới:{0}\n
+<font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Đan Dược]</font>\n
+灵气：{0}\n	Linh khí:{0}\n
+筑基值：{0}\n	Chỉ số trúc cơ:{0}\n
+参悟经验：{0}\n	Kinh nghiệm lĩnh hội:{0}\n
+耐药性：{0:P2}\n	Tính kháng thuốc:{0:P2}\n
+<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Pháp bảo]</font>\n
+天劫洗练：{0}次\n	Thiên kiếp tẩy luyện :{0}Lần\n
+五行：相生\n	Ngũ Hành: Tương sinh\n
+五行：相同\n	Ngũ Hành: Tương đồng\n
+五行：相克\n	Ngũ Hành: Tương khắc\n
+<font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Tinh phẩm]</font>
+孵化进度：{0:N0}%\n	Tiến độ ấp trứng :{0:N0}%\n
 制作者：	Người chế tạo:
 我们的位置	Vị trí của chúng ta
 我们不知道这个地方在哪，或许应该多转转？	Chúng ta không biết nơi này ở đâu, chắc là nên đi thăm thú nhiều một chút?
 建立门派后，派遣内门弟子前往历练	Sau khi thành lập môn phái, điều động đệ tử nội môn đi rèn luyên
-建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n驻扎后角色需要静修，静修时间与驻扎时间有关。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Sau khi thành lập môn phái, phái đệ tử nội môn đến đó đóng quân, đệ tử sẽ duy trì lịch luyện đến 28 ngày hoặc là bị thương. \n Sau khi đóng quân nhân vật cần tĩnh tu , thời gian tĩnh tu có liên quan đến thời gian đóng quân . \n(Mỗi 2 đến 4 ngày sẽ xuất hiện một sự kiện và còn có thể triệu hồi bất cứ lúc nào)
+建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n驻扎后角色需要静修，静修时间与驻扎时间有关。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Sau khi thành lập môn phái, phái đệ tử nội môn đến đó đóng quân, đệ tử sẽ duy trì lịch luyện đến 28 ngày hoặc là bị thương.\nSau khi đóng quân nhân vật cần tĩnh tu , thời gian tĩnh tu có liên quan đến thời gian đóng quân.\n(Mỗi 2 đến 4 ngày sẽ xuất hiện một sự kiện và còn có thể triệu hồi bất cứ lúc nào)
 门派存亡之际不宜外出。	Môn phái đang trong ranh giới sống chết không thích hợp để đi ra ngoài.
-{0}的的瓶颈即将松动，暂时不宜外出历练。	{0} Bình cảnh sắp nới lỏng, không thích hợp ra ngoài lịch luyện.
-{0}正在静修中，不能外出历练。	{0} đang tĩnh tu, không thể ra ngoài lịch luyện.
-此去路途遥远({2:F2}天)，确定要派遣{0}前往{1}吗？	Lộ trình quá xa ({2:F2} ngày), nhất định phải điều động {0} đi đến {1} sao?
-前往{0}	Đi đến {0}
-耗时：{0:N2}天\n	Thời gian tiêu tốn: {0:N2} ngày \n
-[color=#B65704]耗时较长[/color]\n	[color=#B65704] Tốn thời gian dài [/color]\n
+{0}的的瓶颈即将松动，暂时不宜外出历练。	{0}Bình cảnh sắp nới lỏng, không thích hợp ra ngoài lịch luyện.
+{0}正在静修中，不能外出历练。	{0}đang tĩnh tu, không thể ra ngoài lịch luyện.
+此去路途遥远({2:F2}天)，确定要派遣{0}前往{1}吗？	Lộ trình quá xa ({2:F2}ngày), nhất định phải điều động{0}đi đến{1}sao?
+前往{0}	Đi đến{0}
+耗时：{0:N2}天\n	Thời gian tiêu tốn:{0:N2}ngày\n
+[color=#B65704]耗时较长[/color]\n	[color=#B65704]Tốn thời gian dài [/color]\n
 驻扎中	Đang đóng quân
 返回中	Đang trở về
 循环十次	Tuần hoàn 10 lần
 循环五十次	Tuần hoàn 50 lần
 无限循环	Tuần hoàn vô hạn
 取消循环	Hủy bỏ tuần hoàn
-\n\n{0}指定	\n\n{0} chỉ định
+\n\n{0}指定	\n\n{0}chỉ định
 正在进行中，不能修改原材料。	Đang tiến hành, không thể sửa chữa nguyên vật liệu.
 同时激活的符咒最多只能有三个！	Đồng thời chỉ có thể kích hoạt tối đa ba cái phù chú !
 卸下这个装备吗？	Tháo trang bị này?
-痛感({0:P0})\n受伤会导致疼痛，当疼痛超过一定值会影响意识。	Đau đớn ({0:P0})\n Bị thương sẽ dẫn đến đau đớn, khi đau đớn vượt qua giá trị nhất định sẽ ảnh hưởng ý thức.
-意识({0:P0})\n大脑受伤会影响该值，意识影响工作效率，当意识过低会导致昏迷。	Ý thức ({0:P0})\n Não bộ bị thương sẽ ảnh hưởng chỉ số cơ bản, ý thức sẽ ảnh hưởng hiệu suất công việc, ý thức quá thấp sẽ gây ra hôn mê.
-经脉({0:P0})\n经脉受伤会影响该值，经脉影灵气最大值及修炼效率，经脉过低会导致无法修炼。	Kinh mạch ({0:P0})\n Kinh mạch bị thương sẽ ảnh hưởng đến chỉ số vốn có, kinh mạch ảnh hưởng linh khí cực đại cùng hiệu quả tu luyện, kinh mạch thấp quá mức sẽ dẫn đến không còn cách nào tu luyện.
-移动({0:P0})\n下肢受伤会影响该值，移动影响走路速度和一些体力工作的效率。	Di chuyển ({0:P0})\n Chân sau bị thương sẽ ảnh hưởng chỉ số vốn có, di động sẽ ảnh hưởng tốc độ di chuyển và một chút hiệu suất công việc thể lực.
-身手({0:P0})\n上肢受伤会影响该值，身手影响大部分工作的效率。	Thân thủ ({0:P0})\n Hai tay bị thương sẽ ảnh hưởng đến chỉ số vốn có, thân thủ ảnh hưởng đến phần lớn hiệu quả làm việc.
-感知({0:P0})\n眼睛与耳朵受伤会影响该值，感知影响视野范围和精细工作的效率。	Cảm giác ({0:P0})\n Tai và mắt bị thương sẽ ảnh hưởng những chỉ số cần thiết, ảnh hưởng sức nhận biết và phạm vi nhìn cùng hiệu suất của công việc cần sự tinh tế.
-死因：{0}	Nguyên nhân chết: {0}
-{0}\n类型：{1}\n致命部位：{2}\n\n影响：{3}	{0}\n loại hình: {1}\n Bộ vị trí mạng: {2}\n\n ảnh hưởng: {3}
+痛感({0:P0})\n受伤会导致疼痛，当疼痛超过一定值会影响意识。	Đau đớn ({0:P0})\nBị thương sẽ dẫn đến đau đớn, khi đau đớn vượt qua giá trị nhất định sẽ ảnh hưởng ý thức.
+意识({0:P0})\n大脑受伤会影响该值，意识影响工作效率，当意识过低会导致昏迷。	Ý thức ({0:P0})\nNão bộ bị thương sẽ ảnh hưởng chỉ số cơ bản, ý thức sẽ ảnh hưởng hiệu suất công việc, ý thức quá thấp sẽ gây ra hôn mê.
+经脉({0:P0})\n经脉受伤会影响该值，经脉影灵气最大值及修炼效率，经脉过低会导致无法修炼。	Kinh mạch ({0:P0})\nKinh mạch bị thương sẽ ảnh hưởng đến chỉ số vốn có, kinh mạch ảnh hưởng linh khí cực đại cùng hiệu quả tu luyện, kinh mạch thấp quá mức sẽ dẫn đến không còn cách nào tu luyện.
+移动({0:P0})\n下肢受伤会影响该值，移动影响走路速度和一些体力工作的效率。	Di chuyển ({0:P0})\nChân sau bị thương sẽ ảnh hưởng chỉ số vốn có, di động sẽ ảnh hưởng tốc độ di chuyển và một chút hiệu suất công việc thể lực.
+身手({0:P0})\n上肢受伤会影响该值，身手影响大部分工作的效率。	Thân thủ ({0:P0})\nHai tay bị thương sẽ ảnh hưởng đến chỉ số vốn có, thân thủ ảnh hưởng đến phần lớn hiệu quả làm việc.
+感知({0:P0})\n眼睛与耳朵受伤会影响该值，感知影响视野范围和精细工作的效率。	Cảm giác ({0:P0})\nTai và mắt bị thương sẽ ảnh hưởng những chỉ số cần thiết, ảnh hưởng sức nhận biết và phạm vi nhìn cùng hiệu suất của công việc cần sự tinh tế.
+死因：{0}	Nguyên nhân chết:{0}
+{0}\n类型：{1}\n致命部位：{2}\n\n影响：{3}	{0}\nloại hình:{1}\nBộ vị trí mạng:{2}\n\nảnh hưởng:{3}
 否	Phủ
 已失去	Đã mất
 来自:{0}	Đến từ:{0}
-[color=#909090]不变[/color]	[color=#909090] không thay đổi [/color]
-[color=#FF0000]{0}后完全恶化[/color]	[color=#FF0000]{0} sau hoàn toàn chuyển biến xấu [/color]
-[color=#006B12]{0}后痊愈[/color]	[color=#006B12]{0} sau sẽ khỏi hẳn [/color]
-\n已治疗(剩余:{0:N0}s)	\n Đã trị liệu (còn:{0:N0}s)
-\n[color=#D06508]治疗效果不好或自身恢复力太差，请提高治疗效果或自身恢复力。[/color]	\n[color=#D06508] Hiệu quả trị liệu không tốt hoặc sức khôi phục của bản thân quá kém, xin hãy đề cao hiệu quả trị liệu hoặc tự khôi phục sức khỏe. [/color]
-\n丹药生效中	\n Đan dược đang có hiệu lực
-\n[color=#D06508]药效不足或自身恢复力太差，请使用更好的药物或提高自身恢复力。[/color]	\n[color=#D06508] Dược liệu không đủ hoặc sức khôi phục của bản thân quá kém, xin hãy sử dụng dược vật tốt hơn hoặc đề cao sức khôi phục của bản thân. [/color]
-影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Ảnh hưởng:{0:N2}%\n trình độ:{1:N2}%({4:N4})\n Đau đớn:{2}\n xu thế:{3}\n{5}
-\n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404] Tổn thương nội môn chỉ có thể dựa vào đan dược thích hợp mới có thể trị liệu [/color]
-{0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}%({1:N2}%)\n Đau đớn:{2}
-{0:N0}℃至{1:N0}℃	{0:N0}℃ đến {1:N0}℃
-{0:N1}米	{0:N1} mét
-{0}是{1}	{0} Phải {1}
-\n剩余: {0}	\n còn: {0}
+[color=#909090]不变[/color]	[color=#909090]không thay đổi [/color]
+[color=#FF0000]{0}后完全恶化[/color]	[color=#FF0000]{0}sau hoàn toàn chuyển biến xấu [/color]
+[color=#006B12]{0}后痊愈[/color]	[color=#006B12]{0}sau sẽ khỏi hẳn [/color]
+\n已治疗(剩余:{0:N0}s)	\nĐã trị liệu (còn:{0:N0}s)
+\n[color=#D06508]治疗效果不好或自身恢复力太差，请提高治疗效果或自身恢复力。[/color]	\n[color=#D06508]Hiệu quả trị liệu không tốt hoặc sức khôi phục của bản thân quá kém, xin hãy đề cao hiệu quả trị liệu hoặc tự khôi phục sức khỏe. [/color]
+\n丹药生效中	\nĐan dược đang có hiệu lực
+\n[color=#D06508]药效不足或自身恢复力太差，请使用更好的药物或提高自身恢复力。[/color]	\n[color=#D06508]Dược liệu không đủ hoặc sức khôi phục của bản thân quá kém, xin hãy sử dụng dược vật tốt hơn hoặc đề cao sức khôi phục của bản thân. [/color]
+影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Ảnh hưởng:{0:N2}%\ntrình độ:{1:N2}%({4:N4})\nĐau đớn:{2}\nxu thế:{3}\n{5}
+\n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404]Tổn thương nội môn chỉ có thể dựa vào đan dược thích hợp mới có thể trị liệu [/color]
+{0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}%({1:N2}%)\nĐau đớn:{2}
+{0:N0}℃至{1:N0}℃	{0:N0}℃ đến{1:N0}℃
+{0:N1}米	{0:N1}mét
+{0}是{1}	{0}Phải{1}
+\n剩余:{0}	\ncòn:{0}
 法宝战斗强度:	Cường độ chiến đấu của pháp bảo:
 法宝灵气容量:	Dung lượng linh khí của pháp bảo:
 法宝回灵速度:	Tốc độ hồi linh của pháp bảo:
@@ -2087,128 +2087,128 @@ Key	Value
 术法冷却缩短:	Giảm thời gian hồi thuật pháp:
 术法消耗加成:	Giá tăng % linh khí tối đa:
 护盾强度:	Cường độ hộ thuẫn:
-{0:F1}/秒	{0:F1}/ giây
-{0:F1}秒	{0:F1} giây
-{0:F0}米/秒	{0:F0} mét / giây
-{0:F0}度/秒	{0:F0} Độ / giây
-{0:N2}点/灵气	{0:N2} điểm / Linh khí
-{0}代弟子	{0} Đại đệ tử
+{0:F1}/秒	{0:F1}/s
+{0:F1}秒	{0:F1}giây
+{0:F0}米/秒	{0:F0}m/s
+{0:F0}度/秒	{0:F0}Độ/s
+{0:N2}点/灵气	{0:N2}điểm/Linh khí
+{0}代弟子	{0}Đại đệ tử
 飞升滞留次数	Số lần phi thăng
-滞留{0}次	Ngưng lại {0} Lần
+滞留{0}次	Ngưng lại{0}Lần
 师父:	Sư phụ:
-金丹灵气：{0:N0}\n根本灵气：{1:F0}\n炼精化气：{2:F0}\n上品金丹(1-3)：丹成上品，此世有成仙之契机。\n中品金丹(4-6):丹成中品，修成元婴已是极限，若想飞升，倍加艰难。\n下品金丹(7-9):丹成下品，想修成元婴也将阻难重重。	Linh khí Kim Đan: {0:N0}\n Linh khí cơ bản: {1:F0}\n luyện tinh hóa khí: {2:F0}\n Thượng phẩm Kim Đan (1-3): Đan thành thượng phẩm, đời này có cơ hội thành tiên. \n Trung phẩm Kim Đan (4-6): Đan thành trung phẩm, tu thành Nguyên Anh đã là cực hạn, nếu muốn phi thăng, gian nan gấp đôi. \n Hạ phẩm Kim Đan (7-9): Đan thành hạ phẩm, muốn tu thành Nguyên Anh cũng khó khăn nặng nề.
-鼎炉\n鼎炉之限：{0:F0}\n炼精化气：{1:F0}/{0:F0}\n阶段：{2}\n{3}\n\n[color=#D06508]炼精化气：修炼时消耗精元并提高灵气最大值。\n鼎炉之限：肉身所能承担炼精化气的最大数值，由先天潜力决定。[/color]	Đỉnh lô \n đỉnh lô thời hạn: {0:F0}\n luyện tinh hóa khí: {1:F0}/{0:F0}\n giai đoạn: {2}\n{3}\n\n[color=#D06508] luyện tinh hóa khí: Lúc tu luyện Tiêu hao tinh nguyên cũng Đề cao tối đa linh khí. \n đỉnh lô thời hạn: Nhục thân có khả năng gánh chịu luyện tinh hóa khí lớn nhất trị số, từ Tiên Thiên Tiềm lực quyết định. [/color]
-等待师父{1}完成{0}。	Chờ đợi sư phụ {1} hoàn thành {0}.
+金丹灵气：{0:N0}\n根本灵气：{1:F0}\n炼精化气：{2:F0}\n上品金丹(1-3)：丹成上品，此世有成仙之契机。\n中品金丹(4-6):丹成中品，修成元婴已是极限，若想飞升，倍加艰难。\n下品金丹(7-9):丹成下品，想修成元婴也将阻难重重。	Linh khí Kim Đan:{0:N0}\nLinh khí cơ bản:{1:F0}\nluyện tinh hóa khí:{2:F0}\nThượng phẩm Kim Đan (1-3): Đan thành thượng phẩm, đời này có cơ hội thành tiên.\nTrung phẩm Kim Đan (4-6): Đan thành trung phẩm, tu thành Nguyên Anh đã là cực hạn, nếu muốn phi thăng, gian nan gấp đôi.\nHạ phẩm Kim Đan (7-9): Đan thành hạ phẩm, muốn tu thành Nguyên Anh cũng khó khăn nặng nề.
+鼎炉\n鼎炉之限：{0:F0}\n炼精化气：{1:F0}/{0:F0}\n阶段：{2}\n{3}\n\n[color=#D06508]炼精化气：修炼时消耗精元并提高灵气最大值。\n鼎炉之限：肉身所能承担炼精化气的最大数值，由先天潜力决定。[/color]	Đỉnh lô\nđỉnh lô thời hạn:{0:F0}\nluyện tinh hóa khí:{1:F0}/{0:F0}\ngiai đoạn:{2}\n{3}\n\n[color=#D06508]luyện tinh hóa khí: Lúc tu luyện Tiêu hao tinh nguyên cũng Đề cao tối đa linh khí.\nđỉnh lô thời hạn: Nhục thân có khả năng gánh chịu luyện tinh hóa khí lớn nhất trị số, từ Tiên Thiên Tiềm lực quyết định. [/color]
+等待师父{1}完成{0}。	Chờ đợi sư phụ{1}hoàn thành{0}.
 正在感悟天地	Đang cảm ngộ thiên địa
-{1}({0})\n{2:F0}岁\n寿元:{3}	{1}({0})\n{2:F0} tuổi \n Thọ:{3}
+{1}({0})\n{2:F0}岁\n寿元:{3}	{1}({0})\n{2:F0}tuổi\nThọ:{3}
 轮回者不能改变经历。	Không thể thay đổi kinh lịch luân hồi giả.
-\n剩余:{0}	\n còn:{0}
+\n剩余:{0}	\ncòn:{0}
 木头	Gỗ
 皮毛布料	Vải da
 修行相关	Tu hành tương quan
 弟子会自己安排修炼时间和行为	Đệ tử sẽ tự mình an bài thời gian và tiến hành tu luyện
-[境界]持续修行功法直到功法达到瓶颈	[ Cảnh giới ] Liên tục tu hành công pháp cho đến khi công pháp đạt được bình cảnh
-[心境]持续调整心境直到心境无暇	[ Tâm cảnh ] Liên tục điều chỉnh tâm cảnh cho đến tâm cảnh vô hạ
-[练功]自主进行练习，获取较多参悟经验。	[ luyện công ] Tự tiến hành luyện tập, thu hoạch khá nhiều điểm lĩnh hội.
+[境界]持续修行功法直到功法达到瓶颈	[Cảnh giới]Liên tục tu hành công pháp cho đến khi công pháp đạt được bình cảnh
+[心境]持续调整心境直到心境无暇	[Tâm cảnh]Liên tục điều chỉnh tâm cảnh cho đến tâm cảnh vô hạ
+[练功]自主进行练习，获取较多参悟经验。	[luyện công]Tự tiến hành luyện tập, thu hoạch khá nhiều điểm lĩnh hội.
 修改名称	Sửa tên
 一个区域	Một khu vực
 指定交互角色	Chỉ định nhân vật tương tác
 取消	Hủy bỏ
-\n[color=#0000FF]所属工作:{0}[/color]	\n[color=#0000FF] Công việc tương ứng:{0}[/color]
-\n-\n[color=#009900][按住Shift可指定多个目标][/color]	\n-\n[color=#009900][ Ấn Shift có thể chỉ định nhiều mục tiêu ][/color]
-\n灵气：{0:N0}({1:N0})	\n Linh khí: {0:N0}({1:N0})
-\n寿元：{0:N0}({1:N0})	\n Thọ: {0:N0}({1:N0})
-\n修为：{0:N0}({1:N0})	\n Tu vi: {0:N0}({1:N0})
+\n[color=#0000FF]所属工作:{0}[/color]	\n[color=#0000FF]Công việc tương ứng:{0}[/color]
+\n-\n[color=#009900][按住Shift可指定多个目标][/color]	\n-\n[color=#009900][Ấn Shift có thể chỉ định nhiều mục tiêu][/color]
+\n灵气：{0:N0}({1:N0})	\nLinh khí:{0:N0}({1:N0})
+\n寿元：{0:N0}({1:N0})	\nThọ:{0:N0}({1:N0})
+\n修为：{0:N0}({1:N0})	\nTu vi:{0:N0}({1:N0})
 弱	Nhược
 强	Cường
-[align=center]风水详情[/align]	[align=center] Cụ thể phong thủy [/align]
-\n[color=#{1}]{0}房间布局(拥挤程度)[/color]	\n[color=#{1}]{0} Cố cục gian phòng (Mức độ chen chúc)[/color]
-\n[color=#FF0000]---风水外泄[/color]	\n[color=#FF0000]--- Rò rỉ phong thủy [/color]
-\n特殊:\n[color=#FF0000]{0}神秘洞穴[/color]	\n Đặc thù:\n[color=#FF0000]{0} Huyệt động thần bí  [/color]
-\n镇物:	\n Trấn vật :
-\n无	\n Không
+[align=center]风水详情[/align]	[align=center]Cụ thể phong thủy [/align]
+\n[color=#{1}]{0}房间布局(拥挤程度)[/color]	\n[color=#{1}]{0}Cố cục gian phòng (Mức độ chen chúc)[/color]
+\n[color=#FF0000]---风水外泄[/color]	\n[color=#FF0000]--- Rò rỉ phong thủy[/color]
+\n特殊:\n[color=#FF0000]{0}神秘洞穴[/color]	\nĐặc thù:\n[color=#FF0000]{0}Huyệt động thần bí[/color]
+\n镇物:	\nTrấn vật :
+\n无	\nKhông
 契合	Phù hợp
 不合	Không hợp
-  ({0}格[{1}])	 ({0} ô [{1}])
+  ({0}格[{1}])	 ({0}ô [{1}])
 拥有者:{0}	Có người:{0}
-房间温度\n室内的当前温度	Nhiệt độ gian phòng \n Nhiệt độ hiện ở trong gian phòng
-房间布局\n房间内家具摆放拥挤或空旷程度。	Cố cục gian phòng \n Mức độ trống trải hoặc chật chội của vật dụng trong gian phòng.
-房间影响\n房屋内家具设施的品阶高低。	Ảnh hưởng gian phòng \n Phẩm giai cao thấp của vật dụng trong phòng.
-房间美观\n房间内的美观程度。	Mỹ quan gian phòng \n Mức độ mỹ quan trong gian phòng.
-储存区 ({0}格)	Khu dự trữ ({0} ô)
-{0} ({1}格)	{0} ({1} ô)
-种植区 ({0}格)	Khu trồng cây ({0} ô)
-兽圈 ({0}格)	Chuồng thú ({0} ô)
+房间温度\n室内的当前温度	Nhiệt độ gian phòng\nNhiệt độ hiện ở trong gian phòng
+房间布局\n房间内家具摆放拥挤或空旷程度。	Cố cục gian phòng\nMức độ trống trải hoặc chật chội của vật dụng trong gian phòng.
+房间影响\n房屋内家具设施的品阶高低。	Ảnh hưởng gian phòng\nPhẩm giai cao thấp của vật dụng trong phòng.
+房间美观\n房间内的美观程度。	Mỹ quan gian phòng\nMức độ mỹ quan trong gian phòng.
+储存区 ({0}格)	Khu dự trữ ({0}ô)
+{0}({1}格)	{0}({1}ô)
+种植区 ({0}格)	Khu trồng cây ({0}ô)
+兽圈 ({0}格)	Chuồng thú ({0}ô)
 尸体	Thi thể
-{0}品金丹	{0} phẩm Kim Đan
+{0}品金丹	{0}phẩm Kim Đan
 劫云灵气	Linh khí của kiếp vân
-{0}\n选择一个目标，对其发起攻击。(快捷键：[keycode]Attack[/keycode])\n[color=#D06508]右击可改变模式[/color]	{0}\n Lựa chọn một mục tiêu, bắt đầu công kích. (Phím nhanh: [keycode]Attack[/keycode])\n[color=#D06508] Ấn chuột phải có thể thay đổi chế độ [/color]
-[击败模式]	[ Chế độ đánh bại ]
-[color=#FF0000][击杀模式][/color]	[color=#FF0000][ Chế độ kích sát ][/color]
-{0}\n防御及保护，开启后会自动反击发起攻击的敌人\n[color=#D06508]点击可改变模式[/color]	{0}\n Phòng ngự và bảo vệ, sau khi bật sẽ tự động đánh trả kẻ địch tấn công \n[color=#D06508] Ấn vào có thể thay đổi chế độ [/color]
-[关闭]	[ Đóng ]
-[color=#009900][打开][/color]	[color=#009900][ Mở ra ][/color]
+{0}\n选择一个目标，对其发起攻击。(快捷键：[keycode]Attack[/keycode])\n[color=#D06508]右击可改变模式[/color]	{0}\nLựa chọn một mục tiêu, bắt đầu công kích. (Phím nhanh: [keycode]Attack[/keycode])\n[color=#D06508]Ấn chuột phải có thể thay đổi chế độ [/color]
+[击败模式]	[Chế độ đánh bại]
+[color=#FF0000][击杀模式][/color]	[color=#FF0000][Chế độ kích sát][/color]
+{0}\n防御及保护，开启后会自动反击发起攻击的敌人\n[color=#D06508]点击可改变模式[/color]	{0}\nPhòng ngự và bảo vệ, sau khi bật sẽ tự động đánh trả kẻ địch tấn công\n[color=#D06508]Ấn vào có thể thay đổi chế độ [/color]
+[关闭]	[Đóng]
+[color=#009900][打开][/color]	[color=#009900][Mở ra][/color]
 仅外门	Chỉ ngoại môn
 仅内门	Chỉ nội môn
 外门及内门	Ngoại môn cùng nội môn
-[{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\n Tự động công kích mục tiêu \n[color=#D06508] Ấn vào có thể thay đổi chế độ [/color]
+[{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nTự động công kích mục tiêu\n[color=#D06508]Ấn vào có thể thay đổi chế độ [/color]
 道行:{0}\n{1}	Đạo hạnh:{0}\n{1}
-心境:{0:N0} ({1})\n心境会大幅度影响修炼相关行为的效率和成功率。	Tâm cảnh:{0:N0} ({1})\n Tâm cảnh Hội trên phạm vi lớn ảnh hưởng Tu luyện tương quan Hành vi hiệu suất cùng Xác suất thành công.
-+{0:N2}/秒	+{0:N2}/ giây
-灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会从环境中吸取灵气	Linh khí:{0:N0}/{1:N0}\n Linh khí là tài nguyên thi triển cơ bản của nội môn. \n Nhân vật sẽ hấp thụ linh khí từ môi trường
-筑基值:{0:F0}/{1:F0} ({2:F0}%)	Chỉ số trúc cơ:{0:F0}/{1:F0} ({2:F0}%)
+心境:{0:N0}({1})\n心境会大幅度影响修炼相关行为的效率和成功率。	Tâm cảnh:{0:N0}({1})\nTâm cảnh Hội trên phạm vi lớn ảnh hưởng Tu luyện tương quan Hành vi hiệu suất cùng Xác suất thành công.
++{0:N2}/秒	+{0:N2}/giây
+灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会从环境中吸取灵气	Linh khí:{0:N0}/{1:N0}\nLinh khí là tài nguyên thi triển cơ bản của nội môn.\nNhân vật sẽ hấp thụ linh khí từ môi trường
+筑基值:{0:F0}/{1:F0}({2:F0}%)	Chỉ số trúc cơ:{0:F0}/{1:F0}({2:F0}%)
 饮水	Uống nước
 精力	Tinh lực
 精元	Tinh nguyên
-\n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00] Cân bằng tiêu hao:{0:N0}\n(Đệ tử nội môn nuốt Thiên Địa Linh khí bổ sung Đồ ăn tốc độ cùng tự thân Tiêu hao Đồ ăn tốc độ ở chỗ này đạt tới cân bằng)[/color]
-情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Cảm xúc:{0:N0}\n Đệ tử ngoại môn cảm xúc thấp hơn 30 sẽ sinh ra biếng nhác. \n Đệ tử nội môn Cảm xúc quá kém thì Hội ảnh hưởng đến biến hóa của tâm cảnh thậm chí phát sinh Nhập ma
-归属感：{0:0}	Lòng trung thành : {0:0}
-{0}\n已失去	{0}\n Đã mất
-{2}\n灵气:{0:N0}/{1:N0}	{2}\n Linh khí:{0:N0}/{1:N0}
-{0}的尸体	{0} thi thể
+\n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Cân bằng tiêu hao:{0:N0}\n(Đệ tử nội môn nuốt Thiên Địa Linh khí bổ sung Đồ ăn tốc độ cùng tự thân Tiêu hao Đồ ăn tốc độ ở chỗ này đạt tới cân bằng)[/color]
+情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Cảm xúc:{0:N0}\nĐệ tử ngoại môn cảm xúc thấp hơn 30 sẽ sinh ra biếng nhác.\nĐệ tử nội môn Cảm xúc quá kém thì Hội ảnh hưởng đến biến hóa của tâm cảnh thậm chí phát sinh Nhập ma
+归属感：{0:0}	Lòng trung thành :{0:0}
+{0}\n已失去	{0}\nĐã mất
+{2}\n灵气:{0:N0}/{1:N0}	{2}\nLinh khí:{0:N0}/{1:N0}
+{0}的尸体	{0}thi thể
 等待物品:\n	Đợi vật phẩm:\n
 搬运中	Đang vận chuyển
-{0} 搬运中\n	{0} Đang vận chuyển \n
-[color=#FF0000]工作位被阻挡[/color]\n	[color=#FF0000] Vị trí làm việc bị cản trở [/color]\n
+{0}搬运中\n	{0}Đang vận chuyển\n
+[color=#FF0000]工作位被阻挡[/color]\n	[color=#FF0000]Vị trí làm việc bị cản trở [/color]\n
 无合适材料	Vật liệu không thích hợp
-法宝:{0}件	Pháp bảo:{0} Kiện
+法宝:{0}件	Pháp bảo:{0}Kiện
 (休眠)	(hôn mê)
 {1}{0:N2}/天	{1}{0:N2}/ngày
-{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	{9}: {10:N2}%\n Chiều hướng linh sát : {8}{0:N2}/ngày \n Gia tăng nuôi dưỡng : {1}\n Thêm vào thời tiết: {2}\n Gia tăng mùa màng : {3}\n Gia tăng ngũ hành : {4}\n Gia tăng giao cảm : {5}\n\n Trạng thái trước mắt : {6}\n {7}\n
-此间房屋中，[color=#ff0000]床铺风水[/color]出了问题。房屋主人终日被噩梦缠身，请尝试调整床铺风水，使之化凶为吉。	Trong gian phòng này, [color=#ff0000] phong thủy của giường [/color] xảy ra vấn đề. Chủ căn phòng suốt ngày bị ác mộng quấy nhiễu, xin hãy thử điều chỉnh phong thủy của chiếc giường, biến hung thành cát.
-所谓风水，指的是目标建筑五行属性，与所在位置五行分布的融洽关系。\n例如：[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。\n在屏幕左上角可以随时查看五行生克关系。	Cái gọi là phong thủy, chính là thuộc tính ngũ hành của kiến trúc, hòa hợp với phân bố ngũ hành của vị trí đó hay không. \n Ví dụ: [color=#ff0000] Hỏa thuộc tính [/color] Của kiến trúc nằm tại [color=#ff0000] Thủy thuộc tính [/color] Hoàn cảnh, liền sẽ bởi vì [color=#ff0000] Thủy khắc hỏa [/color] Nguyên nhân mà phong thủy không tốt. \n[color=#ff0000] Hỏa thuộc tính [/color] Của kiến trúc nằm tại [color=#ff0000] Mộc thuộc tính [/color] Hoàn cảnh, bởi vì [color=#ff0000] Mộc sinh hỏa [/color] Nguyên nhân, phong thủy liền sẽ rất tốt. \n Ở góc bên trái phía trên màn hình có thể tra quan hệ tương sinh tương khắc của ngũ hành.
+{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	{9}:{10:N2}%\nChiều hướng linh sát :{8}{0:N2}/ngày\nGia tăng nuôi dưỡng :{1}\nThêm vào thời tiết:{2}\nGia tăng mùa màng :{3}\nGia tăng ngũ hành :{4}\nGia tăng giao cảm :{5}\n\nTrạng thái trước mắt :{6}\n{7}\n
+此间房屋中，[color=#ff0000]床铺风水[/color]出了问题。房屋主人终日被噩梦缠身，请尝试调整床铺风水，使之化凶为吉。	Trong gian phòng này, [color=#ff0000]phong thủy của giường [/color]xảy ra vấn đề. Chủ căn phòng suốt ngày bị ác mộng quấy nhiễu, xin hãy thử điều chỉnh phong thủy của chiếc giường, biến hung thành cát.
+所谓风水，指的是目标建筑五行属性，与所在位置五行分布的融洽关系。\n例如：[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。\n在屏幕左上角可以随时查看五行生克关系。	Cái gọi là phong thủy, chính là thuộc tính ngũ hành của kiến trúc, hòa hợp với phân bố ngũ hành của vị trí đó hay không.\nVí dụ: [color=#ff0000]Hỏa thuộc tính [/color]Của kiến trúc nằm tại [color=#ff0000]Thủy thuộc tính [/color]Hoàn cảnh, liền sẽ bởi vì [color=#ff0000]Thủy khắc hỏa [/color]Nguyên nhân mà phong thủy không tốt.\n[color=#ff0000]Hỏa thuộc tính [/color]Của kiến trúc nằm tại [color=#ff0000]Mộc thuộc tính [/color]Hoàn cảnh, bởi vì [color=#ff0000]Mộc sinh hỏa [/color]Nguyên nhân, phong thủy liền sẽ rất tốt.\nỞ góc bên trái phía trên màn hình có thể tra quan hệ tương sinh tương khắc của ngũ hành.
 你可以通过屏幕左上角的太极图来进入风水视图，在风水试图下，屏幕中央的五边形即为鼠标所在位置的五行分布。	Ngươi Có thể dùng Màn hình góc trái trên cùng thái cực đồ đến tiến vào Phong thủy đồ thị hình chiếu, ở trong bản đồ xem thử rồi, trong màn hình hình ngũ giác tức là con chuột vị trí chỗ ở Phân bố ngũ hành.
-[color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	[color=#ff0000] Công trình mang tính trang trí [/color]/[color=#ff0000] Sàn nhà [/color]/[color=#ff0000] Bức tường [/color] căn cứ Tài liệu chính khác biệt có thể cải biến phụ cận Phân bố ngũ hành, Xin hãy thử sử dụng vật liệu thích hợp để thay đổi công trình gần chiếc giường, khiến phong thủy hóa hung thành cát.
-一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Một tòa đại trạch trong thâm sơn vì phong thủy không tốt mà thường xuyên xảy ra chuyện kỳ lạ, xin hãy thử cải thiện phong thủy của bốn gian phòng trong đại trạch, biến hung thành cát. \n Có thể nhấp vào khoảng trống trong phòng để lựa chọn gian phòng.
-房间风水与房内风水建筑的风水有关，此外还因使房间[color=#ff0000]布局[/color]处于恰当状态，无论拥挤或空旷都会影响房间风水。	Phong thủy của gian phòng có liên quan đến phong thủy của công trình bên trong gian phòng, ngoài ra còn bởi vì làm Gian phòng [color=#ff0000] bố cục [/color] Nằm ở trạng thái thích hợp, bất kể chật hẹp hay trống trải đều ảnh hưởng đến phong thủy của gian phòng.
+[color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	[color=#ff0000]Công trình mang tính trang trí [/color]/[color=#ff0000]Sàn nhà [/color]/[color=#ff0000]Bức tường [/color]căn cứ Tài liệu chính khác biệt có thể cải biến phụ cận Phân bố ngũ hành, Xin hãy thử sử dụng vật liệu thích hợp để thay đổi công trình gần chiếc giường, khiến phong thủy hóa hung thành cát.
+一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Một tòa đại trạch trong thâm sơn vì phong thủy không tốt mà thường xuyên xảy ra chuyện kỳ lạ, xin hãy thử cải thiện phong thủy của bốn gian phòng trong đại trạch, biến hung thành cát.\nCó thể nhấp vào khoảng trống trong phòng để lựa chọn gian phòng.
+房间风水与房内风水建筑的风水有关，此外还因使房间[color=#ff0000]布局[/color]处于恰当状态，无论拥挤或空旷都会影响房间风水。	Phong thủy của gian phòng có liên quan đến phong thủy của công trình bên trong gian phòng, ngoài ra còn bởi vì làm Gian phòng [color=#ff0000]bố cục [/color]Nằm ở trạng thái thích hợp, bất kể chật hẹp hay trống trải đều ảnh hưởng đến phong thủy của gian phòng.
 恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Chúc mừng ngươi hoàn thành khiêu chiến! Ngài có thể trở lại Menu chính Lựa chọn Cái khác Nội dung hoặc là Tiếp tục trò chơi.
-由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	Từ {0} Một tay thành lập môn phái tu hành , tự thành lập cho đến nay , xuất hiện như một lực lượng mới , mấy năm ngắn ngủi liền trở thành bậc thầy khí tượng , chiếm một góc nhỏ tại tu hành giới , lưu lại uy danh hiển hách.
-江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	Danh môn giang hồ  {0} Nằm ở, vốn chỉ là một ngọn núi hoang không ai hỏi han , nhưng có cái gọi là sơn bất tại cao , có tiên tất linh . Nơi đây trải qua  {0} vài đại đệ tử phát triển mấy trăm năm , sớm đã trở thành tiên gia động thiên.
-抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Xin lỗi, bởi vì một loại nào đó dị thường nguyên nhân Hệ thống quên đi ngài Lão môn phái  Danh tự, cần bạn cho chúng tôi biết một lần nữa . Cám ơn .
+由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	Từ{0}Một tay thành lập môn phái tu hành , tự thành lập cho đến nay , xuất hiện như một lực lượng mới , mấy năm ngắn ngủi liền trở thành bậc thầy khí tượng , chiếm một góc nhỏ tại tu hành giới , lưu lại uy danh hiển hách.
+江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	Danh môn giang hồ{0}Nằm ở, vốn chỉ là một ngọn núi hoang không ai hỏi han , nhưng có cái gọi là sơn bất tại cao , có tiên tất linh. Nơi đây trải qua{0}vài đại đệ tử phát triển mấy trăm năm , sớm đã trở thành tiên gia động thiên.
+抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Xin lỗi, bởi vì một loại nào đó dị thường nguyên nhân Hệ thống quên đi ngài Lão môn phái  Danh tự, cần bạn cho chúng tôi biết một lần nữa. Cám ơn.
 老门派	Lão môn phái
 神秘大能	Đại năng thần bí
 输入老门派的名字	Nhập tên môn phái cũ
 太虚傀儡	Thái hư khôi lỗi
-{0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	{0} pháp bảo trấn phái , chính là pháp khí bên người một cao nhân trước đây. Nhưng từ trăm năm trước đã bị phong ấn , không áiwr dụng được nữa , dường như là đang chờ đợi gì đó .
-太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Thái hư huyễn cảnh \n Giả làm thật thì thật cũng giả, không làm có thì có cũng hoàn không. \n Thái thượng có câu hư làm thực, tâm trung vô nghi huyễn thành chân.
-在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n  你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	Đang trên đường lẩn trốn , các ngươi bất hạnh bị kẻ địch truy sát đến , sống chết trước mắt , một vị tiên nhanh Thanh Sơn Cao Quan giáng xuống từ trên trời , phi kiếm như điện , nháy mắt giết chết truy binh . \n Các ngươi vừa định bái tạ ân cứu mạng , vị tiên nhân kia liền phất tay ngăn cản các ngươi , sau đó nói liền ba câu chân tướng , liền để lại một phong tiên thư , hóa quang mà đi ...
+{0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	{0}pháp bảo trấn phái , chính là pháp khí bên người một cao nhân trước đây. Nhưng từ trăm năm trước đã bị phong ấn , không áiwr dụng được nữa , dường như là đang chờ đợi gì đó.
+太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Thái hư huyễn cảnh\nGiả làm thật thì thật cũng giả, không làm có thì có cũng hoàn không.\nThái thượng có câu hư làm thực, tâm trung vô nghi huyễn thành chân.
+在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	Đang trên đường lẩn trốn , các ngươi bất hạnh bị kẻ địch truy sát đến , sống chết trước mắt , một vị tiên nhanh Thanh Sơn Cao Quan giáng xuống từ trên trời , phi kiếm như điện , nháy mắt giết chết truy binh.\nCác ngươi vừa định bái tạ ân cứu mạng , vị tiên nhân kia liền phất tay ngăn cản các ngươi , sau đó nói liền ba câu chân tướng , liền để lại một phong tiên thư , hóa quang mà đi...
 数日逃亡之后……	Mấy ngày sau khi đào vong...
 春去冬来，草长莺飞。数年后……	Xuân đi đông đến, cỏ mọc Oanh bay. Mấy năm sau...
 观察四周	Quan sát bốn phía
-{0}:{1} 需求:{2}\n	{0}:{1} Nhu cầu:{2}\n
-\n分类需求:	\n Nhu cầu phân loại:
+{0}:{1}需求:{2}\n	{0}:{1}Nhu cầu:{2}\n
+\n分类需求:	\nNhu cầu phân loại:
 世界运转	Vận chuyển thế giới
 周天神算	Chu Thiên Thần Toán
-{0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0} có khả năng sẽ xảy ra sự kiện:\n[color=#D06508]{1}[/color]
+{0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0}có khả năng sẽ xảy ra sự kiện:\n[color=#D06508]{1}[/color]
 信鸽信息	Bồ câu đưa thư
 历练故事	Câu chuyện lịch luyện
 此地	Nơi này
-开始测试 {0}！	Bắt đầu thí nghiệm {0}!
-{0} 选项{1}显示条件报错！\n	{0} Chọn mục {1} Hiển thị báo sai điều kiện! \n
-{0}测试通过！	{0} Vượt qua khảo thí!
+开始测试{0}！	Bắt đầu thí nghiệm{0}!
+{0}选项{1}显示条件报错！\n	{0}Chọn mục{1}Hiển thị báo sai điều kiện!\n
+{0}测试通过！	{0}Vượt qua khảo thí!
 成功条件	Điều kiện thành công
 成功结果	Kết quả thành công
 失败结果	Kết quả thất bại
-{0}执行 选项{1} 的 {2} 结果时报错\n	{0} Tuyển chọn thực hiện {1}  {2} Sai kết quả \n
+{0}执行 选项{1}的{2}结果时报错\n	{0}đang thực hiện một lỗi trong kết quả{2}của tùy chọn{1}\n
 天下数据	Dữ liệu thiên hạ
-一个新的地点被发现：{0}	Một địa điểm mới được phát hiện: {0}
+一个新的地点被发现：{0}	Một địa điểm mới được phát hiện:{0}
