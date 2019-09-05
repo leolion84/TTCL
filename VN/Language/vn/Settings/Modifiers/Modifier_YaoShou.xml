@@ -1,8 +1,8 @@
-<Texts Type="Other">
-  <List>
-    <Text Name="MakeMapYaoShou">
-      <DisplayName>初始驻扎妖兽</DisplayName>
-      <Desc>初始驻扎妖兽-进攻用</Desc>
-    </Text>
-  </List>
+﻿<Texts Type="Other">
+<List>
+<Text Name="MakeMapYaoShou">
+<DisplayName>Yêu thú mới bắt đầu đóng quân</DisplayName>
+<Desc>Yêu thú mới bắt đầu đóng quân- Tấn công dùng</Desc>
+</Text>
+</List>
 </Texts>

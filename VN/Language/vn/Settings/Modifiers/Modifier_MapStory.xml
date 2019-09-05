@@ -1,44 +1,44 @@
-<Texts Type="Other">
-  <List>
-    <Text Name="Story_PracticeSpeed1">
-      <DisplayName>提高5%的修炼速度。</DisplayName>
-      <Desc>提高5%的修炼速度。</Desc>
-    </Text>
-    <Text Name="Story_LingMax1">
-      <DisplayName>从根本上提高2%灵气最大值。</DisplayName>
-      <Desc>从根本上提高2%灵气最大值。</Desc>
-    </Text>
-    <Text Name="Story_FabaoPower1">
-      <DisplayName>从根本上提高5%的法宝威力。</DisplayName>
-      <Desc>从根本上提高5%的法宝威力。</Desc>
-    </Text>
-    <Text Name="Story_LingAbsorbSpeed1">
-      <DisplayName>从根本上提高10%的灵气吸收速度。</DisplayName>
-      <Desc>从根本上提高10%的灵气吸收速度。</Desc>
-    </Text>
-    <Text Name="Story_WorldMapFlySpeedAddP1">
-      <DisplayName>提高50%的御剑飞行速度。</DisplayName>
-      <Desc>提高50%的御剑飞行速度。</Desc>
-    </Text>
-    <Text Name="Story_ShieldConversionRate1">
-      <DisplayName>提高10%的灵气护盾效率。</DisplayName>
-      <Desc>提高10%的灵气护盾效率。</Desc>
-    </Text>
-    <Text Name="Story_DragonBlood">
-      <DisplayName>龙之血脉</DisplayName>
-      <Desc>龙之血脉觉醒：根骨提高2点;神识提高2点;从根本上提高25%的灵气最大值。</Desc>
-    </Text>
-    <Text Name="Modifier_Story_BossLong_Wish1">
-      <DisplayName>馈赠</DisplayName>
-    </Text>
-    <Text Name="Modifier_Story_BossLong_Wish2">
-      <DisplayName>馈赠</DisplayName>
-    </Text>
-    <Text Name="Modifier_Story_BossLong_Wish3">
-      <DisplayName>馈赠</DisplayName>
-    </Text>
-    <Text Name="Modifier_Story_BossLong_Wish4">
-      <DisplayName>馈赠</DisplayName>
-    </Text>
-  </List>
+﻿<Texts Type="Other">
+<List>
+<Text Name="Story_PracticeSpeed1">
+<DisplayName>đề cao 5% Tốc độ tu luyện.</DisplayName>
+<Desc>đề cao 5% Tốc độ tu luyện.</Desc>
+</Text>
+<Text Name="Story_LingMax1">
+<DisplayName>Đề cao từ cơ bản 2% Linh khí tối đa.</DisplayName>
+<Desc>Đề cao từ cơ bản 2% Linh khí tối đa.</Desc>
+</Text>
+<Text Name="Story_FabaoPower1">
+<DisplayName>Đề cao từ cơ bản 5% Uy lực của pháp bảo.</DisplayName>
+<Desc>Đề cao từ cơ bản 5% Uy lực của pháp bảo.</Desc>
+</Text>
+<Text Name="Story_LingAbsorbSpeed1">
+<DisplayName>Đề cao từ cơ bản 10% tốc độ hấp thu linh khí .</DisplayName>
+<Desc>Đề cao từ cơ bản 10% tốc độ hấp thu linh khí .</Desc>
+</Text>
+<Text Name="Story_WorldMapFlySpeedAddP1">
+<DisplayName>đề cao 50% ngự kiếm Tốc độ phi hành.</DisplayName>
+<Desc>đề cao 50% ngự kiếm Tốc độ phi hành.</Desc>
+</Text>
+<Text Name="Story_ShieldConversionRate1">
+<DisplayName>đề cao 10% Linh Khí Hộ Thuẫn hiệu suất.</DisplayName>
+<Desc>đề cao 10% Linh Khí Hộ Thuẫn hiệu suất.</Desc>
+</Text>
+<Text Name="Story_DragonBlood">
+<DisplayName>Long Chi Huyết Mạch</DisplayName>
+<Desc>Huyết mạch của rồng thức tỉnh: Đề cao căn cốt 2 điểm; Đề cao thần thức 2 điểm; Đề cao từ cơ bản 25% linh khí tối đa.</Desc>
+</Text>
+<Text Name="Modifier_Story_BossLong_Wish1">
+<DisplayName>Biếu tặng</DisplayName>
+</Text>
+<Text Name="Modifier_Story_BossLong_Wish2">
+<DisplayName>Biếu tặng</DisplayName>
+</Text>
+<Text Name="Modifier_Story_BossLong_Wish3">
+<DisplayName>Biếu tặng</DisplayName>
+</Text>
+<Text Name="Modifier_Story_BossLong_Wish4">
+<DisplayName>Biếu tặng</DisplayName>
+</Text>
+</List>
 </Texts>

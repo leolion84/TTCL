@@ -1,33 +1,33 @@
 ﻿<Texts Type="Story">
 <List>
-	<Text Name="BuildMode_ChangeTime">
-		<DisplayName>Thái hư huyễn cảnh</DisplayName>
-		<Desc>Muốn điều chỉnh thời gian đến khi nào.</Desc>
-		<Selections.0.Display>Sáng sớm</Selections.0.Display>
-		<Selections.1.Display>Giữa trưa</Selections.1.Display>
-		<Selections.2.Display>Hoàng hôn</Selections.2.Display>
-		<Selections.3.Display>Đêm khuya</Selections.3.Display>
-		<Selections.4.Display>Quên đi</Selections.4.Display>
-	</Text>
-	<Text Name="BuildMode_ChangeSeason">
-		<DisplayName>Thái hư huyễn cảnh</DisplayName>
-		<Desc>Muốn điều chỉnh mùa đến mùa nào.</Desc>
-		<Selections.0.Display>Xuân</Selections.0.Display>
-		<Selections.1.Display>Hạ</Selections.1.Display>
-		<Selections.2.Display>Thu</Selections.2.Display>
-		<Selections.3.Display>Đông</Selections.3.Display>
-		<Selections.4.Display>Quên đi</Selections.4.Display>
-	</Text>
-	<Text Name="BuildMode_ChangeWeather">
-		<DisplayName>Thái hư huyễn cảnh</DisplayName>
-		<Desc>Muốn thay đổi khí trời thành gì.</Desc>
-		<Selections.0.Display>Mưa nhỏ/Tuyết</Selections.0.Display>
-		<Selections.1.Display>Mưa to/Tuyết</Selections.1.Display>
-		<Selections.2.Display>Gió cát</Selections.2.Display>
-		<Selections.3.Display>Vĩnh Dạ</Selections.3.Display>
-		<Selections.4.Display>Sấm chớp</Selections.4.Display>
-		<Selections.5.Display>Xóa sạch toàn bộ khí trời</Selections.5.Display>
-		<Selections.6.Display>Quên đi</Selections.6.Display>
-	</Text>
+<Text Name="BuildMode_ChangeTime">
+<DisplayName>Thái hư huyễn cảnh</DisplayName>
+<Desc>Muốn điều chỉnh thời gian đến khi nào.</Desc>
+<Selections.0.Display>Sáng sớm</Selections.0.Display>
+<Selections.1.Display>Giữa trưa</Selections.1.Display>
+<Selections.2.Display>Hoàng hôn</Selections.2.Display>
+<Selections.3.Display>Đêm khuya</Selections.3.Display>
+<Selections.4.Display>Quên đi</Selections.4.Display>
+</Text>
+<Text Name="BuildMode_ChangeSeason">
+<DisplayName>Thái hư huyễn cảnh</DisplayName>
+<Desc>Muốn điều chỉnh mùa đến mùa nào.</Desc>
+<Selections.0.Display>Xuân</Selections.0.Display>
+<Selections.1.Display>Hạ</Selections.1.Display>
+<Selections.2.Display>Thu</Selections.2.Display>
+<Selections.3.Display>Đông</Selections.3.Display>
+<Selections.4.Display>Quên đi</Selections.4.Display>
+</Text>
+<Text Name="BuildMode_ChangeWeather">
+<DisplayName>Thái hư huyễn cảnh</DisplayName>
+<Desc>Muốn thay đổi khí trời thành gì.</Desc>
+<Selections.0.Display>Mưa nhỏ/Tuyết</Selections.0.Display>
+<Selections.1.Display>Mưa to/Tuyết</Selections.1.Display>
+<Selections.2.Display>Gió cát</Selections.2.Display>
+<Selections.3.Display>Vĩnh Dạ</Selections.3.Display>
+<Selections.4.Display>Sấm chớp</Selections.4.Display>
+<Selections.5.Display>Xóa sạch toàn bộ khí trời</Selections.5.Display>
+<Selections.6.Display>Quên đi</Selections.6.Display>
+</Text>
 </List>
 </Texts>
